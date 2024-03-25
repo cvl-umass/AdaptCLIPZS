@@ -1,0 +1,80 @@
+{
+"CUB": {
+    "prompt_visual": "What are the distinguishable characteristics that can be used to differentiate a <Item1> from other birds based on just a photo? Produce an exhaustive list of all attributes or habitat cues or any information that can be used to identify the bird. Texts should be of the form \"a bird with <characteristic feature>\". Ensure to structure your response as a list of single sentences.",
+    "prompt_location": "Where can we find a <Item1>? Produce a list of habitat and geographical location information that can be used to identify the bird. Each text produced should start with \"a bird\". The name of the bird should not be present in any of the texts produced. Ensure to structure your response as a list of single sentences.",
+    "system_content": "You are a helpful assistant who can identify any bird based on its photo.",
+    "system_content_location": "You are a helpful assistant who knows about the habitat of any bird."
+},
+
+"StanfordCars": {
+    "prompt_visual": "What are the distinguishable characteristics that can be used to differentiate a <Item1> from other cars based on just a photo? Produce an exhaustive list of all attributes or any information that can be used to identify the car. Texts should be of the form \"a car with <characteristic feature>\". Ensure to structure your response as a list of single sentences.",
+    "system_content": "You are a helpful assistant who can identify any car based on its photo."
+},
+
+"FGVCAircraft": {
+    "prompt_visual": "What are the distinguishable characteristics that can be used to differentiate a <Item1> from other aircraft based on just a photo? Produce an exhaustive list of all attributes or any information that can be used to identify the aircraft. Texts should be of the form \"an aircraft with <characteristic feature>\". Ensure to structure your response as a list of single sentences.",
+    "system_content": "You are a helpful assistant who can identify any aircraft based on its photo."
+},
+
+"INaturalist21": {
+    "prompt_visual": "What are the distinguishable characteristics that can be used to differentiate a <Item1>, a type of <type1> with scientific name <sn1> from other organisms based on just a photo? Produce an exhaustive list of all attributes or habitat cues or any information that can be used to identify the <type1>. Texts should be of the form \"<type1> with <characteristic feature>\". Ensure to structure your response as a list of single sentences.",
+    "prompt_location": "Where can we find a <Item1>, a type of <type1> with scientific name <sn1>? Produce a list of habitat and geographical location information that can be used to identify the <type1>. Texts should be of the form \"a <type1> which <description>\". Do not include the name of the organism in the texts. Ensure to structure your response as a list of single sentences.",
+    "system_content": "You are a helpful assistant who can identify any organism based on its photo.",
+    "system_content_location": "You are a helpful assistant who knows about the habitat of any organism."
+},
+
+"NABirds": {
+    "prompt_visual": "What are the distinguishable characteristics that can be used to differentiate a <Item1> from other birds based on just a photo? Produce an exhaustive list of all attributes or habitat cues or any information that can be used to identify the bird. Texts should be of the form \"a bird with <characteristic feature>\". Ensure to structure your response as a list of single sentences.",
+    "prompt_location": "Where can we find a <Item1>? Produce a list of habitat and geographical location information that can be used to identify the bird. Each text produced should start with \"a bird\". The name of the bird should not be present in any of the texts produced. Ensure to structure your response as a list of single sentences.",
+    "system_content": "You are a helpful assistant who can identify any bird based on its photo.",
+    "system_content_location": "You are a helpful assistant who knows about the habitat of any bird."
+},
+
+"Flowers102": {
+    "prompt_visual": "What are the distinguishable characteristics that can be used to differentiate a <Item1> from other flowers based on just a photo? Produce an exhaustive list of all attributes or habitat cues or any information that can be used to identify the flower. Texts should be of the form \"a plant which <characteristic feature>\". Ensure to structure your response as a list of single sentences.",
+    "prompt_location": "Where can we find a <Item1>? Produce a list of habitat and geographical location information that can be used to identify the flower. Each text produced should start with \"a plant\". The name of the flower should not be present in any of the texts produced. Ensure to structure your response as a list of single sentences.",
+    "system_content": "You are a helpful assistant who can identify any flower based on its photo.",
+    "system_content_location": "You are a helpful assistant who knows about the habitat of any flower."
+},
+
+"Food101": {
+    "prompt_visual": "What are the distinguishable characteristics that can be used to differentiate <Item1> from other food based on just a photo? Produce an exhaustive list of all attributes or any information that can be used to identify the food uniquely. Texts should be of the form \"a food with <characteristic feature>.\". Ensure to structure your response as a list of single sentences. Do not include the class name in the sentences.",
+    "system_content": "You are a helpful assistant who can identify any food based on its photo."
+},
+
+"ImageNet": {
+    "prompt_visual": "What are the distinguishable characteristics that can be used to identify <Item1> based on just a photo? Produce an exhaustive list of all attributes or any information that can be used to identify it uniquely. Texts should be of the form \"an object which <characteristic feature>.\". Ensure to structure your response as a list of single sentences. Do not include the class name in the sentences.",
+    "system_content": "You are a helpful assistant who can identify any object based on its photo."
+},
+
+"EuroSAT": {
+    "prompt_visual": "What are the distinguishable characteristics that can be used to identify the satellite image of a <Item1> from satellite images of other areas based on just a photo? Produce an exhaustive list of all attributes or any information that can be used to identify it uniquely. Texts should be of the form \"a satellite image which <characteristic feature>.\". Ensure to structure your response as a list of single sentences. Do not include the class name in the sentences.",
+    "system_content": "You are a helpful assistant who can identify the area depicted in any satellite image based on its photo."
+},
+
+"DTD": {
+    "prompt_visual": "What are the distinguishable characteristics that can be used to identify a <Item1> texture from other textures based on just a photo? Produce a list of all attributes that can be used to identify it uniquely. Texts should be of the form \"a texture which <characteristic feature>.\". Ensure to structure your response as a list of single sentences. Do not include the class name in the sentences.",
+    "system_content": "You are a helpful assistant who can identify any texture based on its photo."
+},
+
+"Sun397": {
+    "prompt_visual": "What are the distinguishable characteristics that can be used to identify a photo of a <Item1> from other scenes based on just a photo? Produce a list of all attributes that can be used to identify it uniquely. Texts should be of the form \"a scene which <characteristic feature>.\". Ensure to structure your response as a list of single sentences. Do not include the class name in the sentences.",
+    "system_content": "You are a helpful assistant who can identify any scene based on its photo."
+},
+
+"UCF101": {
+    "prompt_visual": "What are the distinguishable characteristics that can be used to differentiate a photo of a person doing <Item1> from other actions based on just a photo? Produce a list of all attributes that can be used to identify it uniquely. Texts should be of the form \"an action which <characteristic feature>.\". Ensure to structure your response as a list of single sentences. Do not include the class name in the sentences.",
+    "system_content": "You are a helpful assistant who can identify any action based on its photo."
+},
+
+"CalTech101": {
+    "prompt_visual": "What are the distinguishable characteristics that can be used to identify <Item1> based on just a photo? Produce an exhaustive list of all attributes or any information that can be used to identify it uniquely. Texts should be of the form \"an object which <characteristic feature>.\". Ensure to structure your response as a list of single sentences. Do not include the class name in the sentences.",
+    "system_content": "You are a helpful assistant who can identify any object based on its photo."
+},
+
+"OxfordIIITPets": {
+    "prompt_visual": "What are the distinguishable characteristics that can be used to identify a <Item1> from other pets based on just a photo? Produce a list of all attributes that can be used to identify it uniquely. Texts should be of the form \"a pet which <characteristic feature>.\". Ensure to structure your response as a list of single sentences. Do not include the class name in the sentences.",
+    "system_content": "You are a helpful assistant who can identify any pet based on its photo."
+}
+
+}
