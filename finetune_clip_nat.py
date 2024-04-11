@@ -152,7 +152,6 @@ def ft_clip(opt):
         {'params': temperature, 'lr': 1e-2, 'weight_decay' : 1e-6},
     ], betas=(0.9,0.98),eps=1e-6) 
     scheduler = CosineAnnealingWarmRestarts(optimizer, T_0=10, T_mult=2)
-    best_val_loss = float('inf')
 
     for epoch in range(EPOCH):
         model.train()
