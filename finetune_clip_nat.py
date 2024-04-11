@@ -23,6 +23,8 @@ import math
 from torch.optim.lr_scheduler import CosineAnnealingWarmRestarts
 import random
 from vdt_utils import read_split, read_json
+import pandas as pd
+from utils_nat import *
 
 seed = 2103
 random.seed(seed)
@@ -30,6 +32,10 @@ torch.manual_seed(seed)
 torch.cuda.manual_seed(seed)
 torch.cuda.manual_seed_all(seed)
 
+cub_taxonomy_data = pd.read_csv("./assets/cub_taxonomy_2022.csv")
+cub_taxonomy_data = cub_taxonomy_data.drop_duplicates(subset='cub_id')
+nabirds_taxonomy_data = pd.read_csv("./assets/nabirds_taxonomy_2022.csv")
+nabirds_taxonomy_data = nabirds_taxonomy_data.drop_duplicates(subset='nabirds_id')
 
 BATCH_SIZE = 1024
 EPOCH = 15
@@ -41,20 +47,11 @@ def ft_clip(opt):
         os.makedirs(save_dir)
 
     train_losses = []
-    val_losses = []
 
     device = "cuda:0" if torch.cuda.is_available() else "cpu" # If using GPU then use mixed precision training.
     model, preprocess = clip.load(opt.arch,device=device,jit=False) #Must set jit=False for training
 
     im_dir = opt.im_dir
-    train, val, test = read_split(opt.json_file, im_dir)
-    all_classes = []
-    labels = []
-    for ob in test:
-        if ob.classname not in all_classes:
-            all_classes.append(ob.classname)
-            labels.append(ob.label)
-
 
     class_range_train = np.arange(0,math.ceil(len(all_classes) / 2))
     all_classes = all_classes[0:math.ceil(len(all_classes) / 2)]
@@ -65,49 +62,85 @@ def ft_clip(opt):
                     transforms.ColorJitter(
                         brightness=0.4, contrast=0.4, saturation=0.4, hue=0),
                 ])
+    
+    if opt.dataset == "CUB":
+        with open('./assets/class_names_cub.txt') as f:
+            all_classes = f.readlines()
+        all_classes = [line.rstrip('\n') for line in all_classes]
+        dataset = CUBImageLabelDataset(
+            mode='train',
+            class_range_train = np.arange(0, 100),
+            all_classes = all_classes,
+            im_dir = im_dir,
+            desc_path_viz = opt.text_dir_viz,
+            desc_path_loc = opt.text_dir_loc,
+            preprocess = preprocess,
+            taxonomy_data = cub_taxonomy_data,
+            )
+    elif opt.dataset == "Flowers102":
+        with open('./assets/cat_to_name.json', 'r') as f:
+            all_classes = json.load(f)
+        dataset = FlowersImageLabelDataset(
+            mode='train',
+            preprocess = preprocess,
+            all_classes = all_classes,
+            im_dir = im_dir,
+            desc_path_viz = opt.text_dir_viz,
+            desc_path_loc = opt.text_dir_loc,
+            class_range_train = np.arange(0,math.ceil(102 / 2)),
+            )
+    elif opt.dataset == "INaturalist21":
+        with open(os.path.join(os.path.dirname(os.path.normpath(im_dir)), 'categories.json'), 'r') as f:
+            inat_data = json.load(f)
+        with open("./assets/inat_ids.txt", "r") as f:
+            inat_data_id_subset = f.readlines()
+        inat_data_id_subset = [int(id_i.rstrip('\n')) for id_i in inat_data_id_subset]
+        dataset = INatImageLabelDataset(
+            mode='train',
+            inat_data = inat_data,
+            inat_data_id_subset = inat_data_id_subset,
+            im_dir = im_dir,
+            desc_path_viz = opt.text_dir_viz,
+            desc_path_loc = opt.text_dir_loc,
+            preprocess = preprocess,
+            )
+    elif opt.dataset == "NABirds":
+        parent_dir = os.path.dirname(os.path.normpath(im_dir))
+        with open(os.path.join(parent_dir, 'species_names_and_ids.json'), 'r') as f:
+            species_ids = json.load(f)
 
-    class ImageLabelDataset(Dataset):
-        def __init__(
-                self,
-                mode,
-                text_dir,
-                img_size=(224, 224),
-                classes_sublist=None
-        ):
-            self.img_path_list = []
-            self.lbl_list = []
-            for ob in train:
-                if ob.classname in all_classes:
-                    count = self.lbl_list.count(ob.classname)
-                    if not opt.fewshot:
-                        self.img_path_list.append(ob.impath)
-                        self.lbl_list.append(ob.classname)
-                    else:
-                        if count < 16:
-                            self.img_path_list.append(ob.impath)
-                            self.lbl_list.append(ob.classname)
-            self.classes_sublist = classes_sublist
-            self.img_size = img_size
-            self.mode = mode
-            self.text_dir = text_dir
+        children = {}
+        with open(os.path.join(parent_dir, 'hierarchy.txt')) as f:
+            lines_h = f.readlines()
+        for line in lines_h:
+            line = line.rstrip('\n')
+            item, key = line.split(" ")
+            if key not in children.keys():
+                children[key] = [item.zfill(4)]
+            else:
+                children[key].append(item.zfill(4))
 
-        def __len__(self):
-            return len(self.img_path_list)
+        cub_data_filtered = cub_taxonomy_data[cub_taxonomy_data['cub_id'] > 100]
+        cub_scientific_names = cub_data_filtered['scientific_name'].tolist()
+        nab_scientific_names = nabirds_taxonomy_data['scientific_name'].tolist()
+        overlapping_names = set(nab_scientific_names).intersection(cub_scientific_names)
+        ov_df = nabirds_taxonomy_data[nabirds_taxonomy_data['scientific_name'].isin(overlapping_names)]
+        overlap_ids = ov_df['nabirds_id'].tolist()
+        overlap_ids = [str(i) for i in overlap_ids]
 
-        def __getitem__(self, index):
-            im_path = os.path.join(self.img_path_list[index])
-            im = Image.open(im_path).convert('RGB')
-            class_id = np.asarray([all_classes.index(self.lbl_list[index])])
-            if self.mode == 'train':
-                im = transform_train(im)
-            im = preprocess(im)
-            with open(os.path.join(self.text_dir,self.lbl_list[index]+'.txt')) as f:
-                texts_class = f.readlines()
-            texts_class = ["a photo of a " + self.lbl_list[index].replace("_", " ").lower() + " " + line.rstrip('\n').split(" ")[2:] for line in texts_class if line.strip()]
-            text_i = texts_class[np.random.randint(0,len(texts_class))]
-            return im, torch.from_numpy(class_id), text_i
+        keys_filtered = list(set(species_ids.keys())-set(overlap_ids))
 
-    dataset = ImageLabelDataset(mode='train', text_dir=opt.text_dir)
+        dataset = NABirdsImageLabelDataset(
+            mode='train',
+            keys_filtered = keys_filtered,
+            children = children,
+            im_dir = im_dir,
+            preprocess = preprocess,
+            species_ids = species_ids,
+            desc_path_viz = opt.text_dir_viz,
+            desc_path_loc = opt.text_dir_loc,
+            )
+
     train_dataloader = DataLoader(dataset,batch_size = BATCH_SIZE, shuffle=False, num_workers=8, pin_memory=False) #Define your own dataloader
     temperature = nn.Parameter(torch.tensor(opt.tau))
 
@@ -119,6 +152,7 @@ def ft_clip(opt):
         {'params': temperature, 'lr': 1e-2, 'weight_decay' : 1e-6},
     ], betas=(0.9,0.98),eps=1e-6) 
     scheduler = CosineAnnealingWarmRestarts(optimizer, T_0=10, T_mult=2)
+    best_val_loss = float('inf')
 
     for epoch in range(EPOCH):
         model.train()
@@ -169,11 +203,12 @@ if __name__ == '__main__':
     import argparse
 
     parser = argparse.ArgumentParser()
-    parser.add_argument('--dataset', type=str, default='StanfordCars', choices=['StanfordCars', 'FGVCAircraft', 'Food101', 'ImageNet', 'EuroSAT', 'DTD', 'Sun397', 'UCF101', 'CalTech101', 'OxfordIIITPets'])
+    parser.add_argument('--dataset', type=str, default='CUB', choices=['CUB', 'Flowers102', 'INaturalist21', 'NABirds'])
     parser.add_argument('--im_dir', type=str, required=True, help="dataset image directory")
     parser.add_argument('--json_file', type=str, required=True, help="dataset split json") 
     parser.add_argument('--save_dir', type=str, help="checkpoint saving path", default="./ft_clip")  
-    parser.add_argument('--text_dir', type=str, help="where generated gpt descriptions are saved", default="./gpt4_0613_api_StanfordCars")  
+    parser.add_argument('--text_dir_viz', type=str, help="where generated visual gpt descriptions are saved", default="./gpt4_0613_api_CUB_viz")
+    parser.add_argument('--text_dir_loc', type=str, help="where generated location gpt descriptions are saved", default="./gpt4_0613_api_CUB_loc")    
     parser.add_argument('--main_lr', type=float, help="main lr", default=5e-7)  
     parser.add_argument('--main_wd', type=float, help="main wd", default=1e-2) 
     parser.add_argument('--main_lr', type=float, help="proj lr", default=1e-7)  
