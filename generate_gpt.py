@@ -26,15 +26,16 @@ def generate_descriptions(opt):
     openai.api_key = opt.api_key
 
     im_dir = opt.im_dir
-
-    _, _, test = read_split(opt.json_file, im_dir)
-    classes = []
-    labels = []
     prompt_dict = read_json("./assets/gpt_prompts.json")
-    for ob in test:
-        if ob.classname not in classes:
-            classes.append(ob.classname)
-            labels.append(ob.label)
+
+    if opt.dataset not in ["INaturalist21", "NABirds", "CUB"]:
+        _, _, test = read_split(opt.json_file, im_dir)
+        classes = []
+        labels = []
+        for ob in test:
+            if ob.classname not in classes:
+                classes.append(ob.classname)
+                labels.append(ob.label)
 
     if opt.dataset == "INaturalist21":
         with open('./assets/categories_inat.json', 'r') as file:
