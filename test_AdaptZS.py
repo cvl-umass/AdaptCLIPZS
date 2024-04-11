@@ -18,19 +18,26 @@ from sklearn.linear_model import LogisticRegression
 import clip
 import math
 from vdt_utils import read_split, read_json
+from utils_nat import *
 
 
 def test(opt):
     im_dir = opt.im_dir
-    train, val, test = read_split(opt.json_file, im_dir)
-    all_classes = []
-    labels = []
-    for ob in test:
-        if ob.classname not in all_classes:
-            all_classes.append(ob.classname)
-            labels.append(ob.label)
+    if opt.dataset == "CUB":
+        with open('./assets/class_names_cub.txt') as f:
+            all_classes = f.readlines()
+        all_classes = [line.rstrip('\n') for line in all_classes]
+        all_classes = all_classes[100:]
+    else:
+        train, val, test = read_split(opt.json_file, im_dir)
+        all_classes = []
+        labels = []
+        for ob in test:
+            if ob.classname not in all_classes:
+                all_classes.append(ob.classname)
+                labels.append(ob.label)
 
-    all_classes = all_classes[math.ceil(len(all_classes) / 2):]
+        all_classes = all_classes[math.ceil(len(all_classes) / 2):]
 
     class ImageLabelDataset(Dataset):
         def __init__(
@@ -77,20 +84,39 @@ def test(opt):
     texts = []
     texts_dict = {}
     for class_i in all_classes:
-        with open(os.path.join(opt.text_dir,+class_i+".txt")) as f:
-            texts_class = f.readlines()
-        texts_class = ["a photo of a " + str(class_i).replace("_", " ").lower() + line.rstrip('\n').split(" ")[2:] for line in texts_class if line.strip()]
-        texts.extend(texts_class)
-        texts_dict[str(class_i).replace("_", " ")] = texts_class
+        if opt.attributes:
+            with open(os.path.join(opt.text_dir,+class_i+".txt")) as f:
+                texts_class = f.readlines()
+            texts_class = ["a photo of a " + str(class_i).replace("_", " ").lower() + " " + line.rstrip('\n').split(" ")[2:] for line in texts_class if line.strip()]
+            texts.extend(texts_class)
+            texts_dict[str(class_i).replace("_", " ")] = texts_class
+            if opt.text_dir_loc != "":
+                with open(os.path.join(opt.text_dir_loc,+class_i+".txt")) as f:
+                    texts_class_loc = f.readlines()
+                texts_class_loc = ["a photo of a " + str(class_i).replace("_", " ").lower() + " " + line.rstrip('\n').split(" ")[2:] for line in texts_class_loc if line.strip()]
+                texts.extend(texts_class_loc)
+                texts_dict[str(class_i).replace("_", " ")].extend(texts_class_loc)
+        else:
+            texts_class = "a photo of a " + str(class_i).replace("_", " ").lower()
+            texts.append(texts_class)
+            texts_dict[str(class_i).replace("_", " ")] = texts_class
         
     
     text = clip.tokenize(texts).to("cuda")
-    dataset_val = ImageLabelDataset(mode='val', classes_sublist=None)
+    if opt.dataset == "CUB":
+        class_range_test = list(np.arange(100, 200))
+        dataset_val = CUBImageLabelDatasetTest(mode='val', im_dir=im_dir, class_range_test=class_range_test)
+    elif opt.dataset == "Flowers102":
+        class_range_test = np.arange(math.ceil(102/ 2), 102)
+        dataset_val = FlowersImageLabelDatasetTest(mode='test', im_dir=im_dir, class_range_test=class_range_test)
+    else:
+        dataset_val = ImageLabelDataset(mode='val', classes_sublist=None)
+
     
     val_loader = DataLoader(dataset_val, batch_size=256, shuffle=False, num_workers=8, pin_memory=False)
-
-    state_dict = torch.load(os.path.join(opt.ckpt_dir,'model_9.pth'))
-    model.load_state_dict(state_dict, strict=True)
+    if not opt.vanillaCLIP:
+        state_dict = torch.load(os.path.join(opt.ckpt_dir,'model_9.pth'))
+        model.load_state_dict(state_dict, strict=True)
     model.cuda()
     model.eval()
     val_feat, val_labels = run(model, val_loader, texts, text, texts_dict)
@@ -132,11 +158,14 @@ if __name__ == '__main__':
     import argparse
 
     parser = argparse.ArgumentParser()
-    parser.add_argument('--dataset', type=str, default='StanfordCars', choices=['StanfordCars', 'FGVCAircraft', 'Food101', 'ImageNet', 'EuroSAT', 'DTD', 'Sun397', 'UCF101', 'CalTech101', 'OxfordIIITPets'])
+    parser.add_argument('--dataset', type=str, default='CUB', choices=['StanfordCars', 'FGVCAircraft', 'Food101', 'ImageNet', 'EuroSAT', 'DTD', 'Sun397', 'UCF101', 'CalTech101', 'OxfordIIITPets', 'CUB', 'Flowers102'])
     parser.add_argument('--im_dir', type=str, required=True, help="dataset image directory")
     parser.add_argument('--json_file', type=str, required=True, help="dataset split json") 
     parser.add_argument('--ckpt_dir', type=str, help="checkpoint dir", default="./ft_clip")  
-    parser.add_argument('--text_dir', type=str, help="where generated gpt descriptions are saved", default="./gpt4_0613_api_StanfordCars")  
+    parser.add_argument('--text_dir', type=str, help="where generated gpt descriptions are saved", default="./gpt4_0613_api_CUB")  
+    parser.add_argument('--text_dir_loc', type=str, help="where generated gpt descriptions of location are saved", default="")
     parser.add_argument('--arch', type=bool, help="vit architecture", default="ViT-B/32", choices=["ViT-B/16", "ViT-B/32"])
+    parser.add_argument('--vanillaCLIP', type=bool, default=False, help="if testing vanilla CLIP")
+    parser.add_argument('--attributes', type=bool, default=True, help="if testing with LLM attributes")
     opt = parser.parse_args()
     test(opt)

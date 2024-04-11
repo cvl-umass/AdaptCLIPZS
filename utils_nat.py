@@ -7,7 +7,7 @@ import os
 import numpy as np
 import torchfile
 import json
-
+import torchvision
 
 
 supercat_mapping = {"Amphibians" : "amphibian",
@@ -157,7 +157,7 @@ class CUBImageLabelDataset(Dataset):
             img_size=(224, 224),
             classes_sublist=None
     ):
-        datfile = torchfile.load('../dino_fgvc/anno/train.dat')
+        datfile = torchfile.load('./assets/train.dat')
         self.class_range = class_range_train
         with open('/work/osaha_umass_edu/CUB_full/cub_classes.json', 'r') as f:
             self.class_list = json.load(f)
@@ -166,6 +166,10 @@ class CUBImageLabelDataset(Dataset):
             if name.decode() == 'Black_Tern_0079_143998.jpg':
                 continue
             if self.class_list[name.decode()]-1 in self.class_range:
+                parts_new = name.decode().split("_")
+                bird_name = "_".join(parts_new[:-2])
+                dir_i = "{:03}.{}".format(self.class_list[name.decode()]-1, bird_name)
+                self.img_path_list.append(os.path.join(dir_i,name.decode()))
                 self.img_path_list.append(name.decode())
         self.img_size = img_size
         self.classes_sublist = classes_sublist
@@ -315,3 +319,97 @@ class NABirdsImageLabelDataset(Dataset):
         text_i = texts_class[np.random.randint(0,len(texts_class))]
         
         return im, torch.from_numpy(class_id), text_i
+
+class CUBImageLabelDatasetTest(Dataset):
+    def __init__(
+            self,
+            mode,
+            im_dir,
+            class_range_test,
+            img_size=(224, 224),
+            classes_sublist=None
+    ):
+        if mode == 'train':
+            datfile = torchfile.load('./assets/train.dat')
+            self.class_range = class_range_test
+        else:
+            datfile = torchfile.load('./assets/val.dat')
+            self.class_range = class_range_test
+        with open('./assets/cub_classes.json', 'r') as f:
+            self.class_list = json.load(f)
+        self.img_path_list = []
+        self.lbl_list = []
+        for name, _ in datfile.items():
+            if name.decode() == 'Black_Tern_0079_143998.jpg':
+                continue
+            if self.class_list[name.decode()]-1 in self.class_range:
+                parts_new = name.decode().split("_")
+                bird_name = "_".join(parts_new[:-2])
+                dir_i = "{:03}.{}".format(self.class_list[name.decode()]-1, bird_name)
+                self.img_path_list.append(os.path.join(dir_i,name.decode()))
+                self.lbl_list.append(self.class_list[name.decode()]-1)
+        self.img_size = img_size
+        self.classes_sublist = classes_sublist
+        self.mode = mode
+        self.im_dir = im_dir
+
+    def __len__(self):
+        return len(self.img_path_list)
+
+    def __getitem__(self, index):
+        im_path = os.path.join(self.im_dir, self.img_path_list[index])
+        im = Image.open(im_path).convert('RGB')
+        im = self.transform(im)
+        return im, torch.from_numpy(np.array([self.class_range.index(self.lbl_list[index])])), self.img_path_list[index]
+
+    def transform(self, img):
+        im_shape = (min(int(img.size[0]*0.875), int(img.size[1]*0.875)), min(int(img.size[0]*0.875), int(img.size[1]*0.875)))
+        img = torchvision.transforms.CenterCrop(im_shape)(img) 
+        img = img.resize(self.img_size)     
+        img = transforms.ToTensor()(img)
+        return img
+    
+class FlowersImageLabelDatasetTest(Dataset):
+    def __init__(
+            self,
+            mode,
+            im_dir,
+            class_range_test,
+            img_size=(224, 224),
+            classes_sublist=None
+    ):
+        if mode == 'train':
+            self.im_dir = os.path.join(im_dir, 'train')
+            self.class_range = class_range_test
+        elif mode == 'val':
+            self.im_dir = os.path.join(im_dir, 'valid')
+            self.class_range = class_range_test
+        elif mode == 'test':
+            self.im_dir = os.path.join(im_dir, 'test')
+            self.class_range = class_range_test
+        self.label_list = []
+        self.img_path_list = []
+        for idx in self.class_range:
+            files_folder = glob.glob(os.path.join(self.im_dir,str(idx+1)+"/*"))
+            self.img_path_list.extend(files_folder)
+            self.label_list.extend([idx]*len(files_folder))
+        self.img_size = img_size
+        self.classes_sublist = classes_sublist
+        self.mode = mode
+
+    def __len__(self):
+        return len(self.img_path_list)
+
+    def __getitem__(self, index):
+        im_path = os.path.join(self.img_path_list[index])
+        im = Image.open(im_path).convert('RGB')
+        class_id = np.asarray([self.label_list[index] - self.class_range.min()])
+        im = self.transform(im)
+        return im, torch.from_numpy(class_id)
+
+    def transform(self, img):
+        im_shape = (min(int(img.size[0]*0.875), int(img.size[1]*0.875)), min(int(img.size[0]*0.875), int(img.size[1]*0.875)))
+        img = torchvision.transforms.CenterCrop(im_shape)(img) 
+        img = img.resize(self.img_size)     
+        img = transforms.ToTensor()(img)
+        return img
