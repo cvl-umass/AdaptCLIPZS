@@ -21,8 +21,12 @@ supercat_mapping = {"Amphibians" : "amphibian",
 def generate_descriptions(opt):
     version = opt.gpt_version
 
-    out_dir = version + "_" + opt.dataset
-    os.makedirs(out_dir, exist_ok=True)
+    if not opt.location:
+        out_dir = version + "_" + opt.dataset
+        os.makedirs(out_dir, exist_ok=True)
+    else:
+        out_dir = version + "_" + opt.dataset + "_" + "location"
+        os.makedirs(out_dir, exist_ok=True)
     openai.api_key = opt.api_key
 
     im_dir = opt.im_dir

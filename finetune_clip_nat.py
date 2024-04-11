@@ -204,7 +204,6 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--dataset', type=str, default='CUB', choices=['CUB', 'Flowers102', 'INaturalist21', 'NABirds'])
     parser.add_argument('--im_dir', type=str, required=True, help="dataset image directory")
-    parser.add_argument('--json_file', type=str, required=True, help="dataset split json") 
     parser.add_argument('--save_dir', type=str, help="checkpoint saving path", default="./ft_clip")  
     parser.add_argument('--text_dir_viz', type=str, help="where generated visual gpt descriptions are saved", default="./gpt4_0613_api_CUB_viz")
     parser.add_argument('--text_dir_loc', type=str, help="where generated location gpt descriptions are saved", default="./gpt4_0613_api_CUB_loc")    
