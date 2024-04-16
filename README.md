@@ -20,7 +20,7 @@ conda activate adaptclipzs
 
 Follow [DATASETS.md](https://github.com/mayug/VDT-Adapter/blob/main/DATASETS.md) of VDT-Adapter to download datasets and json files. Further download [iNaturalist21](https://github.com/visipedia/inat_comp/tree/master/2021) and [NABirds](https://dl.allaboutbirds.org/nabirds).
 
-## Generate attributes from OpenAI GPT4
+## Generate attributes from OpenAI GPT
 
 We provide our generated attributes for all datasets in "gpt_descriptions" folder. You can also reproduce the process by running
 ```
