@@ -1,0 +1,20 @@
+An object which has a circular shape.
+An object which is made of metal or alloy materials.
+An object which has a central hub for mounting onto a vehicle.
+An object which has a rubber tire mounted on its outer edge.
+An object which has a patterned tread on the outer edge.
+An object which may have spokes or a solid disc design.
+An object which may have a series of lug nut holes for securing to a vehicle.
+An object which may have a valve stem for inflating the tire.
+An object which may have a wheel cover or hubcap attached.
+An object which may have a specific brand or manufacturer's logo.
+An object which may have a specific size indicated, such as diameter or width.
+An object which may have a unique color or finish, such as chrome, black, or painted.
+An object which may have wear or damage, such as scratches, dents, or flat spots.
+An object which may have brake components visible behind it.
+An object which may have a specific number of spokes or a unique spoke pattern.
+An object which may have a specific bolt pattern for mounting to the vehicle.
+An object which may have a specific offset, or distance from the centerline of the wheel to the mounting surface.
+An object which may have a specific aspect ratio, or ratio of tire height to tire width.
+An object which may have a specific load rating, or maximum weight the wheel can support.
+An object which may have a specific speed rating, or maximum speed the wheel is designed for.

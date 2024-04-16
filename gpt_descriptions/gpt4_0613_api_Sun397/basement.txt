@@ -1,0 +1,20 @@
+A scene which features a staircase leading downwards.
+A scene which has exposed pipes or ductwork on the ceiling.
+A scene which includes a water heater, furnace, or other large appliances.
+A scene which has low ceilings or unfinished ceilings.
+A scene which has concrete or brick walls.
+A scene which includes small windows near the ceiling or no windows at all.
+A scene which features storage items like boxes, old furniture, or tools.
+A scene which has a sump pump or a drain in the floor.
+A scene which includes a laundry area with a washer and dryer.
+A scene which has a bar or recreational area with games or a pool table.
+A scene which features a home theater or entertainment system.
+A scene which has a workout area with gym equipment.
+A scene which includes a workshop area with tools and workbenches.
+A scene which has a damp or musty smell, although this can't be seen, it's a common characteristic of many basements.
+A scene which includes a basement bathroom, often smaller and more utilitarian than other bathrooms in the house.
+A scene which features a bulkhead or exterior access door.
+A scene which includes a dehumidifier or air purifier.
+A scene which has a lower level of natural light compared to other rooms in the house.
+A scene which includes a basement bedroom, often smaller and with less natural light than other bedrooms in the house.
+A scene which features a crawl space or other small, enclosed areas.

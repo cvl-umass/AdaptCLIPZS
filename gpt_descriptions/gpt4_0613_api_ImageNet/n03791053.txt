@@ -1,0 +1,20 @@
+An object which has a step-through frame, a feature that differentiates it from motorcycles.
+An object which has a platform for the rider's feet.
+An object which has smaller wheels, typically between 8 and 12 inches in diameter.
+An object which has a rear-mounted engine.
+An object which has a seat that the rider can sit on, with a backrest.
+An object which has handlebars for steering.
+An object which has a bodywork that conceals all the mechanical parts.
+An object which has a front leg shield designed to protect the rider's legs from wind and rain.
+An object which has a rear luggage rack or a storage compartment under the seat.
+An object which has automatic transmission, meaning the rider does not need to manually shift gears.
+An object which has a kick or electric start mechanism.
+An object which has front and rear lights, indicators, and a horn, similar to other road vehicles.
+An object which has a center or side stand to keep it upright when parked.
+An object which has a fuel gauge and speedometer on the dashboard.
+An object which has a single or double cylinder, two or four-stroke engine.
+An object which has a front and rear brake, operated by a hand lever and foot pedal respectively.
+An object which has a protective fairing around the front and sides.
+An object which has a windscreen or a space to mount one.
+An object which has a VIN (Vehicle Identification Number) usually located on the frame.
+An object which has a registration plate at the rear.

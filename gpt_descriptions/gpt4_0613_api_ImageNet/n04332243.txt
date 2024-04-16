@@ -1,0 +1,20 @@
+An object which has a bowl-like shape.
+An object which is made of metal, plastic, or silicone.
+An object which has a series of small holes or slits.
+An object which may have a handle on one side.
+An object which may have a hook or loop on the opposite side of the handle for stability.
+An object which may have a base or stand to support it when placed on a surface.
+An object which is used to separate liquids from solids.
+An object which may come in various sizes, from small to large.
+An object which may have a mesh-like structure.
+An object which may have a rim around its edge.
+An object which is typically lightweight.
+An object which may have a long handle for holding over pots or bowls.
+An object which is typically easy to clean and dishwasher safe.
+An object which may have a polished or matte finish depending on the material.
+An object which is durable and resistant to rust and corrosion if made of stainless steel.
+An object which may be round, square, or other shapes.
+An object which may have a double layer of mesh for finer straining.
+An object which may have a non-slip handle if it's a modern design.
+An object which may have a hanging loop at the end of the handle for easy storage.
+An object which is a common tool in cooking and baking.

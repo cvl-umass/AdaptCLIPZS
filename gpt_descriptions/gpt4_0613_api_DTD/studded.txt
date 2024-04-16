@@ -1,0 +1,10 @@
+A texture which features a series of raised points or bumps.
+A texture which has a regular pattern of protrusions.
+A texture which has a hard and rough surface due to the presence of studs.
+A texture which reflects light unevenly due to the presence of raised elements.
+A texture which has a three-dimensional aspect due to the protruding elements.
+A texture which may cause a prickly sensation when touched.
+A texture which has a consistent pattern of raised elements across the surface.
+A texture which may appear shiny or metallic, depending on the material of the studs.
+A texture which may create a rhythmic noise when something is dragged across it.
+A texture which may have a higher degree of friction due to the presence of studs.

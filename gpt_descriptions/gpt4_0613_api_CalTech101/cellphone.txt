@@ -1,0 +1,25 @@
+An object which has a rectangular shape with rounded corners.
+An object which has a large, flat screen covering most of its front surface.
+An object which has a small speaker and camera lens at the top of the front surface.
+An object which has physical or touch-sensitive buttons below the screen.
+An object which has a logo or brand name on the front or back surface.
+An object which has a rear camera, often accompanied by a flash.
+An object which has a thin slot on the side for inserting a SIM card.
+An object which has a headphone jack or charging port at the bottom or top edge.
+An object which has volume control buttons on the side.
+An object which has a power button on the side or top edge.
+An object which has a fingerprint sensor on the front, back, or side.
+An object which has a glass, metal, or plastic back cover.
+An object which has a specific operating system interface visible on the screen.
+An object which has a front-facing camera, often located at the top of the screen.
+An object which has a specific color or pattern on its back cover.
+An object which has a protective case or cover.
+An object which has a specific model number or name associated with a brand.
+An object which has a specific size and weight, often compared to other objects for scale.
+An object which has a specific screen resolution or display technology.
+An object which has a specific number of rear cameras, which can vary from one to four or more.
+An object which has a specific type of connector for charging, such as USB-C or Lightning.
+An object which has a specific type of wireless technology, such as 4G, 5G, or Wi-Fi.
+An object which has a specific type of audio technology, such as stereo speakers or Dolby Atmos.
+An object which has a specific type of battery technology, such as lithium-ion or lithium-polymer.
+An object which has a specific type of processing chip, such as Snapdragon or A-series.

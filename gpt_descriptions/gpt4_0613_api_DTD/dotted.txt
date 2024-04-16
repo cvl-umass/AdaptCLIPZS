@@ -1,0 +1,10 @@
+A texture which features a pattern of small, round spots.
+A texture which has a regular or irregular arrangement of dots.
+A texture which displays a contrast between the dots and the background.
+A texture which has a uniform or varying size of dots.
+A texture which shows a clear separation between each dot.
+A texture which may have dots of different colors.
+A texture which may have dots that are filled or hollow.
+A texture which may have dots that are evenly or randomly spaced.
+A texture which may have dots that are geometrically perfect or imperfect.
+A texture which may have dots that are raised or flat.

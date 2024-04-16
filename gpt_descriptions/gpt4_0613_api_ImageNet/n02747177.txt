@@ -1,0 +1,27 @@
+An object which is typically cylindrical in shape.
+An object which has a lid on top.
+An object which is often made of plastic, metal, or other durable materials.
+An object which may have a foot pedal to open the lid.
+An object which may have handles on the sides for easy transportation.
+An object which may have a removable inner bucket for easy disposal of waste.
+An object which may have a swing-top or push-top lid.
+An object which may have a bag or liner inside to contain waste.
+An object which may have a locking mechanism to prevent pests.
+An object which may have wheels at the bottom for easy movement.
+An object which may have a recycling symbol or other waste disposal instructions on it.
+An object which may come in various sizes, from small desk bins to large outdoor containers.
+An object which may be color-coded to indicate the type of waste it contains.
+An object which may have a slot in the lid for depositing waste.
+An object which may have a mechanism to compress waste inside.
+An object which may have a sensor for touchless opening of the lid.
+An object which may have a venting system to make removing a full bag easier.
+An object which may have a rim that holds the bag in place and hides it from view.
+An object which may have a design or logo on the exterior.
+An object which may have a rounded or square base.
+An object which may have a step-on feature for hands-free operation.
+An object which may have a slow-close lid to prevent loud noises.
+An object which may have a capacity indicator to show when it's full.
+An object which may have a deodorizer compartment to control odors.
+An object which may have a side clip to hold the bag in place.
+An object which may have a roll-top lid for easy access.
+An object which may have a dual compartment for separating recyclables from other waste.

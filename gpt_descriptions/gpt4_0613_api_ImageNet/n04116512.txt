@@ -1,0 +1,20 @@
+An object which is typically rectangular or cylindrical in shape.
+An object which is often small and handheld, suitable for manual use.
+An object which is commonly white, pink, or multicolored.
+An object which has a smooth, slightly rubbery texture.
+An object which may have a paper or cardboard sleeve, especially if it's rectangular.
+An object which may have a rough or used surface, indicating it has been used to erase pencil marks.
+An object which may be attached to the end of a pencil.
+An object which may have the manufacturer's logo or brand name printed on it.
+An object which may be found in a school or office environment.
+An object which may be packaged in a set with other similar objects.
+An object which may have a beveled edge or edges, particularly if it's rectangular.
+An object which may have a crumbly texture or small particles around it, indicating it has been used.
+An object which is solid and does not have any electronic components.
+An object which is lightweight and can be easily moved or manipulated.
+An object which does not reflect light, indicating a matte surface.
+An object which may be seen in close proximity to pencils or other writing instruments.
+An object which is not transparent or translucent.
+An object which does not have any sharp edges or points.
+An object which is not typically associated with any specific smell.
+An object which is not edible or associated with food.

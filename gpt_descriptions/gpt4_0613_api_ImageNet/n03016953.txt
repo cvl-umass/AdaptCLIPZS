@@ -1,0 +1,20 @@
+An object which has a tall, narrow profile.
+An object which is typically made of wood.
+An object which has multiple drawers stacked vertically.
+An object which may have a mirror attached to the top.
+An object which often features ornate detailing or carving.
+An object which may have a curved or straight front.
+An object which has small knobs or handles on each drawer.
+An object which may have a cabinet-like door instead of or in addition to drawers.
+An object which may have a marble top for decorative purposes.
+An object which may have a lock and key for one or more drawers.
+An object which may have a decorative skirt or base.
+An object which may have a back-splash, a small ledge or wall at the back of the top surface.
+An object which may have a glossy or matte finish.
+An object which may have dovetail joints visible on the sides of the drawers.
+An object which may have a footed or flat base.
+An object which may have a decorative or ornamental keyhole.
+An object which may have a veneer, a thin layer of fine wood, applied to the surface for aesthetic appeal.
+An object which may have inlaid designs or patterns.
+An object which may have a distressed or antiqued finish.
+An object which may have a protective glass top.

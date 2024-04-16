@@ -1,0 +1,15 @@
+An object which has a large parabolic or dish-like structure.
+An object which is often constructed of a metal mesh or solid metal surface.
+An object which is usually mounted on a type of movable platform to allow for tracking of celestial bodies.
+An object which may have a secondary smaller dish or antenna suspended above the main dish.
+An object which is typically located in remote areas to avoid radio frequency interference.
+An object which may be accompanied by smaller auxiliary telescopes in the vicinity.
+An object which may have a control building or structure nearby for operation and data collection.
+An object which may be part of a larger array of similar structures, known as a radio telescope array.
+An object which may have visible cables or wires leading to or from it, used for transmitting the collected data.
+An object which may be surrounded by a fence or other security measures due to its scientific importance.
+An object which is often found in open areas with clear views of the sky in all directions.
+An object which may have a large counterweight system visible, used to balance the movable dish.
+An object which may have a radome (a weatherproof enclosure) over the secondary antenna.
+An object which may have visible markings or labels indicating its scientific purpose or the organization operating it.
+An object which may be seen with a ladder or stairs leading up to the dish for maintenance purposes.

@@ -1,0 +1,50 @@
+An object which is a long, loose robe.
+An object which is often made of rich, heavy material like silk or velvet.
+An object which may have intricate embroidery or religious symbols on it.
+An object which may have a stole, a long, narrow strip of cloth, draped around the neck.
+An object which may have a chasuble, a circular garment worn over the shoulders, as part of it.
+An object which may have a cincture, a type of belt, around the waist.
+An object which may have a mitre, a type of hat, as part of it.
+An object which may have a cope, a large cape, as part of it.
+An object which may have a surplice, a white linen tunic, as part of it.
+An object which may have a cassock, a long, close-fitting garment, as part of it.
+An object which may have a zucchetto, a small skullcap, as part of it.
+An object which may have a rochet, a white linen tunic, as part of it.
+An object which may have a mozzetta, a short cape, as part of it.
+An object which may have a pectoral cross, a large cross worn on a chain, as part of it.
+An object which may have a pallium, a woolen band worn around the neck, as part of it.
+An object which may have a dalmatic, a wide-sleeved tunic, as part of it.
+An object which may have a tunicle, a short tunic, as part of it.
+An object which may have a maniple, a type of handkerchief, as part of it.
+An object which may have a humeral veil, a long, narrow shawl, as part of it.
+An object which may have a fanon, a type of scarf, as part of it.
+An object which may have a subcinctorium, a type of belt, as part of it.
+An object which may have a buskins, a type of boot, as part of it.
+An object which may have a amice, a type of hood, as part of it.
+An object which may have a alb, a long, white linen tunic, as part of it.
+An object which may have a cappa magna, a large cape with a hood, as part of it.
+An object which may have a falda, a type of skirt, as part of it.
+An object which may have a apparel, a type of decorative trim, as part of it.
+An object which may have a gremial, a type of apron, as part of it.
+An object which may have a sudarium, a type of handkerchief, as part of it.
+An object which may have a epimanikia, a type of cuff, as part of it.
+An object which may have a epigonation, a type of decorative panel, as part of it.
+An object which may have a omophorion, a type of stole, as part of it.
+An object which may have a orarion, a type of stole, as part of it.
+An object which may have a epitrachelion, a type of stole, as part of it.
+An object which may have a zone, a type of belt, as part of it.
+An object which may have a phelonion, a type of chasuble, as part of it.
+An object which may have a sakkos, a type of tunic, as part of it.
+An object which may have a nabedrennik, a type of panel, as part of it.
+An object which may have a kamilavka, a type of hat, as part of it.
+An object which may have a skufia, a type of hat, as part of it.
+An object which may have a klobuk, a type of hat, as part of it.
+An object which may have a mantia, a type of cape, as part of it.
+An object which may have a epigonatikon, a type of decorative panel, as part of it.
+An object which may have a sticharion, a type of tunic, as part of it.
+An object which may have a exorason, a type of outer robe, as part of it.
+An object which may have a mandyas, a type of cape, as part of it.
+An object which may have a esticharion, a type of tunic, as part of it.
+An object which may have a epigonation, a type of decorative panel, as part of it.
+An object which may have a epimanikia, a type of cuff, as part of it.
+An object which may have a zone, a type of belt, as part of it.

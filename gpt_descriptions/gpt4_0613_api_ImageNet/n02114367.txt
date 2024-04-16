@@ -1,0 +1,18 @@
+An object which has a coat color that varies from pure white to pure black, but most often a mix of grays, browns, and whites.
+An object which has a large, broad head with wide-set eyes.
+An object which has a pair of pointed ears that stand erect.
+An object which has a long, bushy tail often with a black tip.
+An object which has a body length ranging from 1 to 1.5 meters (3.3 to 5 feet).
+An object which has a shoulder height between 60 to 80 centimeters (2 to 2.6 feet).
+An object which has a weight ranging from 30 to 80 kilograms (66 to 176 pounds).
+An object which has a long, slender muzzle.
+An object which has large, rounded feet with thick fur between the toes for warmth and traction.
+An object which has a thick, double-layered coat to protect it from cold weather.
+An object which has a muscular body built for endurance.
+An object which has a straight posture with the tail usually hanging down when at ease.
+An object which has a set of sharp, carnivorous teeth.
+An object which has a narrow chest and a straight back.
+An object which has a pair of yellow or amber eyes.
+An object which has a strong jaw for catching and holding prey.
+An object which has a body built for long-distance travel, with long legs and a lean body.
+An object which has a distinctive howl, used for communication with other members of its species.

@@ -1,0 +1,15 @@
+An object which has a round shape with a hole in the middle.
+An object which has a browned, sometimes glossy surface due to boiling before baking.
+An object which is typically small enough to be held in one hand.
+An object which may have visible toppings such as sesame seeds, poppy seeds, or onion flakes.
+An object which has a dense and chewy interior.
+An object which has a crust that is slightly crisp.
+An object which may be sliced in half, revealing a bread-like interior.
+An object which may be presented in a variety of flavors, such as cinnamon-raisin, blueberry, or everything.
+An object which may be seen commonly in breakfast or brunch settings.
+An object which may be served with cream cheese, lox, or other spreads and toppings.
+An object which may be seen in a stack or pile in bakery or grocery store settings.
+An object which may be packaged in a bag or box for sale.
+An object which may be seen in a sandwich form, with fillings in the middle.
+An object which is typically not sweet, unless specific flavors like cinnamon-raisin or blueberry are added.
+An object which has a uniform color throughout, except for the toppings.

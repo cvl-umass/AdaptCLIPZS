@@ -1,0 +1,16 @@
+An object which is typically wrapped in a tortilla.
+An object which is cylindrical in shape.
+An object which often has a foil or paper wrapping around one end.
+An object which may show a cross-section view of various fillings when cut in half.
+An object which contains a mix of ingredients such as rice, beans, meat, cheese, and vegetables.
+An object which may have visible grill marks if it's been toasted or grilled.
+An object which may be accompanied by sides like salsa, guacamole, or sour cream.
+An object which may have a slightly shiny or glossy exterior if the tortilla is steamed.
+An object which may have a soft and pliable appearance, indicating a fresh tortilla.
+An object which may show a tightly packed interior of ingredients, indicating a well-rolled burrito.
+An object which may have a size larger than a typical handheld food item.
+An object which may show a variety of colors inside, representing different ingredients.
+An object which may have a slightly uneven or bumpy surface due to the fillings inside.
+An object which may appear in a range of sizes, from small snack-sized to large meal-sized portions.
+An object which may show a bit of sauce or juice seeping out if it's a wet burrito.
+An object which may have a slightly toasted or browned exterior if it's a chimichanga or deep-fried burrito.

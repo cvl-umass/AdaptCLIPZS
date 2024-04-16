@@ -1,0 +1,20 @@
+An aircraft with a low-wing, tricycle landing gear configuration.
+An aircraft with a single piston engine mounted in the nose.
+An aircraft with a tapered wing with a slight dihedral.
+An aircraft with a stabilator, a one-piece horizontal stabilizer and elevator.
+An aircraft with a rectangular or tapered wing depending on the model.
+An aircraft with a two or four-seat cabin, depending on the model.
+An aircraft with a single door on the co-pilot side, which is entered by stepping on the wing.
+An aircraft with a distinctive "hershey bar" wing shape in earlier models.
+An aircraft with a constant-chord wing in earlier models.
+An aircraft with a swept tailfin and rudder.
+An aircraft with a clear, bubble-shaped canopy for maximum visibility.
+An aircraft with a propeller in the front.
+An aircraft with a small, rounded vertical stabilizer.
+An aircraft with a relatively short and broad fuselage.
+An aircraft with a fixed pitch, two-blade propeller.
+An aircraft with a nose wheel that is smaller than the main landing gear wheels.
+An aircraft with a relatively flat bottomed fuselage.
+An aircraft with a small exhaust pipe on the right side of the engine cowling.
+An aircraft with a single, centrally located fuel tank filler cap on each wing.
+An aircraft with a small, rounded horizontal stabilizer at the tail.

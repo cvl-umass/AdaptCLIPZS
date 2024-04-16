@@ -1,0 +1,20 @@
+An object which has a solid, typically rectangular or square, metal body.
+An object which features a heavy door, often with thick edges.
+An object which has a complex locking mechanism, often including a dial or digital keypad.
+An object which may have a keyhole for a manual override key.
+An object which may have bolts visible on the inside of the door.
+An object which may have a handle or wheel for opening after the correct combination is entered.
+An object which may have a logo or brand name of a security company.
+An object which may have a fire or water resistance rating.
+An object which may be bolted to the floor or wall for added security.
+An object which may have an interior lined with soft material to protect contents.
+An object which may have adjustable shelves or compartments inside.
+An object which may have a light inside to illuminate the contents.
+An object which may have a battery compartment or power cord for an electronic lock.
+An object which may have a time delay feature for added security.
+An object which may have a drop slot or deposit drawer for adding items without opening the safe.
+An object which may have a glossy, matte, or textured finish, often in black, white, or gray.
+An object which may have a warning label or sticker about the lock or safe's security features.
+An object which may have a serial number or model number on the back or bottom.
+An object which may have a vent or drainage hole to prevent moisture buildup.
+An object which may have a rubber gasket around the door to seal against water damage.

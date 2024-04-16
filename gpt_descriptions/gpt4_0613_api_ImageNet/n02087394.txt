@@ -1,0 +1,16 @@
+An object which has a distinct ridge of hair running along its back in the opposite direction to the rest of its coat.
+An object which has a short and dense coat, sleek and glossy in appearance.
+An object which has a coat color ranging from light wheaten to red wheaten.
+An object which has a muscular and athletic body.
+An object which has a broad and deep chest.
+An object which has a fairly long tail that is strong at the base and tapers to a point.
+An object which has a flat and broad skull between the ears.
+An object which has a defined stop between the skull and muzzle.
+An object which has a black or brown nose that matches the color of its eyes.
+An object which has round and sparkling eyes, varying in color from amber to dark brown.
+An object which has high set ears that are medium in size and rather wide at the base.
+An object which has strong and powerful jaws with a perfect scissor bite.
+An object which has a strong, flexible and fast gait.
+An object which has a confident and intelligent expression.
+An object which has a height at the shoulder between 24 to 27 inches for males and 24 to 26 inches for females.
+An object which has a weight between 70 to 85 pounds for males and 65 to 75 pounds for females.

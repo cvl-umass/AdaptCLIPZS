@@ -1,0 +1,20 @@
+Plant with small, yellow flowers that bloom in clusters.
+Plant with leaves that are alternate, simple, and lanceolate to elliptical in shape.
+Plant with a height typically ranging from 1 to 3 feet.
+Plant with a stem that is erect, branched, and covered in fine hairs.
+Plant with a fruit that is a small, round capsule containing numerous seeds.
+Plant with a root system that is fibrous and spreads horizontally.
+Plant with a habitat often found in disturbed areas, such as roadsides, pastures, and waste places.
+Plant with a growth habit that is upright and bushy.
+Plant with a leaf arrangement that is alternate (one leaf per node).
+Plant with a leaf margin that is entire (smooth, without teeth or lobes).
+Plant with a leaf texture that is rough to the touch.
+Plant with a flower arrangement that is clustered.
+Plant with a flower color that is typically yellow, but can also be white or pink.
+Plant with a flower symmetry that is radial (symmetrical in any direction).
+Plant with a fruit type that is a capsule (a dry fruit that splits open at maturity).
+Plant with a seed color that is brown.
+Plant with a growth form that is herbaceous (non-woody).
+Plant with a life cycle that is annual (completes its life cycle in one year).
+Plant with a native range that includes Europe, but is now widespread in many parts of the world.
+Plant with a tendency to grow in dense clusters, often forming a mat-like ground cover.

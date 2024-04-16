@@ -1,0 +1,15 @@
+An object which is spherical in shape.
+An object which has a solid, uniform color.
+An object which is approximately 3.63 inches (9.2 cm) in diameter.
+An object which is made of solid plastic or wood.
+An object which has a smooth, polished surface.
+An object which is typically found in colors like blue, red, black, yellow, green, or brown.
+An object which is heavy for its size, indicating a dense material.
+An object which may have a small, branded logo or marking.
+An object which is often seen in sets of six, each with a different color.
+An object which is used in outdoor games and sports.
+An object which is durable and designed to withstand impact.
+An object which does not have any seams or stitches.
+An object which is not inflatable and does not change shape under pressure.
+An object which is often seen in a grassy environment, indicating its use in lawn games.
+An object which may show signs of wear such as scratches or scuffs from use in a game.

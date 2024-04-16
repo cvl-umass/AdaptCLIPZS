@@ -1,0 +1,20 @@
+An object which has a glossy or matte paper cover.
+An object which contains sequential panels of artwork.
+An object which uses speech bubbles to represent dialogue.
+An object which often features characters with exaggerated physical features.
+An object which uses onomatopoeic words to represent sounds.
+An object which often includes a title and issue number on the cover.
+An object which may have a barcode or price on the cover.
+An object which often includes a credits page with the names of the writers, artists, and editors.
+An object which may contain advertisements for other comic books or related merchandise.
+An object which may include a letters page where the comic book creators respond to reader feedback.
+An object which may contain a cliffhanger at the end, leading into the next issue.
+An object which may include a recap page summarizing previous events in the story.
+An object which may feature a variety of genres, from superheroes to horror to science fiction.
+An object which may include a copyright notice and publication date.
+An object which may contain a publisher's logo on the cover.
+An object which may include a rating or age recommendation.
+An object which may feature variant covers, with different artwork on the cover for the same issue.
+An object which may include bonus content, such as character profiles or behind-the-scenes artwork.
+An object which may be part of a larger series or storyline, indicated by part numbers or chapter headings.
+An object which may be collected in larger volumes or graphic novels.

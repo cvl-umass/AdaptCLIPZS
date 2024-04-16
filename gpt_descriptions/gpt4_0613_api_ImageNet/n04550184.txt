@@ -1,0 +1,20 @@
+An object which is typically a tall, rectangular piece of furniture.
+An object which has one or more doors on the front.
+An object which contains shelves, drawers, or bars for hanging clothes.
+An object which is often made of wood, metal, or plastic.
+An object which is usually found in bedrooms or dressing rooms.
+An object which may have mirrors attached to its doors.
+An object which may have handles or knobs on its doors for opening and closing.
+An object which may have a lock and key for securing its contents.
+An object which may be freestanding or built into a wall.
+An object which may have a foot or base at the bottom.
+An object which may have decorative elements such as carvings or moldings.
+An object which may have a back panel, often made of the same material as the rest of the piece.
+An object which may have a top surface that can also be used for storage or display.
+An object which may have internal lighting to illuminate its contents.
+An object which may have sliding doors instead of hinged ones.
+An object which may have compartments or sections for different types of clothing or accessories.
+An object which may have a finish or paint to enhance its appearance.
+An object which may have a vent or air holes to prevent moisture build-up.
+An object which may have a depth sufficient to hang clothes without them touching the back.
+An object which may have adjustable shelves or rods to accommodate different sizes and types of clothing.

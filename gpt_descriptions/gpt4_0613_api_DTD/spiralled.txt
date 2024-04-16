@@ -1,0 +1,10 @@
+A texture which displays a continuous, circular pattern.
+A texture which has a series of concentric circles or curves.
+A texture which shows a pattern that appears to move in a clockwise or counterclockwise direction.
+A texture which has a pattern that seems to twist or rotate around a central point.
+A texture which exhibits a pattern that appears to be drawn out from a central point in a coiling or convoluted manner.
+A texture which has a pattern that seems to wind in a continuous and gradually widening (or tightening) path.
+A texture which shows a pattern that appears to loop or curl around itself.
+A texture which has a pattern that seems to spiral outwards or inwards.
+A texture which exhibits a pattern that appears to be a series of arcs or curves radiating from a central point.
+A texture which has a pattern that seems to be a sequence of lines or shapes that follow a spiral path.

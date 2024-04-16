@@ -1,0 +1,20 @@
+An object which has a cylindrical or semi-cylindrical shape.
+An object which has a handle on one side.
+An object which is hollow and open at the top.
+An object which is typically made of ceramic, glass, or plastic.
+An object which is small enough to be held in one hand.
+An object which may have a saucer accompanying it.
+An object which may have a design or logo printed on its surface.
+An object which may have a rim around the top edge.
+An object which may be used to hold liquids.
+An object which may have a base that is smaller than the top.
+An object which may be slightly wider at the top than at the bottom.
+An object which may have a smooth or textured surface.
+An object which may be dishwasher safe.
+An object which may be microwave safe.
+An object which may come in a variety of colors and designs.
+An object which may have a glossy or matte finish.
+An object which may be part of a matching set of dishware.
+An object which may have a lid or cover.
+An object which may be insulated to keep beverages hot or cold.
+An object which may have a certain weight, not too heavy to lift with one hand.

@@ -1,0 +1,10 @@
+An action which involves a person being in a prone position, with their body parallel to the ground.
+An action where the person's hands are placed shoulder-width apart on the ground.
+An action where the person's toes are the only other part of the body, apart from the hands, touching the ground.
+An action where the person's body is kept straight from head to heels.
+An action where the person's arms are bent at the elbows, causing the body to be lowered towards the ground.
+An action where the person's gaze is directed towards the floor, maintaining a neutral neck.
+An action where the person's shoulders are directly above their wrists.
+An action where the person's chest is close to the ground, but not touching it.
+An action where the person's legs and back maintain a rigid form, without any sagging or arching.
+An action where the person's elbows are tucked close to their body, not flared out to the sides.

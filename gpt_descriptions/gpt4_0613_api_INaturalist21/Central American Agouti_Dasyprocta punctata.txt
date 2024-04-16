@@ -1,0 +1,20 @@
+Mammal with a robust, pig-like body.
+Mammal with a grizzled, coarse coat that is typically brown or reddish in color.
+Mammal with a white or pale underbelly.
+Mammal with a small, pointed head and large, rounded ears.
+Mammal with long, slender legs relative to its body size.
+Mammal with hoof-like claws on its feet.
+Mammal with a short, hairless tail.
+Mammal with a body length ranging from 40 to 60 cm, excluding the tail.
+Mammal with a weight ranging from 1.5 to 4 kg.
+Mammal that is often seen standing on its hind legs to reach food.
+Mammal that is often found in habitats ranging from rainforests to savannas in Central America.
+Mammal with a diet primarily consisting of fruits, nuts, and plant material, indicating its role as a seed disperser.
+Mammal that is diurnal, meaning it is active during the day.
+Mammal that is often seen alone or in pairs, indicating its solitary or monogamous behavior.
+Mammal with a characteristic alarm call that sounds like a bark.
+Mammal that is known to bury excess food for later consumption, a behavior known as caching.
+Mammal that is often seen near water sources, as it is a good swimmer.
+Mammal that is often preyed upon by large predators like jaguars and ocelots, indicating its position in the food chain.
+Mammal that is known to build nests in dense vegetation or burrows, indicating its nesting habits.
+Mammal that is not typically found in high altitudes or cold climates.

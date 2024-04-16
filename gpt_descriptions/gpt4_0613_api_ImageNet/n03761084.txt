@@ -1,0 +1,18 @@
+An object which has a rectangular or square box-like shape.
+An object which has a front-facing door with a transparent window.
+An object which has a control panel on the front, often to the right of the door.
+An object which has a digital display, usually part of the control panel.
+An object which has buttons or dials on the control panel for setting time, power level, and cooking mode.
+An object which has a large cavity inside when the door is opened.
+An object which has a rotating glass plate or turntable inside the cavity.
+An object which has ventilation holes or grills, often on the back or sides.
+An object which has a power cord, usually extending from the back.
+An object which is typically found in a kitchen setting.
+An object which is often placed on a countertop or built into kitchen cabinetry.
+An object which may have branding or model information on the front.
+An object which may have safety and usage instructions printed on the back or bottom.
+An object which may have a handle on the door for opening and closing.
+An object which may have a child lock feature indicated on the control panel.
+An object which may have specific function buttons like 'defrost', 'popcorn', 'pizza', etc. on the control panel.
+An object which may have a light inside that illuminates when the door is opened or while it's operating.
+An object which may have a metallic or plastic exterior, often in white, black, or stainless steel color.

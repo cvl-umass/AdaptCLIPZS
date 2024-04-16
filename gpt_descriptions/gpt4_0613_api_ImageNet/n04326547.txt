@@ -1,0 +1,20 @@
+An object which has a rough, uneven surface.
+An object which displays a variety of earthy colors, such as browns, grays, and whites.
+An object which consists of multiple smaller components fitted together without a clear pattern.
+An object which has a solid and sturdy appearance.
+An object which may have moss, lichen, or other small plants growing on it.
+An object which may show signs of weathering or erosion.
+An object which may have cracks or crevices between the smaller components.
+An object which may have irregular shapes and sizes of its components.
+An object which may have a texture that appears hard and gritty.
+An object which may have a pattern that resembles a jigsaw puzzle due to the way the smaller components fit together.
+An object which may have a natural, rustic appearance.
+An object which may have a dry or wet appearance depending on the weather conditions.
+An object which may have a cool tone under sunlight and a warm tone under artificial light.
+An object which may have a matte finish, without any shine or gloss.
+An object which may have a heavy and dense appearance.
+An object which may have a non-uniform thickness.
+An object which may have a surface that is not smooth to the touch.
+An object which may have a surface that is not reflective.
+An object which may have a surface that is resistant to scratches.
+An object which may have a surface that is resistant to heat.

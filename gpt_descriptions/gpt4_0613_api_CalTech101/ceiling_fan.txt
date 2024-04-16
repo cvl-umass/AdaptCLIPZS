@@ -1,0 +1,20 @@
+An object which has multiple flat blades radiating from a central hub.
+An object which is typically mounted on the ceiling.
+An object which rotates around a fixed axis to circulate air.
+An object which often includes a lighting fixture in the center.
+An object which may have a chain or string hanging down for manual control.
+An object which may have a remote control for operation.
+An object which may have variable speed settings.
+An object which can rotate in both clockwise and counter-clockwise directions.
+An object which may have blades of different colors, sizes, and materials.
+An object which may have decorative elements on the blades or central hub.
+An object which may have a protective cage or grill around the blades.
+An object which may have a motor housing attached to the ceiling with a downrod.
+An object which may have a flush mount design for low ceilings.
+An object which may have energy-saving features like LED lights or DC motors.
+An object which may have a reversible airflow function for different seasons.
+An object which may have a damp or wet rating for outdoor use.
+An object which may have a sleek, modern design or a traditional, ornate design.
+An object which may have a specific number of blades, typically between three and five.
+An object which may have a specific blade pitch for optimal air movement.
+An object which may have a specific size or diameter, typically between 36 and 60 inches.

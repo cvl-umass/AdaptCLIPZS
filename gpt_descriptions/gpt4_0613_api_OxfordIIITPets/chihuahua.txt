@@ -1,0 +1,13 @@
+A pet which has a small size, typically weighing no more than 6 pounds.
+A pet which has a rounded, apple-shaped head.
+A pet which has large, round eyes that are dark or ruby in color.
+A pet which has ears that are large and stand erect.
+A pet which has a short, pointed muzzle.
+A pet which has a body that is slightly longer than it is tall.
+A pet which has a tail that is long and either curled over the back or carried in a loop.
+A pet which has a coat that can be either short and smooth or long and soft.
+A pet which has a variety of coat colors, including fawn, black, white, chocolate, and many others.
+A pet which has a fast, prancing gait.
+A pet which has a compact muscular body.
+A pet which has a soft spot on the top of the skull, known as a 'molera'.
+A pet which has a lifespan typically ranging from 14 to 16 years.

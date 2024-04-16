@@ -1,0 +1,15 @@
+An object which has a large body with a muscular build.
+An object which has a short, sleek coat with a base color ranging from pale yellow to deep gold or tawny.
+An object which is covered in black spots grouped in rosettes, with a spot at the center.
+An object which has a long tail, almost as long as its body, with a white underside.
+An object which has a small, rounded head with a powerful jaw.
+An object which has ears that are medium-sized and rounded, set wide apart on the head.
+An object which has eyes that are light green or yellow.
+An object which has a white belly and the inside of the legs.
+An object which has a distinctive 'M' shape marking on the back of the ears.
+An object which has black lines running from the inner corners of the eyes down the sides of the nose to the mouth.
+An object which has retractable claws and large paws for its size.
+An object which has a body length ranging from 3.5 to 6.25 ft, and a tail length of 25.5 to 39 inches.
+An object which has a shoulder height of 21 to 31 inches.
+An object which has a weight ranging from 66 to 200 pounds, depending on sex and geographical location.
+An object which has a white patch on the back of the ears and a black tip on the tail.

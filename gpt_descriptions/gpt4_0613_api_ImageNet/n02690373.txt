@@ -1,0 +1,20 @@
+An object which has a long cylindrical body with a rounded nose.
+An object which has large wings attached to the middle or lower part of the body.
+An object which has a tail fin at the rear end, often with additional horizontal stabilizers.
+An object which has multiple large engines, usually located under the wings or at the rear of the body.
+An object which has a row of windows along the length of the body.
+An object which has landing gear with wheels, visible at the bottom when not in flight.
+An object which has a logo or airline name usually painted on the tail or body.
+An object which has a cockpit with multiple windows at the front of the body.
+An object which has a door or multiple doors on the side of the body for passenger entry and exit.
+An object which has a distinct color scheme or livery, often unique to the airline.
+An object which has winglets or sharklets at the tip of the wings, in some modern designs.
+An object which has a fuselage that is wider in the front and narrows towards the tail, in wide-body airliners.
+An object which has a hump or second deck at the front of the body, in some large airliners like the Boeing 747.
+An object which has a T-tail with horizontal stabilizers mounted at the top of the vertical fin, in some regional and commuter aircraft.
+An object which has propellers, in turboprop airliners.
+An object which has a cargo door, in freighter versions of airliners.
+An object which has an antenna or multiple antennas, usually located on the top or bottom of the body.
+An object which has emergency exit markings or signs on the outside, near the doors or windows.
+An object which has a registration number, usually located at the rear of the body.
+An object which has a pitot tube or multiple pitot tubes, usually located on the nose or under the cockpit windows.

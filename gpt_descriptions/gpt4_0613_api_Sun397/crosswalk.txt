@@ -1,0 +1,15 @@
+A scene which features parallel white lines painted on the road.
+A scene which includes pedestrian signals at the corners of the intersection.
+A scene which has a sign indicating pedestrian crossing.
+A scene which shows a button for pedestrians to press to activate the walk signal.
+A scene which displays a ramp leading up to the crosswalk, indicating accessibility for wheelchairs.
+A scene which presents a zebra pattern on the road, especially in some countries.
+A scene which includes traffic lights or stop signs nearby.
+A scene which shows people standing or walking across the road within the marked lines.
+A scene which features a school or hospital nearby, as crosswalks are often located near these places.
+A scene which shows a road intersection or junction.
+A scene which includes a sidewalk leading up to the crosswalk.
+A scene which displays a distinct change in road texture or color at the pedestrian crossing area.
+A scene which shows cars stopped before the white lines, indicating a crosswalk.
+A scene which features a crosswalk guard or crossing guard, especially near schools.
+A scene which includes yellow flashing lights indicating a pedestrian crossing, especially in school zones.

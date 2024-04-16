@@ -1,0 +1,17 @@
+An object which has a long body and short legs.
+An object which has a large, domed head with a prominent occiput.
+An object which has a skin that is loose and elastic.
+An object which has a dense, smooth, short and hard coat.
+An object which has a coat that is tri-colored (black, white, and brown) or bi-colored (any two of these colors).
+An object which has long, low-set ears that reach at least to the end of its snout when drawn forward.
+An object which has a deep chest and heavy bone structure.
+An object which has a tail that is slightly curved and carried high.
+An object which has a melancholic or sad expression.
+An object which has a prominent haw, which is the third eyelid that can be seen in the inner corner of the eye.
+An object which has a large nose with wide nostrils.
+An object which has a prominent dewlap, which is the loose, elastic skin around the neck.
+An object which has a height at the withers from 10 to 15 inches.
+An object which has a weight typically between 40 and 65 pounds.
+An object which has a gait that is deliberate and plodding, not springy or agile.
+An object which has a muscular body despite its short stature.
+An object which has a slightly sunken and dark eyes, giving a thoughtful expression.

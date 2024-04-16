@@ -1,0 +1,20 @@
+An object which has a series of keys arranged in a QWERTY layout.
+An object which has keys labeled with letters, numbers, and special characters.
+An object which has a space bar at the bottom center.
+An object which has a carriage return lever on the left or right side.
+An object which has a shift key that is larger than most other keys.
+An object which has a tab key on the left side.
+An object which has a backspace key on the right side.
+An object which has keys that are mechanically linked to type bars.
+An object which has a ribbon selector switch.
+An object which has a platen (roller) at the top.
+An object which has a margin set and release keys.
+An object which has a bell that rings near the end of a line of text.
+An object which has a key for each character that strikes a ribbon to print.
+An object which has a casing, often metallic, that houses the entire mechanism.
+An object which has a key lock for uppercase and lowercase letters.
+An object which has a line spacing selector.
+An object which has a paper guide and paper release lever.
+An object which has a ribbon reverse mechanism.
+An object which has a type guide where the type bars strike against.
+An object which has a touch selector to adjust the pressure needed to press the keys.

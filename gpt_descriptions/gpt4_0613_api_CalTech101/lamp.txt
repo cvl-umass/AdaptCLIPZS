@@ -1,0 +1,20 @@
+An object which emits light.
+An object which has a bulb or light source.
+An object which has a power cord or battery compartment.
+An object which has a switch or button for turning on and off.
+An object which has a shade or cover to diffuse light.
+An object which has a base or stand for stability.
+An object which is often placed on tables, desks, or floors.
+An object which may have an adjustable arm or neck.
+An object which may be made of materials like metal, glass, plastic, or ceramic.
+An object which may come in various shapes and sizes.
+An object which may have decorative elements or patterns.
+An object which may have a vintage, modern, or contemporary design.
+An object which may be part of a matching set of furniture or decor.
+An object which may have a specific theme, such as nautical, rustic, or industrial.
+An object which may be designed for specific uses, such as reading, crafting, or outdoor lighting.
+An object which may have additional features like a USB port, a dimmer, or a timer.
+An object which may be portable or fixed in one place.
+An object which may be designed to hang from the ceiling or wall.
+An object which may have a protective cover over the bulb or light source.
+An object which may have a specific brand or manufacturer's mark.

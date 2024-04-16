@@ -1,0 +1,10 @@
+A texture which has a series of holes or openings in a regular or irregular pattern.
+A texture which shows a surface that is not completely solid or smooth, but has visible punctures.
+A texture which displays a pattern of voids or gaps, often in a grid or array.
+A texture which exhibits a surface where light can pass through certain areas due to openings.
+A texture which has a surface that may allow air or liquids to pass through due to its perforations.
+A texture which may have a tactile feel of roughness or unevenness due to the presence of holes.
+A texture which may show a contrast between the material of the surface and the empty spaces created by the perforations.
+A texture which may have a pattern of raised edges around the perforations, depending on the material and the method used to create the holes.
+A texture which may show signs of deformation or stress around the perforations, especially if the material is soft or pliable.
+A texture which may have a varying degree of transparency or translucency, depending on the size and density of the perforations.

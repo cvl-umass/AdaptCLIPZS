@@ -1,0 +1,20 @@
+A plant which is native to New Zealand.
+A plant which can be found in lowland to montane forests.
+A plant which thrives in the North Island and the northern half of the South Island.
+A plant which can be found in the Marlborough Sounds.
+A plant which is commonly found in the Wellington region.
+A plant which can be seen in the Westland and Canterbury regions.
+A plant which grows in the Nelson and Tasman regions.
+A plant which is often found in the Auckland and Northland regions.
+A plant which can be found in the Taranaki region.
+A plant which is typically found in the Waikato and Bay of Plenty regions.
+A plant which can be found in the Gisborne and Hawke's Bay regions.
+A plant which is often seen in the Manawatu-Wanganui and Wellington regions.
+A plant which can be found in the Marlborough, Nelson, and West Coast regions.
+A plant which is typically found in the Canterbury and Otago regions.
+A plant which can be found in the Southland region.
+A plant which is often seen in the Chatham Islands.
+A plant which can be found in the subalpine to alpine zones.
+A plant which is typically found in the coastal to lowland forest zones.
+A plant which can be found in the montane to subalpine forest zones.
+A plant which is often seen in the scrub and shrubland zones.

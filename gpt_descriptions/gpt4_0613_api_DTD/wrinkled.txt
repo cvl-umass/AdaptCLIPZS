@@ -1,0 +1,10 @@
+A texture which has irregular, uneven surfaces.
+A texture which displays a pattern of creases or folds.
+A texture which has a non-uniform, random pattern.
+A texture which shows a series of lines, ridges, or grooves.
+A texture which lacks smoothness or flatness.
+A texture which has a three-dimensional quality due to the presence of raised and lowered areas.
+A texture which may resemble crumpled paper or fabric.
+A texture which has a tactile quality, appearing as though it would feel rough or bumpy to the touch.
+A texture which may have a visual similarity to aged or weathered surfaces.
+A texture which may appear to have a lack of firmness or elasticity.

@@ -1,0 +1,20 @@
+A satellite image which shows long, linear structures that may be straight or curved.
+A satellite image which displays clear, consistent paths cutting through various types of terrain.
+A satellite image which reveals structures with uniform width extending over large distances.
+A satellite image which presents distinct color contrasts between the path (road) and the surrounding landscape.
+A satellite image which shows paths that connect different populated areas or points of interest.
+A satellite image which exhibits junctions, intersections, or roundabouts.
+A satellite image which displays paths that may cross over bodies of water via bridges.
+A satellite image which reveals paths that tunnel through mountains or hills.
+A satellite image which shows paths that may have adjacent structures such as toll booths, rest areas, or gas stations.
+A satellite image which presents paths that may be surrounded by barriers or medians.
+A satellite image which exhibits paths that may have parallel lines indicating multiple lanes.
+A satellite image which shows paths that may have adjacent parking lots or service areas.
+A satellite image which reveals paths that may be accompanied by street lights or signs.
+A satellite image which displays paths that may have adjacent greenery or landscaping.
+A satellite image which presents paths that may have adjacent pedestrian or bicycle paths.
+A satellite image which shows paths that may have adjacent railway lines or airports.
+A satellite image which reveals paths that may have adjacent buildings or residential areas.
+A satellite image which exhibits paths that may have adjacent industrial areas or factories.
+A satellite image which shows paths that may have adjacent agricultural fields or forests.
+A satellite image which displays paths that may have adjacent bodies of water or coastal lines.

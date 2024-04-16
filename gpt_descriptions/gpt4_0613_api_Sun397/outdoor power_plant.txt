@@ -1,0 +1,20 @@
+A scene which features large, industrial buildings with numerous pipes and chimneys.
+A scene which includes high-voltage power lines and towers.
+A scene which displays large cooling towers, often in a conical shape, emitting steam.
+A scene which shows a large body of water nearby, used for cooling purposes.
+A scene which contains large, cylindrical storage tanks.
+A scene which features heavy machinery and equipment, such as turbines and generators.
+A scene which includes a fenced or guarded perimeter, indicating a restricted area.
+A scene which shows a large, open area with minimal vegetation, often in a remote location.
+A scene which displays signs of pollution, such as smoke or smog.
+A scene which includes a control building or operations center.
+A scene which shows a coal or gas supply, if it's a thermal power plant.
+A scene which features a dam or flowing water, if it's a hydroelectric power plant.
+A scene which includes large arrays of solar panels, if it's a solar power plant.
+A scene which shows large wind turbines, if it's a wind power plant.
+A scene which displays a nuclear symbol or dome-shaped reactor buildings, if it's a nuclear power plant.
+A scene which includes signage or labels related to energy production or safety warnings.
+A scene which shows workers in safety gear, such as hard hats and high-visibility vests.
+A scene which features a railway or conveyor system for transporting fuel or waste.
+A scene which includes large transformers or substations.
+A scene which shows a large amount of electrical infrastructure, such as switchyards or circuit breakers.

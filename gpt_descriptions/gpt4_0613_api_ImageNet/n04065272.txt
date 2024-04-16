@@ -1,0 +1,20 @@
+An object which has a large, boxy shape similar to a bus or a large van.
+An object which has windows along the sides, similar to a bus.
+An object which often has a door on the side, similar to a home entrance.
+An object which may have an extendable awning on one side.
+An object which may have a ladder on the back leading to the roof.
+An object which may have a towing hitch or platform at the rear.
+An object which may have rooftop accessories like air conditioning units, solar panels, or satellite dishes.
+An object which may have slide-out sections to increase interior space when parked.
+An object which may have a logo or name of a recreational vehicle manufacturer.
+An object which may have storage compartments accessible from the outside.
+An object which may have external hookups for utilities like water, electricity, and sewage.
+An object which may have a large front windshield, similar to a bus or a truck.
+An object which may have a license plate, similar to other road vehicles.
+An object which may have wheels covered by fender skirts.
+An object which may have a raised driving cab, similar to a truck.
+An object which may have a generator compartment.
+An object which may have a propane gas tank storage.
+An object which may have a rooftop vent or skylight.
+An object which may have a rearview or backup camera.
+An object which may have leveling jacks beneath the vehicle.

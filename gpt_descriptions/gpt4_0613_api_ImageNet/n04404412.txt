@@ -1,0 +1,20 @@
+An object which has a large rectangular screen.
+An object which has buttons or dials on the front or side.
+An object which has ports or slots on the back or side for connecting cables.
+An object which has a brand logo on the front, usually below or above the screen.
+An object which has a flat base or a stand for support.
+An object which has a remote control associated with it.
+An object which has speakers integrated into the design, usually on the sides or bottom of the screen.
+An object which has a power cord extending from the back or bottom.
+An object which has a thin, flat design if it's a modern version.
+An object which has a bulky, box-like design if it's an older version.
+An object which has a curved screen if it's a high-end modern version.
+An object which has LED, LCD, Plasma, or OLED mentioned on it, indicating the type of display technology used.
+An object which has a frame around the screen, which can be slim or wide.
+An object which has a digital interface displayed on the screen when turned on.
+An object which has an antenna or satellite connection point at the back.
+An object which has a smart interface with apps displayed on the screen if it's a smart TV.
+An object which has a 3D logo or glasses associated with it if it's a 3D TV.
+An object which has a camera on top or built into the frame if it's a smart TV with video calling features.
+An object which has a wall-mounting bracket or holes at the back for wall mounting.
+An object which has a glossy or matte finish on the screen.

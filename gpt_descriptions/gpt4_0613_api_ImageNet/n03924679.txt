@@ -1,0 +1,20 @@
+An object which has a large, box-like structure, often standing on the floor.
+An object which features a flat glass surface, typically on the top, where documents are placed for scanning.
+An object which has a paper tray or multiple paper trays for holding sheets of paper.
+An object which has a control panel with buttons for various functions such as start, stop, and number of copies.
+An object which has a display screen, often LCD, to show the status of the copying process.
+An object which has a slot or tray where the copied documents are ejected.
+An object which has a lid that can be lifted to place a document on the glass surface for scanning.
+An object which may have additional features like a document feeder on top for scanning multiple pages.
+An object which may have ports for connecting to a computer or network.
+An object which may have branding or model information on the front or side.
+An object which may have a toner cartridge compartment, usually accessible from the front or side.
+An object which may have a power cord and switch at the back or side.
+An object which may have wheels at the bottom for easy movement.
+An object which may have additional features like a stapler or hole puncher.
+An object which may have a warning label about exposure to laser light.
+An object which may have a maintenance or service panel, usually at the back or side.
+An object which may have a USB port for direct printing from flash drives.
+An object which may have a slot for inserting envelopes or other special paper types.
+An object which may have a color or black and white selection option on the control panel.
+An object which may have a numeric keypad for entering the number of copies or a password.

@@ -1,0 +1,20 @@
+An object which has a large, flat, paddle-shaped tail.
+An object which has a robust body with a short neck.
+An object which has small, rounded ears.
+An object which has webbed hind-feet.
+An object which has brown or blackish fur.
+An object which has sharp, large, orange-colored front teeth.
+An object which has a blunt, rounded snout.
+An object which has small, black eyes.
+An object which has a size comparable to a small dog.
+An object which has fur that is dense and waterproof.
+An object which has front paws that are dexterous and used for digging and handling food.
+An object which has a body that appears to be hunched or arched when walking or running.
+An object which has a slow, waddling gait on land but is agile in water.
+An object which has a fur color that can range from yellow-brown to dark brown.
+An object which has a split between its toes to aid in swimming.
+An object which has a nose and ears that can close while underwater.
+An object which has a white patch of fur on its chest.
+An object which has a body shape that is streamlined for swimming.
+An object which has a thick layer of fat under its skin for insulation in cold water.
+An object which has a tail that is used as a rudder when swimming.

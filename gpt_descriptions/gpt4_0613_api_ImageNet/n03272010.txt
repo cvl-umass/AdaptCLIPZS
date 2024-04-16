@@ -1,0 +1,20 @@
+An object which has a long, narrow neck with frets.
+An object which has a larger body, often solid, semi-hollow, or hollow.
+An object which has six strings typically made of steel.
+An object which has tuning pegs at the top of the neck.
+An object which has pickups, usually one to three, located near the center of the body.
+An object which has a bridge near the bottom of the body where the strings are attached.
+An object which has a jack for connecting to an amplifier.
+An object which has volume and tone control knobs.
+An object which has a pickguard to protect the body from scratches.
+An object which may have a whammy bar for bending notes.
+An object which may have inlays or markers on the neck for visual guidance.
+An object which may have a unique body shape, such as the Stratocaster or Les Paul style.
+An object which may have a distinctive headstock shape, often associated with a specific manufacturer.
+An object which may have a cutaway in the body to allow easier access to higher frets.
+An object which may have a specific color or finish, such as sunburst, natural wood, or solid color.
+An object which may have a specific type of wood used for the body, neck, and fretboard, such as maple, mahogany, or rosewood.
+An object which may have a specific type of pickup, such as single-coil or humbucker.
+An object which may have a specific number of frets, typically between 21 and 24.
+An object which may have a specific type of bridge, such as a fixed bridge or a tremolo bridge.
+An object which may have a specific type of tuning system, such as standard tuning pegs or a locking tuning system.

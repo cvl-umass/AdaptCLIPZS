@@ -1,0 +1,15 @@
+An object which has a streamlined, aerodynamic shape for efficient travel through the air.
+An object which has a pointed nose, often conical or ogival in shape.
+An object which has stabilizing fins or wings towards the rear end.
+An object which has a cylindrical body, often with a tapering rear end.
+An object which may have visible exhaust ports or nozzles at the back for propulsion.
+An object which may have visible markings or insignia, often indicating its country of origin or manufacturer.
+An object which may have sections or stages, indicating a multi-stage design.
+An object which may have a payload section, often located at the front, which could be designed to carry explosives, chemical, biological, or nuclear warheads.
+An object which may have visible control surfaces or guidance systems, such as antennas or sensors.
+An object which may have a launch platform or a launch tube, especially in the case of ground-to-air or ship-to-air missiles.
+An object which may have visible fuel tanks or rocket motors, especially in the case of larger, long-range missiles.
+An object which may have a protective casing or cover, especially in the case of stored or transported missiles.
+An object which may have visible wiring or electronic components, indicating a guidance or control system.
+An object which may be seen in the context of military equipment or facilities, such as on a launch pad, in a missile silo, or on a military vehicle.
+An object which may be seen in flight, leaving a visible exhaust trail or contrail behind it.

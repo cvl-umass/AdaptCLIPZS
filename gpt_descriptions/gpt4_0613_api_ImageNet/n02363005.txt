@@ -1,0 +1,20 @@
+An object which has a large, flat, paddle-shaped tail.
+An object which has a robust body with a rounded head.
+An object which has small, rounded ears.
+An object which has brown or black fur.
+An object which has webbed hind-feet.
+An object which has large, sharp, front teeth that are orange in color.
+An object which has a size ranging from 29 to 35 inches in length, excluding the tail.
+An object which has a weight ranging from 24 to 71 pounds.
+An object which has a tail that can be up to 14 inches long.
+An object which has a fur that is dense and waterproof.
+An object which has eyes that are small and black.
+An object which has a nose that is black and leathery.
+An object which has front paws that are dexterous and used for handling food.
+An object which has a slow, waddling gait on land but is an agile swimmer.
+An object which has a lifespan of up to 24 years in the wild.
+An object which is typically found near bodies of water, like rivers, lakes, ponds, and streams.
+An object which is known for building dams, canals, and lodges.
+An object which is primarily nocturnal.
+An object which is a herbivore, feeding on tree bark, aquatic plants, grasses, and roots.
+An object which is a keystone species, playing a crucial role in its ecosystem.

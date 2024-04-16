@@ -1,0 +1,15 @@
+An object which has a round face with full cheeks.
+An object which has large, round eyes that are wide set and can be of any color.
+An object which has a short, broad nose with a pronounced stop.
+An object which has small, round-tipped ears that are set wide apart.
+An object which has a strong, muscular body with a broad chest.
+An object which has a short, thick neck.
+An object which has short, sturdy legs with large, round, firm paws.
+An object which has a bushy tail that is in proportion to its body size.
+An object which has a long, thick, and silky coat with a fine texture.
+An object which has a ruff around the neck, a deep frill between the front legs, long ear and toe tufts.
+An object which has a coat that can be of any color or pattern.
+An object which has a unique "doll face" or "peke-face" (extreme) look.
+An object which has a size ranging from medium to large.
+An object which has a weight ranging from 7 to 12 pounds.
+An object which has a lifespan of 10-15 years.

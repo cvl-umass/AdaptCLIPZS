@@ -1,0 +1,29 @@
+An object which has a lens at the front.
+An object which has a flash unit.
+An object which has a viewfinder to look through.
+An object which has a shutter release button.
+An object which has a mode dial to select different shooting modes.
+An object which has a LCD screen at the back.
+An object which has a battery compartment.
+An object which has a memory card slot.
+An object which has a tripod mount at the bottom.
+An object which has a brand logo or name on it.
+An object which has a strap for carrying.
+An object which has a focus ring around the lens.
+An object which has a zoom control.
+An object which has a lens cap.
+An object which has a hot shoe mount for attaching external accessories.
+An object which has a USB or other type of port for data transfer.
+An object which has a self-timer button.
+An object which has a manual focus switch.
+An object which has a lens release button.
+An object which has a depth-of-field preview button.
+An object which has a diopter adjustment for the viewfinder.
+An object which has a grip for holding.
+An object which has a built-in microphone and speaker.
+An object which has a date and time setting.
+An object which has a Wi-Fi or Bluetooth connectivity symbol.
+An object which has a specific shape, size, and color.
+An object which has a specific weight.
+An object which has a specific model number.
+An object which has a specific serial number.

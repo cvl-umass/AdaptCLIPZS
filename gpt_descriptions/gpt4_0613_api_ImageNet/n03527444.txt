@@ -1,0 +1,19 @@
+An object which has a shape designed to snugly fit a specific type of firearm.
+An object which is typically made of leather, nylon, or plastic.
+An object which may have a strap or snap to secure the firearm.
+An object which may have a loop or clip to attach to a belt or waistband.
+An object which may have additional pockets or compartments for ammunition or other accessories.
+An object which may be designed to be worn on various parts of the body, such as the hip, chest, or ankle.
+An object which may have a cant or tilt for easier draw of the firearm.
+An object which may be designed for either right-handed or left-handed use.
+An object which may have a thumb break for added security.
+An object which may have a molded or semi-molded design to fit the contours of a specific firearm.
+An object which may have a smooth interior to prevent scratching the firearm.
+An object which may have a tension screw to adjust the fit of the firearm.
+An object which may be open or closed at the muzzle end.
+An object which may have a sweat shield to protect the firearm from body moisture.
+An object which may have a trigger guard for safety.
+An object which may be designed to conceal the firearm, or to display it openly.
+An object which may have a retention system to prevent the firearm from being accidentally dislodged.
+An object which may be designed to allow for quick and easy access to the firearm.
+An object which may be designed for specific types of firearms, such as revolvers, semi-automatic pistols, or small derringers.

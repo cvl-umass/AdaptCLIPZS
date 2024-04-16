@@ -1,0 +1,20 @@
+A food with a round shape and a hole in the middle.
+A food with a glazed or frosted surface.
+A food with a variety of toppings such as sprinkles, nuts, or coconut shavings.
+A food with a soft and fluffy texture visible in a cross-section view.
+A food with a shiny or glossy appearance due to a sugar glaze.
+A food with a cream or jelly filling visible in a cross-section view.
+A food with a dusting of powdered sugar on top.
+A food with a chocolate coating or frosting.
+A food with a uniform, golden-brown color.
+A food with a size that fits comfortably in one hand.
+A food with a visible yeast-raised dough if it's a yeast donut.
+A food with a cake-like texture visible in a cross-section view if it's a cake donut.
+A food with a twisted or braided shape if it's a cruller donut.
+A food with a rectangular shape with no hole if it's a long john donut.
+A food with a green, red, or other brightly colored frosting for festive occasions.
+A food with a heart shape or other novelty shapes for special occasions.
+A food with a cinnamon or sugar coating.
+A food with a visible layer of apple, cherry, or other fruit fillings if it's a filled donut.
+A food with a visible bacon topping if it's a bacon donut.
+A food with a visible layer of custard or cream if it's a Boston cream donut.

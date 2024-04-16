@@ -1,0 +1,15 @@
+An object which has a circular dial with numbers from 0 to 9.
+An object which has a series of rotating discs or cams.
+An object which has a small, rectangular metal loop, known as a shackle.
+An object which requires a specific sequence of numbers to open.
+An object which has a compact, typically cylindrical body.
+An object which is often made of durable materials like metal or hard plastic.
+An object which is small enough to be held in one hand.
+An object which does not require a key to open.
+An object which is often used to secure lockers, gates, or storage boxes.
+An object which may have a brand name or logo on its front or back.
+An object which may have a small slot for resetting the combination.
+An object which may have arrows or other indicators to assist with dialing the correct combination.
+An object which may have a rubber or plastic coating for comfort and grip.
+An object which may have a hardened steel shackle for extra security.
+An object which may have a visible seam where the body and shackle meet when locked.

@@ -1,0 +1,20 @@
+An aircraft with two engines mounted under the wings.
+An aircraft with a single aisle in the cabin.
+An aircraft with a rounded nose.
+An aircraft with a tail cone that ends in a point.
+An aircraft with wingtip fences on the end of the wings.
+An aircraft with a length of approximately 111 feet.
+An aircraft with a wingspan of approximately 111 feet.
+An aircraft with a height of approximately 38 feet.
+An aircraft with a capacity of around 124 to 156 passengers.
+An aircraft with four cabin doors, two at the front and two at the rear.
+An aircraft with a T-tail, where the horizontal stabilizer is mounted on top of the vertical stabilizer.
+An aircraft with a circular cross-section of the fuselage.
+An aircraft with a relatively short body compared to other members of the same family.
+An aircraft with a high-mounted wing design.
+An aircraft with a relatively low ground clearance.
+An aircraft with a uniform, cylindrical fuselage from nose to tail.
+An aircraft with a cockpit window design that includes six windows.
+An aircraft with a relatively small diameter of the engine nacelles.
+An aircraft with a landing gear configuration of two main wheels on each gear.
+An aircraft with a relatively small distance between the two engines.

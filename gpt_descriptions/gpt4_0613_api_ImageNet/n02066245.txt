@@ -1,0 +1,16 @@
+An object which has a mottled, dark to light grey coloration.
+An object which has a streamlined body with a narrow, tapered head.
+An object which has a dorsal hump followed by a series of six to twelve knuckles or bumps.
+An object which lacks a dorsal fin.
+An object which has two blowholes on top of its head, producing a distinctive heart-shaped blow.
+An object which has baleen plates for filtering food from water, visible when its mouth is open.
+An object which has flippers that are paddle-shaped.
+An object which has a fluke, or tail, that is broad, triangular, and deeply notched in the middle.
+An object which has patches of barnacles and whale lice on its skin.
+An object which has a length of approximately 12 to 15 meters for adults.
+An object which has a body that is covered in a layer of blubber for insulation.
+An object which shows a behavior of breaching, where it leaps out of the water and then falls back in with a splash.
+An object which shows a behavior of spyhopping, where it raises its head vertically out of the water.
+An object which shows a behavior of lobtailing, where it slaps its fluke on the water surface.
+An object which is often seen alone or in small groups.
+An object which is found in the Pacific Ocean, particularly near the coasts of North America and Asia.

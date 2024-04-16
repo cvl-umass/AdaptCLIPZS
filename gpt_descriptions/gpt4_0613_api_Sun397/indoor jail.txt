@@ -1,0 +1,20 @@
+A scene which features barred doors or windows.
+A scene which includes uniformed officers or guards.
+A scene which displays individuals in matching uniforms, often orange or striped.
+A scene which contains small, sparse rooms with minimal furniture.
+A scene which shows metal beds with thin mattresses.
+A scene which has high, secured fences or walls.
+A scene which includes surveillance cameras or other security equipment.
+A scene which features a common area with tables and benches.
+A scene which displays a lack of personal belongings or decorations.
+A scene which shows a cafeteria-like setting with trays of food.
+A scene which includes handcuffs, batons, or other law enforcement tools.
+A scene which features a visiting area with glass partitions and telephones.
+A scene which contains a room with multiple phones on the wall for inmates to use.
+A scene which shows a room with lockers or storage for personal items.
+A scene which includes signage with rules or regulations.
+A scene which displays a controlled environment with limited access to the outside world.
+A scene which features a room with a desk and a computer, indicating an administrative area.
+A scene which shows a medical facility within the premises.
+A scene which includes a recreational area with exercise equipment or a basketball court.
+A scene which displays a library-like setting with shelves of books.

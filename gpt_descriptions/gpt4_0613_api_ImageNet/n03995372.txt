@@ -1,0 +1,20 @@
+An object which has a cylindrical body, often with a grip or handle.
+An object which has a long, pointed end, typically a drill bit, that is used for making holes.
+An object which has a trigger-like mechanism near the handle, used to control the speed of rotation.
+An object which may have a power cord or may be cordless, indicating it is battery-powered.
+An object which has a chuck at the front, used to hold the drill bit in place.
+An object which may have a torque adjustment ring, allowing the user to adjust the force of the drill.
+An object which may have a forward/reverse switch, allowing the direction of drilling to be changed.
+An object which may have a secondary handle or depth rod, for additional control and precision.
+An object which may have ventilation slots, to prevent overheating during use.
+An object which may have a light, to illuminate the work area.
+An object which may have a belt hook or clip, for easy carrying and storage.
+An object which may have a battery pack at the bottom, if it is a cordless model.
+An object which may have a brand logo or name, indicating the manufacturer.
+An object which may have a keyless or keyed chuck, the latter requiring a tool to tighten or loosen the drill bit.
+An object which may have a hammer function, for drilling into hard materials like concrete or masonry.
+An object which may have a gearbox, to adjust the speed and torque of the drill.
+An object which may have a brushless motor, for increased efficiency and durability.
+An object which may have a soft grip, for comfort during use.
+An object which may have a battery indicator, to show the remaining power.
+An object which may have a carrying case, for storage and transport.

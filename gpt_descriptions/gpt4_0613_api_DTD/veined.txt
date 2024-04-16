@@ -1,0 +1,10 @@
+A texture which displays a pattern of lines or streaks that are different in color or texture from the main color.
+A texture which has a network of lines or streaks crisscrossing each other.
+A texture which has a pattern that resembles the branching structure of trees or blood vessels.
+A texture which has a pattern that is not uniform or consistent throughout.
+A texture which has lines or streaks that are often irregular and can vary in width and length.
+A texture which has a pattern that can be both linear and branching.
+A texture which has a pattern that can be both subtle and pronounced, depending on the material and lighting.
+A texture which has a pattern that can be seen in natural materials like marble, wood, and leaves.
+A texture which has a pattern that can also be artificially created in materials like fabric, paper, and digital images.
+A texture which has a pattern that can be both two-dimensional (on a flat surface) and three-dimensional (with physical ridges and valleys).

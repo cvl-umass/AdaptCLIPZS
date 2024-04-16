@@ -1,0 +1,15 @@
+An object which has a large, flat head with a distinctive pair of upward-curving tusks.
+An object which has a mane running down the spine to the middle of the back.
+An object which has a long, thin, tufted tail.
+An object which has a grey or brown skin, often sparse of hair.
+An object which has a snout that is elongated and ends in a disc-like shape.
+An object which has warts or protective pads on either side of the head.
+An object which has a body size that is relatively large, with males being noticeably larger than females.
+An object which has a pair of sharp, lower canine teeth.
+An object which has small, round ears on the top of its head.
+An object which has a body that is muscular and robust.
+An object which has eyes that are set high on the head.
+An object which has four toes on each foot with hardy hooves.
+An object which has a body length ranging from 0.9 to 1.5 meters and a shoulder height of 0.63 to 0.85 meters.
+An object which has a weight ranging from 50 to 150 kilograms.
+An object which has a lifespan of approximately 12 to 18 years in the wild.

@@ -1,0 +1,15 @@
+An object which has a small, compact body size.
+An object which has a weight range of 11 to 12 pounds.
+An object which has a height range of 9 to 10 inches at the shoulder.
+An object which has a hard, wiry, straight coat.
+An object which has a coat color that can be red, wheaten, black and tan, or grizzle.
+An object which has a longer hair on the neck and shoulders forming a protective ruff.
+An object which has a fox-like face with small, dark, oval-shaped eyes.
+An object which has medium-sized ears that are dropped and set well apart.
+An object which has a strong jaw with a perfect, regular scissor bite.
+An object which has a tail that is medium docked and set high.
+An object which has a lively and gait when moving.
+An object which has a strong, broad back and a deep chest.
+An object which has a lifespan of 12 to 15 years.
+An object which has a strong instinct to dig and hunt.
+An object which has a double coat with a soft, warm undercoat and a harsh, weather-resistant outer coat.

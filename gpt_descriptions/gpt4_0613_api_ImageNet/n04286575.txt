@@ -1,0 +1,20 @@
+An object which has a cylindrical or conical shape.
+An object which has a light source inside it.
+An object which has a reflective interior to focus the light.
+An object which has a lens at the front to further focus the light.
+An object which has a handle or a mounting bracket for positioning.
+An object which has a power cord or battery compartment.
+An object which has a switch or a dial to control the intensity of the light.
+An object which has a filter slot for inserting colored gels or patterns.
+An object which has a narrow beam of light when turned on.
+An object which is often used in theaters, concerts, or photography studios.
+An object which can be mounted on a stand or hung from a structure.
+An object which may have a cooling system such as vents or fans.
+An object which may have a protective casing to prevent damage to the light source.
+An object which may have a safety cable to secure it when hung from a height.
+An object which may have a remote control for adjusting the light from a distance.
+An object which may have a motorized system for moving the light beam.
+An object which may have a dimmer to adjust the brightness of the light.
+An object which may have a shutter system to control the shape of the light beam.
+An object which may have a zoom function to adjust the size of the light beam.
+An object which may have a rotating system to create moving light effects.

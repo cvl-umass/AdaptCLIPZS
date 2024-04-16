@@ -1,0 +1,15 @@
+A scene which features a narrow passageway between or behind buildings.
+A scene which includes brick or concrete walls on both sides.
+A scene which displays a long, straight path leading to a vanishing point.
+A scene which contains dumpsters, trash cans, or other waste disposal items.
+A scene which showcases graffiti or street art on the walls.
+A scene which has fire escapes or back entrances to buildings.
+A scene which includes dim or sparse lighting, often from a single overhead source.
+A scene which features cobblestone or asphalt ground.
+A scene which may have puddles or wet surfaces, indicating recent rain.
+A scene which includes utility lines or pipes running along the walls.
+A scene which may show signs of urban decay, such as peeling paint or crumbling brickwork.
+A scene which may contain stray cats or other urban wildlife.
+A scene which may have parked bicycles or motorcycles.
+A scene which may include back doors of businesses, often with loading docks or delivery areas.
+A scene which may show a narrow sky view due to the high walls of the buildings on either side.

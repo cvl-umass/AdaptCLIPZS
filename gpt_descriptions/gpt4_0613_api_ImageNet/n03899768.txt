@@ -1,0 +1,20 @@
+An object which is an outdoor space generally used for dining or recreation.
+An object which is often paved and adjoins a residence.
+An object which may contain outdoor furniture such as tables, chairs, or loungers.
+An object which may be covered by a pergola or a canopy for shade.
+An object which may have a built-in or portable grill or fire pit.
+An object which may be surrounded by a railing or a low wall.
+An object which may have potted plants or other landscaping elements.
+An object which may have outdoor lighting fixtures for nighttime use.
+An object which may have a hot tub, pool, or other water feature.
+An object which may have a deck made of wood or composite materials.
+An object which may have a stone, brick, or concrete floor.
+An object which may have steps leading up or down to it from the house.
+An object which may have an outdoor rug or mat.
+An object which may have a view of a garden, yard, or other natural scenery.
+An object which may have a dining area with an umbrella for shade.
+An object which may have a built-in outdoor kitchen or bar.
+An object which may have decorative elements such as sculptures, fountains, or wind chimes.
+An object which may have a gazebo or other separate covered area.
+An object which may have a swing or hammock for relaxation.
+An object which may have a sliding door or French doors leading to it from the house.

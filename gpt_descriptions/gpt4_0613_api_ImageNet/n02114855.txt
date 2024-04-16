@@ -1,0 +1,20 @@
+An object which has a slender, elongated body.
+An object which possesses a bushy, black-tipped tail.
+An object which has a pointed, slightly upturned snout.
+An object which displays a coat color that varies from grayish-brown to yellowish-gray.
+An object which has a white fur under its neck and belly.
+An object which has long, slender legs with small feet.
+An object which has large, pointed ears that are wide at the base.
+An object which has a size ranging from 3.2 to 4.3 feet long from head to tail.
+An object which has a weight ranging from 20 to 50 pounds.
+An object which has a pair of yellow or amber-colored eyes.
+An object which has a distinctive howl, often described as a "yip-howl" combination.
+An object which is often seen alone or in small groups.
+An object which is known to be highly adaptable to different environments.
+An object which is often found in North America.
+An object which is known to be primarily nocturnal.
+An object which is an omnivore, eating both meat and plant material.
+An object which is known for its speed and can run up to 40 miles per hour.
+An object which has a lifespan of about 10-14 years in the wild.
+An object which is known to be a skilled swimmer.
+An object which is known to be a good climber, often climbing trees to escape predators or to hunt.

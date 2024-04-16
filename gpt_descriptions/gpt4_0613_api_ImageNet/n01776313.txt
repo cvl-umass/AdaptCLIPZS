@@ -1,0 +1,17 @@
+An object which has a small, oval body shape.
+An object which has a flat body before feeding and becomes balloon-like and enlarged after feeding.
+An object which has eight legs, indicating it is an arachnid.
+An object which has a hard shield on its back, known as a scutum.
+An object which has a unique mouthpart structure that is visible from above and appears as a long, central protrusion.
+An object which has no antennae.
+An object which has a color that varies from brown to reddish-brown and black.
+An object which has a size typically between 1mm to 1cm, depending on its species and feeding status.
+An object which may have a tiny pit or depression (known as an alloscutum) on its back, in the case of female ticks.
+An object which may have festoons - a pattern of rectangular areas at the rear edge of the body.
+An object which may have eyes, depending on the species.
+An object which may have a pattern or markings on its body, depending on the species.
+An object which has two body segments, unlike insects which have three.
+An object which may appear larger and engorged after a blood meal.
+An object which has a hypostome (part of the mouth) that can be seen when the tick is viewed from below.
+An object which has a pair of palps (sensory appendages) next to the mouthparts.
+An object which has a capitulum (the head) that protrudes forward from the body.

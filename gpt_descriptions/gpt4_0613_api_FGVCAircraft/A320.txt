@@ -1,0 +1,20 @@
+An aircraft with a single aisle and twin engines mounted under the wings.
+An aircraft with a rounded nose and a bulbous forehead.
+An aircraft with a tail cone that has a slight upward angle.
+An aircraft with a wingspan of approximately 36 meters.
+An aircraft with a length of approximately 37.6 meters.
+An aircraft with wingtip fences that are upward and downward pointed.
+An aircraft with a capacity of around 150 to 180 passengers in a two-class configuration.
+An aircraft with four cabin doors on each side.
+An aircraft with a circular cross-section fuselage.
+An aircraft with a cockpit window layout of two main windows and two small side windows.
+An aircraft with a high-mounted horizontal stabilizer on the tail.
+An aircraft with a maximum range of approximately 6,100 kilometers.
+An aircraft with a cruise speed of approximately 828 km/h.
+An aircraft with a distinctive 'Airbus' nose shape, which is more rounded than pointed.
+An aircraft with a relatively low ground clearance due to the placement of its engines.
+An aircraft with a uniform, cylindrical body from nose to tail.
+An aircraft with a landing gear configuration of two main wheels on each of the two main landing gear legs and two wheels on the nose gear.
+An aircraft with a flight deck designed for a two-person operation.
+An aircraft with a high degree of commonality with other Airbus aircraft, particularly the A319, A321, and A318.
+An aircraft with a digital fly-by-wire control system.

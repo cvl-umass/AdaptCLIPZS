@@ -1,0 +1,15 @@
+A scene which features a steering wheel and dashboard, typically found in the front of a vehicle.
+A scene which includes car seats, often larger and more spacious than those found in standard cars.
+A scene which displays a large cargo area behind the seats, characteristic of a van.
+A scene which shows sliding side doors or large rear doors.
+A scene which features seat belts attached to the car seats.
+A scene which includes a rear-view mirror and side mirrors.
+A scene which displays vehicle controls such as gear shift, radio, and air conditioning controls.
+A scene which shows windows on the sides, often larger than those in a standard car.
+A scene which includes a glove compartment and other storage spaces typical of a vehicle.
+A scene which features a roof that is higher than in a standard car, providing more headroom.
+A scene which shows a carpeted or rubberized floor, typical of a van interior.
+A scene which includes cup holders and other convenience features found in vehicles.
+A scene which displays vehicle lighting, such as overhead lights or reading lights.
+A scene which shows a partition or bulkhead, often found in commercial vans.
+A scene which includes a rearview camera display or GPS system, common in modern vans.

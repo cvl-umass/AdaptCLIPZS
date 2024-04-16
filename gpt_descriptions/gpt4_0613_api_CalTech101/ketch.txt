@@ -1,0 +1,17 @@
+An object which has a long, sleek design with a single mast and two sails.
+An object which features a shorter mast and a larger foretriangle compared to other sailboats.
+An object which has a mainsail mounted aft of the boat's center.
+An object which has a second, smaller sail known as a mizzen sail, mounted astern of the mainmast.
+An object which has a cockpit located towards the rear of the boat.
+An object which has a full keel running along the bottom, providing stability.
+An object which often has a self-tacking jib for easier handling.
+An object which may have a bowsprit at the front, extending beyond the length of the hull.
+An object which often has a cabin for accommodation, usually located in the middle of the boat.
+An object which may have a wheel or tiller for steering at the stern.
+An object which may have a motor for propulsion when not under sail.
+An object which may have various deck fittings and rigging components, such as winches, cleats, and pulleys.
+An object which may have a rudder attached to the stern for steering.
+An object which may have a variety of hull materials, including wood, fiberglass, or metal.
+An object which may have a variety of sail materials, including dacron, mylar, or kevlar.
+An object which may have a variety of color schemes, but often white or blue are common for the hull, and white for the sails.
+An object which may have a variety of sizes, but typically ranging from 20 to 50 feet in length.

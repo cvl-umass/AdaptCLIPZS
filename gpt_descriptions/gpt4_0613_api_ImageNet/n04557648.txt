@@ -1,0 +1,20 @@
+An object which has a cylindrical shape.
+An object which has a cap or lid on top.
+An object which is made of plastic, glass, or metal.
+An object which is transparent or translucent, allowing the inside content to be visible.
+An object which has a narrow neck and wider base.
+An object which may have a label or brand name on its surface.
+An object which may have a handle or grip for easy holding.
+An object which may have a drinking spout or straw attached to the cap.
+An object which may have measurement markings on its surface.
+An object which may be filled with a liquid, often water.
+An object which is portable and can be easily carried around.
+An object which may have a screw top or a flip top.
+An object which may be reusable or disposable.
+An object which may have a protective sleeve or cover.
+An object which may have a sports cap for easy drinking during physical activities.
+An object which may come in various sizes, typically ranging from small personal bottles to larger multi-serving sizes.
+An object which may be insulated to keep the liquid inside at a certain temperature.
+An object which may have a wide mouth for easy filling and cleaning.
+An object which may have a filter inside for purifying the water.
+An object which may have a flat bottom to stand upright.

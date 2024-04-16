@@ -1,0 +1,100 @@
+A car with a compact, two-door design.
+A car with a convertible soft top.
+A car with a small, rounded front end and rectangular headlights.
+A car with a short, flat rear end with square taillights.
+A car with a small, low-profile body.
+A car with a simple, unadorned interior.
+A car with a small, fuel-efficient engine.
+A car with 13-inch wheels.
+A car with a single exhaust pipe on the right side.
+A car with a small, simple grille.
+A car with a small trunk space.
+A car with a manual transmission.
+A car with a simple, analog dashboard.
+A car with a small, two-spoke steering wheel.
+A car with a small, rounded rear bumper.
+A car with a small, rounded front bumper.
+A car with a small, simple side mirrors.
+A car with a small, simple radio and climate controls.
+A car with a small, simple center console.
+A car with a small, simple glove box.
+A car with a small, simple instrument cluster.
+A car with a small, simple rearview mirror.
+A car with a small, simple door handles.
+A car with a small, simple window controls.
+A car with a small, simple seat controls.
+A car with a small, simple sun visors.
+A car with a small, simple interior lights.
+A car with a small, simple exterior trim.
+A car with a small, simple wheel covers.
+A car with a small, simple hood.
+A car with a small, simple fenders.
+A car with a small, simple roof.
+A car with a small, simple trunk lid.
+A car with a small, simple gas cap.
+A car with a small, simple license plate holder.
+A car with a small, simple windshield wipers.
+A car with a small, simple antenna.
+A car with a small, simple turn signals.
+A car with a small, simple brake lights.
+A car with a small, simple backup lights.
+A car with a small, simple side marker lights.
+A car with a small, simple parking lights.
+A car with a small, simple fog lights.
+A car with a small, simple headlights.
+A car with a small, simple taillights.
+A car with a small, simple dome light.
+A car with a small, simple map lights.
+A car with a small, simple courtesy lights.
+A car with a small, simple glove box light.
+A car with a small, simple trunk light.
+A car with a small, simple underhood light.
+A car with a small, simple ashtray light.
+A car with a small, simple ignition light.
+A car with a small, simple high beam indicator.
+A car with a small, simple low fuel indicator.
+A car with a small, simple oil pressure indicator.
+A car with a small, simple temperature gauge.
+A car with a small, simple speedometer.
+A car with a small, simple tachometer.
+A car with a small, simple odometer.
+A car with a small, simple trip odometer.
+A car with a small, simple clock.
+A car with a small, simple horn.
+A car with a small, simple seat belts.
+A car with a small, simple airbags.
+A car with a small, simple child safety locks.
+A car with a small, simple rear defroster.
+A car with a small, simple side defroster.
+A car with a small, simple heater.
+A car with a small, simple air conditioner.
+A car with a small, simple radio.
+A car with a small, simple cassette player.
+A car with a small, simple speakers.
+A car with a small, simple power outlet.
+A car with a small, simple cigarette lighter.
+A car with a small, simple cup holders.
+A car with a small, simple glove box.
+A car with a small, simple sunroof.
+A car with a small, simple convertible top.
+A car with a small, simple rearview mirror.
+A car with a small, simple side mirrors.
+A car with a small, simple vanity mirrors.
+A car with a small, simple floor mats.
+A car with a small, simple cargo net.
+A car with a small, simple spare tire.
+A car with a small, simple jack.
+A car with a small, simple lug wrench.
+A car with a small, simple tire pressure gauge.
+A car with a small, simple first aid kit.
+A car with a small, simple fire extinguisher.
+A car with a small, simple flares.
+A car with a small, simple flashlight.
+A car with a small, simple jumper cables.
+A car with a small, simple tool kit.
+A car with a small, simple owner's manual.
+A car with a small, simple warranty information.
+A car with a small, simple service records.
+A car with a small, simple registration.
+A car with a small, simple insurance information.
+A car with a small, simple roadside assistance information.

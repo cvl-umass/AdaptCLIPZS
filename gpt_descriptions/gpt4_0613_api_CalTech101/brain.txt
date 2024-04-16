@@ -1,0 +1,20 @@
+An object which has a soft, jelly-like texture.
+An object which is roughly the size of two clenched fists.
+An object which is divided into two symmetrical halves, known as hemispheres.
+An object which has a wrinkled surface, with ridges and grooves.
+An object which is pinkish-grey in color.
+An object which has a complex structure with many visible folds and crevices.
+An object which has a larger, rounded part called the cerebrum.
+An object which has a smaller, stem-like part called the brainstem.
+An object which has a small, rounded part at the back called the cerebellum.
+An object which has visible white and grey matter when cut open.
+An object which has a network of blood vessels visible on its surface.
+An object which has a protective outer layer called the meninges.
+An object which has a central groove called the longitudinal fissure, dividing it into two hemispheres.
+An object which has a visible structure called the corpus callosum, connecting the two hemispheres.
+An object which has a structure called the pituitary gland attached to its base.
+An object which has a structure called the hypothalamus located at the base.
+An object which has a structure called the thalamus located in the center.
+An object which has a structure called the pineal gland located towards the back.
+An object which has a structure called the ventricles filled with cerebrospinal fluid.
+An object which has a structure called the spinal cord extending from its base.

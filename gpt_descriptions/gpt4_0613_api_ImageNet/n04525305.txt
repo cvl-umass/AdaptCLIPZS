@@ -1,0 +1,20 @@
+An object which has a rectangular, often tall and narrow, shape.
+An object which has a front-facing glass or clear plastic window.
+An object which displays a variety of products behind the clear window.
+An object which has a coin or card slot for payment.
+An object which has a product retrieval area at the bottom.
+An object which has buttons or a keypad for product selection.
+An object which has a digital or analog display showing price or product information.
+An object which is often found in public places like malls, schools, or train stations.
+An object which may have branding or advertising on its exterior.
+An object which may have a light source inside to illuminate the products.
+An object which may have a lock or keyhole, typically on the front or side.
+An object which may have a power cord or visible electrical connection.
+An object which may have a product dispensing mechanism visible.
+An object which may have instructions for use displayed on the front.
+An object which may have a change return slot or button.
+An object which may be freestanding or built into a wall.
+An object which may have a refrigeration unit, noticeable by a vent or exhaust.
+An object which may have a logo or name of the vending company.
+An object which may have a 'sold out' or 'out of order' sign.
+An object which may have a barcode or QR code for mobile payments.

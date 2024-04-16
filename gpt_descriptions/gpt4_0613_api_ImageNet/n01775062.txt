@@ -1,0 +1,15 @@
+An object which has a robust body with a distinct union between the abdomen and the thorax.
+An object which has eight eyes arranged in three rows.
+An object which has two large eyes in its middle row, giving it a reflective appearance.
+An object which has a pair of strong, large jaws (chelicerae).
+An object which has eight legs, each with three claws at the end.
+An object which has a pair of pedipalps near the jaws, used for sensing its environment.
+An object which has a body covered in hair.
+An object which has a camouflage pattern on its body, often brown or gray.
+An object which carries its egg sac attached to the spinnerets at the end of the abdomen.
+An object which, if female, carries its young on its back after they hatch.
+An object which does not build a web to catch prey, but hunts actively.
+An object which has a size ranging from 10 to 35 mm in body length.
+An object which has spinnerets visible at the end of the abdomen.
+An object which has a pair of sensory organs (called trichobothria) on the legs.
+An object which has a pair of book lungs under the abdomen, visible as pale patches.

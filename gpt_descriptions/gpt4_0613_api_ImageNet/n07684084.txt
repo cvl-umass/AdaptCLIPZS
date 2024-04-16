@@ -1,0 +1,20 @@
+An object which is long and narrow in shape.
+An object which has a golden-brown crust.
+An object which has diagonal slashes across the top.
+An object which has a soft, airy interior with visible holes.
+An object which is typically between 65 and 70 centimeters in length.
+An object which has a round, not flat, bottom.
+An object which has ends that are typically pointed or rounded, not square.
+An object which has a crust that is crisp, not soft or chewy.
+An object which has a texture that is slightly chewy when eaten.
+An object which has a slightly yeasty, sweet aroma.
+An object which has a diameter typically between 4 and 5 centimeters.
+An object which has a weight typically between 250 and 300 grams.
+An object which has a crust that cracks when squeezed.
+An object which has a light, not dense, interior.
+An object which has a crust that is thin, not thick or heavy.
+An object which has a slightly glossy crust.
+An object which has a slightly salty taste.
+An object which has a crust that is slightly rough to the touch.
+An object which has a slightly asymmetrical shape due to hand shaping.
+An object which has a slightly irregular hole structure in the interior.

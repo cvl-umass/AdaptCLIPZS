@@ -1,0 +1,20 @@
+An object which has a medium-sized, lean body structure.
+An object which has a short, smooth, dense, and close-lying coat without an undercoat.
+An object which has a coat color that ranges from golden to reddish.
+An object which has a distinctive muscular, yet elegant and streamlined body.
+An object which has a slightly domed skull with a medium-width between the ears.
+An object which has a nose that matches the color of its coat.
+An object which has eyes that are medium-sized and almond-shaped, with a color that blends with the coat.
+An object which has ears that are thin, long, and silky, hanging down close to the cheeks.
+An object which has a tail that is docked to two-thirds of its original length.
+An object which has a deep chest that reaches down to the elbows.
+An object which has a back that is short and straight.
+An object which has a gait that is light, graceful, and covers a lot of ground.
+An object which has a strong, well-muscled neck without dewlap.
+An object which has a strong jaw with a perfect, regular scissor bite.
+An object which has a lively and intelligent expression.
+An object which has a body length slightly longer than its height.
+An object which has a well-defined stop between the forehead and the muzzle.
+An object which has a muzzle that is equal in length to the top of the skull.
+An object which has compact, cat-like feet.
+An object which has a robust and muscular body, but without any heaviness.

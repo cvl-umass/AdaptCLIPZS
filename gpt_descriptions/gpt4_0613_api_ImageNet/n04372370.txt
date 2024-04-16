@@ -1,0 +1,20 @@
+An object which has a small, usually rectangular or circular, flat surface.
+An object which has a lever or button that can be moved or pressed.
+An object which is often mounted on a wall or a panel.
+An object which may have markings or symbols such as 'On/Off', 'I/O' or a power symbol.
+An object which may have one or more screws for mounting or securing wires.
+An object which may have terminals or ports at the back or side for electrical connections.
+An object which may be made of plastic, metal, or a combination of both.
+An object which may have a protective cover or casing.
+An object which may be part of a larger system, such as a power strip or circuit breaker.
+An object which may have different color options, but commonly found in white, black or metallic shades.
+An object which may have a light indicator to show its operational status.
+An object which may come in different sizes and shapes, but generally compact and small.
+An object which may have a rating label or certification mark, such as UL or CE, indicating its compliance with safety standards.
+An object which may have a pivot point that allows the lever or button to change positions.
+An object which may have a spring mechanism that provides a tactile response when operated.
+An object which may have a modular design, allowing it to be combined with other similar objects.
+An object which may have a dust and water resistance rating, especially if it's designed for outdoor use.
+An object which may have a fuse or circuit breaker integrated for safety purposes.
+An object which may have a locking mechanism to prevent unauthorized or accidental operation.
+An object which may have a touch-sensitive surface instead of a physical lever or button.

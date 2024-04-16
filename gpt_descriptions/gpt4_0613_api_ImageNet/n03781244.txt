@@ -1,0 +1,19 @@
+An object which has large, often ornate buildings with multiple rooms and corridors.
+An object which features a central courtyard or garden, often with a fountain or statue.
+An object which has a chapel or church, often with a large, prominent cross or other religious symbols.
+An object which has a bell tower or steeple, often used to call monks to prayer.
+An object which has a refectory or dining hall, where monks would eat their meals in silence.
+An object which has a library or scriptorium, where monks would copy and study religious texts.
+An object which has a cloister, a covered walkway for prayer and meditation.
+An object which has living quarters or cells for the monks, often simple and austere.
+An object which has a guesthouse for visitors or pilgrims.
+An object which is often located in remote or secluded areas, such as mountains, forests, or islands.
+An object which has a wall or fence surrounding the entire complex, providing isolation and protection.
+An object which has a cemetery or burial ground for deceased monks.
+An object which has a herb garden or infirmary, where monks would grow medicinal plants and treat the sick.
+An object which has a bakery or brewery, as many monasteries produced their own bread and beer.
+An object which has a workshop or craft area, where monks would produce goods to support the monastery.
+An object which has a chapter house, where monks would meet to discuss monastery affairs.
+An object which has a lavatorium, a communal washing area for the monks.
+An object which has a distinct architectural style, often reflecting the period and region in which it was built.
+An object which has a peaceful, serene atmosphere, reflecting the monastic lifestyle of prayer and contemplation.

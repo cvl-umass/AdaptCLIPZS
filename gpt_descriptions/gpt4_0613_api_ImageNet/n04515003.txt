@@ -1,0 +1,15 @@
+An object which has a tall, vertical structure.
+An object which has a large, flat front surface, often with a hinged cover that can be lifted to reveal the strings and hammers.
+An object which has a keyboard with white and black keys on the lower front part.
+An object which has a music stand, a small shelf for holding sheet music, above the keyboard.
+An object which has pedals at the base, typically two or three, for altering the sound.
+An object which has a wooden frame, often intricately designed or polished.
+An object which has a back made of solid wood or metal, which supports the strings.
+An object which has a brand name or logo usually located above the keyboard or on the fallboard.
+An object which has a bench or stool in front of it for the player to sit on.
+An object which has a large, resonant soundboard located behind the strings.
+An object which has tuning pins, usually located at the top of the structure, where the strings are attached.
+An object which has a fallboard, a cover that can be closed over the keys when the piano is not in use.
+An object which has a cast iron plate, usually painted gold or another color, located behind the strings and hammers.
+An object which has a series of black and white keys, typically 88 in total.
+An object which has a complex internal mechanism visible when the front cover is lifted.

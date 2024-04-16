@@ -1,0 +1,20 @@
+An object which has a flat platform or surface to place items on for weighing.
+An object which displays numerical values, typically representing weight.
+An object which may have buttons or dials for calibration and setting units of measurement.
+An object which may be digital, featuring an electronic screen to display weight.
+An object which may be analog, featuring a dial with a needle to indicate weight.
+An object which may have a glass or plastic cover over the display area.
+An object which may have a non-slip surface on the platform for safety.
+An object which may have a slim, flat design for easy storage.
+An object which may have a handle or grip for portability.
+An object which may have rubber feet to prevent slipping during use.
+An object which may have a power cord or battery compartment, particularly for digital models.
+An object which may have a tare function, allowing the user to subtract the weight of a container.
+An object which may have a body made of metal, plastic, or glass.
+An object which may have a capacity label indicating the maximum weight it can measure.
+An object which may have a brand name or logo displayed on it.
+An object which may have a shape that is rectangular, square, or circular.
+An object which may have a zero or reset button to ensure accurate measurements.
+An object which may have a backlight on the display for easy reading.
+An object which may have a hook or hanging feature for weighing certain items.
+An object which may have a user manual or instructions printed or attached to it.

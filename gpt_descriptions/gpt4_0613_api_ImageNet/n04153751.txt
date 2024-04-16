@@ -1,0 +1,20 @@
+An object which has a cylindrical shaft with a helical groove or thread running along its length.
+An object which has a pointed tip designed to cut into the material.
+An object which has a head with a type of drive (like a slot, Phillips, Torx, square, hex, etc.) for turning the screw.
+An object which is typically made of metal, such as steel, brass, or stainless steel.
+An object which can have different types of heads, such as flat, round, oval, or pan.
+An object which may have a coating or finish, like zinc or black oxide, to resist corrosion.
+An object which can be of various lengths and diameters, depending on its intended use.
+An object which is designed to be inserted into a pre-drilled hole or to create its own hole as it's driven into the material.
+An object which may have a self-tapping feature if it's designed to be used in soft materials.
+An object which may have a thread that extends the entire length of the shaft or only part of the way.
+An object which may have a left-hand thread if it's designed to be turned counterclockwise for installation.
+An object which may have a shoulder under the head if it's a shoulder screw.
+An object which may have a hexagonal head if it's a hex head screw.
+An object which may have a smooth, unthreaded shank near the head if it's a dowel screw.
+An object which may have a double-ended design if it's a hanger bolt.
+An object which may have a machine thread if it's a machine screw.
+An object which may have a wood thread if it's a wood screw.
+An object which may have a thread cutting design if it's a thread cutting screw.
+An object which may have a thread forming design if it's a thread forming screw.
+An object which may have a blunt end if it's a set screw.

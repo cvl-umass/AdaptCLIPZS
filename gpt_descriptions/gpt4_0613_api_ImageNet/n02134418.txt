@@ -1,0 +1,18 @@
+An object which has a shaggy, black or dark brown coat.
+An object which has a long, shaggy fur that often hangs down to the ground.
+An object which has a distinctive white or cream-colored chest mark.
+An object which has a long, flexible snout.
+An object which has a lower lip that can be stretched over the outer edge of their nose.
+An object which has large, curved claws that are typically cream-colored.
+An object which has a mane around the face, and long, lanky build.
+An object which has a body length of 5 to 6 feet and a height of 2 to 3 feet at the shoulder.
+An object which has a tail length of 2.7 to 4.7 inches.
+An object which has a weight ranging from 120 to 310 pounds.
+An object which has small, rounded ears.
+An object which has a bald, pale-colored muzzle.
+An object which has a gap between the upper incisors and the canines.
+An object which has a flat foot with the inner toe of the front foot missing.
+An object which has a hump on its shoulders.
+An object which has a head that is disproportionately large compared to its body.
+An object which has nostrils that can close completely to protect the animal from dust or insects.
+An object which has a tongue that can extend 2-3 inches out of the mouth to catch insects.

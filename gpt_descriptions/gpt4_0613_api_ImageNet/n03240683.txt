@@ -1,0 +1,20 @@
+An object which has a large, towering structure extending above the water surface.
+An object which has a helipad on top for transportation purposes.
+An object which has multiple levels of platforms, often with cranes and other large machinery.
+An object which has a derrick, a tall structure that houses the drilling equipment.
+An object which has a flare stack, used to burn off unwanted gas.
+An object which has living quarters for workers, often visible as smaller structures or cabins.
+An object which has a drill that extends from the derrick down into the water and beneath the seabed.
+An object which has large, sturdy legs or columns that may be fixed to the ocean floor or float on the water surface.
+An object which has lifeboats attached to it for emergency evacuation.
+An object which has a series of pipes and valves, used for extraction and transportation of oil or gas.
+An object which is often surrounded by supply vessels or boats.
+An object which has bright lights for night-time operations.
+An object which has a large, flat main deck area for operations and storage.
+An object which has safety barriers and railings around the edges of the platforms.
+An object which has a series of stairways and ladders connecting different levels of the structure.
+An object which is usually located far from the coast, often visible with no land in sight.
+An object which has a series of cranes for lifting heavy equipment and supplies.
+An object which has a blowout preventer, a large valve at the top of the well to prevent uncontrolled release of pressure.
+An object which has a moon pool, a hole in the floor of the platform through which drilling or diving operations can be conducted.
+An object which has a riser, a pipe that connects the wellbore to the platform.

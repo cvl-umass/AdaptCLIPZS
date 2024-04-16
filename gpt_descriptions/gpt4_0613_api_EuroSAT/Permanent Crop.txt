@@ -1,0 +1,20 @@
+A satellite image which shows a consistent pattern of vegetation throughout the year.
+A satellite image which displays a uniform color indicating a single type of crop.
+A satellite image which reveals a grid-like or systematic pattern, suggesting human-made crop fields.
+A satellite image which shows a high level of greenness, indicating healthy vegetation.
+A satellite image which exhibits a lack of significant changes in the landscape over time.
+A satellite image which shows a lack of natural features such as forests, mountains, or bodies of water.
+A satellite image which displays a high level of reflectance in the near-infrared band, indicating healthy vegetation.
+A satellite image which shows a clear distinction between the crop land and the surrounding areas.
+A satellite image which reveals irrigation systems or other agricultural infrastructure.
+A satellite image which shows a lack of urban structures or buildings.
+A satellite image which displays a high level of brightness in the red band, indicating chlorophyll absorption.
+A satellite image which shows a lack of seasonal snow cover or ice.
+A satellite image which reveals a lack of significant topographic variation, suggesting a flat terrain.
+A satellite image which shows a high level of reflectance in the green band, indicating chlorophyll reflection.
+A satellite image which displays a low level of reflectance in the blue band, indicating less water absorption.
+A satellite image which shows a lack of significant changes in the vegetation pattern over multiple seasons.
+A satellite image which reveals a lack of bare soil or non-vegetated areas.
+A satellite image which shows a high level of reflectance in the shortwave infrared band, indicating moisture content.
+A satellite image which displays a lack of significant changes in the color of the vegetation over time.
+A satellite image which shows a lack of significant changes in the brightness of the vegetation over time.

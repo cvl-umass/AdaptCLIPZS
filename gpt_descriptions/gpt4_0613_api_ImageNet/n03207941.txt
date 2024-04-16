@@ -1,0 +1,20 @@
+An object which has a large rectangular shape, often similar to a standard kitchen cabinet.
+An object which has a front door that opens downwards.
+An object which has a control panel, often on the top or front, with buttons or dials.
+An object which has interior racks or baskets for placing dishes, glasses, and cutlery.
+An object which has a rotating spray arm or arms inside.
+An object which has a soap dispenser compartment inside.
+An object which has a drain and water inlet, usually hidden at the back or bottom.
+An object which is typically made of stainless steel, plastic, or a combination of both.
+An object which is usually installed under a kitchen countertop.
+An object which may have a display screen showing the cycle time and settings.
+An object which may have a handle on the front for opening and closing.
+An object which may have a heating element at the bottom for drying dishes.
+An object which may have a food disposal or filtration system at the bottom.
+An object which may have a child lock feature indicated on the control panel.
+An object which may have specific compartments for different types of utensils.
+An object which may have energy efficiency ratings or certifications displayed.
+An object which may have a brand logo or name displayed on the front.
+An object which may have a cutlery basket or tray for small items.
+An object which may have adjustable racks to accommodate larger dishes or pots.
+An object which may have a delay start feature indicated on the control panel.

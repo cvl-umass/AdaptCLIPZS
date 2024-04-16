@@ -1,0 +1,17 @@
+An object which has a slender, lightweight body built for speed.
+An object which has a small head with large eyes and ears.
+An object which has long, slender legs with cloven hooves.
+An object which has a short tail.
+An object which has a coat that is typically fawn-colored with white underparts.
+An object which has distinctive facial markings, such as a dark stripe running from the eye to the nose.
+An object which has curved, ringed horns that are present in both males and females, but are typically longer in males.
+An object which has a distinctive bounding leap, known as stotting or pronking, when it runs.
+An object which is typically found in grassland, savanna, or desert environments.
+An object which is often seen in herds.
+An object which is a herbivore, feeding primarily on grasses and leaves.
+An object which has a lifespan of 10-15 years in the wild.
+An object which has a gestation period of about six months, after which it usually gives birth to one or two offspring.
+An object which is known for its exceptional speed and agility, capable of reaching speeds up to 60 mph.
+An object which has a height ranging from 60 to 110 cm at the shoulder.
+An object which has a body length ranging from 90 to 150 cm.
+An object which has a weight ranging from 15 to 35 kg.

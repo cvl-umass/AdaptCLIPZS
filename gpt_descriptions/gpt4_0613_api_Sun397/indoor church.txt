@@ -1,0 +1,20 @@
+A scene which features rows of pews or benches.
+A scene which includes a pulpit or lectern at the front.
+A scene which showcases stained glass windows.
+A scene which displays religious symbols such as crosses or icons.
+A scene which contains an altar at the front.
+A scene which has a choir loft or organ.
+A scene which presents a baptismal font.
+A scene which exhibits high ceilings, often with arches or domes.
+A scene which reveals candle stands or candelabras.
+A scene which shows prayer kneelers in front of the pews.
+A scene which includes religious artwork or statues.
+A scene which features a confessional booth.
+A scene which displays a tabernacle or sanctuary lamp.
+A scene which presents a communion rail.
+A scene which showcases a vestry or sacristy.
+A scene which reveals a nave, the central part of the church.
+A scene which contains a chancel, the space around the altar.
+A scene which includes a transept, the area set crosswise to the nave.
+A scene which shows a rood screen, a decorative partition between the chancel and the nave.
+A scene which features a crypt, a stone chamber beneath the floor of a church.

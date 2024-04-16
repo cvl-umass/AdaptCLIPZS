@@ -1,0 +1,17 @@
+An object which has a combination of regular wheels at the front and caterpillar tracks at the back.
+An object which has a front similar to a conventional vehicle, typically a truck or car.
+An object which has a rear section that resembles a tank with continuous tracks.
+An object which has a large, open-topped rear compartment for carrying personnel or equipment.
+An object which often has a mounted machine gun or other weapon on top.
+An object which has a heavy-duty suspension and drivetrain to handle rough terrain.
+An object which has a robust and rugged body structure, often made of steel or other heavy metals.
+An object which may have armor plating or shielding, particularly around the driver's compartment.
+An object which has a large ground clearance to navigate over obstacles.
+An object which has a wide track width to distribute weight and improve stability.
+An object which may have additional features like winches, shovels, or other tools for field operations.
+An object which may have markings or insignia indicating military use or affiliation.
+An object which may have seating or standing areas for soldiers or cargo in the rear section.
+An object which has a large radiator grille at the front, typical of heavy-duty vehicles.
+An object which has a driver's cab that is separate from the rear compartment.
+An object which may have a canvas cover over the rear compartment.
+An object which may have additional storage compartments or racks on the sides or rear.

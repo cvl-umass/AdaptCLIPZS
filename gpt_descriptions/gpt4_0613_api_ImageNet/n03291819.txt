@@ -1,0 +1,18 @@
+An object which is typically rectangular in shape.
+An object which is usually made of thin, lightweight material.
+An object which has a flap on one of its sides.
+An object which may have a gummed strip on the flap for sealing.
+An object which can be of various sizes, from small to large.
+An object which is often white, but can come in a variety of colors.
+An object which may have printed lines or boxes for addressing.
+An object which may have a transparent window to display an address.
+An object which is flat and thin when empty.
+An object which can expand slightly to hold papers or cards.
+An object which may have a company logo or return address printed on it.
+An object which may have postage stamps or postal markings on it.
+An object which is typically used to send letters or documents through the mail.
+An object which may be made of recycled paper or other eco-friendly materials.
+An object which may have a security pattern printed on the inside to obscure the contents.
+An object which may be padded with bubble wrap or other protective material for shipping fragile items.
+An object which may be sealed with a self-adhesive strip, wax seal, or other closure method.
+An object which may have a special design or decoration for specific occasions like weddings or holidays.

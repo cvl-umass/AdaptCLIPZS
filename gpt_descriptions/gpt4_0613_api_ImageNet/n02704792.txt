@@ -1,0 +1,20 @@
+An object which has a hull-like design, similar to a boat, to allow for water travel.
+An object which has wheels or tracks, similar to a land vehicle, for terrestrial movement.
+An object which has a propeller or water jet propulsion system for navigating in water.
+An object which has a robust and sealed body to prevent water from entering the vehicle.
+An object which has a high ground clearance to navigate through water and rough terrains.
+An object which has a combination of steering wheel for land and rudder for water navigation.
+An object which has a specialized exhaust system designed to function both on land and in water.
+An object which has a bilge pump to remove any water that may enter the vehicle.
+An object which has a design that allows it to transition from land to water without the need for any external assistance.
+An object which has a strong and durable body to withstand the impact of both land and water environments.
+An object which has a cabin or cockpit that can be sealed to prevent water ingress.
+An object which has a design that allows it to float in water, similar to a boat.
+An object which has a design that allows it to drive on land, similar to a car or tank.
+An object which may have additional features like winches, anchors, or life-saving equipment for emergency situations.
+An object which has a propulsion system that can function both in water and on land.
+An object which has a design that allows it to maintain balance and stability both on land and in water.
+An object which has a design that allows it to climb steep slopes and navigate through rough terrains.
+An object which has a design that allows it to operate in a variety of weather conditions.
+An object which has a design that allows it to carry passengers or cargo both on land and in water.
+An object which has a design that allows it to be used for military, rescue, or recreational purposes.

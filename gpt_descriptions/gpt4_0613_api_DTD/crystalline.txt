@@ -1,0 +1,15 @@
+A texture which displays a clear, repeating geometric pattern.
+A texture which has a shiny or sparkling appearance.
+A texture which shows a regular arrangement of its components.
+A texture which has sharp, well-defined edges and angles.
+A texture which exhibits a high degree of symmetry.
+A texture which has a smooth and flat surface on some sides.
+A texture which has a three-dimensional, lattice-like structure.
+A texture which refracts light in a unique or distinctive way.
+A texture which has a rigid and solid structure.
+A texture which has a uniform appearance across its surface.
+A texture which has a translucent or transparent quality.
+A texture which has a cool or cold feel to the touch.
+A texture which has a hardness or resistance to scratching.
+A texture which has a brittle nature, breaking with a conchoidal fracture.
+A texture which has a granular appearance under magnification.

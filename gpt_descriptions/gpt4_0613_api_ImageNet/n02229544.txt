@@ -1,0 +1,15 @@
+An object which has a long, cylindrical body.
+An object which has six legs.
+An object which has two long antennae.
+An object which has two large, compound eyes.
+An object which has a pair of wings that lie flat on its back.
+An object which has a pair of hind legs that are larger and stronger than the other four, adapted for jumping.
+An object which has a hard, chitinous exoskeleton.
+An object which has a pair of cerci, small sensory appendages, at the end of its abdomen.
+An object which has a distinctive structure at the end of its abdomen, known as an ovipositor in females, used for laying eggs.
+An object which has a mouthparts adapted for chewing.
+An object which is usually brown or black in color.
+An object which may have a body covered in tiny hairs.
+An object which may exhibit a behavior of rubbing its wings together to produce a chirping sound.
+An object which is typically found in warm environments and often near water.
+An object which is small in size, typically ranging from 0.12 to 2 inches in length.

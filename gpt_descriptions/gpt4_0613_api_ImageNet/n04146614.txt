@@ -1,0 +1,20 @@
+An object which is typically painted yellow or orange for high visibility.
+An object which has a rectangular shape with rounded corners.
+An object which has large, tinted windows lined up on both sides.
+An object which has a front engine compartment.
+An object which has a large, swinging door at the front on one side.
+An object which has a row of red and yellow lights at the top front and back.
+An object which has a stop sign arm on the driver's side.
+An object which has a flat front with a large windshield.
+An object which has a high ground clearance.
+An object which has a long body with multiple rows of seats inside.
+An object which has a rear emergency exit door or window.
+An object which has a roof-mounted flashing light.
+An object which has a large, horizontal mirror mounted above the windshield.
+An object which has a sign that reads 'School Bus' at the front and back.
+An object which has a bumper at the front and back.
+An object which has a large capacity, typically designed to carry more than ten passengers.
+An object which has a fuel cap on one side.
+An object which has a hood that opens from the front.
+An object which has a large, rectangular rear-view mirror on the driver's side.
+An object which has a license plate at the front and back.

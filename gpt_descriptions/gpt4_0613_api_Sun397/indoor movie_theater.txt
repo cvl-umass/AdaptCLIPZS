@@ -1,0 +1,15 @@
+A scene which features rows of seats arranged in a sloping or stepped manner.
+A scene which includes a large, blank screen at one end of the room.
+A scene which shows dim or low lighting, often with small aisle lights.
+A scene which has curtains or drapes on the walls for sound absorption.
+A scene which displays speakers or sound systems placed strategically around the room.
+A scene which contains exit signs and safety information prominently displayed.
+A scene which includes a projector or projection booth.
+A scene which shows people sitting in seats and facing in the same direction.
+A scene which features carpeted floors and upholstered seats for sound dampening.
+A scene which includes a stage or platform in front of the screen.
+A scene which shows aisles for walking between the rows of seats.
+A scene which contains cup holders and armrests between the seats.
+A scene which displays a concession stand or snack bar, often in the lobby area.
+A scene which includes 3D glasses, if it's a 3D movie theater.
+A scene which shows movie posters or promotional materials on the walls.

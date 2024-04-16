@@ -1,0 +1,15 @@
+An object which has a round body with a somewhat flattened shape.
+An object which has a body size that ranges from 1/4 to 3/4 inch in length.
+An object which has a color that varies from yellow to dark brown.
+An object which has a pattern of darker markings on its abdomen.
+An object which has eight legs with each leg having three claws at the end.
+An object which has two rows of four eyes each, making a total of eight eyes.
+An object which has a pair of pedipalps near the mouth used for handling food.
+An object which has a pair of spinnerets at the back of the abdomen for spinning webs.
+An object which is often found in dark, undisturbed places such as barns, sheds, and caves.
+An object which is known for creating large, orb-shaped webs.
+An object which is nocturnal and more active during the night.
+An object which is often seen hanging upside down in the center of its web.
+An object which is known for its habit of eating its own web each morning and spinning a new one each evening.
+An object which is typically seen during the late summer and early fall.
+An object which is known for its defensive behavior of shaking its web to deter predators.

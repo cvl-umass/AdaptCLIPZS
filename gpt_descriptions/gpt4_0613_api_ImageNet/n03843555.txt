@@ -1,0 +1,20 @@
+An object which is cylindrical in shape.
+An object which has a metal exterior.
+An object which has a screw thread on one end.
+An object which has a rubber gasket around the threaded end.
+An object which is typically painted black, white, or orange.
+An object which has a hole in the center of one end.
+An object which may have a brand name or part number printed on it.
+An object which is typically a few inches tall.
+An object which may have a hexagonal nut or a flat area on the top for a wrench to grip.
+An object which may have perforated metal around the central hole.
+An object which may have a bypass valve and anti-drain back valve inside.
+An object which is typically found in the engine compartment of vehicles.
+An object which is usually not transparent, preventing the inside from being seen.
+An object which is generally small enough to be held in one hand.
+An object which is heavier than it looks due to the metal and oil inside.
+An object which may have a slightly oily or greasy feel due to its function.
+An object which may have a barcode or QR code printed on it for inventory purposes.
+An object which may have a date or production code printed on it.
+An object which may have safety or installation instructions printed on it.
+An object which may have a protective cap over the threaded end to keep it clean before installation.

@@ -1,0 +1,15 @@
+An object which has multiple LED indicators on the front panel.
+An object which has one or more antenna protruding from it.
+An object which has a series of ports on the back, including Ethernet ports and a port for a power cable.
+An object which has a rectangular or square shape, often with rounded corners.
+An object which is typically made of hard plastic and comes in colors like black, white, or grey.
+An object which may have branding or model information printed on the front or bottom.
+An object which may have ventilation holes or slots to prevent overheating.
+An object which may have a reset button, often located on the back or bottom.
+An object which may have a stand or feet to allow it to sit upright on a flat surface.
+An object which may have a DSL or cable connection port, depending on the type of internet service.
+An object which may have a USB port for connecting other devices.
+An object which may have a WPS button for easy connection to wireless devices.
+An object which may have labels or stickers on the bottom or back with technical information like MAC address, serial number, or default login information.
+An object which may have a power switch, often located on the back.
+An object which may have a series of buttons or switches for various functions like power, reset, or wireless on/off.

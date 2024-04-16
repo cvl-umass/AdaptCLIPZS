@@ -1,0 +1,11 @@
+An action which involves a person holding a club-like object with both hands.
+An action where the person is standing in a stance with their feet shoulder-width apart.
+An action where the person's body is twisted, indicating a swinging motion.
+An action where the person is looking in the direction of a small, round object on the ground.
+An action where the person is wearing traditional golf attire, such as a polo shirt, trousers, and golf shoes.
+An action that takes place in an open, grassy area, often with holes and flags in the background.
+An action where the person's back arm is straight and the front arm is bent at the elbow.
+An action where the person's body weight appears to be shifting from one foot to the other.
+An action where the person's wrists are hinged, indicating the end of a backswing or the start of a downswing.
+An action where the person's head is kept still, focusing on the ball.
+An action where the person's club is either behind them, indicating a backswing, or in front of them, indicating a follow-through.

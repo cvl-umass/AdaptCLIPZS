@@ -1,0 +1,15 @@
+An aircraft with two engines mounted on the rear part of the fuselage.
+An aircraft with a T-tail configuration, where the horizontal stabilizer is mounted on top of the vertical stabilizer.
+An aircraft with a narrow, tube-like fuselage.
+An aircraft with a low-wing design, where the wings are attached at the bottom of the fuselage.
+An aircraft with a pointed nose and a relatively short body length.
+An aircraft with small, circular windows evenly spaced along the length of the fuselage.
+An aircraft with a single-aisle cabin layout, typically seating around 50 passengers.
+An aircraft with tricycle landing gear, with two main wheels retracting into the fuselage and a single nose wheel.
+An aircraft with winglets at the tips of the wings, which are small, upward-curving extensions.
+An aircraft with a relatively small size compared to other commercial jets.
+An aircraft with a cockpit windshield divided into four sections.
+An aircraft with a small, rounded tail cone at the rear end of the fuselage.
+An aircraft with no over-wing exits, but two doors at the front and rear of the aircraft.
+An aircraft with a high-mounted engine design, where the engines are attached to the rear fuselage and not the wings.
+An aircraft with a relatively short distance between the nose and the cockpit windows.

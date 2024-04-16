@@ -1,0 +1,20 @@
+An object which has a large, box-like structure on wheels.
+An object which has a rear door that can be opened to load and unload items.
+An object which has a cab at the front for a driver and possibly one or two passengers.
+An object which often has the logo or name of a moving or rental company on its sides.
+An object which may have a ramp or lift at the back for easier loading and unloading.
+An object which is typically larger than a standard passenger vehicle.
+An object which may have side doors for easier access to the cargo area.
+An object which may have windows only at the front cab area, not in the cargo area.
+An object which may have a high roof to accommodate larger items.
+An object which may have external mirrors on both sides for better visibility.
+An object which may have a towing hitch at the back for pulling additional trailers.
+An object which may have a number plate at the back and front.
+An object which may have a ladder on the back or side for accessing the roof.
+An object which may have a padlock or security device on the rear doors.
+An object which may have a reinforced floor to support heavy loads.
+An object which may have tie-down rings or bars inside to secure the cargo.
+An object which may have a partition between the cab and the cargo area.
+An object which may have a long wheelbase for stability when loaded.
+An object which may have dual rear wheels for additional load capacity.
+An object which may have a diesel fuel cap, as many larger vehicles use diesel fuel.

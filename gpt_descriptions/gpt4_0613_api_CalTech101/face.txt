@@ -1,0 +1,23 @@
+An object which has two eyes, typically symmetrical and located above the nose.
+An object which has a nose, usually centered between the eyes and above the mouth.
+An object which has a mouth, typically located below the nose and above the chin.
+An object which has two ears, usually on either side of the head.
+An object which has eyebrows, typically located above the eyes.
+An object which has a forehead, usually the area above the eyebrows and below the hairline.
+An object which has a chin, typically the lower part of the face below the mouth.
+An object which has cheekbones, usually prominent on either side of the face below the eyes.
+An object which has a unique pattern of wrinkles or lines, especially around the eyes, forehead, and mouth.
+An object which has a unique skin texture or color.
+An object which has a unique shape and size of the face.
+An object which has a unique hair color, style, and length.
+An object which has a unique pattern of facial hair, if present.
+An object which has unique dental features, visible when the mouth is open.
+An object which has unique eye color and shape.
+An object which has unique shape and size of the nose.
+An object which has unique shape and size of the lips.
+An object which has unique shape and size of the ears.
+An object which has unique birthmarks, moles, or scars on the face.
+An object which has unique tattoos or piercings on the face.
+An object which has unique glasses, if worn.
+An object which has unique expressions or facial gestures.
+An object which has unique makeup, if worn.

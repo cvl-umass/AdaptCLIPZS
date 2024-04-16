@@ -1,0 +1,15 @@
+An object which has a large, heavy body with long legs and a long, sturdy neck.
+An object which has a small head relative to its body size.
+An object which has a strong, pointed beak.
+An object which has a predominantly brown or grey plumage.
+An object which has a white underbelly and black and white wings visible in flight.
+An object which has a male species that is significantly larger than the female species.
+An object which has a distinctive crest or tuft of feathers on the back of its head.
+An object which has a pattern of bars or spots on its feathers.
+An object which has a short tail with a broad white band at the end.
+An object which has a male species that performs a unique mating dance.
+An object which has a species that is known to be one of the heaviest flying birds.
+An object which has a species that is found in dry grasslands and savannahs.
+An object which has a species that is known for its ability to run at high speeds.
+An object which has a species that is known to be a ground-dwelling bird.
+An object which has a species that is known to have a diet consisting of insects, seeds, and plants.

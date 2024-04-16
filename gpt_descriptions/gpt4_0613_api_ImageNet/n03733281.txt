@@ -1,0 +1,20 @@
+An object which consists of complex and intricate network of passages.
+An object which has a clear start and end point.
+An object which has multiple dead ends or false paths.
+An object which is designed to confuse or mislead the person navigating through it.
+An object which may have walls or hedges forming the paths and dead ends.
+An object which may be circular, rectangular, or of any irregular shape.
+An object which may have a central goal or destination.
+An object which may be two-dimensional (drawn on paper or on the ground) or three-dimensional (formed by hedges, walls, or buildings).
+An object which may have a bird's eye view showing the entire layout.
+An object which may be designed symmetrically or asymmetrically.
+An object which may have multiple paths leading to the same destination.
+An object which may have one or more solutions, depending on its complexity.
+An object which may be designed for entertainment, meditation, or as a puzzle.
+An object which may have markings or symbols to indicate the correct path or to mislead.
+An object which may be part of a larger landscape, such as a garden or park.
+An object which may have a historical or cultural significance.
+An object which may be used in games or psychological experiments.
+An object which may be depicted in a variety of materials, including stone, hedge, corn, or drawn on paper.
+An object which may be depicted in a variety of scales, from handheld puzzles to large outdoor mazes.
+An object which may have a theme or story associated with it.

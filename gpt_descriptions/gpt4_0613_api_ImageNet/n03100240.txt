@@ -1,0 +1,13 @@
+An object which has a retractable or removable roof.
+An object which has a design similar to a standard car but with a roof structure that can be folded down or removed.
+An object which often has two doors, although some models may have four.
+An object which has a windshield that is more steeply raked than on a standard car.
+An object which has a rear window that is generally smaller and more upright than on a standard car.
+An object which has a trunk that is often smaller due to the space needed for storing the roof.
+An object which may have a roll bar or similar structure for added safety when the roof is down.
+An object which may have additional structural reinforcement to compensate for the lack of a fixed roof.
+An object which may have a tonneau cover, a protective cover for the cockpit, which can be used when the roof is down.
+An object which may have a wind deflector, a device to redirect air flow and reduce turbulence in the cockpit when the roof is down.
+An object which may have a roof made of a variety of materials, including fabric, vinyl, or hard materials like steel or plastic.
+An object which may have a mechanism for raising and lowering the roof that can be manual or automatic.
+An object which may have a higher price tag than a comparable model with a fixed roof due to the additional engineering and features required.

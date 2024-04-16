@@ -1,0 +1,13 @@
+An object which has two spools, around which a magnetic tape is wound.
+An object which has a rectangular shape with rounded corners.
+An object which has a central opening revealing the magnetic tape.
+An object which has small holes on one side, known as the 'top' side.
+An object which has a plastic body, often black or clear.
+An object which has a thin, flat, plastic 'door' that can be opened to reveal the magnetic tape.
+An object which has a series of small, evenly spaced holes along the bottom edge.
+An object which has a label area on one side for writing or stickers.
+An object which has two small, square holes on the bottom edge, which are used to engage the tape drive mechanism.
+An object which has a compact size, typically around 10 cm wide, 7 cm high, and 2 cm thick.
+An object which may have a small window on the top side, through which the amount of tape remaining can be seen.
+An object which may have a manufacturer's logo or other identifying marks on the label area or the plastic body.
+An object which may have a small, sliding plastic piece on the top side, which is used to prevent accidental erasure of the tape.

@@ -1,0 +1,30 @@
+An object which displays a unique URL or web address in the browser's address bar.
+An object which contains a specific logo or brand name.
+An object which has a distinctive color scheme or design layout.
+An object which includes specific types of content, such as text, images, videos, or interactive elements.
+An object which features a unique navigation menu or site map.
+An object which has specific typography or font styles.
+An object which includes a copyright notice or date at the bottom of the page.
+An object which displays specific contact information, such as an email address or phone number.
+An object which includes social media icons linking to specific accounts.
+An object which features a specific language or languages.
+An object which includes a privacy policy or terms of service link.
+An object which has a specific domain extension, such as .com, .org, .edu, etc.
+An object which includes a favicon (small icon) in the browser tab.
+An object which displays specific advertisements or sponsored content.
+An object which includes a search bar or search functionality.
+An object which features a specific theme or topic of content.
+An object which includes user login or registration functionality.
+An object which displays user reviews or ratings.
+An object which includes a shopping cart or e-commerce functionality.
+An object which features a specific type of interactivity, such as forms, quizzes, or games.
+An object which includes a blog or news section with specific articles.
+An object which displays a specific type of multimedia, such as a slideshow or video player.
+An object which includes a specific type of technology, such as Flash or JavaScript.
+An object which features a mobile-responsive design.
+An object which includes accessibility features, such as alt text for images or closed captions for videos.
+An object which displays a specific type of metadata, such as keywords or description in the page source.
+An object which includes a specific type of security feature, such as SSL encryption.
+An object which features a specific type of coding language, such as HTML, CSS, or PHP.
+An object which includes a specific type of server-side technology, such as Apache or Nginx.
+An object which displays a specific type of browser compatibility, such as Chrome, Firefox, or Safari.

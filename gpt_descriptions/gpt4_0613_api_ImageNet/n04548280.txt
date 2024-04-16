@@ -1,0 +1,20 @@
+An object which has a circular or square shape.
+An object which has numbers from 1 to 12 arranged in a circular pattern.
+An object which has two or three hands pointing towards the numbers.
+An object which has a shorter hand to indicate the hour.
+An object which has a longer hand to indicate the minute.
+An object which may have a third, thinner hand to indicate the second.
+An object which may have markings for each minute between the numbers.
+An object which may have a glass or plastic cover on the front.
+An object which may have a pendulum swinging back and forth at the bottom.
+An object which may have a small knob or wheel at the back for setting the time.
+An object which may have a battery compartment at the back.
+An object which may have a brand name or logo on the face.
+An object which may have a frame made of plastic, wood, or metal.
+An object which may have a hook or hole at the back for hanging on a wall.
+An object which may have additional features like a temperature or humidity display.
+An object which may have a light or glow-in-the-dark numbers and hands for visibility in the dark.
+An object which may have a decorative or artistic design on the face.
+An object which may have Roman numerals instead of Arabic numbers.
+An object which may have a chime or alarm feature.
+An object which may have a digital display in addition to or instead of the traditional analog display.

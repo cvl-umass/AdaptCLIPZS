@@ -1,0 +1,20 @@
+An object which has a reddish-brown coat with black markings on its back and tail.
+An object which has a white patch on its throat and chest.
+An object which has long, slender legs relative to its body size.
+An object which has a long, pointed muzzle.
+An object which has large, pointed ears.
+An object which has a bushy tail.
+An object which has a body length ranging from 3.3 to 4.5 feet.
+An object which has a shoulder height of about 26 to 31 inches.
+An object which has a weight ranging from 50 to 80 pounds.
+An object which has amber or yellowish eyes.
+An object which has a black nose.
+An object which has a body shape similar to a grey wolf but with a more slender build.
+An object which has a distinctive mane-like feature on its neck.
+An object which has a gait where it trots with a pacing gait, with the two legs on the same side moving together.
+An object which has a habitat in forests, swamps, and bushlands.
+An object which is typically found in the southeastern United States.
+An object which is a carnivore, primarily feeding on small mammals.
+An object which is a nocturnal creature, most active at dawn and dusk.
+An object which is a solitary animal, often living and hunting alone.
+An object which has a lifespan of 6 to 8 years in the wild.

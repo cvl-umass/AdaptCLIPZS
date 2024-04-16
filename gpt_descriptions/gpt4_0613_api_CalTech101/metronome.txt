@@ -1,0 +1,17 @@
+An object which has a pendulum that swings back and forth at a steady pace.
+An object which often has a pyramid-like or rectangular shape.
+An object which has a sliding weight on the pendulum to adjust the speed of the beat.
+An object which may have a dial or knob to adjust the tempo.
+An object which may have a series of numbers, often ranging from 40 to 208, representing beats per minute.
+An object which may have a wind-up key or be powered by batteries or electricity.
+An object which may be made of wood, plastic, or metal.
+An object which may have a small speaker or a light that blinks in time with the beat.
+An object which may have a small window showing the pendulum's motion.
+An object which may have a hinged cover to protect the pendulum when not in use.
+An object which may have a base that allows it to stand upright on a flat surface.
+An object which may have a hook or a hole at the top, used for hanging or carrying.
+An object which may have a silent mode, where the pendulum moves without producing sound.
+An object which may have a digital display showing the current tempo.
+An object which may have a headphone jack for private listening.
+An object which may have a start/stop button to control the operation.
+An object which may have a tempo marking guide, indicating common musical tempos like "Allegro" or "Andante".

@@ -1,0 +1,20 @@
+An aircraft with a low-wing monoplane design.
+An aircraft with two turboprop engines mounted on the wings.
+An aircraft with a T-tail configuration.
+An aircraft with a retractable tricycle landing gear.
+An aircraft with a length of approximately 20 meters.
+An aircraft with a wingspan of approximately 19.78 meters.
+An aircraft with a capacity to carry up to 30 passengers.
+An aircraft with a cockpit designed for two crew members.
+An aircraft with a circular fuselage cross-section.
+An aircraft with a pointed nose and a slightly sloping forehead.
+An aircraft with a relatively short and stubby body compared to its wingspan.
+An aircraft with a maximum cruising speed of approximately 298 knots.
+An aircraft with a range of approximately 1,575 nautical miles.
+An aircraft with Pratt & Whitney Canada PW118/118A/118B engines.
+An aircraft with a service ceiling of approximately 32,000 feet.
+An aircraft with a distinctive exhaust port on the side of each engine.
+An aircraft with a relatively small size compared to commercial jet airliners.
+An aircraft with a high-mounted horizontal stabilizer on the tail.
+An aircraft with a single aisle in the passenger cabin.
+An aircraft with a relatively large vertical stabilizer compared to its overall size.

@@ -1,0 +1,15 @@
+An object which has a creamy, smooth texture.
+An object which is typically white or off-white in color.
+An object which appears to be a soft, semi-solid mass.
+An object which may have small lumps or chunks within it, indicating the presence of potato.
+An object which may have a glossy or shiny surface if butter or cream has been added.
+An object which may be served in a mound or heap shape.
+An object which may have a slightly uneven or rough surface due to the mashing process.
+An object which may be garnished with herbs like parsley or chives, indicating a savory dish.
+An object which may be served alongside meat or vegetables, suggesting it is a side dish.
+An object which may have a gravy or sauce poured over it.
+An object which may be served in a bowl or on a plate.
+An object which may have a spoon or fork imprint on it, indicating it has been served or portioned.
+An object which may appear in a variety of consistencies, from very smooth to slightly chunky, depending on the preparation method.
+An object which may have a slightly yellow hue if a certain type of potato or butter has been used in its preparation.
+An object which may be served in a casserole dish if it is part of a baked dish like shepherd's pie.

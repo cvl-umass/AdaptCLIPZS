@@ -1,0 +1,14 @@
+An object which has a bright, multicolored plumage.
+An object which has a small to medium-sized body, typically ranging from 150 to 300 mm in length.
+An object which has a unique beak shape, curved downwards, perfect for reaching into flowers for nectar.
+An object which has a brush-tipped tongue for feeding on nectar and soft fruits.
+An object which has a tail that is generally longer in proportion to its body size.
+An object which has strong legs and zygodactyl feet (two toes facing forward and two back) for gripping branches.
+An object which has bright, round eyes that are often blue or brown.
+An object which has a distinctive, loud, and shrill call.
+An object which is often seen in pairs or small groups, indicating social behavior.
+An object which is often seen in trees or shrubs, indicating arboreal habits.
+An object which may have a blue or green head, depending on the species.
+An object which may have a red, orange, or yellow chest and belly, depending on the species.
+An object which may have a black, blue, or green back and wings, depending on the species.
+An object which may have a yellow, orange, or red bill, depending on the species.

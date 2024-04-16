@@ -1,0 +1,25 @@
+An object which has a flat, rectangular screen.
+An object which has buttons or touch controls, usually on the bottom or side.
+An object which has a stand or mount at the back for support.
+An object which has ports or slots at the back or side for connecting cables.
+An object which has a brand logo or name on the front or back.
+An object which has a power button, usually on the front or side.
+An object which has a thin border or bezel around the screen.
+An object which has a glossy or matte finish on the screen.
+An object which may have built-in speakers, usually located at the bottom or back.
+An object which may have a webcam or sensor at the top.
+An object which may have LED indicators, usually near the power button.
+An object which may have a curved or flat screen.
+An object which may have a vent or fan at the back for cooling.
+An object which may have an adjustable stand for changing the screen's height or angle.
+An object which may have a cable management system at the back or in the stand.
+An object which may have a touch screen interface.
+An object which may have a protective glass or plastic cover over the screen.
+An object which may have a certification or rating label at the back.
+An object which may have a serial number or model number at the back.
+An object which may have a color calibration or mode selection button.
+An object which may have a headphone jack or USB ports.
+An object which may have a display technology label such as LCD, LED, OLED, or QLED.
+An object which may have a screen size label at the back or on the box.
+An object which may have a resolution label such as HD, Full HD, 4K, or 8K.
+An object which may have a refresh rate label such as 60Hz, 120Hz, or 144Hz.

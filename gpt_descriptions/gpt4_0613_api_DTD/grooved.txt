@@ -1,0 +1,10 @@
+A texture which has a pattern of parallel or crisscross lines.
+A texture which has a series of ridges or indented lines.
+A texture which has a repetitive pattern of raised and lowered areas.
+A texture which has a noticeable contrast between the raised and indented areas.
+A texture which has a linear pattern that can be felt or seen.
+A texture which has a pattern that is consistent and uniform.
+A texture which has a pattern that can be visually and physically perceived as grooves.
+A texture which has a pattern that may appear similar to the grain of wood or the grooves in a vinyl record.
+A texture which has a pattern that may create a sense of direction or movement.
+A texture which has a pattern that can create a tactile sensation when touched.

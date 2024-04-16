@@ -1,0 +1,20 @@
+Mammal with a small, compact body.
+Mammal with a head that is large in proportion to its body.
+Mammal with short legs.
+Mammal with a short tail that is often hidden by fur.
+Mammal with fur that is dense and soft.
+Mammal with fur that is typically brown or black, sometimes with patches of white.
+Mammal with large, round ears.
+Mammal with eyes that are large and black.
+Mammal with a broad nose.
+Mammal with a mouth that contains a set of continuously growing incisor teeth.
+Mammal with a body length that ranges from 20 to 40 cm.
+Mammal with a weight that ranges from 700 to 1200 grams.
+Mammal that is often found in grassy areas or forests.
+Mammal that is native to South America, particularly Brazil.
+Mammal that is often seen in groups, indicating its social nature.
+Mammal that is primarily active during the dawn and dusk, indicating its crepuscular nature.
+Mammal with a diet that primarily consists of grasses, indicating its herbivorous nature.
+Mammal that is often seen in a burrow or under vegetation, indicating its preference for covered habitats.
+Mammal with a lifespan that ranges from 4 to 8 years in the wild.
+Mammal with a gestation period of about 60 days, indicating its relatively short reproductive cycle.

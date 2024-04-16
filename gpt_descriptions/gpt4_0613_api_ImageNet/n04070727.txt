@@ -1,0 +1,25 @@
+An object which is typically a large, box-like appliance.
+An object which has one or two doors on the front.
+An object which often has a separate freezer compartment.
+An object which may have a water or ice dispenser on the door.
+An object which has shelves and compartments inside.
+An object which may have a digital display or control panel on the front.
+An object which is usually found in the kitchen.
+An object which may have a glossy or matte finish, often in white, black, or stainless steel.
+An object which may have a brand logo on the front.
+An object which may have a pull-out drawer at the bottom.
+An object which may have a handle or handles on the doors.
+An object which is typically plugged into an electrical outlet.
+An object which may have a vent or grille at the bottom or back.
+An object which may have a light inside that turns on when the door is opened.
+An object which may have a temperature control dial or digital settings inside.
+An object which may have a crisper drawer for fruits and vegetables inside.
+An object which may have a dairy compartment in the door.
+An object which may have adjustable shelves to accommodate different sized items.
+An object which may have a magnetic surface for attaching notes or magnets.
+An object which may have a lock or child safety feature.
+An object which may have a built-in water filtration system.
+An object which may have a fan or cooling system visible at the back.
+An object which may have a condensation tray or drip pan at the bottom.
+An object which may have a frost-free feature indicated by a lack of ice build-up in the freezer.
+An object which may have a energy efficiency rating sticker or label.

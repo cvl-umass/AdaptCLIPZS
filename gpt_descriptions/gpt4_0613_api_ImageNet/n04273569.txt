@@ -1,0 +1,20 @@
+An object which has a streamlined shape for fast movement on water.
+An object which has a propeller at the back for propulsion.
+An object which has a steering wheel or helm at the front.
+An object which has seating arrangements for passengers and a driver.
+An object which has a hull designed to plane on the water's surface.
+An object which may have a canopy or a roof-like structure for protection from the sun.
+An object which may have a windshield to protect the driver from wind and water spray.
+An object which may have a motor or engine visible on the back.
+An object which may have a rudder for steering.
+An object which may have a deck, a flat surface that forms the main part of the boat.
+An object which may have cleats, used for securing lines.
+An object which may have navigation lights for safe travel at night.
+An object which may have a swim platform at the stern.
+An object which may have a ladder for easy access to the water.
+An object which may have a bilge pump, used to remove water from the bilge.
+An object which may have a fuel tank, often located in the boat's stern or under the deck.
+An object which may have a variety of color schemes and designs on its exterior.
+An object which may have a wakeboard tower, used for towing water skiers or wakeboarders.
+An object which may have a bimini top, a canvas top that stretches over a frame, providing shade.
+An object which may have a bow, the forward part of the boat, often pointed and streamlined.

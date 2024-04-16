@@ -1,0 +1,20 @@
+An object which has multiple horizontal shelves.
+An object which is typically taller than it is wide.
+An object which is designed to hold items in a vertical orientation.
+An object which is commonly made of materials like wood, metal, or plastic.
+An object which often has a back panel, but can also be open from both sides.
+An object which may have adjustable shelves to accommodate items of different heights.
+An object which may have doors or glass fronts to protect the items inside.
+An object which is usually found in homes, offices, libraries, or schools.
+An object which is often used to store and display books.
+An object which may have a flat top surface that can also be used for display or storage.
+An object which may have decorative elements like molding or carving.
+An object which can come in a variety of styles, from traditional to modern.
+An object which may be freestanding or built into a wall.
+An object which may be part of a larger furniture set, matching in style and material.
+An object which may have a finish or paint to enhance its appearance and protect the material.
+An object which may have additional features like drawers or cupboards at the base.
+An object which may have a ladder or steps for reaching higher shelves in larger models.
+An object which may have lighting installed to illuminate the items on display.
+An object which may have a lock for securing valuable items.
+An object which may be designed to fit into a corner, with shelves that are wider at the front than at the back.

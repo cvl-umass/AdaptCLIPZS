@@ -1,0 +1,15 @@
+An object which has a large console with multiple keyboards, often two to five, stacked on top of each other.
+An object which has a set of foot pedals similar to a piano.
+An object which has a large number of pipes, varying in size from a few inches to several feet, often visible behind the console.
+An object which has a series of stops or knobs, each controlling a specific set of pipes.
+An object which is often found in a church, cathedral, or concert hall setting.
+An object which may have a bench for the player to sit while playing.
+An object which may have a music stand to hold sheet music.
+An object which may have intricate woodwork or metalwork, especially in older or more traditional models.
+An object which may have a large, ornate case housing the pipes.
+An object which may have pipes arranged in a symmetrical pattern, often with the largest pipes in the center.
+An object which may have a mirror or other reflective surface to show the organist the conductor or choir.
+An object which may have a swell box, a closed box containing pipes whose volume can be controlled.
+An object which may have a blower, often electric, to supply air to the pipes.
+An object which may have a combination action, a system that allows the organist to preset certain combinations of stops.
+An object which may have a tracker action, a mechanical linkage between keys and pipes.

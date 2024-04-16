@@ -1,0 +1,16 @@
+An object which is oval or round in shape.
+An object which has a bright yellow color.
+An object which has a textured, porous surface.
+An object which has a pointed tip at one or both ends.
+An object which is small enough to be held in one hand.
+An object which has a thin, hard outer layer.
+An object which has a white, spongy layer beneath the outer skin.
+An object which has a segmented interior when cut open.
+An object which has a sour taste, if taste is discernible from the photo.
+An object which has a citrusy aroma, if smell is discernible from the photo.
+An object which is often depicted with leaves or flowers of the same plant.
+An object which is often shown in association with other citrus fruits or in culinary settings.
+An object which may show signs of being waxed or polished, giving it a shiny appearance.
+An object which may have small brown spots or blemishes on the skin.
+An object which may have a greenish hue if it is not fully ripe.
+An object which may have a slightly flattened top and bottom if it is a specific variety of lemon.

@@ -1,0 +1,15 @@
+An object which has two seats, one behind the other.
+An object which has two sets of pedals, one for each seat.
+An object which has a single frame that is longer than a standard bicycle frame.
+An object which has two handlebars, one for each seat.
+An object which has a single chain or two chains connecting the pedals to the rear wheel.
+An object which has a single front wheel and a single rear wheel.
+An object which has a rear seat that is often slightly lower than the front seat.
+An object which has a single set of brakes controlled by the front rider.
+An object which may have a second set of handlebars for the rear rider, but these typically do not steer the bicycle.
+An object which may have additional features such as a luggage rack or a child seat.
+An object which may have a tandem-specific stand for stability when stationary.
+An object which may have a longer wheelbase compared to a standard bicycle.
+An object which may have a tandem-specific fork for added strength and stability.
+An object which may have a second set of pedals that are synchronized with the front set.
+An object which may have a second set of gears controlled by the rear rider.

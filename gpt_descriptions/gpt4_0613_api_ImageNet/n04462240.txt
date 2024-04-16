@@ -1,0 +1,25 @@
+An object which displays a variety of toys and games on shelves.
+An object which has signage or banners advertising popular toy brands.
+An object which has a colorful and playful interior design.
+An object which has sections divided by age group or toy type.
+An object which has a checkout counter with small toys or candy for impulse purchases.
+An object which has displays or demo areas where children can try out toys.
+An object which has posters or standees of popular children's characters.
+An object which has a section dedicated to educational or learning toys.
+An object which has a section for party supplies or gift wrapping.
+An object which has shopping carts or baskets designed for children.
+An object which has a section for video games and electronic toys.
+An object which has a section for board games and puzzles.
+An object which has a section for dolls and action figures.
+An object which has a section for outdoor toys like bikes, scooters, or sports equipment.
+An object which has a section for arts and crafts supplies.
+An object which has a section for baby and toddler toys.
+An object which has a section for collectible toys or figurines.
+An object which has a section for toy cars and trains.
+An object which has a section for building sets and blocks.
+An object which has a section for plush toys or stuffed animals.
+An object which has a section for costumes or dress-up clothes.
+An object which has a section for science kits or educational games.
+An object which has a section for musical toys or instruments.
+An object which has a section for novelty toys or gag gifts.
+An object which has a section for seasonal or holiday-themed toys.

@@ -1,0 +1,20 @@
+An object which has a moccasin construction with a broad, flat heel.
+An object which lacks a fastening system such as laces or straps.
+An object which has a low shoe, not reaching above the ankle.
+An object which has a separate sole and heel.
+An object which has a saddle, a decorative piece of leather, across the vamp.
+An object which is designed to be worn without socks.
+An object which has a sleek, streamlined design.
+An object which may have tassels or metal decorations on the upper part.
+An object which may have a raised seam running along the toe.
+An object which is typically made of leather, suede, or other high-quality materials.
+An object which may have a penny slot, a strip of leather with a diamond-shaped slot, on the upper part.
+An object which may have a moc toe design, where the top of the shoe is made of one piece of leather that is sewn to the sides of the shoe.
+An object which may have a slip-resistant sole for safety.
+An object which may have cushioning or padding on the inside for comfort.
+An object which may come in a variety of colors and finishes.
+An object which may have perforations or other decorative detailing on the upper part.
+An object which may have a rounded or squared toe.
+An object which may have a leather, rubber, or synthetic sole.
+An object which may have a heel that is less than an inch high.
+An object which may have a smooth or textured finish.

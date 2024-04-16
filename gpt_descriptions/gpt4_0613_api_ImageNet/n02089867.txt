@@ -1,0 +1,16 @@
+An object which has a short, clear, glossy and dense coat.
+An object which has a coat color that is tricolor with white, black and tan.
+An object which has a compact and hard body.
+An object which has a head that is moderately large with a broad skull.
+An object which has a tail that is set high and carried cheerfully, but not curled over the back.
+An object which has ears that are set moderately low and of medium length, reaching or nearly reaching to the end of the nose.
+An object which has a square muzzle that is deep and broad.
+An object which has a slightly arched and long neck.
+An object which has a chest that is deep but not too broad.
+An object which has a back that is strong and straight.
+An object which has a size that is medium to large, with males standing 22-27 inches at the shoulder and females standing 20-25 inches.
+An object which has a weight that ranges from 50 to 70 pounds.
+An object which has eyes that are dark and have a soft expression.
+An object which has a gait that is smooth, effortless, and capable of maintaining for a long time at a fast speed.
+An object which has a temperament that is intelligent, confident, and sociable.
+An object which has a strong desire to hunt and track scents.

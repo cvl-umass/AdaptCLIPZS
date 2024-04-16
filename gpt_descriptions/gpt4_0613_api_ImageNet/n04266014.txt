@@ -1,0 +1,18 @@
+An object which has a streamlined shape for aerodynamic purposes.
+An object which has a white or black color scheme, often with the black on the bottom and white on top.
+An object which has a pair of large, solid rocket boosters attached to its sides.
+An object which has a large orange external fuel tank attached to its underside.
+An object which has a delta-wing design, similar to some types of fighter jets.
+An object which has a flat, rectangular cargo bay in the middle.
+An object which has a small, pointed nose cone at the front.
+An object which has a vertical tail fin at the back.
+An object which has several small thrusters for maneuvering in space.
+An object which has a heat-resistant tile system on the underside for re-entry into the Earth's atmosphere.
+An object which has a cockpit with windows at the front.
+An object which has doors on the cargo bay that open and close.
+An object which has a robotic arm inside the cargo bay for deploying and retrieving satellites.
+An object which has landing gear that can be retracted and extended.
+An object which has a United States flag and NASA logo on the side.
+An object which has a name and a mission number printed on the side.
+An object which has a size much larger than a typical airplane.
+An object which has a design that is distinct from other spacecraft, such as capsules or probes.

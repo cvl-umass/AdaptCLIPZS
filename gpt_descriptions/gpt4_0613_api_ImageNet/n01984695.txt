@@ -1,0 +1,15 @@
+An object which has a hard, spiny exoskeleton, often reddish-brown or orange in color.
+An object which lacks the large, distinctive claws found on true lobsters.
+An object which has two large, spiny antennae protruding from the front of its body.
+An object which has a segmented body, divided into a cephalothorax and a long, segmented abdomen.
+An object which has a tail fan at the end of its body, composed of uropods and the telson.
+An object which has five pairs of jointed legs on the thorax, the first three pairs usually bearing claws.
+An object which has a pair of eyes on stalks located at the front of the body.
+An object which has a pair of smaller antennules located near the large antennae, used for sensing the environment.
+An object which has gills for breathing, located under the carapace.
+An object which has a mouth located on the underside of the cephalothorax, equipped with mandibles for crushing food.
+An object which has pleopods, or swimmerets, located on the underside of the abdomen, used for swimming and carrying eggs in females.
+An object which may have a variety of marine organisms, such as barnacles or algae, attached to its exoskeleton, indicating a slow-moving or sedentary lifestyle.
+An object which may be seen in a variety of marine environments, from rocky shores to coral reefs, indicating a wide habitat range.
+An object which may be seen alone or in large aggregations, indicating a variable social structure.
+An object which may be seen carrying a large cluster of eggs under its tail, indicating a female in the reproductive stage.

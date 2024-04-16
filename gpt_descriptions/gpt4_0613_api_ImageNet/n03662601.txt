@@ -1,0 +1,20 @@
+An object which is typically bright orange or red for high visibility.
+An object which is small to medium-sized and designed to float on water.
+An object which has a covered or uncovered deck, depending on the design.
+An object which is equipped with life-saving appliances like life jackets, flares, and first aid kits.
+An object which may have a motor or oars for propulsion.
+An object which has a rigid or inflatable structure.
+An object which may have a canopy or roof to protect from elements.
+An object which is designed to accommodate a certain number of people.
+An object which may have a self-righting design, meaning it can correct itself if it capsizes.
+An object which may have straps or harnesses for securing passengers.
+An object which may have a radio or other communication devices for emergency contact.
+An object which may have storage compartments for food, water, and other survival supplies.
+An object which may have a launching mechanism like a davit or a ramp.
+An object which is typically found on larger vessels like ships and oil rigs for emergency evacuation.
+An object which may have a hull made of metal, wood, or reinforced plastic.
+An object which may have a double hull design for added buoyancy and safety.
+An object which may have a high freeboard, which is the distance from the waterline to the upper deck level, to prevent water from entering.
+An object which may have a bright light or beacon for attracting attention in the dark.
+An object which may have a drogue or sea anchor to stabilize it in rough seas.
+An object which may have a ladder or steps for easy boarding.

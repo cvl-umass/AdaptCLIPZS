@@ -1,0 +1,20 @@
+An object which has a screen for displaying transaction information.
+An object which has a keypad for entering personal identification number (PIN).
+An object which has a card reader slot for inserting a bank card.
+An object which has a cash dispenser slot from where money is dispensed.
+An object which has a deposit slot for depositing checks or cash.
+An object which has a receipt printer for printing transaction receipts.
+An object which has a logo or branding of a bank or financial institution.
+An object which has a function button panel, usually located next to the screen.
+An object which has a speaker for voice instructions or feedback.
+An object which is usually standalone and located in public places like malls, banks, or on the street.
+An object which is typically rectangular and tall, often secured to the ground or a wall.
+An object which may have a light to illuminate the keypad and screen.
+An object which may have a security camera or mirror to deter and record potential fraudulent activities.
+An object which may have braille for visually impaired users.
+An object which may have a touchscreen interface instead of a physical keypad.
+An object which may have a sign indicating it's a 24-hour service.
+An object which may have a protective cover over the keypad to prevent others from seeing the PIN entry.
+An object which may have a warning label about potential fraud or theft risks.
+An object which may have a network connectivity indicator, such as Wi-Fi or 4G.
+An object which may have a 'cancel', 'clear' or 'enter' button on the keypad.

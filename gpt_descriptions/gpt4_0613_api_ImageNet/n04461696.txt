@@ -1,0 +1,20 @@
+An object which has a large crane or hoist mechanism mounted on its back.
+An object which has a flatbed or platform at the rear.
+An object which has a hook and chain system for towing vehicles.
+An object which has a wheel-lift or underlift at the back.
+An object which has a heavy-duty frame and suspension system.
+An object which has a cab similar to that of a truck or large van.
+An object which has flashing lights or beacons on the top.
+An object which has a winch system installed.
+An object which has storage compartments for tools and equipment.
+An object which has a hydraulic system for lifting or moving vehicles.
+An object which has a large towing capacity indicated by its size and build.
+An object which has a logo or signage indicating a towing or roadside assistance service.
+An object which has dual rear wheels for added stability and strength.
+An object which has a heavy-duty bumper or push bar at the front.
+An object which has a long wheelbase and a robust chassis.
+An object which has a tow sling or belt lift at the rear.
+An object which has a control panel for operating the towing equipment.
+An object which has a two-part boom for lifting vehicles off the ground.
+An object which has a stinger or wheel-lift that extends from the back.
+An object which has a large side mirror for better visibility of the towed vehicle.

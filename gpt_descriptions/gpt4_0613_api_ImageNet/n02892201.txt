@@ -1,0 +1,20 @@
+An object which has a flat, typically rectangular shape.
+An object which has a shiny, gold-like color.
+An object which may have engraved or embossed text or images.
+An object which may have a polished or brushed surface.
+An object which may have a slightly aged or tarnished appearance due to oxidation.
+An object which may be mounted on a wall or other vertical surface.
+An object which may have a protective coating to prevent tarnishing.
+An object which may have a border or frame, often ornate in design.
+An object which may have holes or other means of attachment at its corners.
+An object which may be associated with commemorative, informational, or directional purposes.
+An object which may have a certain weightiness or solidity, suggesting it is made of a heavy metal.
+An object which may reflect light in a specific way, indicative of a metallic surface.
+An object which may have a smooth or textured surface, depending on the finishing process.
+An object which may have a certain thickness, suggesting it is not a mere sheet of metal.
+An object which may have a certain size, often larger than a standard piece of paper, but this can vary widely.
+An object which may have a certain level of detail in the engraving or embossing, suggesting a high level of craftsmanship.
+An object which may have a certain level of durability, suggesting it is designed to last for a long time.
+An object which may have a certain level of resistance to corrosion, suggesting it is made of a specific type of metal.
+An object which may have a certain level of resistance to heat, suggesting it is made of a specific type of metal.
+An object which may have a certain level of resistance to wear and tear, suggesting it is designed for outdoor or public use.

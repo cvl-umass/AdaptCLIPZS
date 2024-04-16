@@ -1,0 +1,28 @@
+Insect with a wingspan of approximately 20-25 mm.
+Insect with a black body and white bands on the abdomen.
+Insect with a white band across the middle of the forewings.
+Insect with a white band at the tip of the forewings.
+Insect with a white band at the base of the forewings.
+Insect with a white band at the base of the hindwings.
+Insect with a white band at the tip of the hindwings.
+Insect with a white band across the middle of the hindwings.
+Insect with a black head and thorax.
+Insect with a white band across the thorax.
+Insect with a white band across the base of the abdomen.
+Insect with a white band across the middle of the abdomen.
+Insect with a white band at the tip of the abdomen.
+Insect with a black and white banded antennae.
+Insect with a black and white banded legs.
+Insect with a black and white banded proboscis.
+Insect with a black and white banded palps.
+Insect with a black and white banded eyes.
+Insect with a black and white banded wings.
+Insect found in habitats such as forests, woodlands, and gardens.
+Insect found in regions of North America, particularly the eastern United States.
+Insect that is active during the night, indicating nocturnal behavior.
+Insect that is seen from late winter to early spring, indicating a specific seasonal activity pattern.
+Insect that feeds on grapevine, indicating a specific dietary preference.
+Insect with a larval stage that feeds on grapevine leaves, indicating a specific developmental stage dietary preference.
+Insect with a pupal stage that occurs in a cocoon in the soil, indicating a specific developmental stage habitat preference.
+Insect with a flight pattern that is slow and fluttery, indicating a specific behavioral characteristic.
+Insect with a mating behavior that involves the female releasing a pheromone to attract males, indicating a specific reproductive behavior.

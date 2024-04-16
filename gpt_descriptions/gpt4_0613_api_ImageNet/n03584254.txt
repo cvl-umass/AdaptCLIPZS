@@ -1,0 +1,17 @@
+An object which has a small, rectangular shape with rounded corners.
+An object which features a screen on the upper half of the front side.
+An object which has a circular control pad beneath the screen.
+An object which has a headphone jack on the bottom or top side.
+An object which has a small port for a 30-pin or Lightning connector on the bottom side.
+An object which has the Apple logo on the back side.
+An object which has a smooth, metallic or plastic back cover.
+An object which has a thin, sleek design.
+An object which has volume control buttons on the side.
+An object which may have a small camera lens on the back side in some models.
+An object which may have a clip on the back side in some models.
+An object which may have a touch screen in some models.
+An object which may have a home button on the front side in some models.
+An object which may have a hold switch on the top side in some models.
+An object which may have a speaker grill on the bottom side in some models.
+An object which may have a color display in some models.
+An object which may have a text or engraving on the back side in some models.

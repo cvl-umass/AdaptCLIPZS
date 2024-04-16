@@ -1,0 +1,15 @@
+An object which has a carapace (shell) that is wider than it is long.
+An object which has a carapace with nine marginal teeth on each side, excluding the corner teeth.
+An object which has a reddish-brown or yellowish-brown color on the upper side of the carapace.
+An object which has a whitish or yellowish color on the underside of the carapace.
+An object which has claws that are nearly equal in size.
+An object which has claws that are blackish or dark brown on the tips.
+An object which has a carapace that is rough and granular in texture.
+An object which has a pair of round and stalked eyes.
+An object which has five pairs of legs, including the claws.
+An object which has a triangular-shaped abdomen.
+An object which has a size typically ranging from 2 to 5 inches in carapace width.
+An object which has a carapace that is often covered with epibionts (organisms that live on the surface of another organism).
+An object which has a pair of antennae.
+An object which has a pair of maxillipeds (mouthparts used for eating and tasting).
+An object which has a pair of pincers that are sharp and strong.

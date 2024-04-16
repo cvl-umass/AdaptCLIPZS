@@ -1,0 +1,18 @@
+An object which has a rectangular or oval shape.
+An object which is made of plastic, metal or woven materials.
+An object which has a handle or two at the top for carrying.
+An object which has a hollow interior for placing items.
+An object which has a grid or mesh-like structure.
+An object which is typically small enough to be carried by one person.
+An object which may have wheels at the bottom for easy movement.
+An object which may have a flat base to stand upright.
+An object which may come in various colors, but commonly in red, green, blue, or black.
+An object which may have the logo or name of a store imprinted on it.
+An object which may have a stackable design for easy storage.
+An object which may have a foldable handle for compact storage.
+An object which may have a slightly larger width than its height.
+An object which may have a depth that is less than or equal to its width.
+An object which may have a rigid structure to hold weight.
+An object which may have a smooth or textured surface.
+An object which may have rounded corners for safety.
+An object which may have a lightweight design for easy handling.

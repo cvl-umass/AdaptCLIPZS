@@ -1,0 +1,15 @@
+An object which has a leathery armor shell.
+An object which has a small head with a long, pointed snout.
+An object which has small eyes that are often covered by a bony plate for protection.
+An object which has long, sharp claws used for digging and foraging.
+An object which has a long, tapering tail, often covered with bony plates.
+An object which has a body that is typically gray or brown in color.
+An object which has a segmented, protective covering on its back and tail.
+An object which has ears that are long and stand upright.
+An object which has a body shape that is somewhat elongated and rounded.
+An object which has a belly that is soft and less protected than its back.
+An object which has a size that can range from small to large, depending on the species.
+An object which has a posture that is typically low to the ground.
+An object which has a gait that is slow and deliberate, often seen when it's not threatened.
+An object which has teeth that are peg-like and lack enamel.
+An object which has nostrils that are often elongated to assist in its sense of smell.

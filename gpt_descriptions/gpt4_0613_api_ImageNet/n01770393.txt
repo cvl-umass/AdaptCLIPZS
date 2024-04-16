@@ -1,0 +1,14 @@
+An object which has a segmented body divided into two parts: the cephalothorax (head) and the abdomen.
+An object which has a pair of large pincers (pedipalps) at the front.
+An object which has a long, segmented tail, often held in a characteristic forward curve over the back, ending with a venomous stinger.
+An object which has eight legs, similar to other arachnids.
+An object which has a pair of small claw-like structures called chelicerae that are used for feeding.
+An object which has a pair of median eyes at the top of the cephalothorax and also two to five pairs of lateral eyes along the sides of the cephalothorax.
+An object which has a hard exoskeleton that is covered with sensory hairs.
+An object which has a pair of comb-like organs called pectines on its underside, which are used for sensing the environment.
+An object which may exhibit fluorescence under ultraviolet light.
+An object which has a relatively small mouth located in the middle of the underside of the cephalothorax.
+An object which may vary in size, but generally has a body length of less than 20 cm.
+An object which may come in various colors, but most commonly in shades of brown and black.
+An object which may have a granulated texture on its body surface.
+An object which may be found in a variety of habitats, but is most commonly associated with arid and semi-arid environments.

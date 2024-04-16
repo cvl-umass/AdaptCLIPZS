@@ -1,0 +1,18 @@
+An object which has a distinctive black and white striped face.
+An object which has a small, wedge-shaped body.
+An object which has a short, bushy tail.
+An object which has long, sharp claws on its front feet.
+An object which has a greyish coat with black underparts.
+An object which has a robust and muscular build.
+An object which has small, round ears.
+An object which has a snout that is elongated and pointed.
+An object which has a body length ranging from 60 to 90 cm.
+An object which has a tail length ranging from 12 to 20 cm.
+An object which has a weight ranging from 9 to 16 kg.
+An object which has a broad and flat back.
+An object which has a thick, tough skin.
+An object which has a gait that is waddling or shuffling.
+An object which has eyes that are small and beady.
+An object which has a body that is designed for digging.
+An object which has a coat that is dense and used for protection against bites.
+An object which has a body that is low to the ground.

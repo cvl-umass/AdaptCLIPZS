@@ -1,0 +1,20 @@
+An object which has a rectangular or square shape.
+An object which has one or more slots on the top.
+An object which has a lever or button on the side for lowering and raising the bread.
+An object which has a crumb tray at the bottom.
+An object which has a power cord attached to it.
+An object which has a control knob or buttons for adjusting the level of browning.
+An object which has a heating element visible inside the slots.
+An object which is typically made of metal, plastic, or a combination of both.
+An object which may have a digital display showing time or browning level.
+An object which may have additional features like a bagel setting, defrost setting, or reheat setting.
+An object which is typically found in a kitchen setting.
+An object which is usually placed on a countertop.
+An object which is generally connected to an electrical outlet.
+An object which may have a cool-touch exterior to prevent burns.
+An object which may have a cancel button to stop the toasting process.
+An object which may have a high-lift lever for easy removal of smaller items.
+An object which may have a wide slot to accommodate different types of bread.
+An object which may have a cord storage at the bottom for neat tucking away when not in use.
+An object which may have a cover to protect the slots when not in use.
+An object which may have a sound alert when the toasting is done.

@@ -1,0 +1,15 @@
+A food with a triangular or cone shape.
+A food with a golden-brown, crispy exterior.
+A food with visible folds or pleats on its surface.
+A food with a fried or baked outer layer.
+A food with a filling that can be seen when it's broken or bitten into.
+A food with a savory filling, often consisting of spiced potatoes, onions, peas, lentils, and sometimes meat.
+A food that is typically small enough to be eaten in a few bites.
+A food that is often served with a side of chutney or sauce.
+A food that is commonly found in Indian cuisine.
+A food with a flaky or crumbly texture on the outside.
+A food that is typically served as an appetizer or snack.
+A food that can be seen in both sweet and savory versions, though the savory version is more common.
+A food that may have seeds like sesame or nigella sprinkled on top.
+A food that may have a slightly greasy appearance due to being deep-fried.
+A food that may have a green or red filling, indicating the presence of peas or meat respectively.

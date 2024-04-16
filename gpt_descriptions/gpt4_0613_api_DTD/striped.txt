@@ -1,0 +1,12 @@
+A texture which has a pattern of parallel lines.
+A texture which alternates between two or more colors or shades.
+A texture which displays a regular pattern of light and dark bands.
+A texture which shows a consistent repetition of linear elements.
+A texture which has a clear contrast between the different stripes.
+A texture which has lines that are evenly spaced apart.
+A texture which has lines that may vary in width.
+A texture which may have lines running vertically, horizontally, or diagonally.
+A texture which may have lines that are straight, wavy, or zigzagged.
+A texture which may have stripes of different textures, such as smooth and rough.
+A texture which may have stripes that are continuous or broken into segments.
+A texture which may have stripes that are uniform or irregular in their pattern.

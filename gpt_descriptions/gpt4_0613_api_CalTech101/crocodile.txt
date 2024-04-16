@@ -1,0 +1,20 @@
+An object which has a long, V-shaped snout.
+An object which has a body covered in hard, bony plates.
+An object which has a tail that is as long as its body.
+An object which has webbed hind feet.
+An object which has a pair of eyes and nostrils located on top of its head.
+An object which has a mouth filled with sharp, conical teeth.
+An object which has a color that ranges from olive green to gray.
+An object which has a size that can range from 5.6 feet to 19.7 feet in length.
+An object which has a rough, scaly skin.
+An object which has a pair of short, but powerful limbs.
+An object which has a body that is slightly flattened on the sides.
+An object which has a pair of ears located just behind the eyes, covered by a flap of skin.
+An object which has a belly that is lighter in color than its back.
+An object which has a jaw that can open wide enough to swallow prey whole.
+An object which has a body that is streamlined for swimming.
+An object which has a pair of nostrils that can close while underwater.
+An object which has a pair of eyes that glow red in the light.
+An object which has a body that is capable of remaining motionless for long periods.
+An object which has a body that can sink into the water, leaving only the eyes and nostrils visible.
+An object which has a body that is capable of explosive bursts of speed when attacking prey.

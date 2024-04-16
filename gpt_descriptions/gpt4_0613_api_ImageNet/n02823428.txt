@@ -1,0 +1,20 @@
+An object which has a cylindrical shape with a narrow neck.
+An object which is typically made of glass.
+An object which may have a metal cap on top.
+An object which may contain liquid visible through the material.
+An object which may have a label wrapped around its body.
+An object which may have a brand name or logo on the label.
+An object which may have a barcode on the label.
+An object which may have nutritional information on the label.
+An object which may have a volume measurement on the label.
+An object which may have a brown or green tint to the glass.
+An object which may have a ring or ridge around the neck.
+An object which may have a long, slender body and a shorter, wider base.
+An object which may have a slightly curved body towards the neck.
+An object which may have a small, round opening at the top.
+An object which may have a pull-off or twist-off cap.
+An object which may have a date of manufacture or expiry on the label.
+An object which may have a government warning or legal age restriction on the label.
+An object which may have a recycling symbol on the label or the bottom.
+An object which may have a country of origin on the label.
+An object which may have a batch or lot number on the label.

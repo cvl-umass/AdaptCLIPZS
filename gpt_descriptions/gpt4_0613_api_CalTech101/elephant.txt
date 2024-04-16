@@ -1,0 +1,20 @@
+An object which has a large, rounded body.
+An object which has a long, flexible trunk extending from its face.
+An object which has large, fan-like ears.
+An object which has two long, curved ivory tusks protruding from its mouth.
+An object which has a rough, wrinkled, and grey skin.
+An object which has small eyes relative to its body size.
+An object which has a short tail with a tuft of hair at the end.
+An object which has four sturdy, pillar-like legs.
+An object which has flat, broad feet with toenails at the front.
+An object which has a dome-shaped head with a prominent forehead.
+An object which has a mouth at the end of the trunk.
+An object which has a size significantly larger than most other animals.
+An object which has a body shape that is not easily confused with other animals.
+An object which has a slow, lumbering walk or gait.
+An object which has a body covered with sparse, coarse hair.
+An object which has a noticeable size difference between males (larger) and females (smaller).
+An object which has a lifespan that can extend up to 70 years or more in the wild.
+An object which has a social behavior, often seen in groups.
+An object which has a diet that is herbivorous, often seen eating grass, leaves, and fruits.
+An object which has a unique communication method, often seen using its trunk to make trumpeting sounds.

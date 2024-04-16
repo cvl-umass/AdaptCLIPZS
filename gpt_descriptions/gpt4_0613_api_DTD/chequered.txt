@@ -1,0 +1,10 @@
+A texture which consists of squares or rectangles in alternating colors.
+A texture which displays a pattern that repeats at regular intervals.
+A texture which has a clear grid-like structure.
+A texture which has a consistent pattern of light and dark squares or rectangles.
+A texture which resembles a chess or checkerboard.
+A texture which has a two-dimensional geometric pattern.
+A texture which has equal-sized squares or rectangles throughout.
+A texture which has a high contrast between adjacent squares or rectangles.
+A texture which has a pattern that is symmetrical both horizontally and vertically.
+A texture which has a pattern that does not change or distort across the surface.

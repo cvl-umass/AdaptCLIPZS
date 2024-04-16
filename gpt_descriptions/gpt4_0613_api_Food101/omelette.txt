@@ -1,0 +1,14 @@
+A food with a flat, round or semi-circular shape.
+A food with a yellow or golden-brown color, indicating the presence of eggs.
+A food with a fluffy or slightly puffed texture, indicating the eggs have been beaten and cooked.
+A food with visible fillings such as cheese, vegetables, or meats peeking out from the edges or center.
+A food with a smooth or slightly wrinkled surface, indicating it has been pan-fried.
+A food with a glossy or slightly greasy appearance, suggesting it has been cooked with butter or oil.
+A food with a folded or rolled presentation, typical of some omelette styles.
+A food with small brown spots or patches, indicating it has been cooked on high heat.
+A food with a size typically large enough to cover a good portion of a plate.
+A food with a uniform thickness, indicating it has been evenly cooked.
+A food with a soft and slightly runny interior when cut open, indicating it is not overcooked.
+A food with a slightly crispy or firm edge, indicating it has been cooked until set.
+A food with a layered appearance when cut, indicating the presence of multiple ingredients.
+A food with a light and airy texture, indicating the eggs have been whisked well before cooking.

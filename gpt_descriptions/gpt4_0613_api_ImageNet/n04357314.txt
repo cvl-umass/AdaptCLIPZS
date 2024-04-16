@@ -1,0 +1,20 @@
+An object which is typically packaged in a tube, bottle, or aerosol can.
+An object which often has a creamy or lotion-like consistency.
+An object which may have a spray nozzle or pump for application.
+An object which often has a label indicating a specific SPF (Sun Protection Factor) value.
+An object which may have a label indicating it is water-resistant or waterproof.
+An object which may have a label indicating it provides broad-spectrum protection.
+An object which may have a label indicating it is for use on the face or body.
+An object which may have a label indicating it is for children or babies.
+An object which may have a label indicating it is hypoallergenic or suitable for sensitive skin.
+An object which may have a label indicating it is mineral-based or chemical-based.
+An object which may have a label indicating it is a product of a specific brand known for producing sun protection products.
+An object which may have a label indicating it is dermatologically tested or recommended.
+An object which may have a label indicating it is reef-safe or environmentally friendly.
+An object which may have a label indicating it contains specific ingredients like zinc oxide or titanium dioxide.
+An object which may have a label indicating it is a combination product, such as a moisturizer with SPF.
+An object which may have a label indicating it is fragrance-free or has a specific scent.
+An object which may have a label indicating it is non-comedogenic (won't clog pores).
+An object which may have a label indicating it is anti-aging or contains antioxidants.
+An object which may have a label indicating it is cruelty-free or vegan.
+An object which may have a label indicating it is oil-free or matte.

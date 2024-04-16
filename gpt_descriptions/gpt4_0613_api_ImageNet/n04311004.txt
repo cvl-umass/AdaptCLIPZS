@@ -1,0 +1,14 @@
+An object which has a curved, arch-like structure that spans across a body of water or valley.
+An object which has its roadway or pathway passing through the arch, rather than sitting on top of it.
+An object which has supports or abutments at each end of the arch.
+An object which has a deck (the load-bearing portion) that is suspended from the arch.
+An object which has a hinged design at the base of the arch, allowing the structure to flex and move.
+An object which has a network of trusses or braces that connect the arch to the deck.
+An object which has a symmetrical design, with the arch being the same shape and size on both sides of the bridge.
+An object which has a significant height, often towering above the landscape or cityscape.
+An object which has a clear span, meaning there are no supports in the water or valley below.
+An object which has a tie, a structural element that holds the ends of the arch together.
+An object which may have additional supports or cables extending from the arch to the deck, providing extra stability.
+An object which is often made of steel, but can also be constructed from concrete or other materials.
+An object which is typically used for vehicular traffic, but can also accommodate pedestrians or trains.
+An object which may have decorative elements, such as lighting or ornamental designs, that enhance its visual appeal.

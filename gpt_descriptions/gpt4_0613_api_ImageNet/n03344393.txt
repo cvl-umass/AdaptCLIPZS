@@ -1,0 +1,16 @@
+An object which has a large, boat-like structure, typically similar to a tugboat or ferry.
+An object which is equipped with high-powered water cannons or hoses.
+An object which often displays bright, noticeable colors, such as red or yellow, for visibility.
+An object which may have a deckhouse, where the crew can control the boat and its firefighting equipment.
+An object which may have a mast or tower, often used for mounting lights or antennas.
+An object which may have lifeboats or other safety equipment visible on the deck.
+An object which may have a large water pump system visible, used to draw water from the surrounding body of water.
+An object which may have firefighting and rescue logos or insignia on its body.
+An object which may have a flat deck area for carrying rescued persons or firefighting equipment.
+An object which may have a hull designed for stability, to withstand the recoil of its water cannons.
+An object which may have radar and communication equipment visible on the top.
+An object which may have multiple propellers for maneuverability in different water conditions.
+An object which may have a visible bridge or command center, often with large windows for visibility.
+An object which may have a number or name displayed on its side or stern, similar to other emergency service vehicles.
+An object which may have visible storage compartments for firefighting gear and equipment.
+An object which may be seen in proximity to large bodies of water, such as harbors, rivers, or coastal areas.

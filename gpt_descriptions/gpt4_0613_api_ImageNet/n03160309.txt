@@ -1,0 +1,15 @@
+An object which is a large, often concrete structure that blocks a body of water.
+An object which is located across a river or stream, often creating a reservoir or lake on one side.
+An object which has a significant height and width, often dwarfing nearby structures or natural features.
+An object which may have a spillway or gates to control the flow of water.
+An object which may have a power station or turbines attached, indicating it's used for hydroelectric power generation.
+An object which may have a road or walkway across the top.
+An object which is often surrounded by a large body of water on one side and a river or lower body of water on the other.
+An object which may have a fish ladder or similar structure to allow fish to bypass the dam.
+An object which may show signs of water erosion or wear, particularly on the downstream side.
+An object which may be surrounded by warning signs or barriers, indicating a danger of flooding or sudden water release.
+An object which may have a curved or straight shape, depending on the type of dam.
+An object which may have a series of steps or terraces on the downstream side, particularly in the case of a stepped spillway.
+An object which may be located in a remote or rural area, often in a valley or gorge.
+An object which may have a control tower or similar structure for monitoring and controlling the dam's operations.
+An object which may have a significant impact on the surrounding landscape, such as flooding forests or fields to create a reservoir.

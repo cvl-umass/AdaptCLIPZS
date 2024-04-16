@@ -1,0 +1,15 @@
+An object which is round or oval in shape.
+An object which has tightly packed leaves.
+An object which has a smooth and shiny surface.
+An object which is green, white, or purple in color.
+An object which has a dense and heavy feel for its size.
+An object which has a slightly pungent or sweet smell.
+An object which has a slightly waxy texture on the outer leaves.
+An object which has a stem or stalk at the base.
+An object which has a size ranging from that of a large orange to a watermelon.
+An object which has leaves that are crinkly or smooth based on the variety.
+An object which has a slightly bitter taste when raw.
+An object which has a compact center when cut open.
+An object which has a layered structure visible when cut in half.
+An object which has a hard and tough outer layer.
+An object which has a slightly spongy texture when squeezed gently.

@@ -1,0 +1,12 @@
+A texture which appears tangled or knotted.
+A texture which has a flat, dull appearance.
+A texture which lacks shine or glossiness.
+A texture which has a dense, compact structure.
+A texture which seems to have fibers or threads interwoven irregularly.
+A texture which appears rough or coarse to the touch.
+A texture which lacks smoothness or uniformity.
+A texture which has a non-reflective surface.
+A texture which seems to absorb light rather than reflect it.
+A texture which appears to have a layered or stacked effect.
+A texture which seems to have a lack of distinct pattern or directionality.
+A texture which appears to have a felt-like quality.

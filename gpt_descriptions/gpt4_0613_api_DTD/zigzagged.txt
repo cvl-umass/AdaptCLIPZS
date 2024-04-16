@@ -1,0 +1,10 @@
+A texture which features a continuous pattern of sharp turns or angles.
+A texture which has a pattern that alternates direction in a regular manner.
+A texture which displays a series of straight lines that abruptly change direction.
+A texture which has a pattern that resembles a series of 'Z' or 'N' shapes.
+A texture which shows a pattern that moves back and forth in a consistent, regular manner.
+A texture which has a pattern that could be described as a repeated 'peak' and 'valley'.
+A texture which has a pattern that could be likened to the path of a bouncing ball.
+A texture which has a pattern that is not smooth or curved, but rather sharp and angular.
+A texture which has a pattern that could be described as a series of connected 'V' shapes.
+A texture which has a pattern that is repetitive and predictable, with a clear, repeating motif.

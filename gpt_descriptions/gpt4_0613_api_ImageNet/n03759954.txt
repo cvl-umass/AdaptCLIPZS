@@ -1,0 +1,20 @@
+An object which has a cylindrical shape, often elongated.
+An object which has a mesh or foam cover at one end.
+An object which may have a switch or buttons on its body.
+An object which has a cord or cable attached, often at the bottom end.
+An object which may be attached to a stand or holder.
+An object which may have a logo or brand name visible.
+An object which may have a windscreen, often made of foam, over the top end.
+An object which may be handheld or mounted on a stand.
+An object which may have a round, ball-like structure at the top.
+An object which may have a USB or XLR connector at the end of its cable.
+An object which may be wireless, with no visible cables.
+An object which may have an adjustable angle or position.
+An object which may have a light or indicator to show it's on or off.
+An object which may come in various colors, but commonly black or silver.
+An object which may have a clip or holder for attaching to clothing or instruments.
+An object which may be small and discreet, designed for use with headsets or lapels.
+An object which may have a rectangular or other non-cylindrical shape, especially in the case of lavalier or shotgun microphones.
+An object which may have a battery compartment, in the case of wireless microphones.
+An object which may have a pop filter or shock mount, especially in the case of studio microphones.
+An object which may have a directional or omnidirectional pickup pattern, indicated by symbols or text.

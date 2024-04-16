@@ -1,0 +1,20 @@
+A scene which features a multitude of buttons, switches, and dials.
+A scene which includes a control yoke or side-stick, used for steering the aircraft.
+A scene which displays multiple computer screens showing various flight data.
+A scene which contains a throttle lever or quadrant, used for controlling engine power.
+A scene which showcases a head-up display (HUD), projecting information onto the windshield.
+A scene which includes a radio communication system.
+A scene which features a complex dashboard with numerous indicators and gauges.
+A scene which has a view of an airplane's windshield with a panoramic view of the sky or runway.
+A scene which includes flight navigation systems, such as GPS or radar screens.
+A scene which contains seats with harnesses, designed for the pilot and co-pilot.
+A scene which displays an overhead panel, often containing additional controls and switches.
+A scene which includes emergency equipment, such as oxygen masks or life vests.
+A scene which features a pedestal between the pilot and co-pilot seats, often housing engine controls and other systems.
+A scene which shows a cabin door leading to the rest of the aircraft.
+A scene which includes rudder pedals at the base of the pilot and co-pilot seats.
+A scene which displays autopilot controls.
+A scene which features a compass or other navigational instruments.
+A scene which includes a flight manual or checklist.
+A scene which shows a microphone or headset, used for communication with air traffic control.
+A scene which includes windows with a view of aircraft wings or engines.

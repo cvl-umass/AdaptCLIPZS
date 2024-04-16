@@ -1,0 +1,15 @@
+An object which has a small head and short neck.
+An object which has a stout body with a round chest.
+An object which has a pair of broad, rounded wings.
+An object which has a short bill with a fleshy cere (the soft, swollen area around the nostrils).
+An object which has a pair of red or orange eyes, often surrounded by a small area of bare skin.
+An object which has a pair of short, slender legs with a scale-like texture.
+An object which has a pair of feet with three forward-facing toes and one backward-facing toe.
+An object which has a tail that is broad and rounded or slightly pointed at the end.
+An object which has a plumage that is usually grey, with green or purple iridescence around the neck area.
+An object which may have white, black, or brown markings or bars on the wings and tail.
+An object which may have a distinctive cooing sound, although this may not be visible in a photo.
+An object which is often seen in urban environments, perched on buildings or walking on the ground, although this depends on the context of the photo.
+An object which may be seen in a group, as pigeons are often social animals.
+An object which may be seen eating seeds, fruits, or plants, as these are common parts of a pigeon's diet.
+An object which may be seen near a nest made of twigs and leaves, as pigeons are known for building such nests.

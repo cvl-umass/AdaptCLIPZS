@@ -1,0 +1,18 @@
+An object which has a long, slender body.
+An object which possesses a prehensile tail.
+An object which has small, beady eyes.
+An object which has a head that is slightly wider than the neck.
+An object which has a rough, scaly skin.
+An object which has a color that ranges from greenish-brown to gray.
+An object which has a belly that is lighter in color than the rest of the body.
+An object which has legs that are short and sturdy.
+An object which has toes with sharp claws.
+An object which has a mouth that can open wide enough to consume prey larger than its head.
+An object which has a dorsal pattern that may include dark blotches or bands.
+An object which has a length that can range from 3 to 13 inches, excluding the tail.
+An object which has a tail that can be as long as or longer than the body.
+An object which has a skin that can exfoliate or shed.
+An object which has a jaw that can deliver a strong bite.
+An object which has a tongue that is not forked, unlike many other lizards.
+An object which has ear openings that are visible as small slits on the sides of the head.
+An object which has nostrils that are small and located on the top of the snout.

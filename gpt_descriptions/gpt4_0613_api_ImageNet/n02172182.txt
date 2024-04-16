@@ -1,0 +1,15 @@
+An object which has a robust, convex, and shiny body.
+An object which has a dark color, often black, brown, or metallic.
+An object which has a pair of antennae that end in distinctive clubs.
+An object which has a body length ranging from 0.5 to 6 cm.
+An object which has strong, often spiny legs, adapted for digging.
+An object which has a head that is often equipped with a horn or horns.
+An object which has a body that is heavily sclerotized, making it hard and tough.
+An object which has elytra (hardened front wings) that cover the abdomen.
+An object which has a thorax that is broader than the head and often conceals the head from above.
+An object which has a body shape that is typically oval or elongated.
+An object which has a pair of compound eyes.
+An object which has mouthparts adapted for chewing.
+An object which has a body that is often covered in a variety of setae (hairs) or scales.
+An object which has a body that is often seen rolling a ball of dung.
+An object which has a body that is often found in habitats ranging from desert to forest, in both temperate and tropical regions.

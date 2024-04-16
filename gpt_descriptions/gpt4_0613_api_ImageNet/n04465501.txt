@@ -1,0 +1,20 @@
+An object which has large, heavy-duty tires, often with deep, open treads for traction on uneven or soft ground.
+An object which has a powerful engine, designed for pulling heavy loads and performing high-torque tasks.
+An object which has a wide wheelbase and a low center of gravity, for stability on slopes and rough terrain.
+An object which has a prominent front grille to allow for engine cooling.
+An object which has a driver's seat and steering wheel positioned above the engine.
+An object which has a hitch or three-point linkage at the back for attaching implements or trailers.
+An object which has a roll-over protection structure (ROPS) or a cab to protect the driver.
+An object which has headlights and often additional work lights mounted on the front and back.
+An object which has a large fuel tank, often visible on the side or rear of the vehicle.
+An object which has hydraulic outlets for powering attached machinery.
+An object which has a power take-off (PTO) shaft at the rear for driving implements.
+An object which may have a front loader attachment or other accessory mounted on the front.
+An object which may have a distinctive color or brand markings, such as the green of John Deere or the red of Massey Ferguson.
+An object which may have mudguards over the wheels to prevent mud and debris from being thrown upwards.
+An object which may have a toolbox or storage compartment mounted on the side or rear.
+An object which may have a counterweight at the front or rear for balance when lifting heavy loads.
+An object which may have a canopy or roof to protect the driver from the sun or rain.
+An object which may have a step or ladder for the driver to climb into the seat.
+An object which may have a exhaust pipe, often vertical, to direct exhaust gases away from the driver and ground.
+An object which may have a differential lock to provide extra traction in slippery conditions.

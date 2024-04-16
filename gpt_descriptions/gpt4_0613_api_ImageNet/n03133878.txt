@@ -1,0 +1,20 @@
+An object which has a large, round or oval shape.
+An object which has a removable stoneware insert.
+An object which has a glass lid.
+An object which has a heating base with temperature control settings.
+An object which has handles on the sides for easy lifting.
+An object which has a power cord attached to the base.
+An object which has a metallic or ceramic exterior.
+An object which is typically larger than a standard kitchen appliance.
+An object which has a heat-resistant exterior.
+An object which has a lid with a handle on top.
+An object which has a light indicator to show when it's on.
+An object which has a flat bottom surface.
+An object which is often used for slow cooking meals.
+An object which can be found in a variety of colors and designs.
+An object which is often seen in a kitchen setting.
+An object which is typically plugged into an electrical outlet for use.
+An object which is designed to cook food at a low temperature over a long period of time.
+An object which is often associated with comfort food recipes.
+An object which is not typically used on a stovetop or in an oven.
+An object which is often used for making soups, stews, and other slow-cooked dishes.

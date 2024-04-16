@@ -1,0 +1,20 @@
+An object which has a single wheel.
+An object which has a seat directly above the wheel.
+An object which has no handlebars.
+An object which has pedals directly attached to the wheel.
+An object which requires the rider to maintain balance while riding.
+An object which is often used in circus performances.
+An object which is smaller and lighter than a bicycle.
+An object which is often used for street performances or extreme sports.
+An object which is often used for unicycle hockey or unicycle basketball.
+An object which is often used for mountain unicycling or unicycle trials.
+An object which is often used for long distance touring.
+An object which is often used for freestyle or flatland tricks.
+An object which is often used for learning balance and coordination skills.
+An object which is often used for indoor riding or gym activities.
+An object which is often used for unicycle juggling or unicycle dance.
+An object which is often used for unicycle races or unicycle marathons.
+An object which is often used for unicycle commuting or unicycle transportation.
+An object which is often used for unicycle fitness or unicycle exercise.
+An object which is often used for unicycle fun or unicycle recreation.
+An object which is often used for unicycle challenge or unicycle adventure.

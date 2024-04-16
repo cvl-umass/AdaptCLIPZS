@@ -1,0 +1,10 @@
+A texture which displays a series of folds, often in a regular pattern.
+A texture which has a zigzag or accordion-like appearance.
+A texture which shows a repeated pattern of ridges and valleys.
+A texture which has a three-dimensional quality due to the depth created by the folds.
+A texture which may appear to have lines or stripes due to the shadows created by the folds.
+A texture which may have a rhythmic or repetitive visual quality.
+A texture which may appear more voluminous or full due to the pleating.
+A texture which may have a tactile quality, feeling ridged or bumpy to the touch.
+A texture which may appear to have a directional flow, with the pleats often running vertically or horizontally.
+A texture which may appear more complex and detailed due to the intricacy of the pleats.

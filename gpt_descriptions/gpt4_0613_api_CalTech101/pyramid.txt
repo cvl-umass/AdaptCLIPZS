@@ -1,0 +1,17 @@
+An object which has a broad base and narrows to a single apex.
+An object which has triangular faces that converge to a single point.
+An object which has a square or rectangular base with four triangular sides.
+An object which has a polygonal base and triangular faces that meet at a common point.
+An object which has a three-dimensional geometric shape.
+An object which has equal angles between the base and each face.
+An object which has a symmetrical shape, with each side being a mirror image of the other.
+An object which has a solid structure, not hollow or empty inside.
+An object which has a consistent slope from the base to the apex.
+An object which has a base that is larger than the top.
+An object which has a pointy top and a flat base.
+An object which has faces that are all the same size and shape in a regular pyramid.
+An object which has a base that can be any polygon in an irregular pyramid.
+An object which has a base and faces that form a polygonal prism.
+An object which has a structure that can stand upright on its base.
+An object which has a shape that is often associated with ancient architectural structures, especially in Egypt.
+An object which has a shape that is often used in mathematical and geometric studies.

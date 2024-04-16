@@ -1,0 +1,15 @@
+An object which has a small, sturdy, and square-proportioned build.
+An object which has a dense, wiry, and hard outer coat with a soft undercoat.
+An object which has a coat color that can be black, blue, red, wheaten, or grizzle.
+An object which has a distinctive beard, eyebrows, and hair on the legs.
+An object which has a long, flat skull and a strong muzzle.
+An object which has small, oval-shaped eyes that are either dark or hazel in color.
+An object which has V-shaped ears that fold over towards the cheeks.
+An object which has a high-set tail that is carried upright.
+An object which has a lively and confident expression.
+An object which has a height that ranges from 13.5 to 14.5 inches at the shoulder.
+An object which has a weight that ranges from 15 to 17 pounds.
+An object which has a compact and well-muscled body.
+An object which has a deep chest and well-sprung ribs.
+An object which has strong, straight legs with small, round feet.
+An object which has a brisk and ground-covering gait.

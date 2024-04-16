@@ -1,0 +1,19 @@
+An object which has a flat, elongated structure.
+An object which displays a curved top surface and a flat bottom surface.
+An object which has a streamlined shape to reduce air resistance.
+An object which may have feathers or scales covering its surface.
+An object which may have a skeletal structure visible underneath its surface.
+An object which may have ailerons or flaps on its trailing edge.
+An object which may have a pointed or rounded tip.
+An object which may have a wider base that tapers towards the tip.
+An object which may have a series of veins or ribs running along its length.
+An object which may have a joint or hinge allowing for movement.
+An object which may have a pattern or coloration unique to a specific species.
+An object which may have a metallic or synthetic surface if it's a part of an aircraft.
+An object which may have lights or other navigational aids if it's a part of an aircraft.
+An object which may have a series of slots or slats on its leading edge.
+An object which may have damage or wear, such as missing feathers or dents, indicating its use.
+An object which may have a certain thickness, known as the chord, that varies along its length.
+An object which may have a certain degree of twist along its length, known as washout.
+An object which may have a certain angle relative to the body it's attached to, known as the angle of incidence.
+An object which may have a certain angle relative to the direction of flight, known as the angle of attack.

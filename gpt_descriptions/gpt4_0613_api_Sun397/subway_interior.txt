@@ -1,0 +1,15 @@
+A scene which features long, narrow spaces with rows of seats on either side.
+A scene which includes poles or handles for standing passengers to hold onto.
+A scene which displays a map or chart of transit routes on the walls.
+A scene which shows sliding doors on either side of the space.
+A scene which contains signage indicating station names or directions.
+A scene which has bright, artificial lighting, often fluorescent.
+A scene which features people standing or sitting in close proximity.
+A scene which includes a uniform color scheme, often matching the branding of the transit authority.
+A scene which shows a digital or printed display of the next stop or other transit information.
+A scene which contains a clear, flat aisle running down the center of the space.
+A scene which features a driver's cabin at one or both ends of the space.
+A scene which includes emergency exit signs and safety instructions.
+A scene which shows people reading, using mobile devices, or otherwise engaged in typical commuting activities.
+A scene which features windows with views of dark tunnels or passing stations.
+A scene which includes ticket validation machines or card readers.

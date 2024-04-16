@@ -1,0 +1,20 @@
+Plant with a grass-like appearance.
+Plant with flattened, leafless stems.
+Plant with green to dark green color.
+Plant with stems that are often twisted or spiraled.
+Plant with small, inconspicuous flowers.
+Plant with flowers that are typically brown or greenish-brown.
+Plant with flowers that grow in clusters at the top of the stems.
+Plant with a height typically ranging from 10 to 50 cm.
+Plant that grows in wet habitats, such as marshes or wet meadows.
+Plant that can be found in coastal areas, indicating its tolerance to salt.
+Plant with a preference for full sun exposure.
+Plant that can be found growing in dense clumps.
+Plant with a preference for sandy or loamy soil.
+Plant that can be found in temperate regions, indicating its cold hardiness.
+Plant with a perennial life cycle, indicating its ability to live for more than two years.
+Plant with a spreading growth habit, indicating its ability to spread via rhizomes.
+Plant with a preference for acidic to neutral pH soils.
+Plant that can be found in areas with high water tables, indicating its preference for wet conditions.
+Plant with a preference for poorly drained soils.
+Plant that can be found in areas with high rainfall, indicating its need for a lot of water.

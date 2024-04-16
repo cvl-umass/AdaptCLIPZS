@@ -1,0 +1,15 @@
+An object which extends into a body of water, such as a sea, ocean, or lake.
+An object which is surrounded by water on three sides.
+An object which is higher than the surrounding land, often with steep sides.
+An object which provides a clear view of the surrounding water body.
+An object which often has a different geological composition than the adjacent coast.
+An object which may have wave-cut platforms at its base due to erosion.
+An object which may be home to unique plant and animal species due to its isolated nature.
+An object which may have lighthouses, forts, or other structures built upon it due to its strategic location.
+An object which may be a popular location for hiking or sightseeing due to its panoramic views.
+An object which may have beaches, cliffs, or rocky shores at its edges.
+An object which may be a significant navigational feature for sailors.
+An object which may be formed by volcanic activity, sediment deposition, or erosion of the mainland.
+An object which may change shape over time due to natural processes such as erosion and deposition.
+An object which may have caves, arches, or stacks formed by coastal erosion.
+An object which may be a part of a larger coastal feature such as a peninsula or an island.

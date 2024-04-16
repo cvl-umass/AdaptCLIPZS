@@ -1,0 +1,20 @@
+An object which has a rectangular shape with rounded corners.
+An object which has a slot in the middle for inserting a cassette tape.
+An object which has two or more buttons on the front, typically including play, stop, rewind, fast forward, and eject.
+An object which has a small window on the front, allowing you to see the cassette tape inside.
+An object which has a headphone jack, usually located on the side or front.
+An object which has a volume control knob or slider.
+An object which may have a built-in speaker, usually located on the front or side.
+An object which may have a radio tuner dial and antenna.
+An object which may have a handle for portability.
+An object which may have a power cord or a compartment for batteries.
+An object which may have a record button, often red, for recording onto blank cassette tapes.
+An object which may have a microphone input for recording.
+An object which may have a balance control knob or slider.
+An object which may have a tone control knob or slider.
+An object which may have a counter, a small display showing the position of the tape.
+An object which may have a pause button, often located near the play button.
+An object which may have a switch for tape type selection (normal, chrome, metal).
+An object which may have a switch for Dolby noise reduction.
+An object which may have a switch for mono or stereo selection.
+An object which may have a switch for tape direction (single or auto-reverse).

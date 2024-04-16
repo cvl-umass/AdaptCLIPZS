@@ -1,0 +1,25 @@
+An object which has a large, heavily armored structure.
+An object which has a large turret mounted on top, usually housing a big gun or cannon.
+An object which has caterpillar tracks instead of wheels for movement.
+An object which has a hatch on top for entry and exit of the crew.
+An object which has a barrel or gun protruding from a rotating turret.
+An object which has additional smaller guns or machine guns attached.
+An object which has a rectangular or trapezoidal body shape.
+An object which has a camouflage paint job or pattern.
+An object which has antennas or other communication equipment on top.
+An object which has smoke dischargers or other defensive systems.
+An object which has infrared or other advanced sensors.
+An object which has storage compartments on the outside for equipment.
+An object which has a low and wide profile for stability and cover.
+An object which has a rear exhaust for the engine.
+An object which has armor skirts covering the tracks.
+An object which has a periscope or other viewing devices for the crew inside.
+An object which has a flat and sloping front to deflect incoming fire.
+An object which has a heavy-duty suspension system visible under the body.
+An object which has markings or insignia of military units.
+An object which has a powerful engine visible through grills or vents.
+An object which has a towing cable or other recovery equipment.
+An object which has a bulldozer blade or mine plow attached at the front.
+An object which has reactive armor or other advanced protection systems.
+An object which has a spotlight or other illumination devices.
+An object which has a snorkel for fording water obstacles.

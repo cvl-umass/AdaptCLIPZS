@@ -1,0 +1,25 @@
+An object which has a crest on its head.
+An object which has a stout, strong beak.
+An object which has bright, often blue, plumage.
+An object which has a rounded tail.
+An object which has a size similar to a small hawk or large songbird.
+An object which has a white or light-colored throat.
+An object which has black 'moustache' or 'eyebrow' markings.
+An object which has a robust body with strong legs and feet.
+An object which has a wingspan of approximately 13-17 inches.
+An object which has a long, broad tail often with a rounded or slightly notched end.
+An object which has a pattern of white, black, and blue on its wings.
+An object which has a black 'necklace' or 'collar' around its neck.
+An object which has a white patch on the rump.
+An object which has a black beak with a slight curve.
+An object which has a black 'mask' around its eyes.
+An object which has a white belly and underparts.
+An object which has a black or dark-colored back.
+An object which has a white or light-colored vent.
+An object which has a black or dark-colored primary feathers.
+An object which has a white or light-colored secondary feathers.
+An object which has a black or dark-colored tail feathers with white or light-colored tips.
+An object which has a black or dark-colored legs and feet.
+An object which has a black or dark-colored eyes.
+An object which has a white or light-colored wing bars.
+An object which has a black or dark-colored wing tips.

@@ -1,0 +1,20 @@
+An object which has a clamshell design, with a screen on one side and a keyboard on the other.
+An object which has a touchpad or a pointing stick as a built-in input device.
+An object which has a built-in webcam at the top of the screen.
+An object which has a power button usually located above the keyboard.
+An object which has multiple ports on the sides for USB, HDMI, and charging cables.
+An object which has a hinge mechanism allowing it to be opened and closed.
+An object which has a thin, flat design, making it portable and easy to carry.
+An object which has a built-in speaker usually located above the keyboard or at the bottom of the body.
+An object which has a rectangular shape when closed.
+An object which has keys with letters, numbers, and symbols on the keyboard.
+An object which has a battery indicator, usually located on the screen or the keyboard panel.
+An object which has a brand logo on the outer cover or inside near the keyboard.
+An object which has a cooling vent, usually located at the side or bottom.
+An object which has a slot for inserting CDs or DVDs, although this is less common in newer models.
+An object which has a headphone jack, usually located on the side.
+An object which has a slot for SD cards, usually located on the side.
+An object which has a power cord that can be detached.
+An object which has rubber feet at the bottom to prevent slipping.
+An object which has a backlit keyboard, allowing the keys to be seen in the dark.
+An object which has a wireless connectivity indicator, usually located on the keyboard panel.

@@ -1,0 +1,15 @@
+An object which has a long, slender body.
+An object which possesses a pointed snout.
+An object which has small rounded ears.
+An object which has a bushy tail.
+An object which has short legs.
+An object which has sharp, non-retractable claws.
+An object which has fur that is commonly grizzled or brown, but can also be yellowish, gray, or black.
+An object which has a size ranging from 7 to 25 inches long, not including the tail.
+An object which has a tail that is often as long as its body.
+An object which has dark, beady eyes.
+An object which has a coat that is either smooth or grizzled.
+An object which has a body shape similar to a weasel or otter.
+An object which has a visible anal scent gland, used for marking territory.
+An object which has teeth adapted for catching and holding prey.
+An object which has a flexible spine, allowing for agile movement.

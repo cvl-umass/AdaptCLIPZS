@@ -1,0 +1,18 @@
+An object which consists of a grid of squares and blanks.
+An object which has a series of clues or questions written alongside the grid.
+An object where the grid is typically designed to form a square or a rectangle.
+An object where the squares are used to write letters, forming words or phrases.
+An object where the words or phrases are arranged horizontally and vertically.
+An object where the words or phrases intersect with each other at certain letters.
+An object where the clues or questions are categorized as 'Across' and 'Down'.
+An object where the first square of each word is numbered, and the numbers correspond to the clues.
+An object where the grid often has a symmetrical pattern.
+An object where the blanks in the grid are used to separate words.
+An object where the words or phrases are based on the solver's language.
+An object where the clues or questions can be based on general knowledge, word play, or synonyms.
+An object which may have certain squares shaded or colored, depending on the type of puzzle.
+An object which may have a theme, with many of the clues related to the theme.
+An object which may have a title that hints at the theme.
+An object which may have certain squares containing symbols or numbers, in advanced or variant forms of the puzzle.
+An object which may have a section for the solver to write their answers separately from the grid.
+An object which may be found in newspapers, magazines, or puzzle books, or as a digital version on a screen.

@@ -1,0 +1,12 @@
+A texture which has a series of raised areas or protrusions.
+A texture which shows irregularities or unevenness on the surface.
+A texture which has a pattern of high and low points.
+A texture which appears rough and not smooth to the touch.
+A texture which has a series of small, rounded or pointed elevations.
+A texture which shows a pattern of ridges or indentations.
+A texture which has a non-uniform pattern, with variations in size and shape of the bumps.
+A texture which appears to have a 3D effect due to the shadows created by the bumps.
+A texture which has a tactile quality, suggesting it would feel uneven or irregular when touched.
+A texture which shows a lack of flatness or smoothness, with a series of peaks and valleys.
+A texture which has a pattern that is not flat or level, but rather has a series of rises and falls.
+A texture which appears to have a surface that is not smooth or flat, but rather has a series of protrusions or indentations.

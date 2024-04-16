@@ -1,0 +1,20 @@
+An object which has high, thick walls often topped with barbed wire.
+An object which contains small, enclosed spaces with bars or reinforced doors.
+An object which has uniformed personnel, often with badges or insignia.
+An object which includes a large, open yard surrounded by high walls or fences.
+An object which has surveillance cameras and other security equipment installed throughout.
+An object which contains communal areas such as a cafeteria or exercise yard.
+An object which has a series of corridors and locked doors.
+An object which includes signage with rules and regulations displayed.
+An object which has a secured entrance and exit, often with a guard station.
+An object which contains areas for visitation, often with glass partitions or tables and chairs.
+An object which includes a medical facility or infirmary.
+An object which has a control room or security office with monitors displaying different areas of the facility.
+An object which includes areas for vocational training or education.
+An object which has a solitary confinement area, often with minimal furnishings.
+An object which includes a library or other resources for inmates.
+An object which has a chapel or other religious facility.
+An object which includes a laundry facility or area for inmates to wash clothes.
+An object which has a mail room or area for receiving and sending correspondence.
+An object which includes a commissary or store where inmates can purchase items.
+An object which has a booking area or intake facility where new inmates are processed.

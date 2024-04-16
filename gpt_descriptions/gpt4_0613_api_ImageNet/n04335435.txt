@@ -1,0 +1,20 @@
+An object which has a long, narrow, rectangular shape.
+An object which has a set of parallel metal tracks on the ground.
+An object which has a pantograph or trolley pole on the roof for power supply.
+An object which has multiple doors on both sides for passenger entry and exit.
+An object which has large windows along the sides.
+An object which has a driver's cabin at one or both ends.
+An object which has seating and standing space inside for passengers.
+An object which has a destination sign or digital display on the front and/or sides.
+An object which has a bell or horn for signaling.
+An object which has a uniform color scheme or livery, often indicating the city or company it belongs to.
+An object which is often seen on city streets, especially in urban or downtown areas.
+An object which may have overhead wires above it for power supply.
+An object which may have a low floor for easy access, especially in modern designs.
+An object which may have advertising or branding on the exterior.
+An object which may be seen carrying multiple passengers at a time.
+An object which may be seen stopping at designated stations or stops.
+An object which may be seen in historical photos, as they have been in use for over a century in some cities.
+An object which may be seen in a variety of sizes, but typically large enough to carry dozens of passengers.
+An object which may be seen in a variety of designs, but typically with a streamlined shape for efficient travel.
+An object which may be seen in a variety of colors, but often in the colors of the local public transportation system.

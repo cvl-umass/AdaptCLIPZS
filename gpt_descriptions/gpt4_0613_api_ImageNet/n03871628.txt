@@ -1,0 +1,20 @@
+An object which has a rectangular or square shape.
+An object which is typically made of paper, plastic, or foil.
+An object which may have printed text or images on its surface.
+An object which may be sealed on all sides.
+An object which may have a tear-off section or a resealable opening.
+An object which may contain a product visible through a transparent section.
+An object which may have a flat or slightly puffed appearance.
+An object which may have a barcode or QR code printed on it.
+An object which may have nutritional information or instructions printed on it.
+An object which may have a brand logo or name printed on it.
+An object which may have a specific color or pattern associated with a particular brand or product.
+An object which may have a date of manufacture or expiry printed on it.
+An object which may vary in size depending on the quantity of the product it contains.
+An object which may have a specific shape or design to accommodate the product it contains.
+An object which may have a glossy or matte finish.
+An object which may have a hanger hole for display purposes.
+An object which may have a unique identifier or batch number printed on it.
+An object which may have safety warnings or symbols printed on it.
+An object which may have a certification or quality assurance mark printed on it.
+An object which may have a price tag or sticker attached to it.

@@ -1,0 +1,20 @@
+An aircraft with four engines, two under each wing.
+An aircraft with a long, slender fuselage.
+An aircraft with a twin-aisle cabin layout.
+An aircraft with a circular cross-section of the fuselage.
+An aircraft with a wing sweep of about 30 degrees.
+An aircraft with a T-tail configuration, where the horizontal stabilizer is mounted on top of the vertical stabilizer.
+An aircraft with a fully painted wingtip, unlike the winglets seen on some other aircraft.
+An aircraft with a nose that is relatively short and rounded.
+An aircraft with a cockpit window layout that consists of six panes.
+An aircraft with a main landing gear configuration of two bogies, each with four wheels.
+An aircraft with a length of approximately 63.7 meters.
+An aircraft with a wingspan of approximately 60.3 meters.
+An aircraft with a height of approximately 16.7 meters.
+An aircraft with a maximum takeoff weight of around 271,000 kilograms.
+An aircraft with a range of approximately 7,400 nautical miles.
+An aircraft with a cruising speed of around Mach 0.82.
+An aircraft with a seating capacity of around 295 passengers in a typical three-class layout.
+An aircraft with a logo light above the last window on each side of the fuselage.
+An aircraft with a small hump at the front of the fuselage, just above the cockpit windows.
+An aircraft with a relatively low ground clearance compared to other long-haul aircraft.

@@ -1,0 +1,20 @@
+An object which has a protruding lens at the front.
+An object which has a viewfinder at the back, through which the photographer can look.
+An object which has a flash unit, usually located above the lens.
+An object which has a large, usually round, button on the top right side for taking pictures.
+An object which has a dial or buttons on the top for changing modes or settings.
+An object which has a screen on the back for viewing photos and changing settings.
+An object which has a grip on the right side for holding the camera.
+An object which has a slot for inserting a memory card.
+An object which has a tripod mount at the bottom.
+An object which has a logo or brand name, usually located on the front or top.
+An object which has a removable lens, allowing for different types of lenses to be attached.
+An object which has a mirror mechanism that reflects the light coming through the lens up to the viewfinder.
+An object which has a battery compartment, usually located on the bottom or side.
+An object which has a hot shoe on top for attaching external accessories like a flash.
+An object which has a depth of field preview button, usually located near the lens.
+An object which has a lens release button, usually located near the lens mount.
+An object which has a self-timer button, usually located on the back or top.
+An object which has a diopter adjustment dial, usually located near the viewfinder.
+An object which has a focus mode switch, usually located on the lens or camera body.
+An object which has a shutter speed dial, usually located on the top of the camera.

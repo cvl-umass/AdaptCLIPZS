@@ -1,0 +1,14 @@
+A scene which features a steering wheel, often located on the left or right side depending on the country.
+A scene which includes a dashboard, typically equipped with various controls and displays such as a speedometer, fuel gauge, and temperature gauge.
+A scene which showcases car seats, often made of leather or fabric, with seat belts attached.
+A scene which displays a center console, usually housing the gear shift, cup holders, and additional storage compartments.
+A scene which presents a rearview mirror, typically located at the top center of the windshield.
+A scene which exhibits car doors with handles, locks, and window controls.
+A scene which contains a glove compartment, usually found on the passenger side of the dashboard.
+A scene which shows a car radio or infotainment system, often located in the center of the dashboard.
+A scene which features air vents, used for heating and cooling the car interior.
+A scene which includes foot pedals, typically for acceleration, braking, and clutch in manual cars.
+A scene which displays a handbrake or parking brake, often located on the center console.
+A scene which showcases sun visors, usually located above the windshield on the driver and passenger side.
+A scene which presents a windshield with wipers, providing a view of the road ahead.
+A scene which exhibits a car key or start/stop button for ignition, usually located on the dashboard or steering column.

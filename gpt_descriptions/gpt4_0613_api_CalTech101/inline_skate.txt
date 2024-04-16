@@ -1,0 +1,20 @@
+An object which has a boot-like structure designed to fit around a foot.
+An object which has a line of wheels attached to the bottom.
+An object which has a brake pad, typically located at the back.
+An object which has a frame, usually made of plastic or metal, that holds the wheels in place.
+An object which has laces or straps for securing the foot inside.
+An object which has a padded interior for comfort and protection.
+An object which has small, hard wheels, typically four in a row.
+An object which may have a buckle at the top to provide additional support to the ankle.
+An object which may have a hard shell covering for added protection.
+An object which may have a heel stop or toe stop for braking.
+An object which may have a liner inside the boot for added comfort.
+An object which may have a wheel configuration that is different in the front and back for maneuverability.
+An object which may have a design or logo on the side of the boot.
+An object which may have a wheel size that varies depending on the intended use, such as speed or agility.
+An object which may have a boot made of leather, synthetic materials, or a combination of both.
+An object which may have a frame that can be adjusted to change the wheel alignment.
+An object which may have a ventilation system for cooling the foot during use.
+An object which may have a cuff at the top of the boot to provide lateral support.
+An object which may have a wheel hardness that varies depending on the intended use, such as indoor or outdoor skating.
+An object which may have a wheel color that varies, often to match the color scheme of the boot.

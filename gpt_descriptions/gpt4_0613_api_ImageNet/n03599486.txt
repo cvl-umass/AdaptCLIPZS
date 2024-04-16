@@ -1,0 +1,20 @@
+An object which has a two-wheeled structure.
+An object which has a seat or bench that can accommodate one or two passengers.
+An object which has a large canopy or hood, often made of cloth, to protect passengers from the sun or rain.
+An object which has a pair of long, curved handles at the rear for a person to pull or steer.
+An object which has a footrest for passengers.
+An object which is typically made of wood, bamboo, or metal.
+An object which may have ornate decorations or designs, particularly in certain cultural contexts.
+An object which may have curtains or screens for privacy.
+An object which is small enough to be manually pulled by a single person.
+An object which may have a small step or platform at the back for the puller to stand on when going downhill.
+An object which may have a cushion or padding on the seat for passenger comfort.
+An object which may have a bell or horn for signaling.
+An object which may have a storage area or basket for luggage or goods.
+An object which may have a brake system, often a hand-operated lever.
+An object which may have reflectors or lights for visibility in low light conditions.
+An object which may have a cover or blanket for passenger comfort in cold weather.
+An object which may have a small roof over the puller's area in some designs.
+An object which may have a harness or yoke for the puller to wear.
+An object which may have mudguards over the wheels to prevent splashing.
+An object which may have a sign or plate indicating the fare or the puller's license number.

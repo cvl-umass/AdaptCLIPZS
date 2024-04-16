@@ -1,0 +1,20 @@
+An object which has a large, curved horn on its head.
+An object which has a robust, cylindrical or slightly flattened body.
+An object which has a hard, shiny exoskeleton.
+An object which has a dark or black coloration.
+An object which has a pair of thick, strong mandibles.
+An object which has six legs, each ending in sharp claws.
+An object which has a pair of antennae that can be fan-shaped.
+An object which has a pair of wings concealed under a hard protective cover.
+An object which has a size ranging from 25mm to 150mm in length.
+An object which has a body divided into three sections: the head, thorax, and abdomen.
+An object which has small, round eyes on the sides of its head.
+An object which has a texture that appears segmented or lined.
+An object which may have smaller, secondary horns on its thorax.
+An object which has a flat underside.
+An object which may have a slight metallic sheen or glossiness to its exoskeleton.
+An object which may have a slight variation in color, such as brown or green, depending on the species.
+An object which has a body shape that is generally heavy and compact.
+An object which has a visible line down the middle of its back where the wing covers meet.
+An object which has a relatively small head compared to its body size.
+An object which has a visible joint between the thorax and abdomen.

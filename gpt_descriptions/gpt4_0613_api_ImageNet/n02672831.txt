@@ -1,0 +1,20 @@
+An object which has a keyboard on one side similar to a piano.
+An object which has a series of buttons on the other side.
+An object which has a bellows in the middle that expands and contracts.
+An object which is typically rectangular when viewed from the front.
+An object which has straps attached to it for holding or playing.
+An object which is often decorated with ornate designs or patterns.
+An object which can be made from a variety of materials, including wood, plastic, and metal.
+An object which may have a glossy or matte finish.
+An object which can come in a variety of sizes, from small to large.
+An object which may have a brand name or logo visible on the front or side.
+An object which may have a series of numbers or letters on the buttons.
+An object which may have a grille or mesh-like structure on one side, covering the reeds.
+An object which may have a curved top and bottom when viewed from the side.
+An object which may have a variety of colors, but often seen in black, white, or red.
+An object which may have a leather or fabric bellows with metal corners.
+An object which may have a pearl-like texture on the keyboard keys.
+An object which may have a strap on the bellows to keep it closed when not in use.
+An object which may have a thumb strap on the keyboard side for better grip.
+An object which may have a bass switch to change the sound produced.
+An object which may have a lock or clasp to secure the bellows when not in use.

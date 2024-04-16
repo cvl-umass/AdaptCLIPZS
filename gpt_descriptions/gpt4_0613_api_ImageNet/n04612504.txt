@@ -1,0 +1,14 @@
+An object which has two masts, with the mizzen mast positioned behind the rudder post.
+An object which has a smaller mizzen mast compared to the main mast.
+An object which has a long, slender hull.
+An object which has a sharp bow and a flat stern.
+An object which has a large main sail and a smaller mizzen sail.
+An object which has a rudder attached directly to the sternpost.
+An object which has a boom on both the main and mizzen sails.
+An object which has a bowsprit, a pole extending out from the bow.
+An object which has a cockpit located towards the stern of the boat.
+An object which may have additional sails such as a jib or a topsail.
+An object which has a keel running along the bottom for stability.
+An object which may have a cabin for accommodation in larger versions.
+An object which is typically made of wood, but modern versions may be made of fiberglass or other materials.
+An object which is designed for sailing on open waters due to its stability and speed.

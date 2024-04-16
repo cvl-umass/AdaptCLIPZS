@@ -1,0 +1,20 @@
+An object which has a small-sized engine typically between 50cc and 150cc.
+An object which has a step-through frame design.
+An object which has pedals, similar to a bicycle.
+An object which has a seat designed to accommodate two riders.
+An object which has smaller wheels, typically around 10 inches in diameter.
+An object which has a rear-view mirror on both sides.
+An object which has a headlight at the front and a tail light at the back.
+An object which has a fuel tank typically located under the seat or above the rear wheel.
+An object which has a single exhaust pipe, usually on the right side.
+An object which has a license plate holder at the rear.
+An object which has a handlebar for steering and control.
+An object which has a small storage compartment, usually under the seat.
+An object which has a speedometer and other basic gauges on the handlebar.
+An object which has a kick-start or electric start mechanism.
+An object which has a chain or belt drive system.
+An object which has a front and rear brake system.
+An object which has a horn for signaling.
+An object which has a protective leg shield at the front.
+An object which has a single or double stand for parking.
+An object which has a small windscreen at the front, though this is not always present.

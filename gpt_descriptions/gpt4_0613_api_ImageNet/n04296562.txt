@@ -1,0 +1,20 @@
+An object which has a raised platform.
+An object which has curtains on either side or at the back.
+An object which has spotlights or stage lights directed towards it.
+An object which has microphones or musical instruments on it.
+An object which has a backdrop or a set design.
+An object which has seating arrangements facing towards it.
+An object which has props or theatrical elements on it.
+An object which has a podium or lectern on it.
+An object which has a stage trap door.
+An object which has a proscenium arch framing it.
+An object which has a backstage or wings visible.
+An object which has a front of house area.
+An object which has a stage apron or thrust stage.
+An object which has a cyclorama or scrim at the back.
+An object which has a fly system or rigging system overhead.
+An object which has a sound system or speakers around it.
+An object which has a dressing room or green room nearby.
+An object which has stage markings or spike marks.
+An object which has a safety curtain.
+An object which has a stage manager's desk or prompt corner.

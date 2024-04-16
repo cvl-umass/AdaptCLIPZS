@@ -1,0 +1,18 @@
+An object which has a set of two overhead wires from which it draws electricity.
+An object which has two poles, or trolley poles, extending from the top to connect with the overhead wires.
+An object which has a similar appearance to a bus, but with additional equipment on the roof.
+An object which does not run on a track, unlike a tram or train.
+An object which has a large, boxy shape, similar to a city bus.
+An object which has large windows along the sides, similar to a bus or tram.
+An object which has a front-facing destination sign above the windshield.
+An object which has a rear exit door in addition to the front entrance.
+An object which has a high floor and multiple steps at the entrance, unlike many modern buses.
+An object which has a driver's cab at the front, separated from the passenger area.
+An object which has a large interior with rows of seats on either side of a central aisle.
+An object which has a stop request system, usually a cord or button, for passengers to signal their stop.
+An object which has a fare collection system near the front entrance.
+An object which may have a bike rack mounted on the front.
+An object which may have advertising on the sides or back.
+An object which may have a route number and destination displayed on the front and sides.
+An object which may have a wheelchair lift or ramp at the front or middle door.
+An object which may have a distinctive livery or color scheme indicating its transit agency.

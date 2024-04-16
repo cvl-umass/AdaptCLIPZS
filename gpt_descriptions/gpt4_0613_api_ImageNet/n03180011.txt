@@ -1,0 +1,20 @@
+An object which has a separate monitor, often large and rectangular.
+An object which has a keyboard, typically with QWERTY layout.
+An object which has a mouse, usually with two buttons and a scroll wheel.
+An object which has a central processing unit (CPU), often a box-like structure that can be placed on or under a desk.
+An object which has multiple ports and slots for USB, HDMI, Ethernet, and audio connections.
+An object which has a power cord, usually connected to the CPU.
+An object which may have an optical drive, typically for CDs or DVDs.
+An object which may have a webcam, often placed on top of the monitor.
+An object which may have external speakers, usually small boxes on either side of the monitor.
+An object which may have a printer or scanner connected, often placed beside the CPU.
+An object which may have a graphics card, usually located inside the CPU box.
+An object which may have a cooling fan, typically found at the back of the CPU box.
+An object which may have a wireless network adapter, often a small USB device.
+An object which may have a surge protector or power strip, usually located near the power cord.
+An object which may have a variety of software stickers, often found on the CPU box.
+An object which may have a mouse pad, typically placed under the mouse.
+An object which may have a dust cover, often used to protect the keyboard or monitor when not in use.
+An object which may have a UPS (Uninterruptible Power Supply), typically a larger box located near the CPU.
+An object which may have a modem or router nearby, often used for internet connection.
+An object which may have a desk lamp, usually placed on the desk near the monitor.

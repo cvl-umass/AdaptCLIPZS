@@ -1,0 +1,20 @@
+An object which has a circular, square, or rectangular face.
+An object which displays numerical or roman numerals.
+An object which has hour, minute, and sometimes second hands.
+An object which may have additional dials or features such as a date display or chronograph.
+An object which is attached to a strap made of leather, metal, or synthetic materials.
+An object which may have a digital display instead of a traditional analog face.
+An object which may have buttons or crowns on the side for adjusting time or other features.
+An object which may have markings or logos indicating a specific brand or manufacturer.
+An object which may be water-resistant or waterproof, often indicated by markings on the face or back.
+An object which may have luminous hands or markings for visibility in the dark.
+An object which may have a glass or plastic cover over the face to protect the internal components.
+An object which may have a clasp or buckle on the strap for securing it around the wrist.
+An object which may have a back cover that can be removed to replace the battery or service the mechanism.
+An object which may have a tachymeter scale on the bezel for measuring speed or distance.
+An object which may have a rotating bezel for tracking elapsed time or for other functions.
+An object which may have a skeleton design, revealing the internal mechanisms of the watch.
+An object which may have a tourbillon, a device to improve accuracy, visible on the face.
+An object which may have a power reserve indicator, showing how much energy is left before the watch needs winding or a battery replacement.
+An object which may have a moon phase display, showing the current phase of the moon.
+An object which may have a perpetual calendar, adjusting automatically for different lengths of months and leap years.

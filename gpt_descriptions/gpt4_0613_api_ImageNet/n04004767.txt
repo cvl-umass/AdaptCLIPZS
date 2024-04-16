@@ -1,0 +1,20 @@
+An object which has a paper tray for loading sheets of paper.
+An object which has a control panel with buttons for various functions such as print, scan, copy, etc.
+An object which has a display screen to show status and error messages.
+An object which has a slot or tray where printed papers are ejected.
+An object which has a flatbed scanner on top for scanning or copying documents.
+An object which has a USB or Ethernet port for connecting to a computer or network.
+An object which has a power cord and an on/off switch.
+An object which has a compartment for installing ink or toner cartridges.
+An object which has a brand logo or model number displayed on it.
+An object which has a rectangular or box-like shape, often larger than typical office equipment.
+An object which has a lid or cover that can be lifted to reveal internal components.
+An object which has LED lights indicating different statuses like power, error, paper jam, etc.
+An object which has a slot for inserting memory cards or USB drives for direct printing.
+An object which has a wireless symbol indicating Wi-Fi connectivity for wireless printing.
+An object which has a fax panel with number pad if it's a multifunction printer.
+An object which has a document feeder on top for scanning or copying multiple pages.
+An object which has ventilation slots to prevent overheating during operation.
+An object which has a maintenance or service door for accessing internal parts for repair or replacement.
+An object which has a color or monochrome printing option.
+An object which has a glossy or matte finish, typically in black, white, or grey color.

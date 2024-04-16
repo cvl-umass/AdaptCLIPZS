@@ -1,0 +1,15 @@
+An action which involves a person holding a toothbrush.
+An action where a person has a toothbrush in their mouth.
+An action where a person is standing in front of a bathroom mirror.
+An action where a person is in a bathroom setting.
+An action where a person has toothpaste foam around their mouth.
+An action where a person is making back-and-forth motions near their mouth.
+An action where a person is holding a tube of toothpaste.
+An action where a person is seen spitting into a sink.
+An action where a person is rinsing their mouth with water.
+An action where a person is using a cup or glass near a sink.
+An action where a person is seen with a towel around their neck or nearby.
+An action where a person is seen with a toothbrush and toothpaste in the same frame.
+An action where a person is seen with a dental floss or mouthwash in the same frame.
+An action where a person is seen in a morning or bedtime routine.
+An action where a person is seen with a timer or clock, indicating a specific brushing time.

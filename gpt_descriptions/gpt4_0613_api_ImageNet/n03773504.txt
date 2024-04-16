@@ -1,0 +1,17 @@
+An object which has a long, cylindrical body.
+An object which has a pointed nose, often conical or ogival in shape.
+An object which has stabilizing fins at the tail end.
+An object which has a propulsion system at the rear, often visible as a nozzle or multiple nozzles.
+An object which may have various sections or stages, each with its own propulsion system.
+An object which may have markings or insignia indicating its country of origin or manufacturer.
+An object which may have a payload section, often located at the front, which could be designed to carry explosives, chemicals, or other materials.
+An object which may have a guidance system, often not visible in the photo but can be inferred from the overall design and sophistication.
+An object which may have a launch platform or system, such as a launch tube or rail, if the photo includes the launch setup.
+An object which may have a protective cover or casing, often seen in photos of missiles in storage or transport.
+An object which may have a size and shape that corresponds to known missile designs, providing a clue to its type and purpose.
+An object which may have visible control surfaces or aerodynamic features, such as canards or flaps.
+An object which may have a color scheme or camouflage pattern, often related to its intended environment or mission.
+An object which may have visible fuel tanks or reservoirs, if the photo includes a cutaway or internal view.
+An object which may have a specific type of propulsion system, such as solid-fuel or liquid-fuel, inferred from the design and size of the propulsion section.
+An object which may have a specific type of guidance system, such as inertial, radar, or GPS, inferred from the design and sophistication.
+An object which may have a specific type of warhead, such as conventional, nuclear, or chemical, inferred from the design and size of the payload section.

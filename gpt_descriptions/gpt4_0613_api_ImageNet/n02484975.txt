@@ -1,0 +1,18 @@
+An object which has a small, slim body.
+An object which has a long tail, often longer than its body.
+An object which has a fur that varies in color, often a mix of green, grey, brown, or yellow.
+An object which has a distinctive facial skin coloration, often bright blue or red.
+An object which has a white or light-colored underside.
+An object which has a fur pattern that is unique to its species.
+An object which has a round head with a pointed snout.
+An object which has large, round eyes that are forward-facing.
+An object which has small, rounded ears.
+An object which has hands with opposable thumbs.
+An object which has feet with opposable big toes.
+An object which has cheek pouches for storing food.
+An object which has a distinctive 'beard' or 'mane' in some species.
+An object which has a nose that is flat and wide.
+An object which has a mouth with sharp, small teeth.
+An object which is often seen in trees, indicating its arboreal lifestyle.
+An object which is often seen in groups, indicating its social behavior.
+An object which is seen in African habitats, as guenons are native to Africa.

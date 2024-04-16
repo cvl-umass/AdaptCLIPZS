@@ -1,0 +1,15 @@
+An object which has a small, round body shape.
+An object which has a white plumage in winter.
+An object which has a brown or grey plumage in summer.
+An object which has a black stripe that extends from the beak, through the eye, to the sides of the neck.
+An object which has feathered legs and feet.
+An object which has a short, yellow or orange beak.
+An object which has a tail that is black on the outer part and white on the inner part.
+An object which has red combs over the eyes, especially visible in males.
+An object which has a size similar to a small grouse, typically between 13-17 inches in length.
+An object which has a wingspan ranging from 21 to 24 inches.
+An object which has a weight typically between 350 to 500 grams.
+An object which may be seen in a snowy or mountainous environment, indicative of its natural habitat.
+An object which may be seen in a group, as ptarmigans are often found in flocks.
+An object which may be seen standing or walking on the ground, as ptarmigans are ground-dwelling birds.
+An object which may be seen in a crouched or hiding position, as ptarmigans are known for their cryptic behavior.

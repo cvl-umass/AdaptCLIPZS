@@ -1,0 +1,20 @@
+An object which has a brain-like or convoluted cap.
+An object which has a cap that is reddish-brown to dark brown in color.
+An object which has a cap that is often lobed or irregularly shaped.
+An object which has a stem that is white to pale yellow in color.
+An object which has a stem that is often thick and bulbous.
+An object which has a cap that is typically 2-10 cm across.
+An object which has a stem that is typically 2-8 cm long.
+An object which has a cap that is smooth or slightly wrinkled.
+An object which has a stem that is smooth or slightly wrinkled.
+An object which has a cap that is attached to the stem at multiple points.
+An object which has a cap that is often hollow.
+An object which has a stem that is often hollow.
+An object which has a cap that is often darker in the center and lighter towards the edges.
+An object which has a cap that is often irregularly folded or wrinkled.
+An object which has a cap that is often lobed or irregularly shaped.
+An object which has a cap that is often larger than the stem.
+An object which has a cap that is often more convoluted and irregular in older specimens.
+An object which has a cap that is often more smooth and regular in younger specimens.
+An object which has a cap that is often more convoluted and irregular in dry conditions.
+An object which has a cap that is often more smooth and regular in wet conditions.

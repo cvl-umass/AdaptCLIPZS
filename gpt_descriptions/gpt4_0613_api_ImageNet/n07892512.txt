@@ -1,0 +1,15 @@
+An object which has a deep ruby to purple color.
+An object which is contained in a clear glass bottle.
+An object which is often seen in a specific type of glassware, typically a wine glass with a larger, rounder bowl.
+An object which may have a cork or screw cap as a closure.
+An object which may have a label on the bottle providing information about the vineyard, region, and type of grape.
+An object which may show legs or streaks running down the side of the glass when swirled.
+An object which may appear darker in the center of the glass, lightening towards the edges.
+An object which may have a slightly transparent quality when held up to the light.
+An object which may be seen being poured from a bottle into a glass.
+An object which may be accompanied by certain foods, such as cheese or meat, in the photo.
+An object which may be seen in a setting such as a winery, restaurant, or dining table.
+An object which may be seen in a group with other bottles of similar appearance.
+An object which may be seen with a wine opener or corkscrew nearby.
+An object which may be seen with a decanter, used for aerating the wine.
+An object which may be seen with sediment at the bottom of the bottle or glass, particularly in older wines.

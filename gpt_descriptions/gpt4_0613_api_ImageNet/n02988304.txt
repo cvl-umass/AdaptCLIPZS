@@ -1,0 +1,20 @@
+An object which has a circular disc tray or slot for inserting CDs.
+An object which features a digital display, often used to show track numbers or time.
+An object which has control buttons such as play, pause, stop, rewind, fast forward, and eject.
+An object which has a headphone jack for private listening.
+An object which may have a USB port for additional connectivity.
+An object which may have a built-in speaker system.
+An object which may have an antenna for radio functionality.
+An object which may have a remote control for wireless operation.
+An object which may have a power cord or battery compartment, indicating it's an electronic device.
+An object which may have an AC adapter or a DC input for power supply.
+An object which may have an optical output for digital audio.
+An object which may have a line-out port for connecting to external speakers.
+An object which may have a rectangular or square shape, often with rounded corners.
+An object which may have a brand logo or model number displayed.
+An object which may have a volume control knob or slider.
+An object which may have a tuner dial if it also functions as a radio.
+An object which may have a handle for portability if it's a boombox style CD player.
+An object which may have a slot for cassette tapes if it's a combination player.
+An object which may have a sleep or timer function, often found in CD alarm clocks.
+An object which may have a shuffle or repeat function for playing tracks in different orders.

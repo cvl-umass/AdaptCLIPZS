@@ -1,0 +1,17 @@
+An object which displays a variety of tobacco products such as cigarettes, cigars, pipe tobacco, and snuff.
+An object which has a sign or logo indicating the sale of tobacco products.
+An object which contains shelves or display cases filled with tobacco-related accessories like lighters, pipes, or cigar cutters.
+An object which has a humidor, a special box for storing cigars at the proper humidity.
+An object which may have a distinct smell of tobacco.
+An object which may display signs or posters related to smoking or tobacco brands.
+An object which may have a lounge area for customers to sample and enjoy tobacco products.
+An object which may sell other smoking-related items such as rolling papers, filters, and ashtrays.
+An object which may have a counter or cash register for transactions.
+An object which may display age restriction signs, as tobacco products are often regulated.
+An object which may have promotional materials or advertisements for tobacco products.
+An object which may sell non-tobacco products like e-cigarettes or vaping supplies.
+An object which may have a traditional or vintage aesthetic, as many tobacconists maintain a classic look.
+An object which may have a storefront with large windows showcasing its products.
+An object which may be located in a shopping center, mall, or on a busy street, as these are common locations for tobacconists.
+An object which may have a neon sign, often in the shape of a pipe or cigar, indicating it's a tobacco shop.
+An object which may have a tobacco leaf symbol or imagery in its signage or branding.

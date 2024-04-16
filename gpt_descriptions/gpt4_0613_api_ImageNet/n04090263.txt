@@ -1,0 +1,20 @@
+An object which has a long barrel.
+An object which has a stock at the end, typically made of wood or plastic.
+An object which has a trigger and trigger guard.
+An object which has a sight, either iron sights or a scope for aiming.
+An object which has a magazine or a place for loading bullets.
+An object which has a bolt or a lever for chambering rounds.
+An object which has a muzzle at the end of the barrel from where the bullet exits.
+An object which may have a safety switch to prevent accidental firing.
+An object which may have a sling or sling mounts for carrying.
+An object which may have a bipod or tripod for stability during shooting.
+An object which may have a bayonet lug for attaching a bayonet.
+An object which may have a gas block or piston, in case of a semi-automatic or automatic rifle.
+An object which may have a handguard for protecting the user's hand from the heat of the barrel.
+An object which may have a foregrip for better control and stability.
+An object which may have a flash suppressor or muzzle brake at the end of the barrel.
+An object which may have a cheek rest on the stock for better aiming comfort.
+An object which may have a picatinny or weaver rail for attaching accessories.
+An object which may have a dust cover to protect the action of the rifle.
+An object which may have a charging handle for manually cycling the action.
+An object which may have a butt pad at the end of the stock for recoil absorption.

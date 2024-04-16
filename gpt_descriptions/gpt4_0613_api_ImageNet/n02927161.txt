@@ -1,0 +1,20 @@
+An object which displays a variety of raw meats such as beef, pork, chicken, and lamb.
+An object which has a refrigerated display case or counter.
+An object which includes a scale for weighing meat products.
+An object which has a cutting board and a set of butcher knives.
+An object which has a meat grinder or other meat processing equipment.
+An object which has a cash register or point of sale system.
+An object which has a sign or board listing different types of meats and their prices.
+An object which has employees wearing aprons, often white, and possibly gloves.
+An object which has a clean, well-lit environment to ensure the freshness and quality of the meat.
+An object which may have hanging hooks or rails for larger pieces of meat or sausages.
+An object which may have a saw for cutting through bones.
+An object which may have a smoker or oven for preparing certain types of meats.
+An object which may have a deli counter for selling prepared foods.
+An object which may have a section for selling complementary items like spices, sauces, or marinades.
+An object which may have a section for selling other types of food like cheese, eggs, or vegetables.
+An object which may have a back area for storage and preparation of meat.
+An object which may have a customer service area or waiting line.
+An object which may have a cleaning station for maintaining hygiene.
+An object which may have a waste disposal system for discarding unwanted parts of the meat.
+An object which may have a delivery or pickup area for larger orders.

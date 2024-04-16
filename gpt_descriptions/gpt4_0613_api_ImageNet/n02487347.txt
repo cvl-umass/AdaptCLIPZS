@@ -1,0 +1,20 @@
+An object which has a primate-like body structure, with a head, four limbs, and a tail.
+An object which has a fur coat that can range in color from brown to black.
+An object which has a face that is hairless and often a different color than the rest of the body, such as pink or red.
+An object which has round, forward-facing eyes that are close together.
+An object which has a short, flat nose with wide nostrils.
+An object which has a tail, but the length can vary greatly depending on the species.
+An object which has cheek pouches for storing food.
+An object which has a body size that can range from 16 to 28 inches, not including the tail.
+An object which has a weight that can range from 10 to 35 pounds, depending on the species.
+An object which has hands and feet that are very similar to human's, with opposable thumbs and flat nails.
+An object which has a lifespan that can range from 20 to 30 years in the wild.
+An object which has a social structure, often living in large groups with a clear hierarchy.
+An object which has a wide range of facial expressions and body language.
+An object which is often found in a variety of habitats, from tropical rainforests to mountains.
+An object which is omnivorous, eating a diet that includes fruits, leaves, insects, and small animals.
+An object which has males that are typically larger and more dominant than females.
+An object which has females that often have a swelling or color change in the genital area when in estrus.
+An object which has a gestation period of approximately six months.
+An object which has infants that are often carried on the mother's belly for the first few weeks of life.
+An object which has a tendency to use tools, such as rocks or sticks, to obtain food or for other purposes.

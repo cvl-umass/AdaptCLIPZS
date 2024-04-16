@@ -1,0 +1,15 @@
+An object which has a long body and short legs.
+An object which has a tail that is long and bushy.
+An object which has a double coat with a thick undercoat and a longer topcoat.
+An object which has a coat color that can be any shade of red, sable, brindle, black or blue merle.
+An object which has white markings often found on the neck, chest, legs, muzzle, and underparts, and may have a blaze on the head.
+An object which has ears that are large and stand erect.
+An object which has a head that is wide and flat between the ears.
+An object which has a nose that is black and prominent.
+An object which has eyes that are medium in size and can be brown, blue or a combination of both.
+An object which has a strong, flexible body that is slightly longer than it is tall.
+An object which has a weight typically between 25 to 38 pounds.
+An object which has a height typically between 10.5 to 12.5 inches at the shoulder.
+An object which has a deep chest that extends to the elbows.
+An object which has a moderate bone structure, neither too heavy nor too light.
+An object which has a distinct "fox-like" expression.

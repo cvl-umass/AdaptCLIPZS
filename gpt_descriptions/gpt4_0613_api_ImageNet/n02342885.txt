@@ -1,0 +1,15 @@
+An object which has a small, rounded body.
+An object which possesses short, stubby legs.
+An object which has a short tail, often hidden by fur.
+An object which has large, round eyes.
+An object which has small, rounded ears.
+An object which has a pair of large cheek pouches.
+An object which has a fur-covered body, often in shades of white, brown, grey, or black.
+An object which has sharp, front incisor teeth that continuously grow.
+An object which has a snout that is short and wide.
+An object which has a size typically ranging from 2 to 6 inches long.
+An object which has a soft and fluffy appearance.
+An object which has a body shape that is more elongated than it is tall.
+An object which has a nose that is constantly twitching.
+An object which has a pair of small, clawed feet.
+An object which has a relatively large head in comparison to its body.

@@ -1,0 +1,15 @@
+An object which has two or more masts, with the foremast being shorter than the main.
+An object which has a gaff-rigged or Bermuda-rigged sails on all masts.
+An object which has a long, slender hull for fast sailing.
+An object which has a bowsprit, a pole extending out from the bow.
+An object which has a wide beam, or width, for stability in the water.
+An object which has a large sail area relative to the size of the vessel.
+An object which has a shallow draft, allowing it to navigate in shallow waters.
+An object which has a combination of square and fore-and-aft sails.
+An object which has a deck layout that typically includes a raised forecastle and quarterdeck.
+An object which has a tiller or wheel for steering at the stern.
+An object which may have additional structures like cabins or a galley below deck.
+An object which may have a figurehead, a carved decoration at the prow.
+An object which may have a transom, a flat surface forming the stern of a vessel.
+An object which may have a crow's nest, a lookout point at the top of the mast.
+An object which may have a variety of rigging lines and ropes for controlling the sails.

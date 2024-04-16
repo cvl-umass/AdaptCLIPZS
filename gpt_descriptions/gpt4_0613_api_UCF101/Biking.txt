@@ -1,0 +1,12 @@
+An action which involves a person seated on a two-wheeled vehicle.
+An action which shows a person wearing a helmet and other protective gear.
+An action which involves a person holding onto handlebars.
+An action which shows a person pedaling with their feet.
+An action which takes place on a road, trail, or bike path.
+An action which involves a person leaning forward or standing on pedals.
+An action which shows a person maneuvering a vehicle with two wheels, one behind the other.
+An action which may show a person carrying a water bottle or backpack for long rides.
+An action which may involve a person wearing tight, aerodynamic clothing.
+An action which may show a person using a headlight or taillight if biking at night.
+An action which may involve a person wearing sunglasses or goggles for protection.
+An action which may show a person using a bike computer or GPS device mounted on the handlebars.

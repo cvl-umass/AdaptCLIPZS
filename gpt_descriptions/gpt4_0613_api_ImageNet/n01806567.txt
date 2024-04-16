@@ -1,0 +1,17 @@
+An object which has a small, plump body.
+An object which has a short tail.
+An object which has a distinctive plume or crest on its head.
+An object which has a beak that is short, curved, and strong.
+An object which has a color pattern that is often a mix of brown, black, gray, and white.
+An object which has a speckled or scaled pattern on its feathers.
+An object which has a white stripe above the eye.
+An object which has a round body shape.
+An object which has legs that are relatively short for its body size.
+An object which has a size typically ranging from 4.5 to 7.8 inches in length.
+An object which has a weight typically ranging from 2.4 to 4.9 ounces.
+An object which has a wingspan typically ranging from 13 to 15 inches.
+An object which has a gender difference in coloration, with males often more brightly colored than females.
+An object which has a distinctive call or song, if the photo includes sound data.
+An object which is often found on the ground, as quails are ground-dwelling birds.
+An object which may be seen in groups, as quails are social birds.
+An object which may be seen in a habitat such as grasslands, open woodlands, or farmlands, if the photo includes habitat data.

@@ -1,0 +1,20 @@
+An object which has a round, balloon-like body when inflated.
+An object which has small, beady eyes.
+An object which has a large mouth relative to its size.
+An object which has sharp, beak-like teeth.
+An object which has a skin covered in spines or spikes.
+An object which has a skin that is often brightly colored or patterned.
+An object which has small, pectoral fins on the sides of its body.
+An object which has a small, rudder-like tail fin.
+An object which has a skin that is often rough or leathery in texture.
+An object which has a body that can inflate and deflate.
+An object which has a body that is usually small to medium in size when not inflated.
+An object which has a skin that can be a variety of colors, including yellow, blue, green, brown, or gray.
+An object which has a body that is often found in tropical and subtropical ocean waters.
+An object which has a body that is often solitary or found in small groups.
+An object which has a body that is often found near the sea floor or in coral reefs.
+An object which has a body that is known for its ability to ingest water or air to inflate its body when threatened.
+An object which has a body that is known to contain tetrodotoxin, a potent neurotoxin.
+An object which has a body that is often round or oval in shape when not inflated.
+An object which has a body that is often slow-moving due to its small, inefficient fins.
+An object which has a body that is often seen in marine or brackish waters.

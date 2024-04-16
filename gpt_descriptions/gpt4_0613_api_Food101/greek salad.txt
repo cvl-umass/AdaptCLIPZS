@@ -1,0 +1,14 @@
+A food with large chunks of fresh tomatoes.
+A food with sliced or cubed cucumbers.
+A food with sliced red onions.
+A food with green bell peppers cut into rings or chunks.
+A food with Kalamata olives, which are dark purple, almond-shaped, and often pitted.
+A food with a generous amount of feta cheese, usually in large blocks or crumbled.
+A food with a dressing made of olive oil, red wine vinegar, and dried herbs like oregano and dill.
+A food with no lettuce, unlike many other salads.
+A food with a garnish of fresh herbs, typically oregano or parsley.
+A food that is not typically mixed together, but rather, the ingredients are arranged separately on the plate.
+A food with capers, small green buds that add a tangy flavor, sometimes included.
+A food that may occasionally include stuffed grape leaves as an additional ingredient.
+A food that is typically served cold or at room temperature.
+A food that is often served in a shallow dish or plate, rather than a deep salad bowl.

@@ -1,0 +1,20 @@
+An object which is typically painted in bright red or yellow color for high visibility.
+An object which has a large, boxy shape, often with a flat front and high cab.
+An object which has a long, extendable ladder mounted on top.
+An object which has a water pump and hoses attached to it.
+An object which has emergency lights and sirens on top.
+An object which has compartments on the sides for storing firefighting equipment.
+An object which has large, heavy-duty tires for navigating through various terrains.
+An object which has a large front bumper, often used for ramming obstacles.
+An object which has a hose reel at the back.
+An object which has a logo or emblem of the local fire department.
+An object which has a number or identifier unique to the fire department.
+An object which has a cab with seating for multiple firefighters.
+An object which has a water tank for storing water for firefighting.
+An object which has a hydraulic platform or bucket at the end of the ladder for rescuing people from high places.
+An object which has stabilizing legs that can be extended when the ladder is in use.
+An object which has a control panel at the rear for operating the pump and other equipment.
+An object which has reflective stripes or markings for increased visibility at night.
+An object which has a connection point for attaching additional hoses.
+An object which has a winch or other heavy-duty equipment for rescue operations.
+An object which has a radio antenna for communication with the fire station and other emergency services.

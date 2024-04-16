@@ -1,0 +1,15 @@
+An object which has a bright yellow or orange underside.
+An object which has a black or dark blue back.
+An object which has a distinctive ring or collar around its neck, usually yellow or orange.
+An object which is small in size, typically between 10 to 15 inches long.
+An object which has smooth scales.
+An object which has a round pupil.
+An object which has a head that is not distinctly separated from the body.
+An object which has a slender body.
+An object which has a single row of subcaudal scales.
+An object which has a total of 15 rows of dorsal scales.
+An object which has a slightly upturned snout.
+An object which has a dark spot in the middle of the neck ring.
+An object which has a ventral side that may be marked with a row of half-moon spots.
+An object which has a body that is uniformly colored, except for the neck ring.
+An object which has a tail that is typically one-third of the total body length.

@@ -1,0 +1,14 @@
+An object which has a round body shape, similar to a chicken.
+An object which has a small head in proportion to its body.
+An object which has a short, strong beak.
+An object which has a brownish-grey plumage with dark barring.
+An object which has a white belly and flanks.
+An object which has long, pointed tail feathers.
+An object which has feathered legs and feet.
+An object which has a distinctive orange or yellow comb over its eyes.
+An object which has a circular, unfeathered area of bare skin on the sides of its neck.
+An object which has the ability to inflate these neck patches, which are orange-red in males.
+An object which has a size ranging from 40 to 43 cm (16 to 17 in) in length for males, and 37 to 40 cm (14.5 to 16 in) for females.
+An object which has a wingspan ranging from 70 to 74 cm (28 to 29 in).
+An object which has a weight ranging from 0.7 to 1 kg (1.5 to 2.2 lb).
+An object which shows males performing a unique "booming" or "dancing" display during mating season.

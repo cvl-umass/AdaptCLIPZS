@@ -1,0 +1,20 @@
+An object which has a long, slender neck.
+An object which has a long, pointed beak.
+An object which has long, thin legs.
+An object which has a large, rounded body.
+An object which has feathers covering its body.
+An object which has a wingspan that is wider than its body length.
+An object which has a tuft or crown of feathers on its head.
+An object which has a color pattern that includes white, grey, black, or red.
+An object which has a straight, streamlined body shape when in flight.
+An object which has a tail that is shorter than its body.
+An object which has a posture where the neck is often held straight, both in flight and on the ground.
+An object which has a size that is larger than most other birds.
+An object which has a distinctive dance-like mating display.
+An object which has a habitat that includes wetlands, grasslands, or agricultural fields.
+An object which has a diet that includes insects, fish, or grains, visible in the photo.
+An object which has a flight pattern that includes soaring, gliding, or flapping.
+An object which has a distinctive, loud call, represented by an open beak in the photo.
+An object which has a pattern of migration, represented by a group of similar objects in the photo.
+An object which has a nest that is large and made of vegetation, visible in the photo.
+An object which has a lifespan that can reach up to 20 years, represented by signs of age such as worn feathers or color changes.

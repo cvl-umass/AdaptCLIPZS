@@ -1,0 +1,20 @@
+An aircraft with a length of approximately 31.44 meters.
+An aircraft with a wingspan of about 34.10 meters.
+An aircraft with a height of roughly 12.56 meters.
+An aircraft with a single-aisle cabin.
+An aircraft with two underwing turbofan engines.
+An aircraft with a twin-engine configuration.
+An aircraft with a circular fuselage cross-section.
+An aircraft with a T-tail and rear-mounted engines.
+An aircraft with a low-wing design.
+An aircraft with a seating capacity of around 107 to 132 passengers in a two-class layout.
+An aircraft with a cockpit window layout of six panes, with two main panes on each side and two smaller ones.
+An aircraft with a swept-back wing design.
+An aircraft with a bulbous nose.
+An aircraft with a relatively short body compared to other members of the same family.
+An aircraft with a standard Airbus A320 family door configuration of one over the wing and one at the front and rear on each side.
+An aircraft with wingtip fences on the end of its wings.
+An aircraft with a relatively small horizontal stabilizer compared to other members of the same family.
+An aircraft with a high bypass ratio turbofan engines.
+An aircraft with a retractable tricycle landing gear.
+An aircraft with a relatively short distance between the front and rear landing gears.

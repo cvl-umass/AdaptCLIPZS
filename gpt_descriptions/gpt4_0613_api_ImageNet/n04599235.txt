@@ -1,0 +1,20 @@
+An object which has a soft and fluffy texture.
+An object which appears to have a slightly fuzzy surface.
+An object which has a natural, earthy color unless dyed.
+An object which shows a crimped pattern, indicating the natural wave of the fiber.
+An object which has a matte finish, not shiny or glossy.
+An object which may show signs of pilling or small balls of fiber on the surface.
+An object which has a dense and heavy feel.
+An object which may have a slightly uneven surface due to the natural fiber.
+An object which may show signs of felting or matting together.
+An object which may have a warm and cozy appearance.
+An object which may show signs of shrinkage if washed improperly.
+An object which may have a natural smell, especially when wet.
+An object which may show signs of wear and tear, as wool can be less durable than synthetic fibers.
+An object which may have a slightly rough feel, as wool can be coarser than other fibers.
+An object which may show signs of moth damage, as wool is susceptible to pests.
+An object which may have a slightly yellowish hue, as wool can yellow with age.
+An object which may show signs of stretching or distortion, as wool can lose its shape over time.
+An object which may have a slightly hairy appearance, as wool fibers can protrude from the fabric.
+An object which may show signs of dye bleeding, as wool can be difficult to dye evenly.
+An object which may have a slightly irregular weave or knit, as wool can be difficult to work with.

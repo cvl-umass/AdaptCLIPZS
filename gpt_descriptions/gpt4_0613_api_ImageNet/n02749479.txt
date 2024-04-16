@@ -1,0 +1,20 @@
+An object which has a long barrel with a handguard around it.
+An object which has a detachable magazine for ammunition storage.
+An object which has a stock at the end, often adjustable, to brace against the shoulder.
+An object which has a pistol grip, a handle that protrudes downwards, where the trigger is.
+An object which has a sight system, either iron sights or a mount for optical sights.
+An object which has a muzzle at the end of the barrel from where the bullet exits.
+An object which has a selector switch to change between firing modes, typically including semi-automatic and automatic.
+An object which has a trigger guard, a loop surrounding the trigger to prevent accidental discharge.
+An object which has a gas system, visible as a small tube running parallel to the barrel in some designs.
+An object which has a forward assist, a button found on some designs that ensures the bolt is fully locked.
+An object which has a charging handle, a device to manually move the bolt to the rear, chambering a round.
+An object which has a ejection port, a hole on the side of the weapon where spent casings are ejected.
+An object which has a flash suppressor or muzzle brake at the end of the barrel to reduce recoil or muzzle flash.
+An object which may have accessory rails for attaching additional equipment like a flashlight or laser sight.
+An object which may have a bayonet lug, a mount for attaching a bayonet or other bladed weapon.
+An object which may have a bipod or tripod mount for stability during firing.
+An object which may have a sling mount for carrying the weapon over the shoulder.
+An object which may have a dust cover, a small door that covers the ejection port when not in use.
+An object which may have a suppressor or silencer, a device attached to the muzzle to reduce noise and flash.
+An object which may have a drum or box magazine, a larger capacity ammunition storage option.

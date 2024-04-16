@@ -1,0 +1,17 @@
+An object which has a cylindrical part that holds multiple bullets and rotates to align the bullet with the barrel before each shot.
+An object which has a short to medium-length barrel, typically ranging from 2 to 6 inches.
+An object which has a trigger mechanism that, when pulled, rotates the cylinder and fires the bullet.
+An object which has a grip at the bottom, designed to be held in one hand.
+An object which may have a hammer at the rear, which can be manually cocked back before firing.
+An object which may have a loading gate on the side of the cylinder, used to load and unload bullets.
+An object which may have a front and rear sight for aiming.
+An object which may be made of metal, often steel or a steel alloy, and may have a grip made of wood, rubber, or plastic.
+An object which may have a safety mechanism to prevent accidental discharge.
+An object which may have markings or engravings on the barrel or frame, indicating the manufacturer or model.
+An object which may have a shiny or matte finish, depending on the material and treatment.
+An object which may have a double-action or single-action firing mechanism.
+An object which may have a fluted cylinder, with grooves running along the length of the cylinder.
+An object which may have a ejector rod, used to remove spent casings from the cylinder.
+An object which may have a lanyard ring at the bottom of the grip, especially in older models.
+An object which may have a varying number of chambers in the cylinder, typically five or six.
+An object which may have a specific caliber, indicating the diameter of the bullet it fires.

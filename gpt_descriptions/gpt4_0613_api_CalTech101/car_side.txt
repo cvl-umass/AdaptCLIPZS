@@ -1,0 +1,25 @@
+An object which has a streamlined shape with a clear front and rear end.
+An object which has a set of doors, typically one or two on each side.
+An object which has side mirrors, usually two, one on each side.
+An object which has windows along the side, typically rectangular in shape.
+An object which has a set of wheels, typically two visible from the side.
+An object which has a visible fuel cap, usually located on one side.
+An object which has a visible handle on the doors for opening and closing.
+An object which has a visible exhaust pipe, usually at the rear end.
+An object which has a visible brand logo or name, usually on the front and rear end.
+An object which has a visible license plate, usually at the rear end.
+An object which has a visible roof, typically curved or flat.
+An object which has a visible antenna, usually located on the roof.
+An object which has a visible trunk, usually at the rear end.
+An object which has a visible hood, usually at the front end.
+An object which has visible headlights and taillights, usually at the front and rear end respectively.
+An object which has a visible bumper, usually at the front and rear end.
+An object which has a visible side skirt, usually along the bottom edge of the car.
+An object which has a visible fender, usually over the wheels.
+An object which has a visible pillar, usually between the windows.
+An object which has a visible sunroof or moonroof, usually on the roof.
+An object which has a visible roof rack, usually on the roof.
+An object which has a visible spoiler, usually at the rear end.
+An object which has a visible running board, usually along the bottom edge of the car.
+An object which has a visible tire, usually visible from the side.
+An object which has a visible wheel arch, usually over the wheels.

@@ -1,0 +1,15 @@
+A scene which features multiple lanes leading to a central point.
+A scene which includes booths or kiosks at regular intervals across the road.
+A scene which displays traffic signals or barriers at each booth.
+A scene which shows signs indicating payment methods or toll rates.
+A scene which has vehicles lined up, waiting to pass through booths.
+A scene which includes electronic signage displaying information or instructions.
+A scene which features overhead structures spanning across the lanes.
+A scene which shows personnel in uniforms inside the booths.
+A scene which includes surveillance cameras mounted on poles or overhead structures.
+A scene which displays a clear demarcation of lanes with painted lines or barriers.
+A scene which shows automated machines for ticket dispensing or payment.
+A scene which includes speed limit signs or warnings about stopping.
+A scene which features a large, open, paved area with no buildings or structures other than the toll booths and overhead structures.
+A scene which shows vehicles of various types, including cars, trucks, and motorcycles.
+A scene which includes a noticeable absence of pedestrian traffic.

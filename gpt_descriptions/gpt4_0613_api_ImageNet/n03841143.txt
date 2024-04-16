@@ -1,0 +1,20 @@
+An object which displays a series of numbers or symbols in a small window.
+An object which is typically found in the dashboard of a vehicle.
+An object which has numbers that usually increase over time or distance.
+An object which may have one or more resettable trip meters in addition to the main reading.
+An object which may be mechanical, with rotating wheels, or digital, with an LCD or LED display.
+An object which is often paired with a speedometer in a single instrument cluster.
+An object which may have a tenths place to measure partial distance.
+An object which may have a button or knob for resetting trip meters.
+An object which may be backlit for visibility in low light or at night.
+An object which may show measurements in miles or kilometers, depending on the country of use.
+An object which may have a maximum displayable distance, after which it may "roll over" or reset.
+An object which may be integrated into a larger system with fuel gauges, temperature gauges, and warning lights.
+An object which may be connected to the vehicle's transmission to measure distance traveled.
+An object which may have a protective glass or plastic cover.
+An object which may be rectangular, circular, or semi-circular in shape.
+An object which may have a black or white background with contrasting numbers for easy readability.
+An object which may have a needle indicating the current speed of the vehicle, if combined with a speedometer.
+An object which may have a digital or analog display.
+An object which may have a series of small gears inside, if mechanical.
+An object which may be part of a larger electronic system, if digital.

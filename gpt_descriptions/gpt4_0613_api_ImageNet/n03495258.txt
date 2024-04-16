@@ -1,0 +1,15 @@
+An object which has a large, triangular frame.
+An object which has numerous strings, typically ranging from 10 to 47.
+An object which has a curved neck that is often ornately decorated.
+An object which has a soundboard at the base of the strings.
+An object which has a pillar that supports the neck and the body.
+An object which has tuning pegs or levers at the top of the neck.
+An object which has foot pedals at the base (in the case of a pedal harp).
+An object which is often made of wood and can be variously decorated.
+An object which is typically several feet tall when standing upright.
+An object which has strings that are plucked to produce sound.
+An object which may have a hollow body to amplify the sound of the strings.
+An object which may have a range of colors, but is often seen in natural wood or black.
+An object which may have a scrollwork or other decorative elements on the pillar.
+An object which may have a knee block, a small protrusion to rest against the player's shoulder (in the case of a lever harp).
+An object which may have a crown or top piece at the top of the pillar.

@@ -1,0 +1,15 @@
+A satellite image which shows a dense arrangement of small to medium-sized structures, often rectangular or square in shape.
+A satellite image which displays a grid-like pattern, indicative of streets and avenues.
+A satellite image which reveals structures with similar shapes and sizes, suggesting a planned or uniform construction.
+A satellite image which shows areas of green space, such as gardens or parks, interspersed among the buildings.
+A satellite image which displays areas of lighter coloration, indicative of driveways or parking lots.
+A satellite image which reveals clusters of buildings separated by open spaces, suggesting yards or communal areas.
+A satellite image which shows a network of thin, connecting lines, indicative of residential roads and pathways.
+A satellite image which displays patches of blue, suggesting swimming pools in the backyards of homes.
+A satellite image which reveals shadows cast by structures, indicating the presence of multi-story buildings.
+A satellite image which shows a mix of grey, brown, and green colors, indicative of rooftops, roads, and vegetation respectively.
+A satellite image which displays a lack of large, open spaces, suggesting the absence of agricultural or industrial land use.
+A satellite image which reveals a lack of large, uniform structures, suggesting the absence of commercial or industrial buildings.
+A satellite image which shows a lack of straight, wide lines, suggesting the absence of highways or major roads.
+A satellite image which displays a lack of large bodies of water, suggesting the absence of lakes, rivers, or coastal areas.
+A satellite image which reveals a lack of dark, uniform areas, suggesting the absence of forests or large parks.

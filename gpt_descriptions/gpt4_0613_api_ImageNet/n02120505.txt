@@ -1,0 +1,100 @@
+An object which has a grizzled grey coat on its upper body.
+An object which has a white underbelly and inner ears.
+An object which has a black stripe running down the length of its tail.
+An object which has a black-tipped tail.
+An object which has a rounded face with a pointed snout.
+An object which has a body length of approximately 76 to 112.5 cm including the tail.
+An object which has a weight ranging from 3.6 to 7 kg.
+An object which has strong, hooked claws for climbing.
+An object which has oval-shaped pupils.
+An object which has a bushy tail for balance.
+An object which has a pair of pointed ears on top of its head.
+An object which has a slightly arched back.
+An object which has a pair of short legs.
+An object which has a dense underfur.
+An object which has a pair of large, bright eyes.
+An object which has a distinctive mane of long, stiff hairs on the back of its neck and shoulders.
+An object which has a muzzle that is shorter and broader than that of a similar-sized dog.
+An object which has a dental formula of 3/3-1/1-4/4-2/3 = 42.
+An object which has a pair of canine teeth that are relatively long and sharp.
+An object which has a pair of small, rounded ears that are set well apart.
+An object which has a pair of hind feet that are longer than its front feet.
+An object which has a pair of forefeet that have five toes, while the hind feet have only four.
+An object which has a pair of forelimbs that are designed for grasping and climbing.
+An object which has a pair of hind limbs that are designed for leaping and sprinting.
+An object which has a pair of nostrils that are large and well developed.
+An object which has a pair of eyes that are forward-facing, providing binocular vision.
+An object which has a pair of cheeks that are lighter in color than the rest of the face.
+An object which has a pair of lips that are black in color.
+An object which has a pair of whiskers that are long and sensitive.
+An object which has a pair of paws that are soft and padded for silent movement.
+An object which has a pair of shoulder blades that are not attached to the collarbone, allowing for greater flexibility when running.
+An object which has a pair of lungs that are large and well developed, allowing for rapid breathing when running.
+An object which has a pair of kidneys that are highly efficient at conserving water.
+An object which has a pair of glands near the anus that produce a strong-smelling secretion used for marking territory.
+An object which has a pair of testes in males that are located in a scrotum, which is a pouch of skin hanging behind the penis.
+An object which has a pair of mammary glands in females that are located on the chest and abdomen.
+An object which has a pair of ovaries in females that are located in the lower abdomen.
+An object which has a pair of adrenal glands that are located near the kidneys and produce hormones that help the body respond to stress.
+An object which has a pair of salivary glands that are located in the mouth and produce saliva, which helps in digestion and keeps the mouth moist.
+An object which has a pair of sweat glands that are located in the skin and produce sweat, which helps to cool the body.
+An object which has a pair of sebaceous glands that are located in the skin and produce sebum, which helps to keep the skin and fur soft and waterproof.
+An object which has a pair of tear glands that are located near the eyes and produce tears, which help to keep the eyes moist and clean.
+An object which has a pair of thyroid glands that are located in the neck and produce hormones that regulate metabolism.
+An object which has a pair of pancreas that are located in the abdomen and produce enzymes that help in digestion.
+An object which has a pair of liver that are located in the abdomen and detoxify harmful substances in the body.
+An object which has a pair of gallbladder that are located in the abdomen and store bile, which helps in digestion.
+An object which has a pair of spleen that are located in the abdomen and filter blood and help in the immune response.
+An object which has a pair of heart that are located in the chest and pump blood throughout the body.
+An object which has a pair of lungs that are located in the chest and allow for the exchange of oxygen and carbon dioxide.
+An object which has a pair of stomach that are located in the abdomen and break down food into a form that can be used by the body.
+An object which has a pair of intestines that are located in the abdomen and absorb nutrients from food.
+An object which has a pair of bladder that are located in the lower abdomen and store urine until it can be excreted.
+An object which has a pair of urethra that are located in the lower abdomen and carry urine from the bladder to the outside of the body.
+An object which has a pair of rectum that are located in the lower abdomen and store feces until they can be excreted.
+An object which has a pair of anus that are located at the end of the digestive tract and allow for the excretion of feces.
+An object which has a pair of esophagus that are located in the neck and carry food from the mouth to the stomach.
+An object which has a pair of trachea that are located in the neck and carry air from the mouth to the lungs.
+An object which has a pair of larynx that are located in the neck and produce sound.
+An object which has a pair of pharynx that are located in the neck and serve as a passageway for air and food.
+An object which has a pair of nasal cavity that are located in the nose and filter, warm, and moisten air before it enters the lungs.
+An object which has a pair of oral cavity that are located in the mouth and begin the process of digestion by breaking down food with saliva.
+An object which has a pair of brain that are located in the head and control all of the body's functions.
+An object which has a pair of spinal cord that are located in the back and transmit signals between the brain and the rest of the body.
+An object which has a pair of nerves that are located throughout the body and transmit signals between the brain and the rest of the body.
+An object which has a pair of blood vessels that are located throughout the body and carry blood to and from the heart.
+An object which has a pair of lymph vessels that are located throughout the body and carry lymph, a fluid that helps to fight infection and disease.
+An object which has a pair of bones that are located throughout the body and provide support and protection.
+An object which has a pair of muscles that are located throughout the body and allow for movement.
+An object which has a pair of skin that covers the entire body and protects it from the environment.
+An object which has a pair of fur that covers the entire body and provides insulation.
+An object which has a pair of hair that covers the entire body and provides sensory information.
+An object which has a pair of nails that are located on the ends of the fingers and toes and provide protection and aid in grasping.
+An object which has a pair of teeth that are located in the mouth and aid in eating and communication.
+An object which has a pair of tongue that are located in the mouth and aid in eating, communication, and grooming.
+An object which has a pair of lips that are located on the mouth and aid in eating, communication, and grooming.
+An object which has a pair of eyelids that are located on the eyes and protect them from dust and light.
+An object which has a pair of eyelashes that are located on the eyelids and protect the eyes from dust and light.
+An object which has a pair of eyebrows that are located above the eyes and protect them from sweat and light.
+An object which has a pair of nostrils that are located on the nose and allow for the intake of air.
+An object which has a pair of ears that are located on the head and allow for the intake of sound.
+An object which has a pair of cheeks that are located on the face and aid in eating and communication.
+An object which has a pair of chin that are located on the face and aid in eating and communication.
+An object which has a pair of forehead that are located on the face and aid in communication.
+An object which has a pair of neck that are located between the head and the body and allow for movement and support.
+An object which has a pair of shoulders that are located at the top of the body and allow for movement and support.
+An object which has a pair of chest that are located at the front of the body and protect the heart and lungs.
+An object which has a pair of abdomen that are located at the front of the body and protect the digestive and reproductive organs.
+An object which has a pair of back that are located at the back of the body and provide support and protection.
+An object which has a pair of hips that are located at the bottom of the body and allow for movement and support.
+An object which has a pair of legs that are located at the bottom of the body and allow for movement and support.
+An object which has a pair of feet that are located at the end of the legs and allow for movement and support.
+An object which has a pair of arms that are located at the sides of the body and allow for movement and support.
+An object which has a pair of hands that are located at the end of the arms and allow for movement and support.
+An object which has a pair of fingers that are located at the end of the hands and allow for movement and support.
+An object which has a pair of thumbs that are located at the end of the hands and allow for movement and support.
+An object which has a pair of wrists that are located at the end of the arms and allow for movement and support.
+An object which has a pair of elbows that are located at the middle of the arms and allow for movement and support.
+An object which has a pair of knees that are located at the middle of the legs and allow for movement and support.
+An object which has a pair of ankles that are located at the end of the legs and allow for movement and support.
+An object which has a pair of toes that are located at the end of the feet and allow for movement and support.

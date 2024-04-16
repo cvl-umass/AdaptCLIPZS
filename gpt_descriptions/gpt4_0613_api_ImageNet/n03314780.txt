@@ -1,0 +1,20 @@
+An object which is typically contained in a compact case.
+An object which may have a mirror attached to the inside of the lid.
+An object which often comes with a small applicator, such as a puff or a brush.
+An object which appears as a fine, loose or pressed powder.
+An object which may come in various shades, typically skin-toned.
+An object which may have a matte or shimmering finish.
+An object which may have branding or product information on the packaging.
+An object which may have a translucent or opaque appearance.
+An object which may be packaged in a round, square, or rectangular case.
+An object which may have a protective film or cover over the powder.
+An object which may have a sifter if it is a loose powder.
+An object which may have a texture visible on the surface, such as a pattern or brand logo.
+An object which may have a visible color gradient or multiple colors if it's a multi-shade compact.
+An object which may have a glossy, matte, or metallic finish on the packaging.
+An object which may have a clasp or button for opening the case.
+An object which may have a label indicating the shade or color on the bottom or back of the case.
+An object which may have a clear section on the case, allowing the color of the powder to be seen.
+An object which may have a safety seal or sticker indicating it's new or unopened.
+An object which may have a description or instructions printed on the packaging.
+An object which may have a barcode or QR code on the packaging.

@@ -1,0 +1,13 @@
+An object which has a unique twisted knot shape.
+An object which is typically brown in color due to baking.
+An object which has a shiny, often slightly blistered surface.
+An object which is sprinkled with coarse salt on the surface.
+An object which has a dense and chewy texture visible in cross-section.
+An object which may have a thin layer of glaze or shine, indicating it has been boiled before baking.
+An object which may have a slightly uneven surface due to hand-rolling and shaping.
+An object which may have a darker brown color in certain areas, indicating it has been baked in a high-temperature oven.
+An object which may have a hollow interior visible when broken apart.
+An object which may have a size ranging from small, snack-sized pieces to larger, bread-like portions.
+An object which may have visible scoring or cuts on the surface.
+An object which may be presented in a variety of forms, including traditional pretzel shape, pretzel sticks, or pretzel rolls.
+An object which may be seen in a context of being served with dips such as mustard or cheese.

@@ -1,0 +1,17 @@
+An object which is spherical in shape.
+An object which has a rough, pebbled surface.
+An object which is typically orange in color.
+An object which has black lines forming a pattern across its surface.
+An object which is approximately 9.5 inches in diameter.
+An object which is made of a leather or synthetic composite material.
+An object which is inflated and bounces when dropped.
+An object which has a weight of approximately 22 ounces.
+An object which has a standard design of eight panels.
+An object which is often associated with a netted hoop in images.
+An object which is commonly seen in sports-related contexts.
+An object which may have brand logos or sports league symbols imprinted on it.
+An object which is typically held, thrown, or dribbled in human hands in images.
+An object which may be seen in both indoor and outdoor settings.
+An object which is often used in team sports.
+An object which is commonly seen in images of basketball courts.
+An object which may be seen in motion, mid-air, in action shots.

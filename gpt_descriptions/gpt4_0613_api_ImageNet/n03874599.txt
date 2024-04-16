@@ -1,0 +1,20 @@
+An object which has a U-shaped shackle that can be opened or closed.
+An object which has a locking mechanism that keeps the shackle closed.
+An object which requires a key, combination, or code to unlock.
+An object which is typically made of metal such as brass, steel, or aluminum.
+An object which may have a hardened steel shackle for increased resistance to cutting.
+An object which may have a body covered in plastic or rubber to prevent scratching or marring surfaces.
+An object which may have a keyhole or dial on the front or bottom.
+An object which may have a brand name or logo on the body.
+An object which may have a series of numbers or letters for combination locks.
+An object which may have a keyway that accepts a specific shape of key.
+An object which may be small and portable, designed to secure items together.
+An object which may have a double locking mechanism for increased security.
+An object which may have a shackle that can be completely removed when unlocked.
+An object which may have a rectangular, square, or circular body.
+An object which may have a shackle that is hinged or sliding, rather than completely removable.
+An object which may have a weather-resistant coating for outdoor use.
+An object which may have a shackle that is shrouded or concealed to prevent cutting or picking.
+An object which may have a key retaining feature, meaning the key cannot be removed when the lock is open.
+An object which may have a serial number or model number on the body.
+An object which may have a TSA-approved symbol for travel use.

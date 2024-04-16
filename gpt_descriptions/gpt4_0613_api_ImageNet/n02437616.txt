@@ -1,0 +1,18 @@
+An object which has a long neck and a small head.
+An object which has large, pointed ears that stand erect.
+An object which has a coat of wool that can be short, medium or long.
+An object which has a body size similar to a small camel.
+An object which has a curved, banana-shaped tail.
+An object which has two-toed feet with leathery pads.
+An object which has eyes that are large, round, and brown.
+An object which has a split upper lip.
+An object which has a color that can range from white, grey, brown to black.
+An object which has a face that is slightly elongated and not as rounded as a sheep or goat.
+An object which has incisor teeth only on the bottom jaw.
+An object which has a body that is covered in a dense wooly coat to protect it from cold temperatures.
+An object which has a height that can range from 5.6 to 5.9 feet.
+An object which has a weight that can range from 290 to 440 pounds.
+An object which has a lifespan of 15 to 25 years.
+An object which has a gestation period of about 11.5 months.
+An object which has a unique gait, where both legs on the same side move together.
+An object which has a tendency to spit when threatened or annoyed.

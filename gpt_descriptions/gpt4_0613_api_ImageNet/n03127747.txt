@@ -1,0 +1,20 @@
+An object which has a hard outer shell for protection.
+An object which has a clear or tinted visor that can be flipped up or down.
+An object which has a chin strap for securing it to the head.
+An object which has padding on the inside for comfort and additional protection.
+An object which may have vents for airflow and cooling.
+An object which may have a sun shield to protect the eyes from glare.
+An object which may have a rear spoiler to reduce wind resistance.
+An object which may have a design or logo on the exterior.
+An object which may have a microphone and speakers for communication.
+An object which may have a shape that covers the entire head and neck or just the top and sides of the head.
+An object which may have reflective strips for visibility.
+An object which may have a removable and washable inner lining.
+An object which may have a chin guard for full-face protection.
+An object which may have a double D-ring fastener for the chin strap.
+An object which may have an aerodynamic shape to reduce wind noise and drag.
+An object which may have a certification sticker indicating safety standards compliance.
+An object which may have a modular design, allowing the front to flip up.
+An object which may have a peak or visor to shield from sun or rain.
+An object which may have a specific color or pattern.
+An object which may have a size label indicating the fit.

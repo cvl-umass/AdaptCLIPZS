@@ -1,0 +1,10 @@
+A texture which has small, shallow or deep holes scattered across its surface.
+A texture which appears uneven or irregular due to the presence of indentations.
+A texture which has a rough and bumpy feel due to the presence of pits.
+A texture which has a non-uniform pattern with variations in depth and size of the pits.
+A texture which may resemble the surface of a sponge, golf ball, or certain types of fruit like an orange or lemon.
+A texture which may have a porous appearance due to the presence of multiple pits.
+A texture which may appear weathered or eroded, similar to certain types of rock or wood.
+A texture which may have a speckled appearance when viewed from a distance due to the distribution of pits.
+A texture which may have a matte finish, as the pits can diffuse light rather than reflecting it directly.
+A texture which may have a tactile quality, providing a distinct feel under the fingertips due to the pits.

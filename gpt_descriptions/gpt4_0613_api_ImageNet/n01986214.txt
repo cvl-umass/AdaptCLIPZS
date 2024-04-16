@@ -1,0 +1,18 @@
+An object which has a soft, spirally coiled abdomen.
+An object which has a pair of unequal, large claws.
+An object which has a pair of antennae.
+An object which has stalked eyes.
+An object which has a hard exoskeleton covering its front body.
+An object which has jointed legs.
+An object which is often seen carrying a seashell on its back.
+An object which has a small, curled tail that fits into a shell.
+An object which has a pair of pincers used for climbing, fighting, and picking up food.
+An object which has a body that is segmented into two main parts: the cephalothorax (head and thorax combined) and the abdomen or pleon.
+An object which has a set of mouthparts that include mandibles for crushing food.
+An object which has gills for breathing.
+An object which is often found in marine or terrestrial environments.
+An object which has a body size that can range from a few millimeters to several centimeters.
+An object which has a color that can vary widely, from shades of red, orange, brown, to gray, depending on the species.
+An object which has a lifespan that can range from a few years to several decades in captivity.
+An object which has a nocturnal behavior, being more active during the night.
+An object which has a behavior of changing shells as it grows.

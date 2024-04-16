@@ -1,0 +1,20 @@
+An object which has a long, thin cylindrical shape.
+An object which has a hollow needle at one end.
+An object which has a plunger at the other end.
+An object which is typically made of plastic.
+An object which may have measurement markings along the side of the cylinder.
+An object which has a rubber tip on the end of the plunger.
+An object which may have a protective cap over the needle.
+An object which is often used in medical settings.
+An object which can hold and inject liquids.
+An object which may come in different sizes, from very small to quite large.
+An object which may have a colored plunger to indicate the gauge of the needle.
+An object which may be packaged in sterile, sealed packaging.
+An object which may be disposable after one use.
+An object which may have a luer lock to secure the needle to the syringe.
+An object which may be used for drawing blood or administering medication.
+An object which may be used in both human and veterinary medicine.
+An object which may be used in scientific research or laboratory settings.
+An object which may be used in cooking for injecting flavors into food.
+An object which may be used in arts and crafts for precise application of glues, paints, or other materials.
+An object which may be used in industrial settings for lubrication or precision application of other substances.

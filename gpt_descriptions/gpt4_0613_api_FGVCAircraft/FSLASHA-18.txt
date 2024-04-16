@@ -1,0 +1,16 @@
+An aircraft with twin engines mounted on either side of the fuselage.
+An aircraft with a twin-tail configuration, with the tail fins angled outward.
+An aircraft with a leading-edge extension that runs from the wing root to below the cockpit.
+An aircraft with a bubble canopy that provides 360-degree visibility for the pilot.
+An aircraft with a trapezoidal wing shape.
+An aircraft with a nose that is sharply pointed.
+An aircraft with a rectangular air intake under the wings.
+An aircraft with a noticeable hump behind the cockpit, known as a "turtleback".
+An aircraft with a single pilot seat in the F/A-18E/F Super Hornet variant, and a tandem two-seat configuration in the F/A-18B/D Hornet variant.
+An aircraft with a landing gear designed for carrier operations, characterized by a dual-wheel nose gear and single-wheel main gear.
+An aircraft with a grey or blue camouflage paint scheme typically used by the U.S. Navy and Marine Corps.
+An aircraft with folding wings for storage aboard aircraft carriers.
+An aircraft with hardpoints under the wings and fuselage for carrying weapons and other payloads.
+An aircraft with a refueling probe extending from the front of the cockpit.
+An aircraft with a rectangular exhaust nozzles.
+An aircraft with a radar dome located in the nose.

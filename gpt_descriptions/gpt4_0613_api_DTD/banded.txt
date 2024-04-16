@@ -1,0 +1,20 @@
+A texture which displays a pattern of alternating light and dark bands.
+A texture which has layers that are parallel and regular.
+A texture which shows a clear repetition of lines or stripes.
+A texture which has a rhythmic or systematic arrangement of different components.
+A texture which has a distinct contrast between the different bands.
+A texture which has bands that can be of varying widths.
+A texture which may show bands of different colors or shades.
+A texture which may have bands that are straight, wavy, or curved.
+A texture which may have bands that are continuous or discontinuous.
+A texture which may show bands that are uniform or irregular in thickness.
+A texture which may have bands that are smooth or rough in texture.
+A texture which may show bands that are opaque, translucent, or transparent.
+A texture which may have bands that are glossy, matte, or somewhere in between.
+A texture which may show bands that are hard, soft, or somewhere in between.
+A texture which may have bands that are dense or sparse.
+A texture which may show bands that are thick or thin.
+A texture which may have bands that are coarse or fine.
+A texture which may show bands that are tight or loose.
+A texture which may have bands that are rigid or flexible.
+A texture which may show bands that are solid or hollow.

@@ -1,0 +1,20 @@
+An object which is typically rectangular or cubic in shape.
+An object which is made of a lightweight material, often paperboard or corrugated fiberboard.
+An object which may have a glossy or matte finish.
+An object which often has printed text, logos, or images on its surface.
+An object which may have a perforated line or a pre-cut opening for easy access to the contents.
+An object which may have a plastic or metal spout for dispensing liquid contents.
+An object which may be sealed with tape, glue, or staples.
+An object which may have a handle or cut-out for easy carrying.
+An object which may be flat-packed or folded for storage or transport.
+An object which may have a barcode or other identifying marks.
+An object which may be used for packaging, shipping, or storing various items.
+An object which may have a specific color or design related to the product it contains.
+An object which may have a certain size or dimension based on the product it is designed to hold.
+An object which may have a lid or a flap that can be opened or closed.
+An object which may be recyclable or biodegradable.
+An object which may have a certain thickness or rigidity based on its intended use.
+An object which may have a protective layer or coating to prevent damage to the contents.
+An object which may have a certain weight or capacity based on the product it is designed to hold.
+An object which may have a certain texture or feel to the touch.
+An object which may have a certain smell, particularly if it has been used to store food or other aromatic items.

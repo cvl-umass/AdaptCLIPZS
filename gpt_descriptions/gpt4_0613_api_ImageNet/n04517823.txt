@@ -1,0 +1,20 @@
+An object which has a long, often flexible tube for suction.
+An object which has a large, typically cylindrical body for dust collection.
+An object which has a handle at the top for easy maneuvering.
+An object which has wheels at the bottom for easy movement.
+An object which has a power cord that can be plugged into an electrical outlet.
+An object which has various attachments for different cleaning tasks.
+An object which has a motor inside for creating suction.
+An object which has a dust bag or a clear, removable container for collecting dirt and debris.
+An object which has a filter system to trap small particles and prevent them from being released back into the air.
+An object which has buttons or switches for power and sometimes for adjusting suction power.
+An object which may have a head with a rotating brush for deep cleaning carpets.
+An object which may have a retractable cord system for easy storage.
+An object which may have a light on the front to illuminate dark spaces.
+An object which may have a HEPA filter for trapping allergens.
+An object which may have a bagless design for easy emptying and cleaning.
+An object which may have a telescopic wand for reaching high places.
+An object which may have a crevice tool for cleaning tight spaces.
+An object which may have a pet hair tool for removing pet hair from furniture and carpets.
+An object which may have a wet/dry function for cleaning up spills.
+An object which may have a battery indicator if it's a cordless model.

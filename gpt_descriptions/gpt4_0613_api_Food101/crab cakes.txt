@@ -1,0 +1,15 @@
+A food with a round or patty-like shape.
+A food with a golden-brown, crispy exterior.
+A food with a flaky, moist interior visible when cut open.
+A food with visible chunks or shreds of white meat inside.
+A food that is typically served with a side of tartar sauce or a lemon wedge.
+A food that may be garnished with fresh herbs like parsley.
+A food that is often served on a bed of lettuce or coleslaw.
+A food that may have a breadcrumb or cracker crumb coating.
+A food that is typically 2-3 inches in diameter.
+A food that may be served as an appetizer or main course.
+A food that may be served with a side of fries or mashed potatoes.
+A food that may be served on a bun as a sandwich.
+A food that may be served with a side of remoulade sauce.
+A food that may be served in a seafood or coastal cuisine context.
+A food that may be served in a Maryland or Southern U.S. cuisine context.

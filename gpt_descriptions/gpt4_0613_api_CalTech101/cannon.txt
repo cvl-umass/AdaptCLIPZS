@@ -1,0 +1,20 @@
+An object which has a long, cylindrical shape.
+An object which has a wide opening at one end, known as the muzzle.
+An object which has a smaller, closed end, often with a fuse hole.
+An object which is typically made of metal, such as iron or bronze.
+An object which may have wheels attached to its base for mobility.
+An object which may have a curved handle or lever, used for adjusting the angle of fire.
+An object which may have decorative elements or inscriptions, especially on older models.
+An object which may be mounted on a wooden or metal carriage.
+An object which may have a reinforced rear section, known as the breech.
+An object which may have a tapering shape, with the diameter decreasing towards the muzzle.
+An object which may have a touch hole or vent, used for igniting the gunpowder.
+An object which may have trunnions, projections on either side used for mounting.
+An object which may have a cascabel, a knob-like feature at the rear end.
+An object which may have a sight, a small device used to aim the cannon.
+An object which may have a ramrod, a tool used to pack the cannonball and gunpowder.
+An object which may have a worm, a tool used to remove unspent charges.
+An object which may have a sponge, a tool used to extinguish any remaining embers before reloading.
+An object which may have a ladle, a tool used to measure and load gunpowder.
+An object which may have a variety of sizes, from small hand cannons to large naval cannons.
+An object which may have a cannonball nearby, the typical ammunition used.

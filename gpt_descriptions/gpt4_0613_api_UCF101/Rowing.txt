@@ -1,0 +1,14 @@
+An action which involves a person sitting with their legs extended forward.
+An action where the person's hands are holding onto a long, thin object.
+An action where the person's arms are extended forward, parallel to their extended legs.
+An action which shows a person pulling or pushing against water.
+An action where the person is seated on a sliding seat, moving back and forth.
+An action which involves a person in a narrow, long boat or on a rowing machine.
+An action where the person's back is leaning slightly backward or forward.
+An action which shows a person wearing sportswear, often with gloves for grip.
+An action where the person's body is in a cyclic motion - push with legs, lean back, pull with arms, lean forward, extend arms.
+An action which may show splashes of water around if it's outdoor rowing.
+An action which may show a digital screen in front of the person if it's indoor rowing.
+An action where the person's facial expression may show exertion or focus.
+An action which may include other people doing the same motion in the background if it's team rowing.
+An action which may show a coxswain, a person who steers the boat and coordinates the power and rhythm of the rowers in team rowing.

@@ -1,0 +1,15 @@
+An object which has a large body with a relatively small head.
+An object which has a short, sleek coat that is typically golden-yellow with black spots.
+An object which has a distinctive pattern of dark rosettes - a spot with a lighter center - on its body.
+An object which has a long, muscular body and powerful limbs for climbing trees.
+An object which has a long tail, almost as long as its body, for balance.
+An object which has sharp retractable claws for hunting.
+An object which has a white underbelly and inner parts of the legs.
+An object which has small, rounded ears that are black on the back with a prominent white patch.
+An object which has a broad head with powerful jaws.
+An object which has green or grey eyes.
+An object which has a 'tear mark' running from the inner corner of the eye down to the side of the mouth.
+An object which has a body length ranging from 90 to 165 cm (35 to 65 in), and a tail length of about 80 to 100 cm (31 to 39 in).
+An object which has a shoulder height ranging from 45 to 80 cm (18 to 31 in).
+An object which has a weight ranging from 30 to 90 kg (66 to 198 lb) for males, and 23 to 60 kg (51 to 132 lb) for females.
+An object which has a unique pattern of spots and rosettes, as no two leopards have the same pattern.

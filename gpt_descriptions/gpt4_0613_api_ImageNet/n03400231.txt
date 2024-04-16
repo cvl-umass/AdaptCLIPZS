@@ -1,0 +1,20 @@
+An object which has a flat bottom.
+An object which has a long handle.
+An object which is typically made of metal.
+An object which may have a non-stick surface.
+An object which may have a lid.
+An object which is circular or oval in shape.
+An object which has a shallow depth.
+An object which may have a slightly raised edge.
+An object which may have a pouring spout.
+An object which may have a second, smaller handle on the opposite side of the main handle.
+An object which may have a hanging loop at the end of the handle.
+An object which may have a copper, stainless steel, or cast iron appearance.
+An object which may have a heat-resistant handle.
+An object which may have a pattern or brand name on the bottom.
+An object which may have a slightly curved or sloping side.
+An object which may have a heavy base for even heat distribution.
+An object which may have a coating of enamel or Teflon.
+An object which may have a size range from 6 to 14 inches in diameter.
+An object which may have a weight that feels balanced when lifted by the handle.
+An object which may have a surface that is smooth or ridged.

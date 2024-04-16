@@ -1,0 +1,20 @@
+An object which has tables and chairs arranged for dining.
+An object which has a counter or area where food is prepared and served.
+An object which displays menus listing the food and drink options.
+An object which has a cash register or point of sale system for transactions.
+An object which has kitchen equipment such as stoves, ovens, and refrigerators.
+An object which has staff in uniforms, such as chefs, waiters, or hostesses.
+An object which has signage indicating it is a place for food and drink.
+An object which has table settings including plates, glasses, and cutlery.
+An object which has condiments and napkin holders on the tables.
+An object which has a bar area with stools and a variety of alcoholic beverages.
+An object which has decorative elements related to food or dining, such as food-themed artwork.
+An object which has a specials board displaying daily or seasonal dishes.
+An object which has a waiting area for customers to sit or stand until a table is available.
+An object which has restrooms with signs indicating 'Men', 'Women', or 'Unisex'.
+An object which has a tip jar or a place for customers to leave gratuities.
+An object which has outdoor seating area with umbrellas or heaters.
+An object which has a takeaway or pick-up counter for food orders.
+An object which has promotional materials or advertisements for food and drink specials.
+An object which has a display case for desserts or baked goods.
+An object which has a coat check or area for customers to leave personal belongings.

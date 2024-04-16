@@ -1,0 +1,23 @@
+An object which has a long, flat guide bar made of metal.
+An object which has a chain that moves around the guide bar.
+An object which has sharp teeth-like structures on the chain.
+An object which has a motor, either electric or gas-powered, attached to the guide bar.
+An object which has a handle and a trigger for operation.
+An object which has a protective casing around the motor.
+An object which may have a cord if it is an electric model.
+An object which may have a fuel tank if it is a gas-powered model.
+An object which has a chain brake for safety.
+An object which may have a chain tensioner for adjusting the tightness of the chain.
+An object which may have an oil reservoir for lubricating the chain.
+An object which may have a muffler to reduce noise if it is a gas-powered model.
+An object which may have an air filter to prevent dust and debris from entering the engine if it is a gas-powered model.
+An object which may have a starter rope and a choke control if it is a gas-powered model.
+An object which may have a throttle lockout to prevent accidental operation.
+An object which may have a hand guard for operator safety.
+An object which may have a chain catcher to prevent the chain from flying off during operation.
+An object which may have a spark plug if it is a gas-powered model.
+An object which may have a carburetor if it is a gas-powered model.
+An object which may have a clutch to engage or disengage the chain.
+An object which may have a sprocket for driving the chain.
+An object which may have a bumper spike for stability during cutting.
+An object which may have a decompression valve to make starting easier if it is a gas-powered model.

@@ -1,0 +1,30 @@
+An object which is typically rectangular or diamond-shaped.
+An object which is often mounted on a pole or hung over a road.
+An object which has a reflective surface to be visible at night.
+An object which contains symbols, words, or numbers to convey a message.
+An object which uses standardized colors like red, yellow, green, blue, or white.
+An object which may have a border of a contrasting color for emphasis.
+An object which may have arrows indicating direction.
+An object which may display a specific instruction, such as 'STOP' or 'YIELD'.
+An object which may indicate a speed limit.
+An object which may show a warning or hazard ahead, like a pedestrian crossing or a sharp turn.
+An object which may provide information about routes, destinations, or points of interest.
+An object which may be used to regulate traffic flow, such as 'ONE WAY' signs.
+An object which may indicate parking rules and restrictions.
+An object which may be used to indicate road conditions, like 'SLIPPERY WHEN WET'.
+An object which may display a prohibition, like 'NO U-TURN' or 'NO PARKING'.
+An object which may be used to indicate a school zone or a pedestrian crossing.
+An object which may be used to indicate a construction zone.
+An object which may be used to indicate a railway crossing.
+An object which may be used to indicate a bike lane.
+An object which may be used to indicate a bus stop.
+An object which may be used to indicate a hospital nearby.
+An object which may be used to indicate an airport nearby.
+An object which may be used to indicate a fire station nearby.
+An object which may be used to indicate a police station nearby.
+An object which may be used to indicate a highway or freeway entrance or exit.
+An object which may be used to indicate a toll booth ahead.
+An object which may be used to indicate a roundabout.
+An object which may be used to indicate a dead end or no outlet.
+An object which may be used to indicate a handicap parking space.
+An object which may be used to indicate a wildlife crossing.

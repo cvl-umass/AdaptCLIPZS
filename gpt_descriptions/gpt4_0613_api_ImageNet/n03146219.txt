@@ -1,0 +1,15 @@
+An object which is a piece of armor that covers the torso.
+An object which is typically made of metal, leather, or some other hard material.
+An object which may have a highly polished or decorated surface.
+An object which may be shaped to fit the contours of the wearer's body.
+An object which may have straps or buckles for securing it to the wearer.
+An object which may be divided into two parts: a breastplate and a backplate.
+An object which may have a raised ridge or crest running down the center.
+An object which may have a neck guard or shoulder guards attached.
+An object which may have a design or emblem on the front, indicating a particular family or group.
+An object which may show signs of wear or damage, such as dents or scratches, from use in combat.
+An object which may be part of a larger set of armor, including a helmet, gauntlets, and greaves.
+An object which may be displayed on a stand or mannequin when not in use.
+An object which may be associated with historical periods such as the Middle Ages or Renaissance.
+An object which may be associated with certain professions or roles, such as knights or soldiers.
+An object which may be found in museums, historical reenactments, or collections of antique weaponry.

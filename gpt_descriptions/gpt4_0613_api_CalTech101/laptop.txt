@@ -1,0 +1,25 @@
+An object which has a clamshell design, typically folding open to reveal a screen and a keyboard.
+An object which has a QWERTY keyboard integrated into its lower section.
+An object which has a flat LCD or LED screen that forms the upper lid of the device.
+An object which has a touchpad or pointing stick as a built-in input device.
+An object which has multiple ports on its sides for USB, HDMI, and other connections.
+An object which has a built-in webcam usually located above the screen.
+An object which has a power button, often located above the keyboard.
+An object which has a hinge mechanism allowing it to be opened and closed.
+An object which has a thin, rectangular shape when closed.
+An object which has a battery compartment, usually located on the underside.
+An object which has ventilation grills, often found on the sides or bottom.
+An object which has speakers, often located on the top side near the keyboard or on the bottom.
+An object which has branding or logo, typically found on the outer lid and sometimes below the screen.
+An object which has function keys, usually located at the top of the keyboard.
+An object which has a charging port, typically located on one of the sides.
+An object which has a slot for a CD/DVD drive, although this is less common in modern designs.
+An object which has a slot for SD cards or other memory cards.
+An object which has a headphone jack, typically located on one of the sides.
+An object which has rubber feet on the bottom to prevent slipping.
+An object which has a rectangular touchpad, usually located below the keyboard.
+An object which has indicator lights, often for power, battery status, and hard drive activity.
+An object which has a slot for a Kensington lock, typically located on one of the sides.
+An object which has a backlit keyboard, a feature found in some models.
+An object which has a fingerprint scanner, often integrated into the power button or touchpad in some models.
+An object which has a numeric keypad, usually on the right side of the keyboard in larger models.

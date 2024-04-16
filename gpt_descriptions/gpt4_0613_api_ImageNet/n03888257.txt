@@ -1,0 +1,15 @@
+An object which has a large piece of lightweight fabric.
+An object which is typically dome or umbrella-shaped.
+An object which has a series of cords or straps attached to the fabric.
+An object which has a harness or container system at the end of the cords.
+An object which is designed to slow down the speed of a falling body.
+An object which can be packed or folded into a small volume.
+An object which may have a variety of colors, often bright, to increase visibility.
+An object which may have a ripcord for manual deployment.
+An object which may have a small pilot chute used to deploy the main canopy.
+An object which may have a reserve parachute in case the main one fails.
+An object which may have steering toggles for controlling direction and speed.
+An object which may be used for recreational activities like skydiving or paragliding.
+An object which may be used for military purposes like paratrooping or cargo drops.
+An object which may be used for emergency escape from aircraft.
+An object which may be used for slowing down spacecraft upon atmospheric reentry.

@@ -1,0 +1,20 @@
+An object which has a dome-shaped roof.
+An object which features one or more minarets, tall slender towers with balconies.
+An object which has a mihrab, a niche in the wall indicating the direction of Mecca.
+An object which includes a prayer hall, often carpeted, with no furniture.
+An object which has a pulpit or minbar, a raised platform used by the imam to deliver sermons.
+An object which features Islamic geometric patterns and calligraphy on its walls and ceilings.
+An object which has a courtyard for ablution, a place for ritual purification before prayer.
+An object which includes separate prayer areas for men and women.
+An object which has a qibla wall, the wall that faces Mecca.
+An object which features arches and columns, common architectural elements in Islamic design.
+An object which has a large entrance gate, often ornately decorated.
+An object which includes a muezzin's chamber, a place from where the call to prayer is announced.
+An object which may have a dome or tower adorned with a crescent moon and star, symbols often associated with Islam.
+An object which may have hanging lamps or chandeliers, used for illumination and decoration.
+An object which may include a madrasa, an educational institution for learning Islamic theology and religious law.
+An object which may have a Sahn, an open courtyard in the center of the mosque.
+An object which may have a Riwaq, a portico or arcade around the courtyard for shelter and shade.
+An object which may have a Dikka, a raised platform in the mosque where the Quran is recited.
+An object which may have a Horseshoe arch, a distinctive type of arch used in Islamic architecture.
+An object which may have a Maqsura, a screened area reserved for a ruler or dignitary.

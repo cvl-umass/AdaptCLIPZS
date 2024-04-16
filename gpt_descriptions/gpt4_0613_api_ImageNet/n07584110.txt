@@ -1,0 +1,10 @@
+An object which appears as a clear, amber-colored liquid.
+An object which is typically served in a bowl or a cup.
+An object which may have garnishes such as finely chopped vegetables, herbs, or meat floating on top.
+An object which may show visible steam, indicating it is served hot.
+An object which may be accompanied by a spoon, indicating it is a type of soup.
+An object which may be presented with slices of bread or crackers on the side.
+An object which may show a glossy surface, indicating a rich, well-reduced broth.
+An object which may have a thin layer of fat on the surface, indicating a meat-based broth.
+An object which may be served in a fine dining setting, indicating it is a gourmet dish.
+An object which may be shown in a clear glass container, emphasizing its clarity and purity.

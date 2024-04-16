@@ -1,0 +1,20 @@
+An object which has a speaker grille or mesh for sound output.
+An object which has a tuning dial or digital display to select different frequencies.
+An object which has volume control knobs or buttons.
+An object which has an antenna or aerial for receiving signals.
+An object which has AM/FM switch or digital selection for different types of radio waves.
+An object which has a power button or switch.
+An object which has a headphone jack for private listening.
+An object which has a power cord or battery compartment for power supply.
+An object which has preset buttons for saving favorite stations.
+An object which has a casing, often rectangular or slightly curved.
+An object which may have a handle for portability.
+An object which may have a backlit display for viewing in low light.
+An object which may have additional features like a CD player, cassette deck, or USB port.
+An object which may have a clock or alarm function.
+An object which may have a sleep or snooze button.
+An object which may have a mute button for silencing the sound.
+An object which may have a band selector for shortwave, longwave, or other types of radio waves.
+An object which may have a balance or tone control for adjusting the sound quality.
+An object which may have a light indicator showing the power status or signal strength.
+An object which may have a brand name or logo on the front or back.

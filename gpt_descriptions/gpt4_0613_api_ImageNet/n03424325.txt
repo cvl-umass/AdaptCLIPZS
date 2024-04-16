@@ -1,0 +1,20 @@
+An object which has a large, clear visor or eye pieces to allow visibility.
+An object which has a filter or cartridge, often cylindrical or box-shaped, attached to the front or side.
+An object which is designed to cover the entire face or at least the mouth and nose.
+An object which has adjustable straps for securing it to the head.
+An object which may have a rubber, silicone, or plastic body to create a seal against the face.
+An object which may have an exhalation valve to allow for the release of exhaled air.
+An object which may have a voice diaphragm to facilitate communication while wearing it.
+An object which may have a nose cup inside to prevent the visor from fogging up.
+An object which may have a drinking tube for hydration without removing the mask.
+An object which may be connected to a larger system, such as a self-contained breathing apparatus.
+An object which may have color coding or labels indicating the type of contaminants it protects against.
+An object which may have a pre-filter or spark arrestor for certain working conditions.
+An object which may have a chin rest for comfort and stability.
+An object which may have a neck strap for carrying when not in use.
+An object which may have a protective hood or shroud for additional coverage.
+An object which may have a quick-release buckle for easy removal.
+An object which may have a positive pressure feature to prevent contaminants from entering if the seal is broken.
+An object which may have a battery-powered fan for filtered air supply.
+An object which may have a warning device to indicate when the filter needs to be replaced.
+An object which may have a carrying case for storage and transport.

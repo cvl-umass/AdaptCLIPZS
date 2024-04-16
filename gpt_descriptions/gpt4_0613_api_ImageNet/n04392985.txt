@@ -1,0 +1,25 @@
+An object which has a rectangular or square shape.
+An object which has a cassette slot, typically in the center.
+An object which has play, stop, rewind, and fast forward buttons.
+An object which has a volume control knob or slider.
+An object which may have a headphone jack.
+An object which may have an AM/FM radio dial.
+An object which may have a built-in speaker.
+An object which may have a record button.
+An object which may have a power cord or battery compartment.
+An object which may have an eject button to remove the cassette.
+An object which may have a digital or analog display showing tape progress or radio frequency.
+An object which may have a balance control knob or slider.
+An object which may have a tone control knob or slider.
+An object which may have a microphone input.
+An object which may have a carrying handle.
+An object which may have a pause button.
+An object which may have a track skip or search button.
+An object which may have a counter reset button.
+An object which may have a Dolby noise reduction switch.
+An object which may have a tape speed selector switch.
+An object which may have a tape direction switch.
+An object which may have a tape type selector switch.
+An object which may have a stereo/mono switch.
+An object which may have a line-in and line-out ports.
+An object which may have a tuner for radio stations.

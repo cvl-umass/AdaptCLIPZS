@@ -1,0 +1,20 @@
+An aircraft with a high-wing configuration.
+An aircraft with a T-tail design.
+An aircraft with two turboprop engines mounted on the wings.
+An aircraft with a short, stubby fuselage.
+An aircraft with a large, rounded nose.
+An aircraft with a tricycle landing gear.
+An aircraft with a capacity of approximately 30 passengers.
+An aircraft with a distinctive, large vertical stabilizer.
+An aircraft with a cockpit that has a four-window arrangement.
+An aircraft with a relatively short wingspan compared to its body length.
+An aircraft with a unique engine design where the propellers are located at the front of the engine nacelles.
+An aircraft with a relatively flat underside of the fuselage.
+An aircraft with a noticeable gap between the fuselage and the wing.
+An aircraft with a unique wing design that tapers towards the tip.
+An aircraft with a relatively large horizontal stabilizer compared to its vertical stabilizer.
+An aircraft with a unique exhaust design at the rear of the engine nacelles.
+An aircraft with a relatively high ground clearance.
+An aircraft with a unique door design located at the front of the aircraft.
+An aircraft with a unique window arrangement with larger windows at the front and smaller ones at the rear.
+An aircraft with a unique tail design where the horizontal stabilizers are located at the top of the vertical stabilizer.

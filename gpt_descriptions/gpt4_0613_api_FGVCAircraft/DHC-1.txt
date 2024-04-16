@@ -1,0 +1,20 @@
+An aircraft with a low-wing monoplane design.
+An aircraft with a fixed conventional landing gear.
+An aircraft with a single engine mounted in the nose.
+An aircraft with a two-seat tandem cockpit.
+An aircraft with a fuselage that is slender and elongated.
+An aircraft with a tailwheel-type landing gear.
+An aircraft with a clear canopy covering the cockpit.
+An aircraft with a propeller in the front.
+An aircraft with a tailplane that has a single vertical stabilizer.
+An aircraft with wings that have a slight dihedral angle.
+An aircraft with a cockpit that has dual controls.
+An aircraft with a metal airframe covered in fabric.
+An aircraft with a relatively small size compared to commercial planes.
+An aircraft with ailerons that cover almost the entire trailing edge of the wing.
+An aircraft with a relatively short nose.
+An aircraft with exhaust pipes protruding from the lower side of the engine cowling.
+An aircraft with a rounded rudder at the tail end.
+An aircraft with a cockpit that is positioned towards the front of the fuselage.
+An aircraft with a propeller that has two blades.
+An aircraft with a small wheel located at the tail end.

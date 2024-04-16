@@ -1,0 +1,20 @@
+Animal with a cylindrical body shape.
+Animal with a segmented body, each segment having two pairs of legs.
+Animal with a length typically ranging from 1 to 2 inches.
+Animal with a dark brown to black body color.
+Animal with a noticeable yellow to orange banding pattern on each segment.
+Animal with a smooth, shiny exoskeleton.
+Animal with a head that is usually hidden underneath the body.
+Animal with short antennae on the head.
+Animal with a slow, wave-like movement when it walks.
+Animal that curls up into a tight coil when disturbed.
+Animal found in damp, dark habitats such as under logs, rocks, and leaf litter.
+Animal often found in greenhouses, hence the name Greenhouse Millipede.
+Animal that is nocturnal, being more active during the night.
+Animal that feeds on decaying plant material, indicating a detritivorous diet.
+Animal that leaves behind a noticeable trail of excrement, often referred to as 'frass'.
+Animal that, when threatened, can secrete a foul-smelling liquid as a defense mechanism.
+Animal that lays its eggs in the soil, indicating a terrestrial lifestyle.
+Animal that is often found in large numbers, indicating a tendency towards social behavior.
+Animal that is not harmful to humans but can be a nuisance in greenhouses and gardens.
+Animal that is not native to North America but is now widespread across the continent.

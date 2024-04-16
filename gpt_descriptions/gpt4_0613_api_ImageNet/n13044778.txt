@@ -1,0 +1,15 @@
+An object which has a star-like shape with multiple points radiating outwards.
+An object which has a central, round spore sac.
+An object which has a rough, cracked outer layer that peels back to form the 'star' points.
+An object which is typically brown or tan in color.
+An object which is found on the ground, often in wooded or grassy areas.
+An object which has a puffball-like appearance when the 'star' points are closed.
+An object which releases spores from a hole in the top of the central sac when disturbed.
+An object which can change shape depending on the level of moisture in the environment.
+An object which has a tough, leathery texture.
+An object which is small in size, typically not exceeding a few inches in diameter.
+An object which does not have a stem or any other supporting structure.
+An object which may appear to be a strange rock or piece of debris at first glance.
+An object which is a type of fungus, and thus may be found in the company of other fungi.
+An object which may have a slightly shiny or glossy appearance, particularly on the outer 'star' points.
+An object which is not attached to any substrate but sits freely on the ground.

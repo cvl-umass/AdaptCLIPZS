@@ -1,0 +1,200 @@
+A bird with a small, compact body, typical of finches.
+A bird with a short, conical bill, perfect for seed-eating.
+A bird with a notched tail.
+A bird with a bright yellow underparts.
+A bird with a black or dark green back.
+A bird with black wings that have a prominent white patch.
+A bird with a black tail that has white corners.
+A bird with a small head and short, stout bill.
+A bird with a length of about 4.3-4.7 inches.
+A bird with a wingspan of about 7.5-8.7 inches.
+A bird with a weight of about 0.3-0.4 oz.
+A bird with a black cap on its head, if it's a male.
+A bird with a greenish back and less bright yellow underparts, if it's a female.
+A bird with a sharp, pointed beak.
+A bird with a slightly forked tail.
+A bird with a rapid, bounding flight.
+A bird that is often found in flocks.
+A bird that is often seen in weedy fields, scrub, open woods, and gardens.
+A bird that is often seen at feeders.
+A bird that is native to the Americas.
+A bird that is often seen in the western United States.
+A bird that is often seen in the lowlands and foothills.
+A bird that is often seen in suburban and urban areas.
+A bird that is often seen in the southwestern United States and Mexico.
+A bird that is often seen in the Andean region of South America.
+A bird that is often seen in the Pacific coastal region.
+A bird that is often seen in the desert regions.
+A bird that is often seen in the chaparral and oak woodlands.
+A bird that is often seen in the riparian woodlands and shrublands.
+A bird that is often seen in the coniferous forests.
+A bird that is often seen in the mixed forests.
+A bird that is often seen in the tropical and subtropical dry forests.
+A bird that is often seen in the tropical and subtropical moist lowland forests.
+A bird that is often seen in the tropical and subtropical high-altitude shrubland.
+A bird that is often seen in the tropical and subtropical high-altitude grassland.
+A bird that is often seen in the plantations.
+A bird that is often seen in the rural gardens.
+A bird that is often seen in the urban areas.
+A bird that is often seen in the heavily degraded former forests.
+A bird that is often seen in the artificial terrestrial habitats.
+A bird that is often seen in the artificial aquatic habitats.
+A bird that is often seen in the arable land.
+A bird that is often seen in the pastureland.
+A bird that is often seen in the seasonally flooded agricultural land.
+A bird that is often seen in the irrigated land.
+A bird that is often seen in the canals and ditches.
+A bird that is often seen in the ponds.
+A bird that is often seen in the water storage areas.
+A bird that is often seen in the wastewater treatment areas.
+A bird that is often seen in the salt pans.
+A bird that is often seen in the salt mines.
+A bird that is often seen in the coastal saline lagoons.
+A bird that is often seen in the coastal freshwater lagoons.
+A bird that is often seen in the intertidal marshes.
+A bird that is often seen in the intertidal flats.
+A bird that is often seen in the intertidal mudflats.
+A bird that is often seen in the intertidal brackish marshes.
+A bird that is often seen in the intertidal saline marshes.
+A bird that is often seen in the intertidal freshwater marshes.
+A bird that is often seen in the rocky shores.
+A bird that is often seen in the sandy shores.
+A bird that is often seen in the pebble beaches.
+A bird that is often seen in the shingle beaches.
+A bird that is often seen in the estuarine waters.
+A bird that is often seen in the coastal brackish/saline lagoons.
+A bird that is often seen in the coastal freshwater lagoons.
+A bird that is often seen in the karsts and other subterranean hydrological systems.
+A bird that is often seen in the caves and subterranean habitats.
+A bird that is often seen in the introduced vegetation.
+A bird that is often seen in the other urban and suburban habitats.
+A bird that is often seen in the other artificial aquatic habitats.
+A bird that is often seen in the other artificial terrestrial habitats.
+A bird that is often seen in the other marine intertidal habitats.
+A bird that is often seen in the other marine neritic habitats.
+A bird that is often seen in the other marine oceanic habitats.
+A bird that is often seen in the other marine deep benthic habitats.
+A bird that is often seen in the other marine pelagic habitats.
+A bird that is often seen in the other marine bathypelagic habitats.
+A bird that is often seen in the other marine abyssopelagic habitats.
+A bird that is often seen in the other marine hadopelagic habitats.
+A bird that is often seen in the other marine benthopelagic habitats.
+A bird that is often seen in the other marine mesopelagic habitats.
+A bird that is often seen in the other marine epipelagic habitats.
+A bird that is often seen in the other marine littoral habitats.
+A bird that is often seen in the other marine sublittoral habitats.
+A bird that is often seen in the other marine bathyal habitats.
+A bird that is often seen in the other marine abyssal habitats.
+A bird that is often seen in the other marine hadal habitats.
+A bird that is often seen in the other marine intertidal rock pools.
+A bird that is often seen in the other marine neritic rock pools.
+A bird that is often seen in the other marine oceanic rock pools.
+A bird that is often seen in the other marine deep benthic rock pools.
+A bird that is often seen in the other marine pelagic rock pools.
+A bird that is often seen in the other marine bathypelagic rock pools.
+A bird that is often seen in the other marine abyssopelagic rock pools.
+A bird that is often seen in the other marine hadopelagic rock pools.
+A bird that is often seen in the other marine benthopelagic rock pools.
+A bird that is often seen in the other marine mesopelagic rock pools.
+A bird that is often seen in the other marine epipelagic rock pools.
+A bird that is often seen in the other marine littoral rock pools.
+A bird that is often seen in the other marine sublittoral rock pools.
+A bird that is often seen in the other marine bathyal rock pools.
+A bird that is often seen in the other marine abyssal rock pools.
+A bird that is often seen in the other marine hadal rock pools.
+A bird that is often seen in the other marine intertidal sandy beaches.
+A bird that is often seen in the other marine neritic sandy beaches.
+A bird that is often seen in the other marine oceanic sandy beaches.
+A bird that is often seen in the other marine deep benthic sandy beaches.
+A bird that is often seen in the other marine pelagic sandy beaches.
+A bird that is often seen in the other marine bathypelagic sandy beaches.
+A bird that is often seen in the other marine abyssopelagic sandy beaches.
+A bird that is often seen in the other marine hadopelagic sandy beaches.
+A bird that is often seen in the other marine benthopelagic sandy beaches.
+A bird that is often seen in the other marine mesopelagic sandy beaches.
+A bird that is often seen in the other marine epipelagic sandy beaches.
+A bird that is often seen in the other marine littoral sandy beaches.
+A bird that is often seen in the other marine sublittoral sandy beaches.
+A bird that is often seen in the other marine bathyal sandy beaches.
+A bird that is often seen in the other marine abyssal sandy beaches.
+A bird that is often seen in the other marine hadal sandy beaches.
+A bird that is often seen in the other marine intertidal shingle and pebble beaches.
+A bird that is often seen in the other marine neritic shingle and pebble beaches.
+A bird that is often seen in the other marine oceanic shingle and pebble beaches.
+A bird that is often seen in the other marine deep benthic shingle and pebble beaches.
+A bird that is often seen in the other marine pelagic shingle and pebble beaches.
+A bird that is often seen in the other marine bathypelagic shingle and pebble beaches.
+A bird that is often seen in the other marine abyssopelagic shingle and pebble beaches.
+A bird that is often seen in the other marine hadopelagic shingle and pebble beaches.
+A bird that is often seen in the other marine benthopelagic shingle and pebble beaches.
+A bird that is often seen in the other marine mesopelagic shingle and pebble beaches.
+A bird that is often seen in the other marine epipelagic shingle and pebble beaches.
+A bird that is often seen in the other marine littoral shingle and pebble beaches.
+A bird that is often seen in the other marine sublittoral shingle and pebble beaches.
+A bird that is often seen in the other marine bathyal shingle and pebble beaches.
+A bird that is often seen in the other marine abyssal shingle and pebble beaches.
+A bird that is often seen in the other marine hadal shingle and pebble beaches.
+A bird that is often seen in the other marine intertidal rocky shores.
+A bird that is often seen in the other marine neritic rocky shores.
+A bird that is often seen in the other marine oceanic rocky shores.
+A bird that is often seen in the other marine deep benthic rocky shores.
+A bird that is often seen in the other marine pelagic rocky shores.
+A bird that is often seen in the other marine bathypelagic rocky shores.
+A bird that is often seen in the other marine abyssopelagic rocky shores.
+A bird that is often seen in the other marine hadopelagic rocky shores.
+A bird that is often seen in the other marine benthopelagic rocky shores.
+A bird that is often seen in the other marine mesopelagic rocky shores.
+A bird that is often seen in the other marine epipelagic rocky shores.
+A bird that is often seen in the other marine littoral rocky shores.
+A bird that is often seen in the other marine sublittoral rocky shores.
+A bird that is often seen in the other marine bathyal rocky shores.
+A bird that is often seen in the other marine abyssal rocky shores.
+A bird that is often seen in the other marine hadal rocky shores.
+A bird that is often seen in the other marine intertidal salt marshes.
+A bird that is often seen in the other marine neritic salt marshes.
+A bird that is often seen in the other marine oceanic salt marshes.
+A bird that is often seen in the other marine deep benthic salt marshes.
+A bird that is often seen in the other marine pelagic salt marshes.
+A bird that is often seen in the other marine bathypelagic salt marshes.
+A bird that is often seen in the other marine abyssopelagic salt marshes.
+A bird that is often seen in the other marine hadopelagic salt marshes.
+A bird that is often seen in the other marine benthopelagic salt marshes.
+A bird that is often seen in the other marine mesopelagic salt marshes.
+A bird that is often seen in the other marine epipelagic salt marshes.
+A bird that is often seen in the other marine littoral salt marshes.
+A bird that is often seen in the other marine sublittoral salt marshes.
+A bird that is often seen in the other marine bathyal salt marshes.
+A bird that is often seen in the other marine abyssal salt marshes.
+A bird that is often seen in the other marine hadal salt marshes.
+A bird that is often seen in the other marine intertidal mud flats.
+A bird that is often seen in the other marine neritic mud flats.
+A bird that is often seen in the other marine oceanic mud flats.
+A bird that is often seen in the other marine deep benthic mud flats.
+A bird that is often seen in the other marine pelagic mud flats.
+A bird that is often seen in the other marine bathypelagic mud flats.
+A bird that is often seen in the other marine abyssopelagic mud flats.
+A bird that is often seen in the other marine hadopelagic mud flats.
+A bird that is often seen in the other marine benthopelagic mud flats.
+A bird that is often seen in the other marine mesopelagic mud flats.
+A bird that is often seen in the other marine epipelagic mud flats.
+A bird that is often seen in the other marine littoral mud flats.
+A bird that is often seen in the other marine sublittoral mud flats.
+A bird that is often seen in the other marine bathyal mud flats.
+A bird that is often seen in the other marine abyssal mud flats.
+A bird that is often seen in the other marine hadal mud flats.
+A bird that is often seen in the other marine intertidal sand flats.
+A bird that is often seen in the other marine neritic sand flats.
+A bird that is often seen in the other marine oceanic sand flats.
+A bird that is often seen in the other marine deep benthic sand flats.
+A bird that is often seen in the other marine pelagic sand flats.
+A bird that is often seen in the other marine bathypelagic sand flats.
+A bird that is often seen in the other marine abyssopelagic sand flats.
+A bird that is often seen in the other marine hadopelagic sand flats.
+A bird that is often seen in the other marine benthopelagic sand flats.
+A bird that is often seen in the other marine mesopelagic sand flats.
+A bird that is often seen in the other marine epipelagic sand flats.
+A bird that is often seen in the other marine littoral sand flats.
+A bird that is often seen in the other marine sublittoral sand flats.
+A bird that is often seen in the other marine bathyal sand flats.
+A bird that is often seen in the other marine abyssal sand flats.
+A bird that is often seen in the other marine hadal sand flats.

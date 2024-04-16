@@ -1,0 +1,18 @@
+An object which has a hard, segmented body covered in a shell or exoskeleton.
+An object which has a pair of large, front claws.
+An object which has a long, narrow body with a pointed tail.
+An object which has two pairs of sensory antennae.
+An object which has a pair of eyes on stalks.
+An object which has five pairs of legs.
+An object which has a tail fan, consisting of a central telson and uropods on either side.
+An object which has a distinct cephalothorax, where the head and thorax are fused together.
+An object which has a color that varies from brown to green or blue, depending on the species.
+An object which has a pair of pincers that are used for catching food, fighting, and digging.
+An object which has a set of walking legs that are used for locomotion on the bottom of bodies of water.
+An object which has a set of swimmerets, small appendages on the underside of the abdomen, used for swimming and carrying eggs in females.
+An object which has a set of maxillipeds, appendages near the mouth, used for tasting and handling food.
+An object which has a size that can range from a few centimeters to over a foot long, depending on the species.
+An object which has a body that can contract and extend, allowing for quick backward movement in water.
+An object which has a life cycle that includes stages of egg, juvenile, and adult.
+An object which has a body that can regenerate lost limbs or claws.
+An object which has a body that molts, or sheds its exoskeleton, as it grows.

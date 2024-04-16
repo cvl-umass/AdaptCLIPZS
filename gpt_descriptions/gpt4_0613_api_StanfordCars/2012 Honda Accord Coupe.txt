@@ -1,0 +1,50 @@
+A car with a sleek, two-door design.
+A car with a distinctive front grille featuring the Honda emblem.
+A car with angular headlights that are slightly swept back.
+A car with a long hood and a short rear deck.
+A car with a body-colored rear spoiler.
+A car with dual exhaust outlets.
+A car with 17-inch alloy wheels.
+A car with a sunroof.
+A car with body-colored power side mirrors.
+A car with chrome door handles.
+A car with a rear window defroster.
+A car with a compact spare tire.
+A car with projector-beam halogen headlights.
+A car with LED brake lights.
+A car with a body-colored impact-absorbing front and rear bumpers.
+A car with a security system with remote entry and trunk release.
+A car with a 6-speaker audio system.
+A car with a leather-wrapped steering wheel.
+A car with a 5-speed automatic transmission.
+A car with a 2.4L DOHC i-VTEC 4-cylinder engine.
+A car with a fuel economy of 23 city/32 highway mpg.
+A car with a seating capacity of 5 passengers.
+A car with a multi-angle rearview camera.
+A car with dual-zone automatic climate control.
+A car with a push-button ignition.
+A car with a 160-watt AM/FM/CD audio system.
+A car with a 6-disc in-dash CD changer.
+A car with a USB audio interface.
+A car with a Bluetooth HandsFreeLink.
+A car with a cruise control.
+A car with an illuminated steering wheel-mounted audio and cruise controls.
+A car with a tilt and telescopic steering column.
+A car with a center console with sliding armrest and storage compartments.
+A car with a maintenance minder system.
+A car with a map light.
+A car with a remote fuel filler door release.
+A car with a remote trunk release with lock.
+A car with a dual-stage, multiple-threshold front airbags (SRS).
+A car with a side curtain airbags with rollover sensor.
+A car with a vehicle stability assist (VSA) with traction control.
+A car with an anti-lock braking system (ABS).
+A car with an electronic brake distribution (EBD).
+A car with a tire pressure monitoring system (TPMS).
+A car with a daytime running lights (DRL).
+A car with a side-impact door beams.
+A car with a lower anchors and tethers for children (LATCH).
+A car with a child-proof rear door locks.
+A car with an emergency trunk release.
+A car with a immobilizer theft-deterrent system.
+A car with a front 3-point seat belts with automatic tensioning system.

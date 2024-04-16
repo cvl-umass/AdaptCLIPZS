@@ -1,0 +1,20 @@
+An object which has a cone or dome-shaped diaphragm.
+An object which has a circular or oval shape, often covered by a protective grille.
+An object which has a magnet and voice coil visible at the back.
+An object which has a frame or basket to hold all components together.
+An object which has terminals or wires for electrical connection.
+An object which has a suspension system, including the 'spider' and 'surround'.
+An object which may have multiple drivers, such as tweeters, midranges, and woofers.
+An object which may be housed in a box or cabinet for standalone speakers.
+An object which may be part of a larger system, such as a stereo or home theater system.
+An object which may have branding or model information on the front or back.
+An object which may have adjustable knobs or buttons for volume or tone control.
+An object which may be mounted on a stand or bracket.
+An object which may be designed to be portable, with handles or wheels.
+An object which may have a protective foam or rubber edge around the speaker cone.
+An object which may have a dust cap in the center of the cone.
+An object which may be designed for specific environments, such as waterproof speakers for outdoor use.
+An object which may have a specific color or design pattern to match home decor.
+An object which may have a specific size, from small desktop speakers to large floor-standing models.
+An object which may have a specific shape, from traditional boxy designs to modern, sleek styles.
+An object which may have a specific orientation, designed to be placed horizontally or vertically.

@@ -1,0 +1,15 @@
+An object which has a series of wooden bars arranged in a similar fashion to a piano keyboard.
+An object which has resonators or pipes beneath the bars to amplify the sound.
+An object which comes with a set of mallets, typically with a rubber, yarn, or cord head.
+An object which has a frame that can be either stationary or on wheels for easy movement.
+An object which has bars that are typically made of rosewood, but can also be made from synthetic materials.
+An object which has bars that are wider and longer at the low end, and narrower and shorter at the high end.
+An object which has a range that usually spans 4 to 5 octaves.
+An object which has a layout where the accidentals (black keys on a piano) are raised and arranged in a separate row, similar to a piano.
+An object which has resonators often with a mitered or bent end to scatter the sound.
+An object which may have a damper bar, used to stop the sound of the bars.
+An object which may have a pedal similar to a piano to sustain the sound.
+An object which is often played with two to four mallets, held in the hands of the player.
+An object which produces a warm, resonant sound when the bars are struck with mallets.
+An object which is often seen in both orchestral and solo performances.
+An object which is larger in size compared to other members of the percussion family.

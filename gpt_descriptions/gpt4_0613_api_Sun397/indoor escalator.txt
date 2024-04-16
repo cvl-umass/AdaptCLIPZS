@@ -1,0 +1,15 @@
+A scene which features a set of moving stairs.
+A scene which includes handrails on either side of the moving stairs.
+A scene which displays a mechanical structure with steps that continuously move in a loop.
+A scene which shows people standing or moving upwards or downwards without walking.
+A scene which has signage indicating 'up' or 'down' direction.
+A scene which presents a structure typically found in shopping malls, airports, or subway stations.
+A scene which exhibits a large metal structure with grooves and steps.
+A scene which portrays a space with artificial lighting, indicating an indoor setting.
+A scene which shows a mechanism that assists in vertical transportation.
+A scene which includes emergency stop buttons or safety instructions.
+A scene which displays a flat platform at the top and bottom of the moving stairs.
+A scene which shows people holding onto the moving handrails.
+A scene which features a structure that is often accompanied by elevators or stairs.
+A scene which presents a structure that is usually made of metal and glass.
+A scene which includes a reflection of light on the metallic parts of the structure.

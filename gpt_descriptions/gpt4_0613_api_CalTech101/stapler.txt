@@ -1,0 +1,20 @@
+An object which has a rectangular or block-like shape.
+An object which has a metal or plastic body.
+An object which has a hinged, lever-like component on top.
+An object which has a slot or opening for inserting paper.
+An object which has a compartment for storing staples.
+An object which has a spring mechanism for pushing staples forward.
+An object which has a rubber base for grip and stability.
+An object which has a small rectangular opening at the front end.
+An object which has a push-down mechanism on one end.
+An object which has a metal rod or plate that pushes the staple through the paper.
+An object which has a release button or latch to open and refill staples.
+An object which is typically found in an office or school environment.
+An object which is often paired with a staple remover.
+An object which is used to bind together papers or documents.
+An object which leaves two pronged metal pieces in the paper after use.
+An object which can be handheld and manually operated.
+An object which may have a rotating anvil to switch between stapling and pinning.
+An object which may come in various sizes, from mini staplers to heavy-duty ones.
+An object which may have a safety lock mechanism.
+An object which may have a staple storage indicator.

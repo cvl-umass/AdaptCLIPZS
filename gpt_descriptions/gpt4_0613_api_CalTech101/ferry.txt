@@ -1,0 +1,20 @@
+An object which has a large, flat deck for vehicles and passengers.
+An object which is equipped with ramps to allow vehicles to be driven on and off.
+An object which has multiple levels or decks for passenger seating.
+An object which is designed to float on water and is larger than a typical boat.
+An object which has lifeboats attached to its sides.
+An object which has a pilot house or bridge on the top deck.
+An object which has a large hull to provide buoyancy.
+An object which has a propeller and rudder for navigation.
+An object which has a chimney or funnel for engine exhaust.
+An object which has docking areas at the front and rear.
+An object which has safety railings around the edges of the passenger decks.
+An object which has large windows for passengers to view the surroundings.
+An object which has navigation lights and antennas on the top.
+An object which has a wide beam to accommodate large numbers of passengers or vehicles.
+An object which has a draft mark indicating the maximum depth it can safely navigate.
+An object which has a distinct color scheme or company logo.
+An object which has a wake of water behind it, indicating movement.
+An object which has life preservers and other safety equipment visible.
+An object which has seating arrangements both inside and outside.
+An object which has a ticket booth or boarding gate at the entrance.

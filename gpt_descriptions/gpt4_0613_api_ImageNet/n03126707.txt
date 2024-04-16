@@ -1,0 +1,15 @@
+An object which has a long, vertical tower or mast.
+An object which has a horizontal jib or boom that extends outward.
+An object which has a hook, bucket, or other lifting device hanging from the end of the boom.
+An object which has a rotating base or turntable allowing for 360-degree movement.
+An object which has a control cabin or operator's cab, often located at the top of the tower.
+An object which has a counterweight at the back of the machine to balance the weight of the load.
+An object which has large, sturdy wheels or tracks for mobility.
+An object which has steel cables or hydraulic systems for lifting and lowering loads.
+An object which is often seen at construction sites, docks, or other industrial areas.
+An object which is significantly taller than the surrounding structures or machinery.
+An object which may have warning lights or flags at the top for visibility.
+An object which may have outriggers extended horizontally from the base to stabilize the crane while lifting heavy loads.
+An object which may have a telescopic boom that can be extended or retracted.
+An object which may have a lattice structure on the boom for added strength.
+An object which is capable of lifting and moving heavy objects from one place to another.

@@ -1,0 +1,18 @@
+An object which has a handle at one end.
+An object which has a shaft extending from the handle.
+An object which has a tip at the end of the shaft.
+An object where the handle is typically made of plastic or wood.
+An object where the shaft and tip are typically made of tough metal.
+An object where the tip is flat or cross-shaped for standard types.
+An object where the tip is designed to fit into corresponding screw heads.
+An object which is used for turning screws with slotted heads.
+An object where the shaft is often cylindrical and does not taper.
+An object where the handle is designed to be held by hand comfortably.
+An object where the handle may have a hole or loop at the end for hanging.
+An object which may have a ratchet mechanism to allow effective clockwise and anti-clockwise movement.
+An object where the tip can be magnetic to hold the screw in place.
+An object which comes in various sizes to fit different sizes of screws.
+An object where the shaft may be insulated for electrical work.
+An object which may have interchangeable tips for different types of screws.
+An object which is a common tool in toolboxes and workshops.
+An object which is often used in assembly, maintenance, and repair tasks.

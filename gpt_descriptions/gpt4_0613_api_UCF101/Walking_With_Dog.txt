@@ -1,0 +1,11 @@
+An action which involves a person and a dog in the same frame.
+An action where the person and the dog are both in motion.
+An action where the person is holding a leash that is attached to the dog.
+An action where the person's and the dog's body language suggests forward movement.
+An action where the person is dressed in casual or outdoor attire, suitable for a walk.
+An action where the surroundings suggest a typical walking area, such as a park, a street, or a trail.
+An action where the person's gaze is directed forward, indicating they are leading the way.
+An action where the dog's gaze is also directed forward, indicating they are following the person.
+An action where the person's other hand may be carrying items related to dog walking, such as a bag for dog waste or a water bottle.
+An action where the person's posture is upright, indicating they are walking and not sitting or standing still.
+An action where the dog's tail is up and wagging, indicating they are active and engaged.

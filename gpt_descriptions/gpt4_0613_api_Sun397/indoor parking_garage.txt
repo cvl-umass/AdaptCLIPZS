@@ -1,0 +1,15 @@
+A scene which features multiple rows of parked cars in a covered, enclosed space.
+A scene which includes painted lines or symbols on the ground to designate parking spaces.
+A scene which displays artificial lighting, such as fluorescent or LED lights, illuminating the area.
+A scene which shows concrete pillars or columns for structural support.
+A scene which contains signage indicating parking rules, directions, or floor levels.
+A scene which presents a ticket booth or automated ticket machine at the entrance or exit.
+A scene which exhibits a lack of natural light, indicating an indoor or underground location.
+A scene which portrays ventilation systems or pipes running along the ceiling.
+A scene which depicts pedestrian walkways marked out between rows of cars.
+A scene which reveals security cameras or other surveillance equipment.
+A scene which demonstrates a high ceiling to accommodate larger vehicles.
+A scene which displays ramps or sloping floors for cars to move between levels.
+A scene which includes emergency exits or fire safety equipment.
+A scene which shows vehicles parked in a parallel or perpendicular manner.
+A scene which features directional arrows painted on the ground or posted on signs.

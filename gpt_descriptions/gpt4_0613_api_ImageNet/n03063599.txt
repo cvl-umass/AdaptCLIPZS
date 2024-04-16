@@ -1,0 +1,20 @@
+An object which has a handle on one side.
+An object which is typically cylindrical in shape.
+An object which is often made of ceramic, porcelain, or glass.
+An object which has a flat bottom.
+An object which may have a lid or cover.
+An object which may have a design, logo, or text printed on its surface.
+An object which is usually small enough to be held in one hand.
+An object which has a rim around the top edge.
+An object which is hollow and can contain liquids.
+An object which may have a glossy or matte finish.
+An object which may be single-colored or multi-colored.
+An object which may have a round or square handle.
+An object which may be microwave and dishwasher safe.
+An object which may have a certain weight, typically not too heavy to lift with one hand.
+An object which may have a certain capacity, typically enough to hold a serving of coffee or tea.
+An object which may have a certain height, typically not too tall to fit under a coffee machine.
+An object which may have a certain width, typically wide enough to sip from comfortably.
+An object which may have a smooth or textured surface.
+An object which may be heat-resistant.
+An object which may have a certain thickness, typically thick enough to insulate the heat of the liquid inside.

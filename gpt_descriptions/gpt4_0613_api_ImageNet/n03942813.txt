@@ -1,0 +1,16 @@
+An object which is spherical in shape.
+An object which is typically white or orange in color.
+An object which has a matte or non-reflective surface.
+An object which is small, approximately 40mm in diameter.
+An object which appears lightweight in the image.
+An object which may have a faint seam line around its circumference.
+An object which may have a logo or brand name printed on it.
+An object which is often associated with or seen near table tennis equipment.
+An object which may appear hollow or empty inside if cut or broken.
+An object which may show a slight bounce if pictured in motion.
+An object which may appear in multiples, as they are often sold and used in sets.
+An object which may be pictured in a plastic or cardboard packaging if new.
+An object which may show signs of wear or damage, such as dents or scratches, if used.
+An object which may be seen in a variety of settings, but most commonly in recreational or sports environments.
+An object which may be seen in the hands of a person, indicating its small size.
+An object which may be seen on a flat surface, indicating its ability to rest without rolling.

@@ -1,0 +1,17 @@
+An object which has a large, flared horn for sound projection.
+An object which features a turntable or disc platter where the record is placed.
+An object which has a stylus or needle designed to read the grooves of a record.
+An object which includes a crank handle for manual operation.
+An object which has a tonearm that holds the needle and can be moved across the record.
+An object which often has a wooden base or cabinet.
+An object which may have decorative elements, such as ornate carvings or metalwork.
+An object which may have a lid or cover to protect the turntable and record.
+An object which may have a speed control lever to adjust the speed of the record's rotation.
+An object which may have a volume control, often in the form of a small door on the horn.
+An object which may have a record storage compartment built into the base or cabinet.
+An object which may have a manufacturer's logo or brand name displayed prominently.
+An object which may have a metal or wooden arm that supports the horn.
+An object which may have a brake lever to stop the turntable's rotation.
+An object which may have a winding key slot for mechanical models.
+An object which may have a sound box or reproducer, the part that holds the needle and is attached to the tonearm.
+An object which may have a rubber mat on the turntable to protect the record and reduce slippage.

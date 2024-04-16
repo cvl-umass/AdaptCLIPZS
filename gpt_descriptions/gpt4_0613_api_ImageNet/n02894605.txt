@@ -1,0 +1,20 @@
+An object which extends from the shore into the water body.
+An object which is made of large rocks, concrete, or other heavy materials.
+An object which is designed to interrupt water flow and limit the movement of sediment.
+An object which is often perpendicular to the shore.
+An object which is usually long and narrow.
+An object which may have a lighthouse or navigation aid at its end.
+An object which is often found at the entrances of harbors or marinas.
+An object which can be straight, curved, or angular in shape.
+An object which may have a walkway or path on top for pedestrians.
+An object which is typically larger and more robust than a simple pier.
+An object which may show signs of weathering or erosion due to constant exposure to water and wind.
+An object which may have waves breaking against it.
+An object which may be partially submerged during high tide.
+An object which may have marine life such as barnacles, seaweed, or mussels attached to it.
+An object which may have people fishing or walking on it.
+An object which may be accompanied by a beach on one side.
+An object which may have a series of similar structures nearby, forming a pattern.
+An object which may have boats or ships nearby, indicating its use for navigation or docking.
+An object which may be visible on a coastline or riverbank in aerial or satellite images.
+An object which may have a protective function, indicated by its placement relative to other coastal structures or features.

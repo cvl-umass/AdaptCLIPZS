@@ -1,0 +1,20 @@
+An object which has a reflective surface.
+An object which is typically oval or rectangular in shape.
+An object which is often encased in a plastic or metal frame.
+An object which may have a pivot or swivel point for adjustment.
+An object which may have a convex or flat surface.
+An object which may have a heating element visible on the back for defrosting.
+An object which may have a control switch or knob attached for adjustments.
+An object which may be attached to a car door or fender.
+An object which may have a turn signal light integrated into it.
+An object which may have a blind spot detection symbol.
+An object which may be attached to the interior of the car, above the dashboard.
+An object which may have an automatic dimming feature.
+An object which may have a manual lever underneath for night mode.
+An object which may have a small secondary mirror for blind spot viewing.
+An object which may have a logo or brand name of the car manufacturer.
+An object which may have a power cord or wiring harness attached.
+An object which may have a rubber or foam seal around the edge.
+An object which may have a mounting bracket or base for installation.
+An object which may have a plastic or glass cover over the mirror.
+An object which may have a tinted or anti-glare coating.

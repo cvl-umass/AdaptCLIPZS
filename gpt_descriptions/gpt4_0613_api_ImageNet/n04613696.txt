@@ -1,0 +1,17 @@
+An object which has a circular shape when viewed from above.
+An object which has a conical or dome-like roof, often with a central opening for ventilation.
+An object which is covered with a heavy fabric or skins for insulation.
+An object which has a wooden lattice framework forming the walls.
+An object which has a door, usually made of wood and often ornately decorated.
+An object which has a smoke hole at the center of the roof that can be covered or uncovered.
+An object which may have windows or not, but if present, they are usually small and few.
+An object which is portable and can be dismantled and reassembled.
+An object which has an interior that is often divided into a living area and a cooking area.
+An object which may have decorative elements on the exterior, such as traditional motifs or symbols.
+An object which is typically found in Central Asian countries, especially Mongolia.
+An object which is often surrounded by a fence made of wooden stakes, if in a traditional setting.
+An object which may have additional structures attached, like a porch or storage area.
+An object which is traditionally used by nomadic cultures.
+An object which may have a stove or hearth in the center for heating and cooking.
+An object which may have furniture and household items arranged around the edges, leaving the center open.
+An object which may have rugs or carpets on the floor for insulation and comfort.

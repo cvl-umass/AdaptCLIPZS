@@ -1,0 +1,15 @@
+An object which has a pear-shaped head with a distinct topknot of curly hair.
+An object which has almond-shaped eyes that are deep-set and small.
+An object which has low-set ears that are triangular and hang flat to the sides of the head.
+An object which has a body that is slightly longer than it is tall.
+An object which has a thick double coat that is curly and woolly in texture.
+An object which has a coat that can be blue, sandy, liver, blue and tan, sandy and tan, or liver and tan.
+An object which has a tail that is thick at the base and tapers to a point.
+An object which has a graceful, lithe gait.
+An object which has a muscular, yet slender build.
+An object which has a narrow chest and a deep brisket.
+An object which has a back that arches over the loin and narrows towards the tail.
+An object which has a distinctive lamb-like appearance.
+An object which has a height that ranges from 15 to 17.5 inches at the shoulder.
+An object which has a weight that ranges from 17 to 23 pounds.
+An object which has a unique trim that accentuates its arched back and sleek lines.

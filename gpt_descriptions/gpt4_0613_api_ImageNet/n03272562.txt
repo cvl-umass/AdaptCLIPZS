@@ -1,0 +1,20 @@
+An object which has a streamlined shape, designed for high-speed travel.
+An object which has pantographs on top, used to draw power from overhead lines.
+An object which has large, heavy-duty wheels designed for rail travel.
+An object which has a driver's cabin at one or both ends.
+An object which has multiple large windows at the front for visibility.
+An object which has a series of connected, rectangular body sections.
+An object which has a number plate or identification markings on the side or front.
+An object which has a series of vents or grilles, often on the sides, for cooling electrical components.
+An object which has couplers at both ends for connecting to other rail vehicles.
+An object which has a distinct livery or paint scheme, often indicative of a specific railway company.
+An object which has headlights and taillights for visibility.
+An object which has safety features such as horns and mirrors.
+An object which has a robust, heavy-duty construction to withstand the rigors of rail travel.
+An object which has electrical equipment boxes or compartments, often visible on the undercarriage or sides.
+An object which has a high ground clearance, indicative of a rail vehicle.
+An object which has a large size and length, often much larger than a typical road vehicle.
+An object which has a lack of steering wheel or typical road vehicle controls, as it is guided by rails.
+An object which has a series of steps or ladders for crew access.
+An object which has a lack of exhaust pipe, as it does not burn fuel for propulsion.
+An object which has a lack of tires, as it travels on steel wheels on rails.

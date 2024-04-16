@@ -1,0 +1,570 @@
+A bird with a small size, typically measuring between 4.5 to 5.5 inches in length.
+A bird with a relatively long tail for its size.
+A bird with a pale grayish-brown body.
+A bird with a slightly streaked back.
+A bird with a plain, unmarked grayish-brown chest and belly.
+A bird with a small, pale bill.
+A bird with a faint, thin eye-ring.
+A bird with a pale grayish-brown head with fine streaking.
+A bird with a slightly peaked or rounded crown.
+A bird with a short, narrow, notched tail.
+A bird with a white throat.
+A bird with a short, straight, sharp beak.
+A bird with a light-colored lower mandible.
+A bird with a brown upper mandible.
+A bird with a faint, thin, white eye-ring.
+A bird with a light-colored line extending from the beak to beyond the eye.
+A bird with a light-colored eyebrow stripe.
+A bird with a light-colored line behind the eye.
+A bird with a light-colored line below the eye.
+A bird with a light-colored line on the cheek.
+A bird with a light-colored line on the throat.
+A bird with a light-colored line on the chest.
+A bird with a light-colored line on the belly.
+A bird with a light-colored line on the flanks.
+A bird with a light-colored line on the undertail coverts.
+A bird with a light-colored line on the upperwing coverts.
+A bird with a light-colored line on the flight feathers.
+A bird with a light-colored line on the tail feathers.
+A bird with a light-colored line on the legs and feet.
+A bird with a light-colored line on the toes.
+A bird with a light-colored line on the claws.
+A bird with a light-colored line on the beak.
+A bird with a light-colored line on the nostrils.
+A bird with a light-colored line on the eye.
+A bird with a light-colored line on the ear coverts.
+A bird with a light-colored line on the nape.
+A bird with a light-colored line on the back.
+A bird with a light-colored line on the rump.
+A bird with a light-colored line on the upper tail coverts.
+A bird with a light-colored line on the tail.
+A bird with a light-colored line on the wings.
+A bird with a light-colored line on the primaries.
+A bird with a light-colored line on the secondaries.
+A bird with a light-colored line on the tertials.
+A bird with a light-colored line on the scapulars.
+A bird with a light-colored line on the coverts.
+A bird with a light-colored line on the alula.
+A bird with a light-colored line on the greater coverts.
+A bird with a light-colored line on the median coverts.
+A bird with a light-colored line on the lesser coverts.
+A bird with a light-colored line on the marginal coverts.
+A bird with a light-colored line on the carpal coverts.
+A bird with a light-colored line on the primary coverts.
+A bird with a light-colored line on the secondary coverts.
+A bird with a light-colored line on the tertial coverts.
+A bird with a light-colored line on the underwing coverts.
+A bird with a light-colored line on the axillaries.
+A bird with a light-colored line on the underwing.
+A bird with a light-colored line on the under tail.
+A bird with a light-colored line on the vent.
+A bird with a light-colored line on the undertail coverts.
+A bird with a light-colored line on the flanks.
+A bird with a light-colored line on the belly.
+A bird with a light-colored line on the chest.
+A bird with a light-colored line on the throat.
+A bird with a light-colored line on the chin.
+A bird with a light-colored line on the forehead.
+A bird with a light-colored line on the crown.
+A bird with a light-colored line on the nape.
+A bird with a light-colored line on the back.
+A bird with a light-colored line on the rump.
+A bird with a light-colored line on the upper tail coverts.
+A bird with a light-colored line on the tail.
+A bird with a light-colored line on the wings.
+A bird with a light-colored line on the primaries.
+A bird with a light-colored line on the secondaries.
+A bird with a light-colored line on the tertials.
+A bird with a light-colored line on the scapulars.
+A bird with a light-colored line on the coverts.
+A bird with a light-colored line on the alula.
+A bird with a light-colored line on the greater coverts.
+A bird with a light-colored line on the median coverts.
+A bird with a light-colored line on the lesser coverts.
+A bird with a light-colored line on the marginal coverts.
+A bird with a light-colored line on the carpal coverts.
+A bird with a light-colored line on the primary coverts.
+A bird with a light-colored line on the secondary coverts.
+A bird with a light-colored line on the tertial coverts.
+A bird with a light-colored line on the underwing coverts.
+A bird with a light-colored line on the axillaries.
+A bird with a light-colored line on the underwing.
+A bird with a light-colored line on the under tail.
+A bird with a light-colored line on the vent.
+A bird with a light-colored line on the undertail coverts.
+A bird with a light-colored line on the flanks.
+A bird with a light-colored line on the belly.
+A bird with a light-colored line on the chest.
+A bird with a light-colored line on the throat.
+A bird with a light-colored line on the chin.
+A bird with a light-colored line on the forehead.
+A bird with a light-colored line on the crown.
+A bird with a light-colored line on the nape.
+A bird with a light-colored line on the back.
+A bird with a light-colored line on the rump.
+A bird with a light-colored line on the upper tail coverts.
+A bird with a light-colored line on the tail.
+A bird with a light-colored line on the wings.
+A bird with a light-colored line on the primaries.
+A bird with a light-colored line on the secondaries.
+A bird with a light-colored line on the tertials.
+A bird with a light-colored line on the scapulars.
+A bird with a light-colored line on the coverts.
+A bird with a light-colored line on the alula.
+A bird with a light-colored line on the greater coverts.
+A bird with a light-colored line on the median coverts.
+A bird with a light-colored line on the lesser coverts.
+A bird with a light-colored line on the marginal coverts.
+A bird with a light-colored line on the carpal coverts.
+A bird with a light-colored line on the primary coverts.
+A bird with a light-colored line on the secondary coverts.
+A bird with a light-colored line on the tertial coverts.
+A bird with a light-colored line on the underwing coverts.
+A bird with a light-colored line on the axillaries.
+A bird with a light-colored line on the underwing.
+A bird with a light-colored line on the under tail.
+A bird with a light-colored line on the vent.
+A bird with a light-colored line on the undertail coverts.
+A bird with a light-colored line on the flanks.
+A bird with a light-colored line on the belly.
+A bird with a light-colored line on the chest.
+A bird with a light-colored line on the throat.
+A bird with a light-colored line on the chin.
+A bird with a light-colored line on the forehead.
+A bird with a light-colored line on the crown.
+A bird with a light-colored line on the nape.
+A bird with a light-colored line on the back.
+A bird with a light-colored line on the rump.
+A bird with a light-colored line on the upper tail coverts.
+A bird with a light-colored line on the tail.
+A bird with a light-colored line on the wings.
+A bird with a light-colored line on the primaries.
+A bird with a light-colored line on the secondaries.
+A bird with a light-colored line on the tertials.
+A bird with a light-colored line on the scapulars.
+A bird with a light-colored line on the coverts.
+A bird with a light-colored line on the alula.
+A bird with a light-colored line on the greater coverts.
+A bird with a light-colored line on the median coverts.
+A bird with a light-colored line on the lesser coverts.
+A bird with a light-colored line on the marginal coverts.
+A bird with a light-colored line on the carpal coverts.
+A bird with a light-colored line on the primary coverts.
+A bird with a light-colored line on the secondary coverts.
+A bird with a light-colored line on the tertial coverts.
+A bird with a light-colored line on the underwing coverts.
+A bird with a light-colored line on the axillaries.
+A bird with a light-colored line on the underwing.
+A bird with a light-colored line on the under tail.
+A bird with a light-colored line on the vent.
+A bird with a light-colored line on the undertail coverts.
+A bird with a light-colored line on the flanks.
+A bird with a light-colored line on the belly.
+A bird with a light-colored line on the chest.
+A bird with a light-colored line on the throat.
+A bird with a light-colored line on the chin.
+A bird with a light-colored line on the forehead.
+A bird with a light-colored line on the crown.
+A bird with a light-colored line on the nape.
+A bird with a light-colored line on the back.
+A bird with a light-colored line on the rump.
+A bird with a light-colored line on the upper tail coverts.
+A bird with a light-colored line on the tail.
+A bird with a light-colored line on the wings.
+A bird with a light-colored line on the primaries.
+A bird with a light-colored line on the secondaries.
+A bird with a light-colored line on the tertials.
+A bird with a light-colored line on the scapulars.
+A bird with a light-colored line on the coverts.
+A bird with a light-colored line on the alula.
+A bird with a light-colored line on the greater coverts.
+A bird with a light-colored line on the median coverts.
+A bird with a light-colored line on the lesser coverts.
+A bird with a light-colored line on the marginal coverts.
+A bird with a light-colored line on the carpal coverts.
+A bird with a light-colored line on the primary coverts.
+A bird with a light-colored line on the secondary coverts.
+A bird with a light-colored line on the tertial coverts.
+A bird with a light-colored line on the underwing coverts.
+A bird with a light-colored line on the axillaries.
+A bird with a light-colored line on the underwing.
+A bird with a light-colored line on the under tail.
+A bird with a light-colored line on the vent.
+A bird with a light-colored line on the undertail coverts.
+A bird with a light-colored line on the flanks.
+A bird with a light-colored line on the belly.
+A bird with a light-colored line on the chest.
+A bird with a light-colored line on the throat.
+A bird with a light-colored line on the chin.
+A bird with a light-colored line on the forehead.
+A bird with a light-colored line on the crown.
+A bird with a light-colored line on the nape.
+A bird with a light-colored line on the back.
+A bird with a light-colored line on the rump.
+A bird with a light-colored line on the upper tail coverts.
+A bird with a light-colored line on the tail.
+A bird with a light-colored line on the wings.
+A bird with a light-colored line on the primaries.
+A bird with a light-colored line on the secondaries.
+A bird with a light-colored line on the tertials.
+A bird with a light-colored line on the scapulars.
+A bird with a light-colored line on the coverts.
+A bird with a light-colored line on the alula.
+A bird with a light-colored line on the greater coverts.
+A bird with a light-colored line on the median coverts.
+A bird with a light-colored line on the lesser coverts.
+A bird with a light-colored line on the marginal coverts.
+A bird with a light-colored line on the carpal coverts.
+A bird with a light-colored line on the primary coverts.
+A bird with a light-colored line on the secondary coverts.
+A bird with a light-colored line on the tertial coverts.
+A bird with a light-colored line on the underwing coverts.
+A bird with a light-colored line on the axillaries.
+A bird with a light-colored line on the underwing.
+A bird with a light-colored line on the under tail.
+A bird with a light-colored line on the vent.
+A bird with a light-colored line on the undertail coverts.
+A bird with a light-colored line on the flanks.
+A bird with a light-colored line on the belly.
+A bird with a light-colored line on the chest.
+A bird with a light-colored line on the throat.
+A bird with a light-colored line on the chin.
+A bird with a light-colored line on the forehead.
+A bird with a light-colored line on the crown.
+A bird with a light-colored line on the nape.
+A bird with a light-colored line on the back.
+A bird with a light-colored line on the rump.
+A bird with a light-colored line on the upper tail coverts.
+A bird with a light-colored line on the tail.
+A bird with a light-colored line on the wings.
+A bird with a light-colored line on the primaries.
+A bird with a light-colored line on the secondaries.
+A bird with a light-colored line on the tertials.
+A bird with a light-colored line on the scapulars.
+A bird with a light-colored line on the coverts.
+A bird with a light-colored line on the alula.
+A bird with a light-colored line on the greater coverts.
+A bird with a light-colored line on the median coverts.
+A bird with a light-colored line on the lesser coverts.
+A bird with a light-colored line on the marginal coverts.
+A bird with a light-colored line on the carpal coverts.
+A bird with a light-colored line on the primary coverts.
+A bird with a light-colored line on the secondary coverts.
+A bird with a light-colored line on the tertial coverts.
+A bird with a light-colored line on the underwing coverts.
+A bird with a light-colored line on the axillaries.
+A bird with a light-colored line on the underwing.
+A bird with a light-colored line on the under tail.
+A bird with a light-colored line on the vent.
+A bird with a light-colored line on the undertail coverts.
+A bird with a light-colored line on the flanks.
+A bird with a light-colored line on the belly.
+A bird with a light-colored line on the chest.
+A bird with a light-colored line on the throat.
+A bird with a light-colored line on the chin.
+A bird with a light-colored line on the forehead.
+A bird with a light-colored line on the crown.
+A bird with a light-colored line on the nape.
+A bird with a light-colored line on the back.
+A bird with a light-colored line on the rump.
+A bird with a light-colored line on the upper tail coverts.
+A bird with a light-colored line on the tail.
+A bird with a light-colored line on the wings.
+A bird with a light-colored line on the primaries.
+A bird with a light-colored line on the secondaries.
+A bird with a light-colored line on the tertials.
+A bird with a light-colored line on the scapulars.
+A bird with a light-colored line on the coverts.
+A bird with a light-colored line on the alula.
+A bird with a light-colored line on the greater coverts.
+A bird with a light-colored line on the median coverts.
+A bird with a light-colored line on the lesser coverts.
+A bird with a light-colored line on the marginal coverts.
+A bird with a light-colored line on the carpal coverts.
+A bird with a light-colored line on the primary coverts.
+A bird with a light-colored line on the secondary coverts.
+A bird with a light-colored line on the tertial coverts.
+A bird with a light-colored line on the underwing coverts.
+A bird with a light-colored line on the axillaries.
+A bird with a light-colored line on the underwing.
+A bird with a light-colored line on the under tail.
+A bird with a light-colored line on the vent.
+A bird with a light-colored line on the undertail coverts.
+A bird with a light-colored line on the flanks.
+A bird with a light-colored line on the belly.
+A bird with a light-colored line on the chest.
+A bird with a light-colored line on the throat.
+A bird with a light-colored line on the chin.
+A bird with a light-colored line on the forehead.
+A bird with a light-colored line on the crown.
+A bird with a light-colored line on the nape.
+A bird with a light-colored line on the back.
+A bird with a light-colored line on the rump.
+A bird with a light-colored line on the upper tail coverts.
+A bird with a light-colored line on the tail.
+A bird with a light-colored line on the wings.
+A bird with a light-colored line on the primaries.
+A bird with a light-colored line on the secondaries.
+A bird with a light-colored line on the tertials.
+A bird with a light-colored line on the scapulars.
+A bird with a light-colored line on the coverts.
+A bird with a light-colored line on the alula.
+A bird with a light-colored line on the greater coverts.
+A bird with a light-colored line on the median coverts.
+A bird with a light-colored line on the lesser coverts.
+A bird with a light-colored line on the marginal coverts.
+A bird with a light-colored line on the carpal coverts.
+A bird with a light-colored line on the primary coverts.
+A bird with a light-colored line on the secondary coverts.
+A bird with a light-colored line on the tertial coverts.
+A bird with a light-colored line on the underwing coverts.
+A bird with a light-colored line on the axillaries.
+A bird with a light-colored line on the underwing.
+A bird with a light-colored line on the under tail.
+A bird with a light-colored line on the vent.
+A bird with a light-colored line on the undertail coverts.
+A bird with a light-colored line on the flanks.
+A bird with a light-colored line on the belly.
+A bird with a light-colored line on the chest.
+A bird with a light-colored line on the throat.
+A bird with a light-colored line on the chin.
+A bird with a light-colored line on the forehead.
+A bird with a light-colored line on the crown.
+A bird with a light-colored line on the nape.
+A bird with a light-colored line on the back.
+A bird with a light-colored line on the rump.
+A bird with a light-colored line on the upper tail coverts.
+A bird with a light-colored line on the tail.
+A bird with a light-colored line on the wings.
+A bird with a light-colored line on the primaries.
+A bird with a light-colored line on the secondaries.
+A bird with a light-colored line on the tertials.
+A bird with a light-colored line on the scapulars.
+A bird with a light-colored line on the coverts.
+A bird with a light-colored line on the alula.
+A bird with a light-colored line on the greater coverts.
+A bird with a light-colored line on the median coverts.
+A bird with a light-colored line on the lesser coverts.
+A bird with a light-colored line on the marginal coverts.
+A bird with a light-colored line on the carpal coverts.
+A bird with a light-colored line on the primary coverts.
+A bird with a light-colored line on the secondary coverts.
+A bird with a light-colored line on the tertial coverts.
+A bird with a light-colored line on the underwing coverts.
+A bird with a light-colored line on the axillaries.
+A bird with a light-colored line on the underwing.
+A bird with a light-colored line on the under tail.
+A bird with a light-colored line on the vent.
+A bird with a light-colored line on the undertail coverts.
+A bird with a light-colored line on the flanks.
+A bird with a light-colored line on the belly.
+A bird with a light-colored line on the chest.
+A bird with a light-colored line on the throat.
+A bird with a light-colored line on the chin.
+A bird with a light-colored line on the forehead.
+A bird with a light-colored line on the crown.
+A bird with a light-colored line on the nape.
+A bird with a light-colored line on the back.
+A bird with a light-colored line on the rump.
+A bird with a light-colored line on the upper tail coverts.
+A bird with a light-colored line on the tail.
+A bird with a light-colored line on the wings.
+A bird with a light-colored line on the primaries.
+A bird with a light-colored line on the secondaries.
+A bird with a light-colored line on the tertials.
+A bird with a light-colored line on the scapulars.
+A bird with a light-colored line on the coverts.
+A bird with a light-colored line on the alula.
+A bird with a light-colored line on the greater coverts.
+A bird with a light-colored line on the median coverts.
+A bird with a light-colored line on the lesser coverts.
+A bird with a light-colored line on the marginal coverts.
+A bird with a light-colored line on the carpal coverts.
+A bird with a light-colored line on the primary coverts.
+A bird with a light-colored line on the secondary coverts.
+A bird with a light-colored line on the tertial coverts.
+A bird with a light-colored line on the underwing coverts.
+A bird with a light-colored line on the axillaries.
+A bird with a light-colored line on the underwing.
+A bird with a light-colored line on the under tail.
+A bird with a light-colored line on the vent.
+A bird with a light-colored line on the undertail coverts.
+A bird with a light-colored line on the flanks.
+A bird with a light-colored line on the belly.
+A bird with a light-colored line on the chest.
+A bird with a light-colored line on the throat.
+A bird with a light-colored line on the chin.
+A bird with a light-colored line on the forehead.
+A bird with a light-colored line on the crown.
+A bird with a light-colored line on the nape.
+A bird with a light-colored line on the back.
+A bird with a light-colored line on the rump.
+A bird with a light-colored line on the upper tail coverts.
+A bird with a light-colored line on the tail.
+A bird with a light-colored line on the wings.
+A bird with a light-colored line on the primaries.
+A bird with a light-colored line on the secondaries.
+A bird with a light-colored line on the tertials.
+A bird with a light-colored line on the scapulars.
+A bird with a light-colored line on the coverts.
+A bird with a light-colored line on the alula.
+A bird with a light-colored line on the greater coverts.
+A bird with a light-colored line on the median coverts.
+A bird with a light-colored line on the lesser coverts.
+A bird with a light-colored line on the marginal coverts.
+A bird with a light-colored line on the carpal coverts.
+A bird with a light-colored line on the primary coverts.
+A bird with a light-colored line on the secondary coverts.
+A bird with a light-colored line on the tertial coverts.
+A bird with a light-colored line on the underwing coverts.
+A bird with a light-colored line on the axillaries.
+A bird with a light-colored line on the underwing.
+A bird with a light-colored line on the under tail.
+A bird with a light-colored line on the vent.
+A bird with a light-colored line on the undertail coverts.
+A bird with a light-colored line on the flanks.
+A bird with a light-colored line on the belly.
+A bird with a light-colored line on the chest.
+A bird with a light-colored line on the throat.
+A bird with a light-colored line on the chin.
+A bird with a light-colored line on the forehead.
+A bird with a light-colored line on the crown.
+A bird with a light-colored line on the nape.
+A bird with a light-colored line on the back.
+A bird with a light-colored line on the rump.
+A bird with a light-colored line on the upper tail coverts.
+A bird with a light-colored line on the tail.
+A bird with a light-colored line on the wings.
+A bird with a light-colored line on the primaries.
+A bird with a light-colored line on the secondaries.
+A bird with a light-colored line on the tertials.
+A bird with a light-colored line on the scapulars.
+A bird with a light-colored line on the coverts.
+A bird with a light-colored line on the alula.
+A bird with a light-colored line on the greater coverts.
+A bird with a light-colored line on the median coverts.
+A bird with a light-colored line on the lesser coverts.
+A bird with a light-colored line on the marginal coverts.
+A bird with a light-colored line on the carpal coverts.
+A bird with a light-colored line on the primary coverts.
+A bird with a light-colored line on the secondary coverts.
+A bird with a light-colored line on the tertial coverts.
+A bird with a light-colored line on the underwing coverts.
+A bird with a light-colored line on the axillaries.
+A bird with a light-colored line on the underwing.
+A bird with a light-colored line on the under tail.
+A bird with a light-colored line on the vent.
+A bird with a light-colored line on the undertail coverts.
+A bird with a light-colored line on the flanks.
+A bird with a light-colored line on the belly.
+A bird with a light-colored line on the chest.
+A bird with a light-colored line on the throat.
+A bird with a light-colored line on the chin.
+A bird with a light-colored line on the forehead.
+A bird with a light-colored line on the crown.
+A bird with a light-colored line on the nape.
+A bird with a light-colored line on the back.
+A bird with a light-colored line on the rump.
+A bird with a light-colored line on the upper tail coverts.
+A bird with a light-colored line on the tail.
+A bird with a light-colored line on the wings.
+A bird with a light-colored line on the primaries.
+A bird with a light-colored line on the secondaries.
+A bird with a light-colored line on the tertials.
+A bird with a light-colored line on the scapulars.
+A bird with a light-colored line on the coverts.
+A bird with a light-colored line on the alula.
+A bird with a light-colored line on the greater coverts.
+A bird with a light-colored line on the median coverts.
+A bird with a light-colored line on the lesser coverts.
+A bird with a light-colored line on the marginal coverts.
+A bird with a light-colored line on the carpal coverts.
+A bird with a light-colored line on the primary coverts.
+A bird with a light-colored line on the secondary coverts.
+A bird with a light-colored line on the tertial coverts.
+A bird with a light-colored line on the underwing coverts.
+A bird with a light-colored line on the axillaries.
+A bird with a light-colored line on the underwing.
+A bird with a light-colored line on the under tail.
+A bird with a light-colored line on the vent.
+A bird with a light-colored line on the undertail coverts.
+A bird with a light-colored line on the flanks.
+A bird with a light-colored line on the belly.
+A bird with a light-colored line on the chest.
+A bird with a light-colored line on the throat.
+A bird with a light-colored line on the chin.
+A bird with a light-colored line on the forehead.
+A bird with a light-colored line on the crown.
+A bird with a light-colored line on the nape.
+A bird with a light-colored line on the back.
+A bird with a light-colored line on the rump.
+A bird with a light-colored line on the upper tail coverts.
+A bird with a light-colored line on the tail.
+A bird with a light-colored line on the wings.
+A bird with a light-colored line on the primaries.
+A bird with a light-colored line on the secondaries.
+A bird with a light-colored line on the tertials.
+A bird with a light-colored line on the scapulars.
+A bird with a light-colored line on the coverts.
+A bird with a light-colored line on the alula.
+A bird with a light-colored line on the greater coverts.
+A bird with a light-colored line on the median coverts.
+A bird with a light-colored line on the lesser coverts.
+A bird with a light-colored line on the marginal coverts.
+A bird with a light-colored line on the carpal coverts.
+A bird with a light-colored line on the primary coverts.
+A bird with a light-colored line on the secondary coverts.
+A bird with a light-colored line on the tertial coverts.
+A bird with a light-colored line on the underwing coverts.
+A bird with a light-colored line on the axillaries.
+A bird with a light-colored line on the underwing.
+A bird with a light-colored line on the under tail.
+A bird with a light-colored line on the vent.
+A bird with a light-colored line on the undertail coverts.
+A bird with a light-colored line on the flanks.
+A bird with a light-colored line on the belly.
+A bird with a light-colored line on the chest.
+A bird with a light-colored line on the throat.
+A bird with a light-colored line on the chin.
+A bird with a light-colored line on the forehead.
+A bird with a light-colored line on the crown.
+A bird with a light-colored line on the nape.
+A bird with a light-colored line on the back.
+A bird with a light-colored line on the rump.
+A bird with a light-colored line on the upper tail coverts.
+A bird with a light-colored line on the tail.
+A bird with a light-colored line on the wings.
+A bird with a light-colored line on the primaries.
+A bird with a light-colored line on the secondaries.
+A bird with a light-colored line on the tertials.
+A bird with a light-colored line on the scapulars.
+A bird with a light-colored line on the coverts.
+A bird with a light-colored line on the alula.
+A bird with a light-colored line on the greater coverts.
+A bird with a light-colored line on the median coverts.
+A bird with a light-colored line on the lesser coverts.
+A bird with a light-colored line on the marginal coverts.
+A bird with a light-colored line on the carpal coverts.
+A bird with a light-colored line on the primary coverts.
+A bird with a light-colored line on the secondary coverts.
+A bird with a light-colored line on the tertial coverts.
+A bird with a light-colored line on the underwing coverts.
+A bird with a light-colored line on the axillaries.
+A bird with a light-colored line on the underwing.
+A bird with a light-colored line on the under tail.
+A bird with a light-colored line on the vent.
+A bird with a light-colored line on the undertail coverts.
+A bird with a light-colored line on the flanks.
+A bird with a light-colored line on the belly.
+A bird with a light-colored line on the chest.
+A bird with a light-colored line on the throat.
+A bird with a light-colored line on the chin.
+A bird with a light-colored line on the forehead.
+A bird with a light-colored line on the crown.
+A bird with a light-colored line on the nape.
+A bird with a light-colored line on the back.
+A bird with a light-colored line on the rump.
+A bird with a light-colored line on the upper tail coverts.
+A bird with a light-colored line on the tail.
+A bird with a light-colored line on the wings.
+570

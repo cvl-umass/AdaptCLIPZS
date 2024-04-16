@@ -1,0 +1,18 @@
+An object which has a cap that can be flat, convex, conical or depressed.
+An object which has a cap that can be smooth, scaly, or dry.
+An object which has a cap that can be of various colors, including white, brown, yellow, red, or grey.
+An object which has gills underneath the cap, which can be free or attached to the stem.
+An object which has gills that can be of various colors, including white, brown, yellow, or pink.
+An object which has a stem that can be central, lateral, or absent.
+An object which has a stem that can be cylindrical, bulbous, or tapering.
+An object which has a stem that can be smooth, scaly, or ringed.
+An object which has a stem that can be of various colors, including white, brown, yellow, or grey.
+An object which may have a volva at the base of the stem, which is a remnant of the universal veil.
+An object which may have a ring on the stem, which is a remnant of the partial veil.
+An object which has spores that can be white, brown, or black.
+An object which has spores that can be round, elliptical, or kidney-shaped.
+An object which may have a distinctive smell, such as aniseed or phenol.
+An object which may have a distinctive taste, such as sweet, bitter, or peppery.
+An object which may grow in various habitats, including grasslands, forests, or on decaying wood.
+An object which may grow in groups, clusters, or individually.
+An object which may appear in various seasons, including spring, summer, autumn, or winter.

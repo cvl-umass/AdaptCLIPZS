@@ -1,0 +1,20 @@
+An object which has a flat base, also known as the sole.
+An object which has a sharp blade protruding slightly from its base.
+An object which has a knob-like handle at the front for control.
+An object which has a longer handle at the back, often referred to as the tote.
+An object which has a metal cap or lever cap that secures the blade.
+An object which has an adjustment knob to control the depth of the cut.
+An object which has a lateral adjustment lever to align the cutting edge of the blade.
+An object which has a mouth, a slot through which the blade extends and wood shavings exit.
+An object which is typically made of wood or metal.
+An object which is generally rectangular in shape.
+An object which may have a frog, a part that holds the plane iron at the correct angle.
+An object which may have a chip breaker, a curved piece of metal that sits over the blade.
+An object which may have a horn at the front and back to aid in pushing and pulling.
+An object which may have a screw or lever mechanism for adjusting the width of the mouth.
+An object which may have a cambered or slightly curved blade for different types of planing tasks.
+An object which may have a fence, a guide that keeps the plane square to the workpiece.
+An object which may have a stop or depth gauge to control the depth of cut.
+An object which may have a skewed blade, set at an angle to the length of the plane.
+An object which may have a corrugated sole to reduce friction during planing.
+An object which may have a hinged lid for easy blade replacement.

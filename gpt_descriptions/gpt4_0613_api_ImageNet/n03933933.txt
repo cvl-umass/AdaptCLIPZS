@@ -1,0 +1,20 @@
+An object which extends over and into a body of water.
+An object which is typically made of wood, concrete, or metal.
+An object which is often used as a docking or fishing area.
+An object which may have benches, railings, or light fixtures installed along its length.
+An object which may have buildings or structures such as restaurants, shops, or amusement facilities on it.
+An object which is usually long and narrow, leading from the shore into the water.
+An object which may have people walking, fishing, or enjoying the view on it.
+An object which may have boats or ships docked alongside it.
+An object which may be surrounded by water on three sides.
+An object which may have a lighthouse or a beacon at its end.
+An object which may have a sloping ramp for launching small boats.
+An object which may have lifebuoys or other safety equipment installed.
+An object which may have a covered area or pavilion for shelter.
+An object which may have a crane or other loading equipment if it's a commercial pier.
+An object which may have a terminal or station if it's a ferry pier.
+An object which may have a viewing platform or observation deck at its end.
+An object which may have signage indicating the name of the pier or safety instructions.
+An object which may have fishing equipment, such as rod holders, installed along its length.
+An object which may have bird droppings or seagulls around, indicating its proximity to the sea.
+An object which may have a distinct pattern or texture on its surface due to weathering or marine organisms.

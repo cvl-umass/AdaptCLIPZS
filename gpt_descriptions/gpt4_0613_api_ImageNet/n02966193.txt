@@ -1,0 +1,16 @@
+An object which has a rotating circular platform.
+An object which features seats for riders, often in the form of wooden horses or other animals, that are moved mechanically up and down to simulate galloping.
+An object which is brightly painted and often decorated with lights and mirrors.
+An object which may have a canopy or roof-like structure on top.
+An object which often includes traditional or circus-style music playing in the background.
+An object which may have a central pole or column, often ornately decorated.
+An object which may have a series of levers and gears visible, used to move the seats up and down.
+An object which may have a ticket booth or operator's stand nearby.
+An object which is often found in amusement parks, carnivals, or public parks.
+An object which may have chariots or benches for those who do not wish to ride on the moving animals.
+An object which may have a brass ring machine, a device that dispenses rings for riders to grab.
+An object which may have a painted scenery panel, known as a rounding board, at the top edge of the platform.
+An object which may have a series of mirrors to create a visual illusion of endless animals.
+An object which may have a staircase or ramp leading up to the platform for riders to board.
+An object which may have safety bars or straps on the seats to secure the riders.
+An object which may have a control panel or lever for the operator to start and stop the ride.

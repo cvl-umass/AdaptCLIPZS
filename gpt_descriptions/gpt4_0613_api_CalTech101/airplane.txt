@@ -1,0 +1,23 @@
+An object which has a long, cylindrical body.
+An object which has wings extending from both sides of its body.
+An object which has a tail fin at the rear end.
+An object which has jet engines attached to the wings or body.
+An object which has a pointed nose at the front.
+An object which has a cockpit with windows at the front.
+An object which has landing gears at the bottom.
+An object which has ailerons on the trailing edge of the wings.
+An object which has flaps on the wings to control lift.
+An object which has a rudder on the tail fin for steering.
+An object which has elevators on the tail to control pitch.
+An object which has a fuselage, the main body structure.
+An object which has a series of windows along the body.
+An object which has an airline logo or national flag on the body or tail.
+An object which has a propeller at the front, if it's a propeller-driven aircraft.
+An object which has a stabilizer at the tail end.
+An object which has an undercarriage for landing and takeoff.
+An object which has a radome, a dome for radar equipment, at the front or top.
+An object which has an exhaust nozzle at the rear, if it's a jet aircraft.
+An object which has a cargo door, usually at the side or rear.
+An object which has an emergency exit, usually marked on the body.
+An object which has a passenger door, usually at the front or side.
+An object which has a distinctive airline livery or color scheme.

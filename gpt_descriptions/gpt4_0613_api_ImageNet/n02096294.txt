@@ -1,0 +1,16 @@
+An object which has a small, sturdy, and medium-boned frame.
+An object which has a long head with a slight stop and a strong, pointed muzzle.
+An object which has small, dark, sparkling eyes with an intelligent and keen expression.
+An object which has small, pointed ears that stand erect and are set wide apart.
+An object which has a strong, straight back with a high-set tail.
+An object which has a rough, straight, and weatherproof topcoat with a short, soft undercoat.
+An object which has a coat color that can be blue and tan, solid sandy, or solid red.
+An object which has a chest that is deep and strong, with well-sprung ribs.
+An object which has strong, muscular shoulders and thighs.
+An object which has cat-like feet that are small and round.
+An object which has a confident and alert expression.
+An object which has a length slightly longer than its height.
+An object which has a coat that extends into a slight ruff around the neck and a topknot of softer, silkier hair on the head.
+An object which has a height that ranges from 10 to 11 inches at the shoulder.
+An object which has a weight that ranges from 15 to 20 pounds.
+An object which has a life expectancy of 12 to 15 years.

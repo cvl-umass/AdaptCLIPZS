@@ -1,0 +1,20 @@
+An aircraft with a twin-engine setup.
+An aircraft with a swept-wing design.
+An aircraft with a T-tail configuration.
+An aircraft with a low-wing monoplane design.
+An aircraft with a circular cross-section fuselage.
+An aircraft with a cockpit window design that includes four main windows and two smaller ones.
+An aircraft with a length of approximately 20 meters.
+An aircraft with a wingspan of approximately 19 meters.
+An aircraft with a distinctive S-duct air intake for the engines.
+An aircraft with a maximum takeoff weight of around 42,200 pounds.
+An aircraft with a seating capacity for 8-10 passengers in its standard configuration.
+An aircraft with a range of approximately 3,450 nautical miles.
+An aircraft with a cruising speed of around 528 knots.
+An aircraft with a cabin height of approximately 1.88 meters.
+An aircraft with a cabin width of approximately 2.34 meters.
+An aircraft with a cabin length of approximately 7.98 meters.
+An aircraft with a distinctive landing gear configuration of two main wheels and a nose wheel.
+An aircraft with a high-speed cruise capability of Mach 0.85.
+An aircraft with a service ceiling of 47,000 feet.
+An aircraft with a distinctive oval-shaped cabin windows.

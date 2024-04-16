@@ -1,0 +1,15 @@
+A scene which features multiple rows of parked cars in an open area.
+A scene which includes painted lines or markings on the ground to designate parking spaces.
+A scene which displays parking meters or ticket machines.
+A scene which shows a large, flat, paved or concrete surface.
+A scene which includes signage related to parking rules or directions.
+A scene which features a pay station or a booth for a parking attendant.
+A scene which shows a barrier or gate at the entrance or exit.
+A scene which includes lighting fixtures specifically designed for outdoor areas.
+A scene which displays multiple levels of parking spaces, indicating a multi-story structure.
+A scene which shows cars entering or exiting through a designated path.
+A scene which includes pedestrian walkways marked between parking spaces.
+A scene which features security cameras or other surveillance equipment.
+A scene which shows ramps leading to different levels of the parking structure.
+A scene which includes directional arrows painted on the ground.
+A scene which displays handicap parking spaces marked with appropriate signage.

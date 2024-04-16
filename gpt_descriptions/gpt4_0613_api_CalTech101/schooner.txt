@@ -1,0 +1,20 @@
+An object which has two or more masts, with the foremast being shorter than the main.
+An object which has a gaff rigging on all of its masts.
+An object which has a long, slender hull for fast sailing.
+An object which has a bowsprit, a pole extending from the ship's bow.
+An object which has a large sail area relative to the weight of the ship.
+An object which has a wide beam, or width, for stability.
+An object which has a shallow draft, allowing it to navigate in shallow waters.
+An object which has a mix of square and fore-and-aft sails.
+An object which has a large deck area, often used for cargo or passengers.
+An object which has a rudder mounted on the stern for steering.
+An object which has a sharp bow and a flat stern.
+An object which has a hull made of wood, steel, or aluminum.
+An object which has a tall, narrow stern, often with a small overhanging balcony.
+An object which has a combination of topsails and gaff sails on the mainmast.
+An object which has a variety of rigging lines and ropes for controlling the sails.
+An object which has a large number of crew members visible, due to the complexity of handling the sails.
+An object which has a lifeboat or dinghy stored on deck.
+An object which has a figurehead, a carved wooden decoration, at the bow.
+An object which has a windlass, a type of winch, at the bow for raising the anchor.
+An object which has a capstan, a vertical-axled rotating machine, for hauling heavy weights.

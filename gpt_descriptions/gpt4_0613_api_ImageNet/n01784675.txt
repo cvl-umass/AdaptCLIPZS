@@ -1,0 +1,15 @@
+An object which has a long, flat, segmented body.
+An object which has a pair of legs per body segment.
+An object which has a pair of antennae on the head.
+An object which has a pair of large, claw-like structures just behind the head.
+An object which has a varying number of body segments, from less than 20 to over 100.
+An object which has legs that are longer in the back for fast and agile movement.
+An object which has a body that can be various colors, including brown, gray, red, or yellow.
+An object which has a body covered in a tough exoskeleton.
+An object which has a head that is prominently separated from the body by a neck.
+An object which has eyes that are made up of a cluster of simple eyes or ocelli.
+An object which has a mouth that points downwards and is designed for eating other invertebrates.
+An object which has a body that can coil up when threatened or at rest.
+An object which has a body that is usually 1 to 6 inches long, but can be larger in some species.
+An object which has a body that is flexible and can move in a wavy, serpentine manner.
+An object which has a body that is capable of rapid, fluid movement.

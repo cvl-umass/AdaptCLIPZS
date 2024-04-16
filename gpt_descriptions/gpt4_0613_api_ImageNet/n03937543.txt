@@ -1,0 +1,20 @@
+An object which has a cylindrical shape.
+An object which is typically made of plastic.
+An object which has a screw-on or push-down-and-turn cap.
+An object which often has a label with printed information.
+An object which may have a child-resistant cap.
+An object which is usually small enough to be held in one hand.
+An object which may contain small items visible through a translucent body.
+An object which may have a pharmacy logo or name on it.
+An object which may have a prescription number on its label.
+An object which may have a patient's name and address on its label.
+An object which may have a doctor's name on its label.
+An object which may have instructions for use on its label.
+An object which may have a barcode on its label.
+An object which may have a date of issue and expiry on its label.
+An object which may have the name of the medication inside it on its label.
+An object which may have warnings or side effects information on its label.
+An object which may have a color-coded cap or label for easy identification.
+An object which may have a tamper-evident seal.
+An object which may have a specific number of tablets or dosage mentioned on its label.
+An object which may have a brand name or logo on its label.

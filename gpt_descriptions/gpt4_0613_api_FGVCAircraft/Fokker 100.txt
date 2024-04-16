@@ -1,0 +1,17 @@
+An aircraft with a T-tail and rear-mounted engines.
+An aircraft with a narrow-body and twin-engine jet layout.
+An aircraft with a fuselage diameter of 3.30 meters.
+An aircraft with a length of approximately 35.53 meters.
+An aircraft with a wingspan of 28.08 meters.
+An aircraft with a wing design that lacks winglets.
+An aircraft with a seating arrangement for 85-100 passengers in a two-class layout.
+An aircraft with a cockpit designed for two crew members.
+An aircraft with a total of five cabin doors, two at the front, two over the wings, and one at the rear.
+An aircraft with a high-mounted horizontal stabilizer on the tail.
+An aircraft with a characteristic "Fokker" eyebrow windows above the main cockpit windows.
+An aircraft with a maximum cruising speed of 845 km/h.
+An aircraft with a range of approximately 2,100 kilometers.
+An aircraft with Rolls-Royce Tay turbofan engines.
+An aircraft with a low-wing monoplane design.
+An aircraft with a retractable tricycle landing gear.
+An aircraft with a circular cross-section fuselage.

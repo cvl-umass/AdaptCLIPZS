@@ -1,0 +1,15 @@
+A scene which features large, metal structures with wires and cables running between them.
+A scene which includes high-voltage warning signs or symbols.
+A scene which contains transformers, which are large, cylindrical or rectangular objects often mounted on concrete pads.
+A scene which has tall, metal towers or poles supporting a network of overhead power lines.
+A scene which includes insulators, typically ceramic or glass objects attached to the power lines.
+A scene which features a fenced or walled area, often with barbed wire on top, for safety and security purposes.
+A scene which contains switchgear equipment, which are box-like structures that control the flow of electricity.
+A scene which includes a control building or shed, often located within the fenced area.
+A scene which has grounding wires running down the sides of the towers or poles.
+A scene which features large, round, oil-filled capacitors.
+A scene which includes busbars, thick strips of copper or aluminum that distribute electricity.
+A scene which contains circuit breakers and disconnect switches, used to interrupt the flow of electricity for safety or maintenance.
+A scene which features a gravel or paved ground surface, for safety and maintenance purposes.
+A scene which includes visible electrical sparks or corona, a blue glow around high-voltage equipment.
+A scene which has a clear, open space around the substation, free of trees or tall structures that could interfere with the power lines.

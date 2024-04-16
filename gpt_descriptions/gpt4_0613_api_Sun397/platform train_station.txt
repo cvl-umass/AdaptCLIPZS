@@ -1,0 +1,20 @@
+A scene which features long, flat platforms parallel to train tracks.
+A scene which includes a train or multiple trains on the tracks.
+A scene which displays overhead electric lines for powering trains.
+A scene which shows a large, digital or analog timetable displaying train schedules.
+A scene which contains benches or seating areas along the platform.
+A scene which has signs indicating platform numbers and train destinations.
+A scene which features a ticket booth or automated ticket machines.
+A scene which includes pedestrian bridges or tunnels for crossing to different platforms.
+A scene which shows people waiting, often with luggage or bicycles.
+A scene which displays distinctive railway signals and signs.
+A scene which includes a station building, often with a distinctive architectural style.
+A scene which shows safety lines or markings on the platform edge.
+A scene which features vending machines or small shops selling food, drinks, and newspapers.
+A scene which includes public address systems for announcements.
+A scene which shows a canopy or roof structure providing shelter over the platform.
+A scene which displays CCTV cameras for security.
+A scene which includes railway staff in uniforms.
+A scene which shows luggage trolleys or lockers.
+A scene which features a taxi rank or bus stop nearby for onward travel.
+A scene which includes bicycle racks or car parking facilities.

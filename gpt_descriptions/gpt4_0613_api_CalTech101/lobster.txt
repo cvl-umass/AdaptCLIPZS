@@ -1,0 +1,15 @@
+An object which has a large, cylindrical body covered in a hard shell.
+An object which has a pair of large, strong claws at the front of its body.
+An object which has a long, segmented tail that fans out at the end.
+An object which has a pair of long, thin antennae extending from its head.
+An object which has a small pair of pincers near its mouth.
+An object which has a set of walking legs attached to its body.
+An object which has a pair of compound eyes on stalks.
+An object which has a color that ranges from dark blue-green to red, depending on its species and environment.
+An object which has a hard exoskeleton that it must shed in order to grow.
+An object which has a pair of swimmerets, small appendages, under its tail.
+An object which has a distinct, segmented body divided into the cephalothorax (head and thorax combined) and the abdomen.
+An object which has gills for breathing located under its shell.
+An object which has a mouth located on the underside of its head.
+An object which has a rostrum, a beak-like structure, between its eyes.
+An object which has a telson, a central part of the tail fan, at the end of its body.

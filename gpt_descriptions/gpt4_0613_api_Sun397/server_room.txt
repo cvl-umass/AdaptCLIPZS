@@ -1,0 +1,15 @@
+A scene which features rows of large, tall racks filled with electronic equipment.
+A scene which displays numerous cables, often color-coded, connecting various pieces of equipment.
+A scene which includes multiple computer monitors displaying data and system information.
+A scene which shows blinking or steady lights on the front of the equipment, indicating activity or status.
+A scene which contains large air conditioning units or fans, used to keep the equipment cool.
+A scene which portrays raised flooring, often used for cable management and cooling.
+A scene which exhibits a lack of windows, as server rooms are typically enclosed to control the environment.
+A scene which displays equipment labeled with brands known for server technology, such as Dell, IBM, or Cisco.
+A scene which includes keyboards and mice connected to KVM switches for controlling multiple servers.
+A scene which shows servers with multiple network ports and high-speed data connections.
+A scene which features power distribution units or uninterrupted power supplies to ensure continuous operation.
+A scene which portrays fire suppression systems, often specific to server rooms to avoid water damage.
+A scene which includes server racks secured with locks, for security purposes.
+A scene which shows a sterile and clean environment, free of dust and debris.
+A scene which displays warning signs or labels, often related to electrical hazards or restricted access.

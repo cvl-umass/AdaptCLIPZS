@@ -1,0 +1,20 @@
+An object which has a red or white color scheme.
+An object which is a large, box-shaped vehicle.
+An object which has a siren on top.
+An object which has flashing lights, usually blue or red.
+An object which has the word 'AMBULANCE' written on it, often in reverse so it can be read correctly in a rear-view mirror.
+An object which has a symbol of a snake entwined around a staff, known as the Rod of Asclepius, which is a universal symbol for medical care.
+An object which has large rear doors for loading patients.
+An object which has a high-visibility stripe or checkered pattern around it.
+An object which has a long wheelbase and a high roof.
+An object which has a radio antenna for communication.
+An object which has a stretcher inside visible through windows.
+An object which has medical equipment visible inside, such as oxygen tanks, defibrillators, or first aid kits.
+An object which has a partition separating the driver's cab from the patient treatment area.
+An object which has emergency contact numbers displayed on it.
+An object which has a license plate that often indicates it's a service vehicle.
+An object which has side doors for additional access to the patient treatment area.
+An object which has tinted windows for patient privacy.
+An object which has a step or a ramp at the rear for easy patient loading.
+An object which has a spotlight for illuminating dark areas.
+An object which has a public service or hospital logo on it.

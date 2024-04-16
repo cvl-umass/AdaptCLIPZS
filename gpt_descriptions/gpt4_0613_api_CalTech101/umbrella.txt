@@ -1,0 +1,20 @@
+An object which has a central rod with a handle at one end.
+An object which has a collapsible canopy.
+An object which has a canopy made of fabric or plastic.
+An object which has a series of metal ribs that support the canopy.
+An object which can be manually opened or closed.
+An object which is designed to protect against rain or sun.
+An object which is portable and can be carried by hand.
+An object which has a pointed tip at the top.
+An object which can be folded into a compact size for easy storage.
+An object which may have a button on the handle for automatic opening.
+An object which may have a hook-shaped handle.
+An object which may have a protective sleeve for storage when not in use.
+An object which may come in a variety of colors and patterns.
+An object which may have a wind vent in the canopy to allow wind to pass through.
+An object which may have a wrist strap attached to the handle.
+An object which may have a canopy made of waterproof material.
+An object which may have a UV protective coating on the canopy.
+An object which may have a light attached to the handle for visibility in the dark.
+An object which may have a carrying case with a strap.
+An object which may have a logo or brand name printed on the canopy.

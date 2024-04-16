@@ -1,0 +1,18 @@
+An object which has a large basket-like structure for holding items.
+An object which is typically made of metal or plastic.
+An object which has wheels at the bottom for easy movement.
+An object which has a handle at one end for pushing or pulling.
+An object which may have a smaller basket or shelf beneath the main basket for additional storage.
+An object which may have a fold-out section to hold a child.
+An object which is commonly found in supermarkets and large stores.
+An object which may have a coin-operated locking mechanism.
+An object which may have a swivel front wheel for easy maneuvering.
+An object which may have a logo or name of the store on it.
+An object which is designed to be stackable with others of its kind for storage.
+An object which may have a plastic or metal flap to prevent items from falling out.
+An object which may have a barcode or QR code for tracking purposes.
+An object which is typically rectangular or square in shape.
+An object which may have a protective bumper around the bottom to prevent damage.
+An object which may have a seat belt in the child seat for safety.
+An object which may have a hook for hanging smaller bags.
+An object which may have a cup holder or other small compartments for personal items.

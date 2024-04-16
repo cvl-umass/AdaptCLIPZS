@@ -1,0 +1,25 @@
+An object which displays time in a digital format.
+An object which has a rectangular or square screen.
+An object which may have buttons on the sides.
+An object which may have a backlight for visibility in the dark.
+An object which may display additional information such as date, day, and temperature.
+An object which may have a stopwatch or timer function.
+An object which may have an alarm function.
+An object which may have a silicone, leather, or metal band.
+An object which may be water-resistant or waterproof.
+An object which may have a battery compartment.
+An object which may have brand or manufacturer's logo.
+An object which may have a sleep mode to conserve battery.
+An object which may have a fitness tracking feature.
+An object which may have a heart rate monitor.
+An object which may have a pedometer.
+An object which may have a GPS function.
+An object which may have a compass function.
+An object which may have a calorie counter.
+An object which may have a Bluetooth or Wi-Fi connectivity.
+An object which may have a touchscreen interface.
+An object which may have a customizable watch face.
+An object which may have a music control feature.
+An object which may have a notification feature for calls, messages, or emails.
+An object which may have a voice control feature.
+An object which may have a magnetic or traditional buckle for fastening.

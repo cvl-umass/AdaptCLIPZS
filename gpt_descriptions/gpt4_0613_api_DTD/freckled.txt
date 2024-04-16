@@ -1,0 +1,10 @@
+A texture which has small, randomly scattered spots or dots.
+A texture which displays a variety of colors or shades within the spots.
+A texture which has irregularities in the distribution of the spots.
+A texture which shows spots that vary in size.
+A texture which has spots that are not uniform in shape.
+A texture which has a clear contrast between the spots and the background.
+A texture which shows spots that may merge or overlap with each other.
+A texture which has spots that are not necessarily round.
+A texture which has a non-patterned distribution of spots.
+A texture which has spots that are not equally spaced.

@@ -1,0 +1,20 @@
+An object which has a handle on one side.
+An object which has a spout for pouring.
+An object which is typically taller than it is wide.
+An object which is often made of materials such as glass, ceramic, or metal.
+An object which may have a lid or cover.
+An object which is usually used to serve liquids like water, juice, or milk.
+An object which may have decorative elements or patterns.
+An object which can be found in various sizes, from small to large.
+An object which may have a foot or base for stability.
+An object which may have a curved or angular shape.
+An object which may have a wide mouth for easy filling.
+An object which may have a narrow neck to control the flow of liquid.
+An object which may have a round, oval, or cylindrical body.
+An object which may have a glossy, matte, or textured finish.
+An object which may be a single color, multi-colored, or have a patterned design.
+An object which may have a historical or cultural design, depending on its origin.
+An object which may be antique, vintage, or modern in style.
+An object which may be handmade or mass-produced.
+An object which may be used for practical purposes or as a decorative item.
+An object which may be part of a matching set with cups or glasses.

@@ -1,0 +1,20 @@
+An object which has a coin slot or card reader for payment.
+An object which has a corded handset attached to it.
+An object which has a number pad for dialing.
+An object which has a small screen or display for call information.
+An object which is typically mounted on a wall or standalone booth.
+An object which has a slot for returning change or coins.
+An object which has a built-in phone book or directory.
+An object which has a loudspeaker for hands-free operation.
+An object which has a privacy hood or shield around the top and sides.
+An object which has instructions for use displayed on it.
+An object which has a sturdy, often metal, construction for public use.
+An object which has a logo or branding of a telecommunications company.
+An object which has a volume control button.
+An object which has a redial or emergency call button.
+An object which has a physical line or cable connecting it to the telephone network.
+An object which is often found in public spaces like streets, malls, or airports.
+An object which may have a light for use in dark environments.
+An object which may have a slot for receiving printed receipts.
+An object which may have a small shelf or ledge for resting items during a call.
+An object which may have a vandal-resistant design to prevent damage.

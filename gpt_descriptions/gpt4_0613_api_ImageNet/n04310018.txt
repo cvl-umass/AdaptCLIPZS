@@ -1,0 +1,20 @@
+An object which has a large, cylindrical boiler at the front.
+An object which has a smokestack or chimney protruding from the top.
+An object which has a cab towards the rear for the driver and fireman.
+An object which has large, prominent wheels often with spokes.
+An object which has a tender attached at the back for carrying coal or wood.
+An object which has a cowcatcher at the front, a device designed to deflect obstacles on the track.
+An object which has a dome on top of the boiler, which houses the steam regulator.
+An object which has a whistle, usually located on top of the boiler.
+An object which has a headlamp at the front, above the smokebox.
+An object which has side rods connecting the wheels, transferring the power from the pistons.
+An object which has a bell, usually located on top of the boiler or on the smokebox.
+An object which has a number or nameplate, usually located on the side of the boiler or on the cab.
+An object which has a firebox at the rear, where the fuel is burned to produce steam.
+An object which has a piston and cylinder assembly, usually visible on the sides.
+An object which has a large, round smokebox at the front, right behind the cowcatcher.
+An object which has a series of small, horizontal tubes inside the boiler, where the hot gases pass through to heat the water.
+An object which has a water tank, either incorporated into the tender or mounted on the locomotive itself.
+An object which has a safety valve, usually located on top of the boiler, to release excess pressure.
+An object which has a sandbox, usually located on top of the boiler or on the running board, to provide sand for increased traction.
+An object which has a set of buffers and coupling system at both ends for connecting to other rail vehicles.

@@ -1,0 +1,20 @@
+An object which has a large wooden structure, typically with multiple decks.
+An object which features a prominent mast or masts, often with large, billowing sails.
+An object which displays a Jolly Roger or other pirate flag.
+An object which is equipped with cannons or other old-fashioned weaponry.
+An object which has a crow's nest, a small platform near the top of the mast where a lookout could stand.
+An object which has a steering wheel on the deck, often larger than those found on modern ships.
+An object which has a figurehead, often a carved wooden decoration, at the prow.
+An object which has a plank, a board extended off the side of the ship used to walk prisoners off.
+An object which has a large anchor, typically made of iron or steel.
+An object which has a hull that is often dark in color, frequently black or brown.
+An object which has ropes and rigging crisscrossing between the masts and other parts of the ship.
+An object which has a captain's quarters, often more ornate than the rest of the ship.
+An object which has a ship's bell, used for signaling and keeping time.
+An object which has a capstan, a vertical-axled rotating machine developed for use on sailing ships to multiply the pulling force of seamen when hauling ropes.
+An object which has a forecastle and quarterdeck, elevated sections at the bow and stern of the ship.
+An object which has a longboat or other small craft attached to the side or stored on the deck.
+An object which has a windlass, a type of winch used on ships to hoist anchors and haul on mooring lines.
+An object which has a bilge pump, a pump used to remove bilge water.
+An object which has a gun deck, a deck on a ship where the ship's guns are carried.
+An object which has a galley, the kitchen of a ship.

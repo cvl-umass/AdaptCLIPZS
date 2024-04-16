@@ -1,0 +1,20 @@
+An object which has a large, box-like body for storing waste.
+An object which has a hydraulic system for compacting garbage.
+An object which has a rear or side loading mechanism for waste.
+An object which is typically painted in bright colors, often green or white.
+An object which has a lifting mechanism to hoist and empty dumpsters.
+An object which has a cab at the front where the driver sits.
+An object which has large, heavy-duty tires suitable for carrying heavy loads.
+An object which has warning lights and sometimes a siren for safety.
+An object which has a company logo or municipal insignia on the side.
+An object which has a large, heavy-duty bumper at the front.
+An object which has a hopper at the rear or side for loading garbage.
+An object which has a large exhaust pipe, often located on the side of the cab.
+An object which has a heavy-duty suspension system to handle the weight of the garbage.
+An object which has a large, rectangular shape overall.
+An object which has a number plate and other road-legal requirements like mirrors and lights.
+An object which has a large, swinging door at the back for unloading compacted waste.
+An object which has a robust and rugged construction to withstand the rigors of waste collection.
+An object which has a large windshield for the driver to have a clear view of the road.
+An object which has a side guard to protect cyclists and pedestrians.
+An object which has a fuel tank, often located on the side of the vehicle.

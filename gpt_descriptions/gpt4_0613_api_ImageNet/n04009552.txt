@@ -1,0 +1,18 @@
+An object which has a lens or multiple lenses on the front side.
+An object which has a focus adjustment knob or slider.
+An object which has a rectangular or square shape, often with rounded corners.
+An object which has a series of control buttons or a control panel, typically on the top or side.
+An object which has a variety of ports on the back or side, such as HDMI, USB, VGA, or audio out.
+An object which has a vent or fan for cooling, often on the sides or back.
+An object which has a slot for a lamp or bulb, usually on the bottom or side.
+An object which has a power cord or a place to connect one.
+An object which may have a built-in speaker grill.
+An object which may have a brand or model number displayed.
+An object which may have a handle or a mount for attaching to a ceiling or wall.
+An object which may have a remote control associated with it.
+An object which may have a keystone correction feature.
+An object which may have a slot for inserting a disc or other media.
+An object which may have a warning label about direct eye exposure to the light beam.
+An object which may have an indicator light to show power status or other functions.
+An object which may have a tripod mount or stand.
+An object which may have a protective lens cap.

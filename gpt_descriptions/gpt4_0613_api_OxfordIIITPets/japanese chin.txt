@@ -1,0 +1,11 @@
+A pet which has a distinctively large and broad head in comparison to its body size.
+A pet which has a short, upturned muzzle.
+A pet which has large, wide-set eyes that are dark in color.
+A pet which has ears that are small, V-shaped, and set wide apart.
+A pet which has a soft and straight coat that is either black and white, red and white, or black and tan.
+A pet which has a plumed tail that curls over its back.
+A pet which has a compact and squarely proportioned body.
+A pet which has a height that ranges from 8 to 11 inches at the shoulder.
+A pet which has a weight that ranges from 7 to 11 pounds.
+A pet which has a distinctive oriental expression.
+A pet which has a unique gait, appearing to 'trot' when it moves.

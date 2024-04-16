@@ -1,0 +1,17 @@
+An aircraft with a trijet design, having three engines.
+An aircraft with a T-tail configuration, where the tailplane is mounted on top of the fin.
+An aircraft with a low-wing design, where the wings are mounted below the fuselage.
+An aircraft with a swept-wing design, where the wings are angled back from the fuselage.
+An aircraft with a large, oval-shaped cabin windows.
+An aircraft with a long, sleek fuselage.
+An aircraft with a winglet on each wing tip, which are small, upward-curving extensions.
+An aircraft with a retractable tricycle landing gear.
+An aircraft with a cockpit window design that includes four main windows and two small side windows.
+An aircraft with a rear-mounted engine configuration, where the engines are located at the back of the fuselage.
+An aircraft with a relatively short nose compared to the overall length of the aircraft.
+An aircraft with a high-speed cruise of Mach 0.84-0.87.
+An aircraft with a range of approximately 4,750 nautical miles.
+An aircraft with a capacity to carry up to 19 passengers.
+An aircraft with a length of approximately 20.21 meters.
+An aircraft with a wingspan of approximately 19.33 meters.
+An aircraft with a height of approximately 7.55 meters.

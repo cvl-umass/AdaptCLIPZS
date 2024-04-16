@@ -1,0 +1,20 @@
+An object which has a carafe or pot, often made of glass or stainless steel, for collecting the brewed coffee.
+An object which has a water reservoir to hold the water that will be heated for brewing coffee.
+An object which has a filter basket where the coffee grounds are placed.
+An object which has a heating element to heat the water in the reservoir.
+An object which has a brew button or switch to start the brewing process.
+An object which has a lid on the carafe to keep the coffee warm after brewing.
+An object which has a handle on the carafe for safe and easy pouring.
+An object which has a drip stop feature that prevents coffee from dripping when the carafe is removed.
+An object which has a warming plate where the carafe sits to keep the coffee warm.
+An object which has a power cord for connecting to an electrical outlet.
+An object which may have a digital display or clock.
+An object which may have programmable settings for brewing coffee at a specific time.
+An object which may have a steam wand for frothing milk in espresso machines.
+An object which may have a grinder for grinding coffee beans in some high-end models.
+An object which may have a water level indicator to show the amount of water in the reservoir.
+An object which may have a descaling function for cleaning the machine.
+An object which may have a pause feature that allows you to pour a cup of coffee before the brewing process is complete.
+An object which may have a keep warm function that keeps the coffee warm for a certain period after brewing.
+An object which may have a reusable filter instead of disposable paper filters.
+An object which may have a light indicator to show when the machine is on or off.

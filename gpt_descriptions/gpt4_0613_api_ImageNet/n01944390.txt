@@ -1,0 +1,15 @@
+An object which has a coiled shell on its back.
+An object which has a slimy, elongated body.
+An object which has a pair of tentacles on its head.
+An object which has a small opening at the bottom of its body for movement.
+An object which has a foot, a flat muscular organ used for movement.
+An object which has a mantle, a specialized epidermis, that may secrete a shell.
+An object which has a radula, a unique tongue-like organ.
+An object which has eyes located at the base or tip of the tentacles.
+An object which has a soft body that can retract into its shell.
+An object which has a spiral shell that grows as the snail grows.
+An object which has a shell that can be of various shapes and colors.
+An object which has a respiratory opening on the body to breathe.
+An object which has a slow pace of movement.
+An object which leaves a trail of mucus as it moves.
+An object which is usually found in moist environments.

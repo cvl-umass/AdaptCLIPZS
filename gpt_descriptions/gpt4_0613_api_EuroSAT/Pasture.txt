@@ -1,0 +1,15 @@
+A satellite image which shows large, open areas of green or brown, indicating grass or hay fields.
+A satellite image which displays a lack of dense forestation or urban development.
+A satellite image which reveals a patchwork of fields, often in different shades of green or brown, indicating different types of grass or stages of growth.
+A satellite image which shows clear, straight lines or geometric shapes, suggesting man-made boundaries such as fences or roads.
+A satellite image which displays small, scattered structures, possibly indicating barns, stables, or other farm buildings.
+A satellite image which reveals areas of lighter coloration, possibly indicating paths worn by livestock.
+A satellite image which shows bodies of water, such as ponds or streams, which are often found in pasture lands for livestock hydration.
+A satellite image which displays areas of darker green, possibly indicating well-watered or fertile areas.
+A satellite image which reveals a lack of significant elevation changes, as pasture lands are typically flat or gently rolling.
+A satellite image which shows areas of bare soil or mud, possibly indicating high-traffic areas or overgrazed fields.
+A satellite image which displays a lack of significant infrastructure, such as highways or large buildings, which are more common in urban areas.
+A satellite image which reveals a lack of dense, continuous canopy cover, distinguishing it from forested areas.
+A satellite image which shows a lack of bright, artificial colors, distinguishing it from industrial or commercial areas.
+A satellite image which displays a lack of regular, grid-like patterns, distinguishing it from residential or urban areas.
+A satellite image which reveals a lack of large, open bodies of water, distinguishing it from coastal or lake regions.

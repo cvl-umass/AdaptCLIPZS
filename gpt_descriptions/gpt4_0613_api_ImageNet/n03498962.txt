@@ -1,0 +1,20 @@
+An object which has a short handle, typically made of wood or plastic.
+An object which has a metal head, usually made of steel.
+An object which has a sharp edge on one side of the head.
+An object which has a flat surface on the other side of the head, often used for hammering.
+An object which is small enough to be used with one hand.
+An object which has a hole or socket where the handle is attached to the head.
+An object which may have a sheath or cover for the sharp edge when not in use.
+An object which is typically used for chopping wood or as a tool in camping.
+An object which may have a curved or straight handle.
+An object which may have a textured grip on the handle for secure holding.
+An object which may have a lanyard hole at the end of the handle.
+An object which may have a notch near the head, used for pulling nails.
+An object which may have a brand name or logo imprinted on the head or handle.
+An object which may have a polished or unpolished metal head.
+An object which may have a varnished or unvarnished wooden handle.
+An object which may have a head that is wider than the handle.
+An object which may have a head that is heavier than the handle.
+An object which may have a handle that is curved at the end to prevent slipping.
+An object which may have a head that is slightly curved for efficient chopping.
+An object which may have a handle that is slightly tapered towards the head for a comfortable grip.

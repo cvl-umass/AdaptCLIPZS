@@ -1,0 +1,20 @@
+An object which has a spout for pouring liquid.
+An object which has a handle for easy gripping and carrying.
+An object which is typically cylindrical or oval in shape.
+An object which is often made of materials like plastic, glass, or metal.
+An object which may have a lid or cap on top.
+An object which is hollow and designed to hold liquids.
+An object which may have measurement markings on the side to indicate volume.
+An object which is generally larger than a standard drinking glass or cup.
+An object which may have a wide base for stability.
+An object which may have a narrow neck to control the flow of liquid.
+An object which may be transparent, translucent, or opaque.
+An object which may have a removable or hinged lid for refilling.
+An object which may have a push-button or pump mechanism for dispensing liquid.
+An object which may be insulated to keep liquids hot or cold.
+An object which may have a filter system for purifying water.
+An object which may have a flat bottom to stand upright.
+An object which may have a curved or angular handle for ergonomic comfort.
+An object which may have a vent or air hole to prevent glugging while pouring.
+An object which may have a wide mouth for easy cleaning and filling.
+An object which may have a rubber or silicone seal to prevent leaks.

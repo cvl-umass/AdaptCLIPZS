@@ -1,0 +1,17 @@
+An object which has a medium-sized body, neither too small nor too large.
+An object which has a coat that is red and white in color.
+An object which has a coat that is straight and flat.
+An object which has a moderately long coat with feathering on the ears, chest, legs, and tail.
+An object which has a head that is in proportion to the body, with a slightly domed skull.
+An object which has a muzzle that is approximately equal in length to the skull.
+An object which has eyes that are medium in size, oval in shape, and dark to medium brown in color.
+An object which has ears that are set at eye level, and hang close to the cheeks.
+An object which has a tail that is usually docked and carried level with the back.
+An object which has a strong, muscular neck.
+An object which has a deep chest and well-sprung ribs.
+An object which has a strong, muscular back.
+An object which has legs that are straight and strong, with good bone structure.
+An object which has feet that are round and compact, with well-arched toes.
+An object which has a friendly and gentle expression.
+An object which has a height that ranges from 17 to 19 inches at the shoulder for males, and slightly less for females.
+An object which has a weight that ranges from 35 to 55 pounds.

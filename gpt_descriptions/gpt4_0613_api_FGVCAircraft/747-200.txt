@@ -1,0 +1,17 @@
+An aircraft with a distinctive hump on the front part of the fuselage, which is the upper deck.
+An aircraft with four engines, two under each wing.
+An aircraft with a length of approximately 231 feet and 10 inches.
+An aircraft with a wingspan of approximately 195 feet and 8 inches.
+An aircraft with a tail height of approximately 63 feet and 5 inches.
+An aircraft with a 3-4-3 seating configuration in economy class.
+An aircraft with a 2-3-2 seating configuration in the upper deck.
+An aircraft with a nose cargo door, indicating it may be a combi model.
+An aircraft with a range of approximately 6,857 nautical miles.
+An aircraft with a maximum takeoff weight of approximately 833,000 pounds.
+An aircraft with a cruise speed of approximately Mach 0.84.
+An aircraft with Pratt & Whitney JT9D-7 engines, General Electric CF6-50E or Rolls-Royce RB211-524 engines.
+An aircraft with a total of 10 doors, five on each side of the main deck.
+An aircraft with a distinctive 'wingtip' design, which is a small vertical fin at the end of the wing.
+An aircraft with a two-crew cockpit layout.
+An aircraft with a total passenger capacity of approximately 480 in a two-class layout.
+An aircraft with a landing gear configuration of two sets of four-wheel bogies and a two-wheel nose unit.

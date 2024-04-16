@@ -1,0 +1,20 @@
+An object which has a lever on one side.
+An object which has a screen displaying a variety of symbols, often including cherries, numbers, or bars.
+An object which has a coin insertion slot.
+An object which has a payout tray at the bottom.
+An object which has buttons for placing bets and starting the game.
+An object which has a digital or mechanical display showing the player's credit balance.
+An object which has a panel displaying the winning combinations of symbols and their corresponding payouts.
+An object which has a bill validator for accepting paper currency.
+An object which has a ticket printer for printing out a cashout ticket.
+An object which has a card reader for player's club cards.
+An object which has a top light or candle, a light on top of the machine indicating the machine's status.
+An object which has a theme, often based on popular movies, TV shows, or other cultural references.
+An object which has a "spin" button to start the game after a bet has been placed.
+An object which has a "max bet" button to place the maximum allowed bet.
+An object which has a "change" button to call an attendant for machine or player assistance.
+An object which has a "cash out" button to print a ticket of the cash-out amount.
+An object which has a "service" or "help" button to call an attendant for machine malfunctions or player assistance.
+An object which has a "gamble" button to activate a gamble feature, allowing players to potentially multiply their winnings.
+An object which has a "collect" button to collect the winnings and end the game.
+An object which has a "reserve" button or sign to indicate the machine is reserved or in use.

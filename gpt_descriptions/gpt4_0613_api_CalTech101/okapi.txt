@@ -1,0 +1,15 @@
+An object which has a body shape similar to that of a horse but is slightly more robust.
+An object which has a dark reddish-brown to black coat on the upper body.
+An object which has horizontal white stripes on the legs and hindquarters, resembling a zebra.
+An object which has a long, flexible, blueish tongue, capable of reaching its ears.
+An object which has a small, hair-covered horn-like protrusions on its head, present in males.
+An object which has large, rounded ears with a keen sense of hearing.
+An object which has a white face with a dark, prominent stripe running from each eye towards the mouth.
+An object which has a long neck, similar to a giraffe but not as elongated.
+An object which has a short, bushy, black and white tail.
+An object which has cloven hooves with a dewclaw, similar to that of a deer.
+An object which has a body length ranging from 2.5 to 3 meters and a shoulder height of 1.5 to 2 meters.
+An object which has a weight ranging from 200 to 350 kilograms.
+An object which has a lifespan of 20 to 30 years in the wild.
+An object which is typically found in the rainforest habitat.
+An object which is known to be a solitary and territorial animal.

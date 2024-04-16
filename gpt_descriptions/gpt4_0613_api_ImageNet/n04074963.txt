@@ -1,0 +1,25 @@
+An object which has a rectangular or elongated shape.
+An object which has multiple buttons of different shapes and sizes.
+An object which has a power button usually located at the top.
+An object which has numerical buttons from 0 to 9.
+An object which has buttons for volume control and channel navigation.
+An object which may have specific buttons for functions like 'menu', 'guide', 'info', or 'exit'.
+An object which may have buttons for fast-forward, rewind, play, pause, stop, and record.
+An object which may have a brand logo or name on it.
+An object which may have an infrared transmitter at one end.
+An object which has a battery compartment usually located at the back.
+An object which may have a LED light that blinks or stays on when a button is pressed.
+An object which may have buttons for direct access to streaming services like Netflix, Amazon, Hulu, etc.
+An object which may have a directional pad or arrow keys for navigation.
+An object which may have a mute button.
+An object which may have a backlight for the buttons to be visible in the dark.
+An object which may have a voice control button.
+An object which may have a headphone jack.
+An object which may have a USB port.
+An object which may have a touchpad or a trackball.
+An object which may have a QWERTY keyboard.
+An object which may have a pairing button for connecting to devices.
+An object which may have a button to switch between different devices like TV, DVD, or AUX.
+An object which may have a button to open a disc tray in DVD or Blu-ray players.
+An object which may have a button for screen settings like aspect ratio, brightness, contrast, etc.
+An object which may have a sleep timer button.

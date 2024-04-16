@@ -1,0 +1,20 @@
+An aircraft with two rear-mounted engines.
+An aircraft with a T-tail configuration.
+An aircraft with a longer fuselage compared to other MD series aircraft.
+An aircraft with a pointed nose cone.
+An aircraft with a single aisle in the cabin.
+An aircraft with five abreast seating in the cabin.
+An aircraft with a glass cockpit, which is a distinctive feature compared to older MD series aircraft.
+An aircraft with a slightly angled wingtip, but without winglets.
+An aircraft with a small dorsal fin extending from the top of the tail.
+An aircraft with a clean, unbroken line from nose to tail, without any hump or bump in the fuselage.
+An aircraft with a relatively low stance, with the fuselage closer to the ground compared to other similar-sized aircraft.
+An aircraft with a circular cross-section of the fuselage.
+An aircraft with a relatively short distance between the trailing edge of the wing and the tail.
+An aircraft with a high bypass ratio engines, which are larger and more circular in shape compared to older low bypass ratio engines.
+An aircraft with a relatively large distance between the two engines, compared to other twin-engine rear-mounted aircraft.
+An aircraft with a relatively small vertical stabilizer, compared to the overall size of the aircraft.
+An aircraft with a relatively large horizontal stabilizer, compared to the overall size of the aircraft.
+An aircraft with a relatively large size of the cockpit windows, compared to other MD series aircraft.
+An aircraft with a relatively small size of the passenger windows, compared to other similar-sized aircraft.
+An aircraft with a relatively large size of the cargo door, compared to other MD series aircraft.

@@ -1,0 +1,18 @@
+An object which has one or two wheels at the front.
+An object which has two handles at the rear for pushing and steering.
+An object which has a large basin or container for carrying materials.
+An object which is typically made of metal, wood, or plastic.
+An object which has a flat bottom surface for stability when stationary.
+An object which has a sloping end to facilitate the dumping of materials.
+An object which may have a rubber or pneumatic tire for the wheel.
+An object which is often used in gardening or construction tasks.
+An object which is designed to be pushed using human force.
+An object which may have legs for support when it's not in use.
+An object which is generally larger than a typical bucket or pail.
+An object which is designed for outdoor use.
+An object which may show signs of wear and tear, such as rust or dirt, due to its usage.
+An object which may have a painted surface, often green or red.
+An object which has a shallow depth, allowing for easy loading and unloading of materials.
+An object which is not motorized and relies on manual effort for movement.
+An object which may have a reinforced edge for added strength and durability.
+An object which is designed to distribute the weight of its load between the user and the wheel.

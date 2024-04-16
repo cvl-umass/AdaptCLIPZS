@@ -1,0 +1,15 @@
+An object which has a flat, diamond or kite-shaped body.
+An object which has a long, slender tail often with a spine or barb near the base.
+An object which has a mouth, nostrils, and gill slits located on the underside of the body.
+An object which has eyes on the top of its body.
+An object which has pectoral fins that are large and fused to the head and trunk.
+An object which has a smooth, scaleless, and often slimy body.
+An object which has a color that typically matches the seafloor, often being gray, brown, or black.
+An object which has a tail that can be longer than the body and is sometimes whip-like in appearance.
+An object which has small, tooth-like structures called denticles covering its skin.
+An object which has ventral gill slits that form a 'smile' like appearance on the underside.
+An object which has a pair of cephalic fins at the front of its body, used for maneuvering and digging in the sand.
+An object which has a spine or barb on its tail that can be venomous.
+An object which has a body that is wider than it is long.
+An object which has a lack of dorsal fins.
+An object which has a tail that lacks a fin and is not flattened at the end.

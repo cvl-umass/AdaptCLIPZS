@@ -1,0 +1,20 @@
+An object which has a long, S-shaped neck.
+An object which has a large, yellow bill.
+An object which has black legs and feet.
+An object which has a pure white plumage.
+An object which has a body length of approximately 37-41 inches.
+An object which has a wingspan of approximately 51-57 inches.
+An object which has a long, pointed beak.
+An object which has a slender, elongated body.
+An object which has a straight, upright posture when standing.
+An object which has a flight pattern with its neck retracted.
+An object which has a diet primarily consisting of fish, frogs, and small mammals.
+An object which is often found in wetlands, marshes, ponds, and shores.
+An object which has a slow and graceful flight.
+An object which has a breeding plumage featuring long, ornamental feathers on its back.
+An object which has a tendency to nest in trees, often in large colonies.
+An object which has a distinctive "kow-kow-kow" call.
+An object which has a non-breeding plumage that lacks the long ornamental feathers.
+An object which has a straight and sharp bill for catching prey.
+An object which has a greenish-yellow facial skin during the breeding season.
+An object which has a habit of standing still and waiting to ambush prey.

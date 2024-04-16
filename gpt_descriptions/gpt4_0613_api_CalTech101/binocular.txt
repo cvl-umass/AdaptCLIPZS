@@ -1,0 +1,25 @@
+An object which has two cylindrical or conical tubes aligned side by side.
+An object which has two large lenses on one end of the tubes, known as the objective lenses.
+An object which has two smaller lenses on the other end of the tubes, known as the eyepiece lenses.
+An object which has a central focusing wheel between the two tubes.
+An object which may have a diopter adjustment ring on one of the eyepieces.
+An object which may have a neck strap attached to it.
+An object which may have a rubber or plastic coating for grip and protection.
+An object which may have lens caps on the objective lenses.
+An object which may have a tripod mount on the underside.
+An object which may have markings indicating magnification power and objective lens diameter.
+An object which may have a brand name or logo on it.
+An object which may come with a carrying case.
+An object which may have a range finder reticle in the view.
+An object which may have a compass or other navigational aids built into it.
+An object which may have an image stabilization feature.
+An object which may have a night vision capability.
+An object which may have a waterproof or fog-proof feature.
+An object which may have a zoom function.
+An object which may have a roof prism or Porro prism design.
+An object which may have a single or double bridge design.
+An object which may have adjustable eyecups for users with glasses.
+An object which may have a rubber armor for shock resistance.
+An object which may have a reticle for measuring distance or size of objects.
+An object which may have a built-in camera or video recording feature.
+An object which may have a laser rangefinder feature.

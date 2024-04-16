@@ -1,0 +1,14 @@
+An object which has a pattern of hexagonal cells.
+An object which is typically yellow to golden in color.
+An object which has a waxy texture.
+An object which may contain traces of honey or beeswax.
+An object which may have bees present or nearby.
+An object which has a structure that is lightweight yet strong.
+An object which may have varying degrees of transparency.
+An object which may contain bee larvae or pollen in some cells.
+An object which has a natural, organic appearance.
+An object which may have irregular edges or broken cells.
+An object which may have a shiny or glossy surface due to the presence of honey.
+An object which may have a depth, as the hexagonal cells are not flat but tubular.
+An object which may show signs of being attached to a larger structure, like a hive or a tree.
+An object which may have a sweet, floral smell.

@@ -1,0 +1,14 @@
+An object which has a compact, robust, and bear-like body.
+An object which possesses a large, round head with small eyes and ears.
+An object which has a short, muscular neck.
+An object which displays a thick, coarse fur that can range from sandy to brown or black.
+An object which has a distinctive, small, stubby tail.
+An object which exhibits strong, sharp claws used for digging.
+An object which has a slow, waddling gait but can run fast if needed.
+An object which has a unique backward-facing pouch.
+An object which is typically seen alone, indicating solitary behavior.
+An object which is usually found in burrows, indicating a burrowing lifestyle.
+An object which has a size ranging from about 1 to 1.3 meters in length.
+An object which has a unique cubic feces, a characteristic feature of wombats.
+An object which is nocturnal, most active during twilight or night.
+An object which is typically found in the Australian environment, indicating its native habitat.

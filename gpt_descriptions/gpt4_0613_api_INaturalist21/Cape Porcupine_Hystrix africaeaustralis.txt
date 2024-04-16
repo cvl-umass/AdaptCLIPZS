@@ -1,0 +1,18 @@
+Mammal with long, sharp quills covering its body.
+Mammal with a body length of up to 81 cm (excluding the tail).
+Mammal with a tail length of up to 20 cm, which is covered in shorter quills.
+Mammal with a small head and large, robust body.
+Mammal with a black or dark brown coloration, with white or yellowish quills.
+Mammal with a crest of long, bristly hairs running down its back.
+Mammal with short, strong legs.
+Mammal with large, sharp claws used for digging.
+Mammal with small, rounded ears.
+Mammal with a blunt, rounded nose.
+Mammal with a characteristic defensive posture, raising and spreading its quills when threatened.
+Mammal with a tendency to inhabit rocky outcrops and hills, which can be a habitat cue.
+Mammal that is native to southern and southwestern Africa, which can be a geographical cue.
+Mammal with a nocturnal lifestyle, which can be a behavioral cue.
+Mammal with a diet primarily consisting of plant material, which can be a dietary cue.
+Mammal with a habit of digging burrows for shelter, which can be a habitat cue.
+Mammal with a characteristic rattling sound produced by its quills when threatened.
+Mammal with a tendency to live in pairs or small family groups, which can be a social behavior cue.

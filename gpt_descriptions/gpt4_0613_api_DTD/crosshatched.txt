@@ -1,0 +1,10 @@
+A texture which features a series of intersecting lines at an angle to each other.
+A texture which displays a pattern of parallel lines crossing another set of parallel lines.
+A texture which has a grid-like appearance due to the crossing lines.
+A texture which often resembles woven fabric due to the crisscross pattern.
+A texture which can appear to have depth or three-dimensionality due to the overlapping lines.
+A texture which may have varying line thickness and spacing, creating a sense of density or sparsity.
+A texture which can be regular with evenly spaced lines, or irregular with varying line angles and distances.
+A texture which may show lines crossing at right angles, or at other angles for a more complex pattern.
+A texture which can be created with different mediums, resulting in different visual effects, such as pencil for a softer look or ink for a more bold appearance.
+A texture which, despite its complexity, typically maintains a consistent pattern throughout.

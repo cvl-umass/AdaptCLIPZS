@@ -1,0 +1,20 @@
+An object which has a portafilter, a handle with a cup-like end used to hold ground coffee.
+An object which has a steam wand, a thin pipe used to steam and froth milk.
+An object which has a water reservoir or a direct connection to a water source.
+An object which has a group head, where the portafilter attaches to the machine.
+An object which has a drip tray, a removable tray to catch any spilled coffee or water.
+An object which has a pressure gauge, a dial that shows the pressure of the water being forced through the coffee.
+An object which has a power switch and possibly additional buttons or dials for different functions.
+An object which has a heating element, to heat the water to the correct temperature.
+An object which has a boiler or thermoblock, to heat water for brewing and steaming.
+An object which has a pump, to force water through the coffee at the correct pressure.
+An object which has a tamper, a tool used to compact the coffee grounds in the portafilter.
+An object which has a hot water spout, for dispensing hot water.
+An object which has a grinder, either built-in or separate, to grind coffee beans to the correct consistency.
+An object which has a milk frother or steamer, for frothing milk for cappuccinos and lattes.
+An object which has a cup warmer, a heated surface on top of the machine to keep cups warm.
+An object which has a bean hopper, a container on top of the machine where coffee beans are stored.
+An object which has a doser, a device that measures out a portion of coffee grounds.
+An object which has a cleaning tool, for cleaning the machine after use.
+An object which has a pressure relief valve, a safety feature that releases pressure if it gets too high.
+An object which has a water filter, to remove impurities from the water before it is used to brew coffee.

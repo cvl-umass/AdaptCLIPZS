@@ -1,0 +1,17 @@
+An object which has two connected, inverted glass bulbs.
+An object which contains sand or another granular substance that trickles from one bulb to the other.
+An object which is symmetrical along its vertical axis.
+An object which has a narrow constriction in the middle where the two bulbs meet.
+An object which is often used as a symbol for the passage of time.
+An object which can be flipped over to start the flow of sand again.
+An object which has a frame, often made of wood or metal, holding the glass bulbs in place.
+An object which the sand takes a specific amount of time to flow from the top bulb to the bottom.
+An object which is often seen in old movies or pirate-themed media as a way to keep time.
+An object which is sometimes used in board games as a timer.
+An object which is sometimes used in cooking to time the cooking process.
+An object which is sometimes used in meditation or yoga practices to time sessions.
+An object which is sometimes used in classrooms to time tests or activities.
+An object which is sometimes used in psychological testing to measure patience or time perception.
+An object which is sometimes used in magic tricks or illusions.
+An object which is sometimes used as a decorative piece in homes or offices.
+An object which is sometimes used as a metaphor in literature or art to represent the fleeting nature of life.

@@ -1,0 +1,14 @@
+An object which has a circular or square face with numbers from 1 to 12 arranged in a circular pattern.
+An object which has two or three hands that move in a circular motion.
+An object which has a shorter hand to indicate the hour and a longer hand to indicate the minute.
+An object which may have a third, thinner hand that moves quickly to indicate seconds.
+An object which may have small, additional dials or displays showing the date or moon phase.
+An object which may have markings or numbers in between the hour numbers to indicate minutes.
+An object which may have a glass or plastic cover over the face to protect the hands.
+An object which may have a frame or casing made of various materials such as plastic, wood, or metal.
+An object which may have a pendulum swinging back and forth beneath it.
+An object which may have a winding mechanism or battery compartment on the back or side.
+An object which may have an alarm function, indicated by an additional hand or a small bell on top.
+An object which may have luminous paint on the hands and numbers to make them visible in the dark.
+An object which may have brand names, logos, or other identifying marks on the face or back.
+An object which may be mounted on a wall, placed on a desk, or designed to be portable.

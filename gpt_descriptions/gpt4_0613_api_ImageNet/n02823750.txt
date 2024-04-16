@@ -1,0 +1,18 @@
+An object which has a cylindrical shape, often tapering towards the base.
+An object which is made of transparent or translucent material, typically glass.
+An object which has a handle on one side, especially in the case of beer mugs or steins.
+An object which can hold liquid, evident from its hollow interior.
+An object which may have a stem and a foot, similar to a wine glass, in the case of certain types of beer glasses like goblets or chalices.
+An object which may have a wider top than bottom, allowing for a head of foam, particularly in the case of pilsner glasses.
+An object which may have a bulbous body with a narrow top, like a snifter, used for strong ales and Belgian beers.
+An object which may have a slight curve or flare out at the top, like a tulip glass.
+An object which may have a thick base, especially in the case of a pint glass.
+An object which may have engraved or printed brand logos or beer names.
+An object which may have measurement markings, indicating the volume of beer it can hold.
+An object which may have a rim that is either straight or slightly curved outwards.
+An object which may be taller than it is wide, especially in the case of a weizen glass.
+An object which may have a round bowl on top of a stem, like a schooner glass.
+An object which may have a heavy and sturdy appearance, particularly in the case of beer mugs or steins.
+An object which may have a conical shape, like a stange glass, used for certain German beers.
+An object which may have a slender and tall body, like a flute glass, used for light and effervescent beers.
+An object which may have a wide and shallow bowl, like a saucer, in the case of a lambic glass.

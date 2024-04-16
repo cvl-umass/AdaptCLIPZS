@@ -1,0 +1,20 @@
+An object which has a central body with a keyboard on one side.
+An object which has a series of buttons on the other side of the central body.
+An object which has two bellows on either side of the central body that can be expanded and contracted.
+An object which has a series of reeds that produce sound when air is forced over them.
+An object which has straps attached to it for holding or carrying.
+An object which is often decorated with intricate designs or patterns.
+An object which is typically made of materials like wood, metal, and plastic.
+An object which can vary in size but is typically large enough to be played with both hands.
+An object which may have a grille on one side to allow sound to escape.
+An object which may have a variety of different numbers of keys and buttons, depending on the specific model.
+An object which may have keys that are either piano-style or button-style.
+An object which may have buttons on the left-hand manual that are used to play bass notes and chords.
+An object which may have a lock for the bellows to keep them in place when not in use.
+An object which may have a back pad to protect the bellows from wear and tear.
+An object which may have a thumb strap on the right-hand manual to provide stability while playing.
+An object which may have a knee lever to change registers while playing.
+An object which may have a switch to change the tone color of the instrument.
+An object which may have a chin switch to allow for quick register changes.
+An object which may have a bass machine to allow for quick changes in the bass buttons.
+An object which may have a bellows strap to secure the bellows when not in use.

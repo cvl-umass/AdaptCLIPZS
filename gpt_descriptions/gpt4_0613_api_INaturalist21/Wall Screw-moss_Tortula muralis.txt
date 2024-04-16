@@ -1,0 +1,27 @@
+The plant with a dark green to brownish color.
+The plant with leaves that are oblong-lanceolate and up to 3mm long.
+The plant with a leaf tip that is pointed and often curved.
+The plant with a leaf margin that is entire or slightly toothed towards the tip.
+The plant with a leaf base that is slightly decurrent.
+The plant with a leaf surface that is smooth or slightly rough.
+The plant with a leaf midrib that is strong and extends to the leaf tip.
+The plant with a leaf cross-section that is concave on the upper surface and convex on the lower surface.
+The plant with a stem that is erect or ascending, and up to 10cm long.
+The plant with a stem cross-section that is circular or slightly compressed.
+The plant with a stem surface that is smooth or slightly rough.
+The plant with a stem color that is green to brown.
+The plant with a stem cortex that is composed of 2-3 layers of cells.
+The plant with a stem central strand that is absent.
+The plant with a stem leaf arrangement that is crowded and overlapping.
+The plant with a stem leaf shape that is similar to the branch leaves.
+The plant with a stem leaf cross-section that is concave on the upper surface and convex on the lower surface.
+The plant with a stem leaf midrib that is strong and extends to the leaf tip.
+The plant with a stem leaf margin that is entire or slightly toothed towards the tip.
+The plant with a stem leaf base that is slightly decurrent.
+The plant with a stem leaf surface that is smooth or slightly rough.
+The plant with a stem leaf color that is green to brown.
+The plant with a habitat that is typically on walls, rocks, or tree bases.
+The plant with a distribution that is widespread and common throughout the UK and Ireland.
+The plant with a sporophyte that is frequent, with a seta that is up to 2cm long and a capsule that is cylindrical and curved.
+The plant with a calyptra that is smooth and covers the capsule.
+The plant with a peristome that is single and toothed.

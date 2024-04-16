@@ -1,0 +1,18 @@
+An object which has a circular or rectangular shape.
+An object which contains a needle or arrow that is often red or white.
+An object which has cardinal directions (North, South, East, West) marked on it.
+An object which may have additional direction markings such as NE, SE, SW, NW.
+An object which may have a rotating bezel around the edge.
+An object which may have degree markings from 0 to 360 around the edge.
+An object which may have a liquid-filled chamber to stabilize the needle.
+An object which may have a sighting mirror for more accurate readings.
+An object which may have a baseplate with a ruler or scale for map reading.
+An object which may have a lanyard or strap attached for carrying.
+An object which may have a declination adjustment feature.
+An object which may have a luminous marking for low light conditions.
+An object which may have a clinometer to measure angles of slope.
+An object which may have a magnifying lens for map reading.
+An object which may have a global needle for use in different hemispheres.
+An object which may have a sighting notch or line for aligning with landmarks.
+An object which may have a bubble level to ensure accurate readings.
+An object which may have a protective cover or case.

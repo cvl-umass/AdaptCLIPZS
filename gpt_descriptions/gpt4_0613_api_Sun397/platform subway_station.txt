@@ -1,0 +1,20 @@
+A scene which features a long, narrow platform area.
+A scene which includes tracks running parallel to the platform.
+A scene which displays overhead electric lines or third rail for powering trains.
+A scene which shows signage indicating directions, station names, or safety instructions.
+A scene which contains benches or seating areas along the platform.
+A scene which has a distinctive tiled or concrete floor.
+A scene which features a tunnel-like structure or enclosed area.
+A scene which includes staircases, escalators, or elevators leading to the platform.
+A scene which displays a ticket booth or automated ticket machines.
+A scene which shows people waiting, often looking at the direction from where the train will arrive.
+A scene which includes a distinctive yellow or white safety line along the edge of the platform.
+A scene which features large, often rectangular pillars supporting the station structure.
+A scene which displays digital or analog clocks showing the current time.
+A scene which includes maps or diagrams of the subway network.
+A scene which shows a train either stationary or moving along the tracks.
+A scene which features trash cans, recycling bins, or other waste disposal units.
+A scene which includes security cameras or other surveillance equipment.
+A scene which displays advertising billboards or posters.
+A scene which shows lighting fixtures, often fluorescent, hanging from the ceiling or mounted on the walls.
+A scene which includes emergency exits or fire safety equipment.

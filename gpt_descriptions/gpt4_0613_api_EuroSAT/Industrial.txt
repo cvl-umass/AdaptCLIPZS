@@ -1,0 +1,20 @@
+A satellite image which shows large, rectangular or square buildings closely packed together.
+A satellite image which displays extensive paved areas for parking and loading docks.
+A satellite image which reveals uniform, geometric building structures, often in a grid-like pattern.
+A satellite image which shows large open spaces or yards for storage of goods.
+A satellite image which displays structures with large rooftops, often made of metal or other reflective materials.
+A satellite image which reveals smokestacks or cooling towers, indicative of manufacturing or power generation.
+A satellite image which shows rail lines or shipping docks, suggesting the transport of goods.
+A satellite image which displays large, flat areas of concrete or asphalt, often used for vehicle movement and storage.
+A satellite image which reveals areas of bare ground or soil, often seen around construction or storage sites.
+A satellite image which shows distinct boundaries or fences around the property.
+A satellite image which displays large, outdoor tanks or reservoirs, often used for storage of liquids or gases.
+A satellite image which reveals a lack of vegetation, as industrial areas often have little to no greenery.
+A satellite image which shows straight, wide roads for easy access of heavy vehicles.
+A satellite image which displays a lack of residential buildings in the immediate vicinity.
+A satellite image which reveals a close proximity to major transportation routes, such as highways or railways.
+A satellite image which shows a high level of night-time illumination, indicative of 24-hour operations.
+A satellite image which displays a lack of natural features like rivers, forests, or hills within the area.
+A satellite image which reveals a high degree of land modification, such as grading or leveling.
+A satellite image which shows a close proximity to ports or airports, suggesting the import or export of goods.
+A satellite image which displays a high degree of spatial organization, with buildings and infrastructure arranged in a systematic manner.

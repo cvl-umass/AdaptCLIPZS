@@ -1,0 +1,20 @@
+An object which has a flat surface with raised edges.
+An object which is typically rectangular or circular in shape.
+An object which may have handles on the sides for easy carrying.
+An object which can be made from a variety of materials such as plastic, metal, wood, or ceramic.
+An object which may have a pattern or design on the surface.
+An object which is often used to carry or hold other items.
+An object which may have compartments or sections for organizing items.
+An object which can be of different sizes, from small to large.
+An object which may have a glossy, matte, or textured finish.
+An object which may be stackable with others of its kind.
+An object which may have a lip or rim around the edge.
+An object which may be lightweight or heavy depending on the material.
+An object which may be dishwasher safe or require hand washing.
+An object which may be heat resistant, especially if it's used for serving hot food.
+An object which may have a brand name or logo printed or embossed on it.
+An object which may have rubber or non-slip grips on the bottom.
+An object which may have a decorative or ornamental design, especially if it's used for serving.
+An object which may be foldable or collapsible for easy storage.
+An object which may have a mirror-like reflective surface, especially if it's made of metal.
+An object which may have a vintage or antique look, especially if it's made of wood or metal.

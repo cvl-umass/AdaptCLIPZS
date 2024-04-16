@@ -1,0 +1,14 @@
+A pet which has a compact, muscular and sturdy body.
+A pet which has a smooth, short and shiny coat.
+A pet which has a coat color that is either solid red, stag red, blue stag red, chocolate stag red, fawn stag red, or black with rust-red markings.
+A pet which has a distinctive high-set tail, often docked.
+A pet which has a wedge-shaped head with a tapered muzzle.
+A pet which has dark, oval eyes that are full of energy and intelligence.
+A pet which has high-set ears that can be cropped or left natural.
+A pet which has a proud, vigorous gait.
+A pet which is small in size, typically weighing between 8 to 12 pounds.
+A pet which has a height that ranges from 10 to 12.5 inches at the shoulder.
+A pet which has a characteristic 'hackney' gait, similar to that of a horse.
+A pet which has a strong, slightly arched neck without dewlap.
+A pet which has a level or slightly sloping croup.
+A pet which has a strong, straight back.

@@ -1,0 +1,18 @@
+An object which has a rectangular shape with numerous small, square or rectangular buttons.
+An object which features a QWERTY layout, commonly used in English language keyboards.
+An object which has keys marked with letters of the alphabet, numbers, and special characters.
+An object which includes function keys, typically labeled F1 through F12.
+An object which has a space bar located at the bottom center.
+An object which includes a set of arrow keys for navigation.
+An object which has a number pad on the right side, similar to a calculator layout.
+An object which includes keys for 'Enter', 'Shift', 'Ctrl', 'Alt', and 'Backspace'.
+An object which may have LED indicators for 'Caps Lock', 'Num Lock', and 'Scroll Lock'.
+An object which may have multimedia keys for volume control, play/pause, and other functions.
+An object which may have a logo or brand name printed on it.
+An object which may have a USB or wireless connector for interfacing with a computer.
+An object which may have a palm rest at the bottom.
+An object which may have keys with backlight for visibility in low light.
+An object which may have programmable keys, often found on gaming keyboards.
+An object which may have keys with different colors or designs, especially on gaming or customized keyboards.
+An object which may have a trackpad or a trackball integrated, often found on wireless keyboards.
+An object which may have keys with braille or other tactile markings for visually impaired users.

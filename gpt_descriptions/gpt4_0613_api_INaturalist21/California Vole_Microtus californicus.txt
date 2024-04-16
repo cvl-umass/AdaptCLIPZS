@@ -1,0 +1,18 @@
+Mammal with a small, compact body.
+Mammal with a short tail, typically half the length of its body.
+Mammal with a dense, soft fur that is generally brown or gray.
+Mammal with small, rounded ears that are often hidden in its fur.
+Mammal with small, black eyes.
+Mammal with a blunt, rounded snout.
+Mammal with a body length typically ranging from 5.5 to 8.5 inches.
+Mammal with a weight typically ranging from 1.5 to 3.5 ounces.
+Mammal with a diet primarily consisting of grasses and seeds, indicating a habitat with abundant vegetation.
+Mammal that is often found in meadows, grasslands, and along the edges of marshes, indicating a preference for moist habitats.
+Mammal that is native to California, suggesting a habitat within this geographical region.
+Mammal that is often found near water sources, indicating a habitat near rivers, streams, or ponds.
+Mammal with a tendency to create extensive burrow systems, suggesting a habitat with soft, easily dug soil.
+Mammal that is most active during the dawn and dusk, indicating a crepuscular lifestyle.
+Mammal with a short lifespan, typically 1 to 2 years in the wild.
+Mammal that is known to be a significant prey item for many predators, suggesting a lower position in the food chain.
+Mammal with a high reproductive rate, often having multiple litters per year.
+Mammal that is not typically found in urban or heavily developed areas, suggesting a preference for more natural, undisturbed habitats.

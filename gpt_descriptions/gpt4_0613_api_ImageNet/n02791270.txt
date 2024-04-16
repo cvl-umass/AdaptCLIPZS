@@ -1,0 +1,20 @@
+An object which has a barber pole, often red, white, and blue, spinning outside.
+An object which contains multiple barber chairs, usually with a footrest and a hydraulic lift system.
+An object which has a large mirror or mirrors along the walls.
+An object which has a waiting area with chairs and magazines.
+An object which has a display of hair care products for sale.
+An object which has a counter or desk for reception and payment.
+An object which has a variety of hair cutting tools like scissors, razors, and clippers.
+An object which has a sink or sinks for washing hair.
+An object which has a display of different hairstyles or haircuts on the wall.
+An object which has a floor covered in hair clippings.
+An object which has a coat rack or hooks for hanging customers' jackets and personal belongings.
+An object which has a tip jar on the counter.
+An object which has a cash register or a modern point-of-sale system.
+An object which has barber capes for covering customers during haircuts.
+An object which has a hot towel warmer.
+An object which has a sterilizer for barber tools.
+An object which has a shaving brush and bowl.
+An object which has a barber's mat on the floor for comfort during long periods of standing.
+An object which has a neon sign or other signage indicating it's a barbershop.
+An object which has a certificate of the barber's professional qualifications displayed.

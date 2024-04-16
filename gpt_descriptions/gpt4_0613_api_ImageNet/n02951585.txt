@@ -1,0 +1,15 @@
+An object which has a sharp, rotating cutting wheel.
+An object which has a handle or knob for turning the cutting wheel.
+An object which has a second, smaller wheel or gear that grips the can's rim.
+An object which has a lever or handle for applying pressure to the cutting wheel.
+An object which has a pointed part, often called a 'spur', used to puncture the can lid.
+An object which may have a bottle opener incorporated into its design.
+An object which may be manual or electric in operation.
+An object which is typically made of metal, such as stainless steel or aluminum.
+An object which may have rubber or plastic elements for comfort and grip.
+An object which is small enough to be held in one hand.
+An object which may have a magnet to hold the cut lid and prevent it from falling into the can.
+An object which may have a locking mechanism to secure the can during the opening process.
+An object which may have a curved shape to accommodate the round edge of a can.
+An object which may have a foldable design for compact storage.
+An object which may have a hanging hole at the end of the handle for easy storage.

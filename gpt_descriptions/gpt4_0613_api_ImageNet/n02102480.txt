@@ -1,0 +1,16 @@
+An object which has a long, low, rectangular body shape.
+An object which has a dense, wavy or slightly curly coat.
+An object which has a coat color that is rich golden liver or dark chestnut.
+An object which has a broad, massive head with a well-developed occiput.
+An object which has a medium-sized, hazel or brown eyes that are set wide apart.
+An object which has a medium-length, thick ears that are set at eye level and hang down.
+An object which has a strong, muscular neck.
+An object which has a deep chest that extends to the elbows.
+An object which has a level or slightly sloping topline.
+An object which has a tail that is set low and typically docked.
+An object which has a strong, muscular hindquarters.
+An object which has a medium-sized, round feet with thick pads.
+An object which has a friendly and calm expression.
+An object which has a size that ranges from 13 to 15 inches at the shoulder.
+An object which has a weight that ranges from 35 to 45 pounds.
+An object which has a moderate gait with good reach and drive.

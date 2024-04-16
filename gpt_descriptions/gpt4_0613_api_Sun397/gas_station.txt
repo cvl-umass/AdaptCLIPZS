@@ -1,0 +1,20 @@
+A scene which features fuel pumps with hoses and nozzles.
+A scene which includes a small convenience store or kiosk.
+A scene which displays large signs with fuel prices.
+A scene which has vehicles parked briefly and not for long durations.
+A scene which shows large, overhead canopies.
+A scene which has bright, often fluorescent lighting.
+A scene which includes fuel company logos or branding.
+A scene which features payment terminals or cash registers.
+A scene which has designated parking spaces for refueling.
+A scene which shows fuel storage tanks, often partially buried.
+A scene which includes air and water refill stations.
+A scene which features drive-through lanes.
+A scene which has safety signs such as 'No Smoking'.
+A scene which includes employees wearing uniforms of fuel companies.
+A scene which shows people briefly stopping their cars, refueling, and leaving.
+A scene which features a car wash facility.
+A scene which includes advertisements for car-related products.
+A scene which shows restrooms or other amenities for travelers.
+A scene which features a trash and recycling area.
+A scene which includes a propane exchange area.

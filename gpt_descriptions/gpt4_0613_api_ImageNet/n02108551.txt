@@ -1,0 +1,20 @@
+An object which has a powerful, heavy, and muscular body.
+An object which has a broad and strong head.
+An object which has a double coat with a heavy mane around the neck.
+An object which has a coat color that can range from black, brown, red, blue, cream, or gold.
+An object which has a tail that is feathered and curls over the back.
+An object which has deep-set, almond-shaped eyes that are brown in color.
+An object which has V-shaped ears that hang down close to the head.
+An object which has a large and wide nose that is usually black.
+An object which has a strong jaw with a perfect scissor bite.
+An object which has a height that ranges from 24 to 26 inches for females and 26 to 29 inches for males.
+An object which has a weight that ranges from 70 to 120 pounds for females and 90 to 150 pounds for males.
+An object which has a body that is slightly longer than it is tall.
+An object which has a broad and deep chest.
+An object which has strong and muscular hindquarters.
+An object which has a slow, deliberate gait.
+An object which has a calm and aloof expression.
+An object which has a dense undercoat and coarse outer coat.
+An object which has a coat that is noticeably heavier and thicker in males than in females.
+An object which has a heavy brow and a powerful neck.
+An object which has a strong and level back.

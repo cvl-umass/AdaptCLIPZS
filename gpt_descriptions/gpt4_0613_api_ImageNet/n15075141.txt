@@ -1,0 +1,20 @@
+An object which is typically white in color.
+An object which is cylindrical in shape.
+An object which has a hollow center.
+An object which is made of thin, soft material.
+An object which is perforated at regular intervals.
+An object which is often found in a roll form.
+An object which is lightweight and easily tearable.
+An object which has a texture that is soft to the touch.
+An object which is often found in bathrooms.
+An object which is typically sold in multi-roll packs.
+An object which may have a pattern or embossing on its surface.
+An object which is designed to disintegrate in water.
+An object which is typically used for personal hygiene.
+An object which may be two-ply or three-ply, indicating the number of layers.
+An object which may be scented or unscented.
+An object which may be made from recycled paper or virgin pulp.
+An object which is biodegradable.
+An object which is not reusable.
+An object which is typically disposed of after a single use.
+An object which may come in different sizes, typically measured by the number of sheets per roll.

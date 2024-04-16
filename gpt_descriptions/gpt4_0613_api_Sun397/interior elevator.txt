@@ -1,0 +1,18 @@
+A scene which features a small, enclosed space with a single door.
+A scene which includes a panel with buttons indicating different floor numbers.
+A scene which has a digital display showing the current floor or direction of movement.
+A scene which contains a handrail or grab bar along the walls.
+A scene which has a mirror on one or more walls.
+A scene which features a ceiling with embedded lights.
+A scene which includes a closed-circuit camera in one of the corners.
+A scene which has a carpeted or tiled floor.
+A scene which shows an emergency phone or button.
+A scene which includes a capacity sign indicating the maximum number of people or weight limit.
+A scene which features a ventilation system on the ceiling.
+A scene which has a metallic or glossy finish on the walls.
+A scene which includes a door with a vertical split in the middle.
+A scene which shows a small rectangular space with no windows.
+A scene which includes a 'door open' and 'door close' button on the control panel.
+A scene which features a uniform, often artificial lighting.
+A scene which shows a flat and unobstructed floor space.
+A scene which includes braille signage or instructions for visually impaired individuals.

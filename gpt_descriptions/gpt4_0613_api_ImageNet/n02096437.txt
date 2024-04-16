@@ -1,0 +1,15 @@
+An object which has a long body in comparison to its height.
+An object which has a unique 'pencil' tail that tapers to a point.
+An object which has large, round, expressive eyes that are dark hazel in color.
+An object which has a large head covered with soft, silky hair.
+An object which has a distinctive 'top-knot' of hair on the head.
+An object which has short legs, with the front legs being particularly muscular.
+An object which has a deep chest and a well-arched loin.
+An object which has a double coat, with a softer undercoat and a harsher topcoat.
+An object which has a coat color that is either pepper (ranging from dark bluish black to light silvery grey) or mustard (ranging from reddish brown to pale fawn).
+An object which has a low-set, pendulous ears covered with long, straight hair.
+An object which has a strong jaw with a scissor bite.
+An object which has a confident and dignified demeanor.
+An object which has a height that ranges from 8 to 11 inches at the shoulder.
+An object which has a weight that ranges from 18 to 24 pounds.
+An object which has a lifespan typically between 12 to 15 years.

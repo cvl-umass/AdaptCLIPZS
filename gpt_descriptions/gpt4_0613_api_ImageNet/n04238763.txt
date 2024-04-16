@@ -1,0 +1,20 @@
+An object which has a linear or circular scale.
+An object which has a movable component that slides along the main scale.
+An object which has a cursor, or indicator, often with a hairline that aligns with the scale.
+An object which has logarithmic scales, and additional scales for mathematical functions.
+An object which is typically long and narrow, often made of plastic, metal, or wood.
+An object which may have a magnifying lens for reading small divisions.
+An object which may have multiple scales on both sides.
+An object which may have a reversible slide for more scale options.
+An object which may have a locking mechanism to hold the slide in place.
+An object which may have additional scales for specialized calculations, such as for engineering, aviation, or finance.
+An object which may have engraved or printed numbers and lines along its length.
+An object which may have a protective case or sleeve.
+An object which may have a stylus for precise alignment.
+An object which may have a pivot point for circular slide rules.
+An object which may have a transparent cursor to read off the result without parallax error.
+An object which may have a back-to-back arrangement for more complex calculations.
+An object which may have a folded scale to increase resolution.
+An object which may have a hyperbolic scale for direct multiplication and division.
+An object which may have a circular slide rule for compactness and ease of use.
+An object which may have a duplex slide rule for more functionality.

@@ -1,0 +1,20 @@
+An object which has a bright red or orange coat.
+An object which has a long bushy tail often with a white tip.
+An object which has pointed ears and a pointed snout.
+An object which has black legs and feet.
+An object which has a white underbelly and throat.
+An object which has a size similar to a small to medium-sized dog.
+An object which has a slender and elongated body.
+An object which has a pair of golden or yellow eyes.
+An object which has a black patch on the nose.
+An object which has a body length of about 45-90 cm, excluding the tail.
+An object which has a tail length of about 30-55 cm.
+An object which has a weight ranging from 2.2 to 14 kg.
+An object which has a pair of sharp, non-retractable claws.
+An object which has a pair of small, rounded, and dark pupils.
+An object which has a pair of large, triangular ears.
+An object which has a slight arch in its back.
+An object which has a dense underfur that is covered by guard hairs.
+An object which has a muzzle that is longer and more pointed than that of domestic dogs.
+An object which has a pair of whiskers on its face.
+An object which has a pair of canine teeth that are longer and sharper than the rest of its teeth.

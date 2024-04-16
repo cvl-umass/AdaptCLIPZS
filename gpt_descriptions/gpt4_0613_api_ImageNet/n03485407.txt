@@ -1,0 +1,20 @@
+An object which has a small, portable size, typically smaller than a notebook or a laptop.
+An object which has a touchscreen interface or a miniaturized keyboard.
+An object which has a rechargeable battery for power.
+An object which has a built-in operating system.
+An object which has wireless connectivity options such as Wi-Fi or Bluetooth.
+An object which has one or more ports for data transfer or charging.
+An object which has a built-in storage capacity for storing data and applications.
+An object which has a camera lens, typically on the back or front.
+An object which has a speaker and a microphone for audio input and output.
+An object which has a slot for inserting a SIM card or a memory card.
+An object which has a display screen that can show graphics and text.
+An object which has physical buttons for power, volume control, or navigation.
+An object which has a casing, often made of plastic, metal, or glass.
+An object which has a logo or brand name, typically on the back or front.
+An object which has a headphone jack or a port for audio devices.
+An object which has sensors such as an accelerometer, gyroscope, or proximity sensor.
+An object which has a stylus or a pen for input, in some cases.
+An object which has a protective case or cover, in some cases.
+An object which has a stand or a holder, in some cases.
+An object which has a docking station or a charging pad, in some cases.

@@ -1,0 +1,15 @@
+An object which shows a steep, nearly vertical rock face.
+An object which displays a significant change in elevation from one point to another.
+An object which has a sharp contrast between a high plateau or flat terrain and a deep valley or ocean below.
+An object which shows a rugged, rocky terrain with a sudden drop-off.
+An object which may have vegetation growing on the top and/or sides, but not on the vertical face.
+An object which may show signs of erosion or weathering, such as cracks or loose rocks.
+An object which may have water bodies such as a river, sea, or lake at the bottom.
+An object which may have birds or other wildlife nesting or perched on the edges.
+An object which may show signs of human activity, such as climbing equipment or trails leading to the edge.
+An object which may cast a long shadow if the photo is taken during certain times of the day.
+An object which may be covered in snow or ice if located in a cold climate.
+An object which may show layers of sediment or different colored rock if the cliff is made of sedimentary rock.
+An object which may have a waterfall flowing over the edge if there is a water source at the top.
+An object which may show a panoramic view of the surrounding landscape from the top.
+An object which may be part of a larger mountain or hill, with the cliff being one face of the larger formation.

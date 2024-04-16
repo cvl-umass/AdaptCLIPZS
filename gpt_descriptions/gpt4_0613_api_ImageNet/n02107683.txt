@@ -1,0 +1,15 @@
+An object which has a tri-colored coat, typically black, white, and rust.
+An object which has a white chest and a white blaze that runs up the center of the face.
+An object which has rust-colored markings above the eyes.
+An object which has a large, powerful, and sturdy body.
+An object which has a broad head and a slightly furrowed brow.
+An object which has medium-sized, triangular ears set high and rounded at the top.
+An object which has dark brown, almond-shaped eyes.
+An object which has a bushy tail that is carried low.
+An object which has a thick double coat that is slightly wavy or straight.
+An object which has a height typically between 23 to 27.5 inches at the shoulder for males, and 21.5 to 26 inches for females.
+An object which has a weight typically between 80 to 115 pounds for males, and 70 to 95 pounds for females.
+An object which has a gentle and calm expression.
+An object which has strong, straight legs with a good bone structure.
+An object which has a black nose.
+An object which has a slightly longer than tall body, giving them a balanced look.

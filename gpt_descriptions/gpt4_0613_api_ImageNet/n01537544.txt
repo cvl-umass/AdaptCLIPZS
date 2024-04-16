@@ -1,0 +1,17 @@
+An object which has a small, stocky body shape.
+An object which has a short, thick, conical beak.
+An object which has a bright, almost iridescent, blue plumage if it's a male.
+An object which has a dull brown or grey plumage if it's a female.
+An object which has a wingspan of approximately 7-9 inches.
+An object which has a length of approximately 4.5-5.5 inches.
+An object which has a small, white patch on its wings, visible during flight.
+An object which has a slightly notched or squared tail.
+An object which has dark legs and feet.
+An object which has a dark eye surrounded by a thin, white eye-ring.
+An object which has a slightly rounded head.
+An object which has a body weight of approximately 13-20 grams.
+An object which has a short, straight flight pattern.
+An object which may be seen in trees, shrubs, or open areas with scattered trees.
+An object which may be seen alone or in small groups during migration.
+An object which may be seen in North America during the summer and Central America during the winter.
+An object which may be seen eating insects, seeds, and berries.

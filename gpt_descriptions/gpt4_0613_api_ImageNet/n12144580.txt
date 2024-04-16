@@ -1,0 +1,15 @@
+An object which has a long, cylindrical shape.
+An object which is covered in a green, leafy husk.
+An object which has a multitude of small, yellow kernels arranged in rows.
+An object which has a thick, central, white stalk, also known as a cob, when husk is peeled back.
+An object which has silk-like threads, or tassels, protruding from the top of the husk.
+An object which has kernels that are typically yellow but can also be white, red, purple, or blue.
+An object which has a rough texture when the kernels are touched.
+An object which has a sweet, starchy smell when the husk is peeled back.
+An object which has a size typically ranging from 6 to 10 inches in length.
+An object which has a diameter typically ranging from 1 to 2 inches.
+An object which has a husk that, when peeled back, reveals a pattern of tightly packed kernels.
+An object which has a cob that is harder and inedible, contrasting with the soft, edible kernels.
+An object which has a husk that is slightly damp to the touch, indicating freshness.
+An object which has a cob that, when mature, is white or cream in color.
+An object which has kernels that, when mature, are plump and burst easily when squeezed.

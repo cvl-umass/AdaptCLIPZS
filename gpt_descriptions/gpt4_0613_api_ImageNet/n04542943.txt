@@ -1,0 +1,15 @@
+An object which has a hinged dual-sided metal grid-like pattern.
+An object which has a handle attached to the top for opening and closing.
+An object which has a heat-resistant exterior, often made of plastic or metal.
+An object which has a non-stick interior surface.
+An object which has a power cord attached to it.
+An object which has a light indicator to show when it is heated and ready to use.
+An object which has a temperature control knob or dial.
+An object which has a latch to secure the two sides together.
+An object which has a flat bottom to sit stably on a countertop.
+An object which has a shape that is typically square, round, or rectangular.
+An object which has a size that is typically compact for easy storage.
+An object which has a design that allows it to be opened flat or at an angle.
+An object which has a surface that may have different shapes or patterns, such as hearts or characters, for the waffles.
+An object which has a drip tray or rim around the edge to catch excess batter.
+An object which has a plug for electrical power source.

@@ -1,0 +1,20 @@
+An object which has a flattened, paddle-like tail for swimming.
+An object which has a slender, elongated body.
+An object which has scales that are small and smooth, often hexagonal in shape.
+An object which has nostrils located on the top of its snout.
+An object which has a ventrally located mouth, allowing it to feed on the ocean floor.
+An object which has a color pattern that can range from bands, rings, blotches, or a solid color.
+An object which has a body length that can range from 1 to 3 meters.
+An object which has fangs located at the back of its mouth.
+An object which has a lung that extends the entire length of its body.
+An object which lacks gills and must surface regularly to breathe.
+An object which has eyes that are small with a round pupil.
+An object which has a skin that can secrete a slimy substance to fend off predators.
+An object which has a body that is laterally compressed.
+An object which has a head that is not clearly distinct from the neck.
+An object which has a body that is often dark on the top and lighter on the bottom.
+An object which has a body that is highly venomous.
+An object which has a body that is often found in tropical oceanic waters.
+An object which has a body that is not capable of moving well on land.
+An object which has a body that gives live birth to its young, rather than laying eggs.
+An object which has a body that primarily feeds on fish and eels.

@@ -1,0 +1,18 @@
+An object which is significantly longer than a standard car.
+An object which often has a partition between the driver's seat and the passenger compartment.
+An object which typically has a uniformed chauffeur.
+An object which often has a luxurious and spacious interior, often with comfortable leather seats.
+An object which may have tinted windows for privacy.
+An object which may have amenities like a mini bar, television, music system, and mood lighting.
+An object which may have a sunroof or moonroof.
+An object which may have a 'Limousine' sign on the back or sides.
+An object which may have more than four doors.
+An object which may have a stretched wheelbase.
+An object which may have a professional, sleek exterior, often in black or white.
+An object which may have a phone or intercom system for communication between the driver and passengers.
+An object which may have a reinforced chassis for added strength and stability.
+An object which may have a trunk large enough to accommodate several pieces of luggage.
+An object which may have a logo or emblem of a limousine service company.
+An object which may have a license plate that indicates it's a commercial vehicle.
+An object which may have a step or running board on the side for easier entry and exit.
+An object which may have a uniformed driver waiting outside or opening the door.

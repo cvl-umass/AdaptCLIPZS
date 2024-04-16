@@ -1,0 +1,15 @@
+An object which has a long, rectangular shape.
+An object which is typically made of steel or other heavy-duty materials.
+An object which has large, sturdy wheels designed for railway tracks.
+An object which has doors on its sides for loading and unloading goods.
+An object which may have markings or logos of a freight company.
+An object which may have a series of numbers or letters indicating its identification code.
+An object which may be attached to other similar objects, forming a train.
+An object which may have a flat, open top or a covered top, depending on its purpose.
+An object which may have specialized features like refrigeration units, tank-like structures, or hoppers for specific types of cargo.
+An object which may have couplers at both ends for connecting with other freight cars.
+An object which may have a brake system visible on its undercarriage.
+An object which may have a ladder or steps on its sides for access.
+An object which may have safety rails or platforms on its ends.
+An object which may have a tarpaulin cover if it's carrying open freight.
+An object which may have a distinct color, often red, brown, or green, depending on the freight company's branding.

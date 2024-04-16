@@ -1,0 +1,20 @@
+An object which has a seat mounted on a frame with wheels.
+An object which has two large wheels at the back and two smaller wheels at the front.
+An object which has handles at the back of the seat for another person to push.
+An object which has a footrest at the front for the user to rest their feet.
+An object which may have a cushioned seat and backrest for comfort.
+An object which may have armrests on either side of the seat.
+An object which may have a brake mechanism attached to the large wheels.
+An object which may have a joystick or other control mechanism for powered movement.
+An object which may have a headrest attached to the back of the seat.
+An object which may be foldable for easy transportation and storage.
+An object which may have anti-tip bars or wheels at the back to prevent it from tipping over.
+An object which may have a seatbelt for securing the user in the seat.
+An object which may have a basket or bag attached for carrying personal items.
+An object which may have a ramp or lift for accessing higher levels.
+An object which may have specialized adaptations for sports or outdoor use.
+An object which may have a reclining feature for the backrest.
+An object which may have a tilt-in-space feature for changing the seat angle.
+An object which may have a leg rest that can be adjusted in height and angle.
+An object which may have a tray attached to the armrests for eating or working.
+An object which may have a power source, such as a battery, for electric wheelchairs.

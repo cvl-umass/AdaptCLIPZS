@@ -1,0 +1,15 @@
+An object which has a dense and fluffy double coat that is either smooth or rough.
+An object which has a blue-black tongue.
+An object which has deep-set, almond-shaped eyes that are dark in color.
+An object which has small, triangular ears with rounded tips that are set wide apart.
+An object which has a broad and flat skull.
+An object which has a strong and straight back.
+An object which has a tail that is set high and carried closely to the back.
+An object which has a muscular body and heavy bone structure.
+An object which has a distinctive ruff or mane appearance around the head and neck.
+An object which has a square profile with broad, full chest and short, sturdy legs.
+An object which has a coat that can be various colors including red, black, blue, cinnamon, or cream.
+An object which has a distinctive scowling expression.
+An object which has a height ranging from 17 to 20 inches at the shoulder.
+An object which has a weight that can range from 45 to 70 pounds.
+An object which has a unique, lumbering gait due to its straight hind legs.

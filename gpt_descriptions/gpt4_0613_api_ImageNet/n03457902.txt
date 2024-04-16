@@ -1,0 +1,20 @@
+An object which has a structure primarily made of transparent material like glass or plastic.
+An object which is typically rectangular or dome-shaped.
+An object which contains rows of plants or flowers inside.
+An object which may have a ventilation system visible on the roof or sides.
+An object which may have a temperature control system such as heaters or coolers.
+An object which may have an irrigation system for watering plants.
+An object which may have shelves or tables for holding potted plants.
+An object which may have a door at one or both ends.
+An object which may have a walkway or path running through the middle.
+An object which may be situated in a garden, farm, or other outdoor setting.
+An object which may have a frame made of metal, wood, or PVC.
+An object which may have a high ceiling to allow for plant growth.
+An object which may have artificial lighting to supplement natural light.
+An object which may have a misting or fogging system for humidity control.
+An object which may have a shade cloth or netting to control sunlight exposure.
+An object which may have a seedbed or propagation area for growing new plants.
+An object which may have a tool storage area or potting bench.
+An object which may have a rainwater collection system for irrigation.
+An object which may have a composting area for organic waste.
+An object which may have a pest control system such as insect nets or traps.

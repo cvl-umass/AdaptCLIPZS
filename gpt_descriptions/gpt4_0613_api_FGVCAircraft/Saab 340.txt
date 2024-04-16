@@ -1,0 +1,20 @@
+An aircraft with a high-wing, twin-engine turboprop configuration.
+An aircraft with a T-tail design.
+An aircraft with a length of approximately 19.73 meters.
+An aircraft with a wingspan of approximately 21.44 meters.
+An aircraft with a capacity to seat between 30 to 36 passengers.
+An aircraft with a distinctive nose shape, slightly pointed and elongated.
+An aircraft with a circular fuselage cross-section.
+An aircraft with two large, round engines mounted on the wings.
+An aircraft with a tricycle landing gear configuration.
+An aircraft with a relatively short and wide body.
+An aircraft with a cockpit window layout of four panes per side, with the second and third panes being the largest.
+An aircraft with a single passenger door located at the front left side of the fuselage.
+An aircraft with a small cargo door located at the rear left side of the fuselage.
+An aircraft with a relatively flat underside of the fuselage.
+An aircraft with a small, rounded tail cone.
+An aircraft with ailerons located on the outer half of each wing.
+An aircraft with a relatively large vertical stabilizer compared to the overall size of the aircraft.
+An aircraft with a horizontal stabilizer located at the top of the vertical stabilizer.
+An aircraft with winglets at the tip of each wing.
+An aircraft with a relatively high ground clearance.

@@ -1,0 +1,15 @@
+A food with a square or rectangular shape.
+A food that is golden-brown in color.
+A food that appears to be deep-fried.
+A food with a soft and fluffy interior texture.
+A food with a slightly crispy exterior.
+A food that is heavily dusted with powdered sugar.
+A food that is typically served in a pile or stack.
+A food that is often accompanied by a cup of coffee in photos.
+A food that is typically served on a plate or in a basket with a napkin.
+A food that is often served in sets of three or more.
+A food that appears to be light and airy.
+A food that does not have any visible filling or topping other than powdered sugar.
+A food that is typically larger than a typical doughnut hole but smaller than a full-sized doughnut.
+A food that does not have any glaze or icing.
+A food that does not have any holes in the middle.

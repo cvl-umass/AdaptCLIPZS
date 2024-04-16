@@ -1,0 +1,18 @@
+An object which has a small, low-lying, four-wheeled frame.
+An object which has a single seat with a steering wheel in front.
+An object which has a rear-mounted engine.
+An object which has a protective bumper around the outside.
+An object which has a chain drive that connects the engine to the rear axle.
+An object which has a simple brake system, often just for the rear wheels.
+An object which has no suspension or a very basic one.
+An object which has a small fuel tank, often located near the driver's seat.
+An object which has a pedal set consisting of an accelerator and a brake.
+An object which has slick tires for paved surfaces or treaded tires for off-road use.
+An object which has a small, open cockpit without a roof or doors.
+An object which has a low ground clearance.
+An object which may have a number or a name on the front or sides for identification in races.
+An object which may have a safety harness or seatbelt for the driver.
+An object which may have a roll cage for added safety in some models.
+An object which may have a rear spoiler for aerodynamics in racing models.
+An object which may have headlights and taillights in some models for night driving.
+An object which may have a kill switch for emergency engine shutdown.

@@ -1,0 +1,14 @@
+An object which has towers or pillars rising above the level of the bridge deck.
+An object which has cables or chains hanging in a curve between the towers and attached to the bridge deck.
+An object which has a deck or roadway suspended below the cables.
+An object which has vertical suspender cables or rods connecting the bridge deck to the main supporting cables.
+An object which has anchorages at each end securing the main cables.
+An object which may have additional supporting structures such as piers or abutments at the ends.
+An object which often spans large bodies of water or deep valleys.
+An object which may have a truss system beneath the deck to resist bending and twisting.
+An object which may have a stiffening girder system to prevent the bridge deck from swinging or vibrating.
+An object which may have a long, thin, and often symmetrical structure.
+An object which may have a pedestrian walkway or bike path alongside the vehicular lanes.
+An object which may have a toll booth or monitoring station at one or both ends.
+An object which may have lighting fixtures on the towers or along the deck for visibility at night.
+An object which may have a distinct color or design, often making it a landmark.

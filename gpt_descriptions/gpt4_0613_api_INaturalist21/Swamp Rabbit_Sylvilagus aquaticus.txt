@@ -1,0 +1,20 @@
+Mammal with a dense, brown or dark brown fur.
+Mammal with a white or cream-colored underside.
+Mammal with a small, compact body, typically measuring between 16 to 22 inches in length.
+Mammal with long, powerful hind legs designed for swimming and jumping.
+Mammal with short, rounded ears that are less than 3 inches long.
+Mammal with a small, fluffy tail that is typically dark on top and white underneath.
+Mammal with large, dark eyes that are adapted for nocturnal activity.
+Mammal with a robust body, weighing between 3 to 6 pounds.
+Mammal with a habitat often near water, such as swamps, marshes, or wetlands.
+Mammal with a preference for dense cover like thickets or flooded timber, which can be a clue to its presence.
+Mammal that is a strong swimmer, often found in or near water in photographs.
+Mammal with a diet consisting of grasses, reeds, and other aquatic vegetation, which can be a clue if seen eating in a photo.
+Mammal that is native to the southern United States, which can be a clue if the photo includes identifiable regional flora or fauna.
+Mammal with a distinctive gait, often hopping or bounding rather than running.
+Mammal that is often mistaken for a cottontail rabbit, but is larger and has proportionally shorter ears.
+Mammal that is more likely to take to the water to escape predators, which can be a clue if seen swimming in a photo.
+Mammal that is most active at dawn and dusk, which can be a clue if the photo is taken during these times.
+Mammal that does not dig burrows, but instead uses natural cover for shelter, which can be a clue if seen in a photo.
+Mammal that is solitary and territorial, which can be a clue if seen alone in a photo.
+Mammal that has a lifespan of 1.8 to 3.5 years in the wild, which can be a clue if the photo shows a young or mature individual.

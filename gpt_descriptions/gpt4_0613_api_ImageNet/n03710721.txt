@@ -1,0 +1,20 @@
+An object which is a one-piece garment covering the torso and the crotch.
+An object which may have straps over the shoulders.
+An object which is typically made of spandex, nylon, or polyester.
+An object which may have a scoop neck or a V-neck.
+An object which may have a low or high back.
+An object which may have a high cut or low cut on the legs.
+An object which may be designed with various patterns or solid colors.
+An object which may have padding or underwire in the chest area.
+An object which may have a lining for extra comfort and coverage.
+An object which may have a zipper or clasps for closure.
+An object which may have a belt or a tie around the waist.
+An object which may have a skirted bottom for a more modest look.
+An object which may have cut-outs or mesh inserts for a more fashionable look.
+An object which may have a racerback or crossback design.
+An object which may have a keyhole or a plunge at the back.
+An object which may have a halter neck design.
+An object which may have a bandeau style top.
+An object which may have a boy short style bottom.
+An object which may have a ruched or shirred design for a flattering fit.
+An object which may have a draped or wrap style front.

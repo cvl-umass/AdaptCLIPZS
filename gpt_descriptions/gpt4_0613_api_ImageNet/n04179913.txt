@@ -1,0 +1,20 @@
+An object which has a needle designed to move up and down.
+An object which has a spool holder to hold thread.
+An object which has a bobbin, typically located beneath the needle.
+An object which has a foot pedal used to control the speed of the needle.
+An object which has a presser foot to hold the fabric in place.
+An object which has a stitch selector to choose different types of stitches.
+An object which has a tension dial to adjust the tightness of the stitches.
+An object which has a hand wheel used to manually move the needle.
+An object which has a feed dog, a mechanism to move the fabric forward while sewing.
+An object which has a thread cutter, often located on the side or back.
+An object which has a light, typically located near the needle to illuminate the work area.
+An object which has a reverse lever or button to make the machine sew in reverse.
+An object which has a threading path, a guided path showing how to thread the machine.
+An object which has a bobbin winder, a small spindle on top of the machine.
+An object which has a slide plate, a small door that gives access to the bobbin.
+An object which has a stitch length control, a dial or slider that adjusts the length of the stitches.
+An object which has a stitch width control, a dial or slider that adjusts the width of the stitches.
+An object which has a power switch, typically located on the right side of the machine.
+An object which has a carrying handle, often located on the top of the machine.
+An object which has a sewing machine arm, the curved part of the machine where the fabric is placed.

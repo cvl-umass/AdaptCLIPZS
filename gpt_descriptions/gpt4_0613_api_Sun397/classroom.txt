@@ -1,0 +1,20 @@
+A scene which features desks or tables arranged in rows or groups.
+A scene which includes a chalkboard, whiteboard, or smartboard at the front.
+A scene which contains educational posters or charts on the walls.
+A scene which has books, notebooks, and other educational materials scattered or organized.
+A scene which showcases a teacher's desk, typically at the front or side of the room.
+A scene which displays a projector or other audio-visual equipment.
+A scene which includes student chairs, often paired with desks.
+A scene which features a flag or globe, common in many classrooms.
+A scene which contains lockers or cubbies for student storage.
+A scene which showcases a bulletin board with announcements or student work.
+A scene which includes windows with safety grills, often seen in classrooms.
+A scene which displays a clock, usually located at the front of the room.
+A scene which features a carpeted 'reading' or 'circle' area, common in elementary classrooms.
+A scene which contains a bookshelf filled with textbooks and reading books.
+A scene which showcases a computer or technology station.
+A scene which includes a lab station with scientific equipment, if it's a science classroom.
+A scene which displays a calendar or schedule, often found near the teacher's desk.
+A scene which features a waste bin and a recycling bin.
+A scene which includes a sink and hand sanitizer, especially in younger grades.
+A scene which showcases students' backpacks hung on hooks or placed under desks.

@@ -1,0 +1,15 @@
+An object which has a Y-shaped configuration.
+An object which has a small, round, flat piece, often made of metal, called the chest piece.
+An object which has two tubes extending from the chest piece, leading to the earpieces.
+An object which has earpieces that are typically soft for a comfortable fit.
+An object which has a diaphragm, a part of the chest piece that is used to listen to high-frequency sounds.
+An object which has a bell, another part of the chest piece that is used to listen to low-frequency sounds.
+An object which has a flexible and adjustable headset that can be comfortably fitted into the user's ears.
+An object which has a tube, or tubes, usually made of rubber or plastic, that connects the chest piece to the earpieces.
+An object which may have a tunable diaphragm that can be adjusted to listen to different frequency sounds by simply adjusting the pressure.
+An object which may have a non-chill rim on the chest piece to provide comfort to the patient.
+An object which may have a dual-head or a single head chest piece.
+An object which may come in different colors, but most commonly seen in black.
+An object which is typically lightweight for easy handling and comfort.
+An object which may have a pediatric side on the chest piece for use with smaller patients.
+An object which is often used in the medical field for listening to internal sounds of a patient.

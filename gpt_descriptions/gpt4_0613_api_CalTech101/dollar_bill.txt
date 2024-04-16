@@ -1,0 +1,19 @@
+An object which has a rectangular shape with rounded corners.
+An object which is predominantly green and white in color.
+An object which features a portrait of a U.S. president or other notable figure in the center.
+An object which has intricate designs and patterns on both sides.
+An object which has serial numbers printed on one side.
+An object which has the words "Federal Reserve Note" printed on it.
+An object which has the denomination value printed on all four corners.
+An object which has a treasury seal and a Federal Reserve System seal on one side.
+An object which has the phrase "In God We Trust" printed on it.
+An object which has a security thread embedded vertically on one side.
+An object which has a watermark visible when held up to light.
+An object which has microprinting in certain areas, visible under magnification.
+An object which has a holographic strip on one side, visible under certain angles of light.
+An object which has the signature of the Treasurer of the United States and the Secretary of the Treasury.
+An object which has the phrase "This note is legal tender for all debts, public and private" printed on it.
+An object which has the Great Seal of the United States printed on one side.
+An object which has a unique combination of raised printing, which can be felt by touch.
+An object which has color-shifting ink used in the denomination numeral on the lower right corner on one side.
+An object which has the words "The United States of America" printed on it.

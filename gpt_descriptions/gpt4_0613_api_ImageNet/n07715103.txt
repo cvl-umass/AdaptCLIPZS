@@ -1,0 +1,15 @@
+An object which has a compact head, similar to a tree's crown.
+An object which is typically white in color, although it can also be green, purple, or orange.
+An object which has a rough, bumpy texture on its head.
+An object which has a head composed of tightly clustered florets.
+An object which has a thick, green stem and leaves surrounding the head.
+An object which has a size that can range from 6 to 12 inches in diameter.
+An object which has a shape that is round or slightly oval.
+An object which has a head that is surrounded by thick, green leaves.
+An object which has a stem that is usually cut close to the base of the head.
+An object which has florets that form a pattern that repeats itself in a fractal-like manner.
+An object which has a surface that is firm to the touch.
+An object which has a head that is typically uniform in color.
+An object which has a head that is dense and heavy for its size.
+An object which has a stem and leaves that are typically discarded before cooking.
+An object which has a head that is typically divided into florets before cooking.

@@ -1,0 +1,20 @@
+An object which has a large, rectangular cargo area at the back.
+An object which has a separate front cab for the driver.
+An object which has a hitch or coupling device connecting two parts.
+An object which has large, heavy-duty tires.
+An object which has side mirrors that are larger than those on a standard vehicle.
+An object which has a high ground clearance.
+An object which has a long, flat or slightly curved front hood.
+An object which has a diesel exhaust pipe, often located on the side of the cab.
+An object which has multiple axles, usually more than on a standard vehicle.
+An object which has a sleeper compartment behind the driver's seat in some models.
+An object which has air lines and electrical connections between the tractor and trailer.
+An object which has a distinctive shape, longer and larger than most other vehicles.
+An object which has a fuel tank mounted on the sides of the tractor.
+An object which has a fifth wheel coupling for the semi-trailer.
+An object which has a ladder or steps leading to the cab.
+An object which has a large front grille for engine cooling.
+An object which has clearance lights and reflectors on the sides and back.
+An object which has a wind deflector on top of the cab in some models.
+An object which has mud flaps behind the rear wheels.
+An object which has a license plate usually located on the back of the cargo area or on the tractor.

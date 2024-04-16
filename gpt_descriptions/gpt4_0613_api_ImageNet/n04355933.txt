@@ -1,0 +1,20 @@
+An object which has two dark or tinted lenses.
+An object which has a frame that connects the two lenses.
+An object which has arms that extend towards the ears to hold the object in place.
+An object which may have a bridge connecting the two lenses over the nose.
+An object which may have polarized or mirrored lenses.
+An object which may have a logo or brand name on the frame or lens.
+An object which may have lenses in various shapes such as round, square, or cat-eye.
+An object which may have frames made of plastic, metal, or a combination of both.
+An object which may have nose pads for comfort and fit.
+An object which may have different lens colors like black, brown, green, or blue.
+An object which may have a wrap-around design for sports or outdoor activities.
+An object which may have a foldable design for easy storage.
+An object which may have decorative elements on the frame such as rhinestones or patterns.
+An object which may have lenses that are larger than the eyes to block sunlight.
+An object which may have UV protection indicated on the lens or frame.
+An object which may have a curved shape to fit the contour of the face.
+An object which may have adjustable arms for a better fit.
+An object which may have a semi-rimless or rimless design.
+An object which may have a unibody design where the frame and lenses are one piece.
+An object which may have a clip-on design to attach to prescription glasses.

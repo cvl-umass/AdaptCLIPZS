@@ -1,0 +1,20 @@
+An object which has a round, deep shape.
+An object which is typically made from materials such as ceramic, glass, or plastic.
+An object which has a flat bottom and steep, often slightly curved, sides.
+An object which may have one or two handles on the sides.
+An object which may have a lid or cover.
+An object which is often larger than a typical teacup or coffee mug.
+An object which may have a rim or lip around the top edge.
+An object which may be decorated with various patterns or designs.
+An object which is typically used to hold liquid or semi-liquid food.
+An object which may be part of a matching set of tableware.
+An object which may be microwave and dishwasher safe.
+An object which may come in various sizes, but is typically large enough to hold a meal-sized portion of soup.
+An object which may have a brand or manufacturer's mark on the bottom.
+An object which may be accompanied by a matching saucer or plate.
+An object which is designed to be easy to hold and sip from.
+An object which is designed to keep its contents warm for a period of time.
+An object which may be used in both casual and formal dining settings.
+An object which is durable and resistant to chipping or cracking.
+An object which is easy to clean and maintain.
+An object which is designed to be stackable for easy storage.

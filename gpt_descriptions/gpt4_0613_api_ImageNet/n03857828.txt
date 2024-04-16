@@ -1,0 +1,20 @@
+An object which has a rectangular screen for displaying waveforms.
+An object which has multiple knobs and buttons on the front panel.
+An object which has one or more input connectors on the front panel for attaching probes.
+An object which has a power switch usually located on the front or side panel.
+An object which has a time/div knob for adjusting the horizontal scale of the waveform.
+An object which has a volts/div knob for adjusting the vertical scale of the waveform.
+An object which has a trigger level knob for setting the voltage level at which the waveform starts.
+An object which has a trigger mode switch for selecting the type of signal that triggers the waveform.
+An object which has a channel selector switch for choosing which input signal to display.
+An object which has a focus knob for adjusting the sharpness of the waveform.
+An object which has an intensity knob for adjusting the brightness of the waveform.
+An object which has a horizontal position knob for moving the waveform left or right on the screen.
+An object which has a vertical position knob for moving the waveform up or down on the screen.
+An object which has a beam finder button for locating the waveform if it's off the screen.
+An object which has a calibration connector for checking the accuracy of the probes.
+An object which has a ground terminal for connecting the oscilloscope to earth ground.
+An object which has a BNC connector for connecting the probe.
+An object which has a rectangular or square shape, often in a dark color like black or dark grey.
+An object which may have a brand name or model number displayed on the front panel.
+An object which may have a carrying handle on the top or side for portability.

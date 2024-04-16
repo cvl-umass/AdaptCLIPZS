@@ -1,0 +1,16 @@
+An aircraft with four piston engines, two on each wing.
+An aircraft with a round, bulbous nose.
+An aircraft with a tail that has a single vertical stabilizer and horizontal stabilizers located at the base of the tail.
+An aircraft with a long, cylindrical fuselage.
+An aircraft with a high-wing design, where the wings are attached at the top of the fuselage.
+An aircraft with a tricycle landing gear configuration, with a single wheel on each of the two main gears and the nose gear.
+An aircraft with propellers that have three blades.
+An aircraft with oval windows running along the length of the fuselage.
+An aircraft with a cockpit that has a large number of windows, including side windows.
+An aircraft with exhaust stacks protruding from the nacelles, one for each engine.
+An aircraft with a relatively straight leading edge on the wing.
+An aircraft with a wing that tapers slightly towards the tip.
+An aircraft with a noticeable dihedral angle, meaning the wings are angled upward from the root to the tip.
+An aircraft with a cockpit located at the front of the fuselage, just above the nose gear.
+An aircraft with a silver, unpainted finish, which was common for DC-6 aircraft.
+An aircraft with a length of about 100-105 feet and a wingspan of about 117-118 feet, which are the typical dimensions for a DC-6.

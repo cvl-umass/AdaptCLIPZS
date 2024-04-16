@@ -1,0 +1,20 @@
+An object which has a compact size, larger than a regular car but smaller than a full-sized bus.
+An object which has multiple rows of seats, typically designed to accommodate between 10 to 20 passengers.
+An object which has a single door for passengers to enter and exit, usually located on the right side.
+An object which has a large front windshield for increased visibility.
+An object which has a relatively high roof, often allowing passengers to stand upright.
+An object which has a rear door or hatch for loading luggage or equipment.
+An object which has side windows along the length of the vehicle, providing visibility for passengers.
+An object which has a front engine and is typically front-wheel drive.
+An object which has a boxy shape, maximizing interior space.
+An object which has a driver's seat separated from the passenger area, often by a partition.
+An object which has exterior mirrors on both sides, larger than those on a typical car.
+An object which may have a sliding side door or swing-out doors.
+An object which may have a step or steps at the entrance for easier access.
+An object which may have a destination sign or company logo on the front or sides.
+An object which may have safety features such as seat belts for all seats and emergency exit windows or doors.
+An object which may have interior overhead storage compartments.
+An object which may have a wheelchair lift or ramp for accessibility.
+An object which may have a public address system for the driver to communicate with passengers.
+An object which may have air conditioning or heating vents distributed throughout the passenger area.
+An object which may have individual reading lights and air controls for each passenger seat.

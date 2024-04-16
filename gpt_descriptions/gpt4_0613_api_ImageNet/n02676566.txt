@@ -1,0 +1,18 @@
+An object which has a hollow body with a sound hole in the center.
+An object which has a long neck extending from the body.
+An object which has six strings running from the top of the neck to the bottom of the body.
+An object which has tuning pegs at the top of the neck.
+An object which has frets, or metal strips, along the neck.
+An object which has a bridge at the bottom of the body where the strings are attached.
+An object which is typically made of wood.
+An object which may have decorative inlays or patterns around the sound hole and along the neck.
+An object which has a curved waist, or indented sides, to allow for easier playing.
+An object which may have a pickguard, a piece of plastic to protect the body from being scratched by a pick.
+An object which may have a glossy or matte finish.
+An object which may come in a variety of colors, but most commonly natural wood tones.
+An object which may have a strap button at the bottom of the body and at the top of the neck for attaching a strap.
+An object which may have a truss rod, a metal rod inside the neck to adjust its curvature.
+An object which may have a saddle, a small piece of bone or synthetic material where the strings rest on the bridge.
+An object which may have a nut, a small piece of bone or synthetic material at the top of the neck where the strings rest.
+An object which may have dot markers on the fretboard to indicate specific frets.
+An object which may have a headstock at the top of the neck, often bearing the manufacturer's logo.

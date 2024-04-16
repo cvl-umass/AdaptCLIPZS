@@ -1,0 +1,20 @@
+An object which displays a variety of breads, pastries, cakes, and other baked goods.
+An object which has a counter or display case showcasing various baked items.
+An object which includes baking equipment such as ovens, mixers, and baking sheets.
+An object which has a cash register or point of sale system for customer transactions.
+An object which has a kitchen area visible, often with bakers working.
+An object which has signage indicating prices and names of baked goods.
+An object which has seating areas for customers to consume purchased items on-site.
+An object which has a bakery-themed decor, such as bread baskets, cake stands, or pastry-themed artwork.
+An object which has a menu board or chalkboard listing the day's offerings.
+An object which has bakery staff wearing aprons or chef's hats.
+An object which has a smell of fresh bread or pastries, although this can't be captured in a photo.
+An object which has a bakery logo or branding visible.
+An object which has bags or boxes for packaging baked goods for takeaway.
+An object which has a variety of ingredients like flour, sugar, eggs, and butter visible.
+An object which has a coffee machine or tea station, as many bakeries also serve hot beverages.
+An object which has a bread slicer, often found in bakeries that sell fresh loaves of bread.
+An object which has a cake decorating station, often found in bakeries that specialize in custom cakes.
+An object which has a refrigerated display case for items that need to be kept cool, like cream-filled pastries or cakes.
+An object which has a tip jar on the counter, a common sight in many bakeries.
+An object which has a bakery-themed signage outside the building.

@@ -1,0 +1,20 @@
+An object which is octagonal in shape.
+An object which is predominantly red in color.
+An object which has a white border.
+An object which has the word 'STOP' written in white.
+An object which is mounted on a pole.
+An object which is usually found at road intersections.
+An object which is reflective and visible at night.
+An object which is flat and two-dimensional.
+An object which is made of metal or durable plastic.
+An object which is used for traffic control.
+An object which is standardized in size and design.
+An object which is visible from a distance.
+An object which is designed to be easily recognizable to drivers.
+An object which is often seen in public places, especially on roads.
+An object which is used worldwide with minor variations.
+An object which is designed to command attention and convey a clear, simple message.
+An object which is often accompanied by other traffic signs and signals.
+An object which is used to indicate the need for a complete halt of movement.
+An object which is designed to be weather-resistant.
+An object which is often seen in driving tests and road safety education materials.

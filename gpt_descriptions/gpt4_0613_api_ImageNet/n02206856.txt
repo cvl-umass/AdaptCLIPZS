@@ -1,0 +1,17 @@
+An object which has a small, rounded body.
+An object which has a pair of large compound eyes that cover a lot of the head.
+An object which has two pairs of wings, with the front pair larger than the rear pair.
+An object which has a pair of antennae on its head.
+An object which has a segmented body divided into three parts: head, thorax, and abdomen.
+An object which has a stinger at the end of its abdomen.
+An object which has six legs, each ending in a pair of claws.
+An object which has a fuzzy, hairy appearance.
+An object which has black and yellow or golden stripes on its body.
+An object which carries pollen on its hind legs, often visible as yellow, orange, or white clumps.
+An object which has a proboscis, a long, tube-like tongue used for drinking nectar.
+An object which is often seen in the vicinity of flowers.
+An object which is capable of flying.
+An object which is often seen in groups or swarms.
+An object which constructs hexagonal cells or hives for living and breeding.
+An object which is typically small in size, ranging from 1/2 inch to 1 inch in length.
+An object which may exhibit aggressive behavior when threatened.

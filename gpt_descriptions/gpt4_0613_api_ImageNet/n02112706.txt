@@ -1,0 +1,21 @@
+An object which has a small, sturdy, and robust body.
+An object which has a short, wide, and round skull.
+An object which has a very short muzzle, almost flat, with a distinct stop.
+An object which has large, round, and dark eyes that are set wide apart.
+An object which has small, high-set ears that are either cropped or left natural.
+An object which has a high-set tail that is usually docked.
+An object which has a thick, dense, and glossy coat.
+An object which has a coat color that can be red, black and tan, or black.
+An object which has a distinctive black mask if the coat is red.
+An object which has a height that ranges from 7 to 8 inches at the shoulder.
+An object which has a weight that ranges from 6 to 12 pounds.
+An object which has a compact and well-muscled body.
+An object which has a confident and alert expression.
+An object which has a brisk and vigorous gait.
+An object which has a broad and deep chest.
+An object which has a level or slightly sloping croup.
+An object which has a strong and short back.
+An object which has a slightly arched neck.
+An object which has a black nose that is wide and open.
+An object which has a strong and well-defined chin.
+An object which has a square proportion, meaning the length of the body is approximately equal to the height.

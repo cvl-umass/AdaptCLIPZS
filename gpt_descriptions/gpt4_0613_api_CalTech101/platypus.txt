@@ -1,0 +1,16 @@
+An object which has a body shape similar to that of an otter.
+An object which has a flat, duck-bill like snout.
+An object which has a tail similar to that of a beaver.
+An object which has webbed feet.
+An object which has fur covering its body.
+An object which has small eyes.
+An object which has no visible ears.
+An object which has claws on its feet.
+An object which has a unique feature of males possessing a venomous spur on their hind limbs.
+An object which has a size ranging from 17 to 20 inches for males and 15 to 17 inches for females.
+An object which has a weight ranging from 1.5 to 5.3 kg for males and 0.7 to 1.6 kg for females.
+An object which has a color ranging from brown to dark-brown.
+An object which has a skin texture that appears to be smooth and sleek when wet.
+An object which has nostrils located on the top of its snout.
+An object which has a gait that is a combination of walking and hopping when on land.
+An object which has a unique swimming style, with a combination of paddling with the front limbs and steering with the back limbs and tail.

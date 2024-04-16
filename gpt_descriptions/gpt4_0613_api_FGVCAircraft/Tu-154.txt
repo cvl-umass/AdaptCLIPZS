@@ -1,0 +1,15 @@
+An aircraft with a T-tail and rear-mounted engines.
+An aircraft with three jet engines, two on the sides and one in the center.
+An aircraft with a narrow-body fuselage design.
+An aircraft with a swept-wing design.
+An aircraft with a noticeable bulge under the tail, which houses the third engine.
+An aircraft with a four-wheel bogie on each of its main landing gears.
+An aircraft with a slightly drooped nose.
+An aircraft with a high-mounted horizontal stabilizer on the tail.
+An aircraft with a single-aisle cabin layout.
+An aircraft with a glass cockpit that lacks a flight engineer station.
+An aircraft with a relatively long fuselage compared to its wingspan.
+An aircraft with a circular cross-section of the fuselage.
+An aircraft with a noticeable lack of winglets or sharklets on the wingtips.
+An aircraft with a relatively high ground clearance due to the design of its landing gear.
+An aircraft with a small dorsal fin extending from the top of the fuselage to the tail.

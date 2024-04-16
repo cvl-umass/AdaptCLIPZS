@@ -1,0 +1,20 @@
+An object which has a series of three or four horizontal arms attached to a central pole.
+An object which has a rotating mechanism that allows only one person to pass at a time.
+An object which is often found at the entrance or exit of a location, such as a subway station or amusement park.
+An object which may have a ticket scanner or card reader attached to it.
+An object which is designed to restrict passage to one person at a time.
+An object which may have a barrier gate that opens once a ticket or token is inserted.
+An object which may have a digital display or indicator lights.
+An object which may be made of metal, often stainless steel, for durability.
+An object which may have a lock mechanism to prevent unauthorized access.
+An object which may be paired with a security camera or other surveillance equipment.
+An object which may be part of a larger system, such as a fare collection system.
+An object which may have a manual push or automatic rotation feature.
+An object which may have a counter to record the number of people passing through.
+An object which may be installed indoors or outdoors, depending on its purpose.
+An object which may have a protective casing or cover to protect its internal mechanisms.
+An object which may have a buzzer or alarm system to alert security personnel of unauthorized access.
+An object which may have a fail-safe mechanism to allow free passage in case of an emergency.
+An object which may have a bi-directional feature, allowing passage in both directions.
+An object which may have a waist-high or full-height design, depending on the level of security required.
+An object which may have a padded armrest for user comfort.

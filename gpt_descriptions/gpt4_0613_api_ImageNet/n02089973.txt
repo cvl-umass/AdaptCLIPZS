@@ -1,0 +1,20 @@
+An object which has a muscular, athletic body.
+An object which has a broad, flat skull.
+An object which has a long, slightly domed muzzle.
+An object which has a medium-sized, brown or hazel eyes.
+An object which has a medium-length, straight tail that is carried high but not curled over the back.
+An object which has a dense, hard, glossy coat that is predominantly white with black and tan markings.
+An object which has a large, round feet with hard, black pads.
+An object which has a low-set, long ears that reach nearly to the end of the nose when pulled forward.
+An object which has a strong, straight back.
+An object which has a deep chest for lung capacity when hunting.
+An object which has a height at the shoulder between 21 to 25 inches.
+An object which has a weight between 65 to 75 pounds.
+An object which has a friendly and gentle expression.
+An object which has a strong, muscular neck.
+An object which has a strong, powerful shoulders and thighs for stamina and speed.
+An object which has a straight or slightly curved, strong jawline.
+An object which has a body that is slightly longer than it is tall.
+An object which has a coat that is resistant to weather and dirt.
+An object which has a moderate stop (the point at which the forehead meets the muzzle).
+An object which has a strong, well-boned legs.

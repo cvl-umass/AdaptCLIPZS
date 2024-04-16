@@ -1,0 +1,20 @@
+An object which has a pair of large, flat metal prongs at the front.
+An object which has a vertical lifting mechanism.
+An object which has a small, compact body with a cabin for a single operator.
+An object which has a steering wheel and control levers inside the cabin.
+An object which has a counterweight at the back to balance heavy loads.
+An object which has solid, heavy-duty tires.
+An object which has a protective overhead guard.
+An object which has a rear-view mirror attached to the cabin.
+An object which has warning lights and sound signals.
+An object which has a power source, either a combustion engine or a battery compartment.
+An object which has a hydraulic system for lifting and lowering the prongs.
+An object which has a small turning radius for maneuverability in tight spaces.
+An object which has a load capacity label near the operator's seat.
+An object which has a seat belt and other safety features inside the cabin.
+An object which has a mast that can tilt forward and backward to secure the load.
+An object which has a radiator or cooling system if it's a combustion engine model.
+An object which has a fuel tank or charging port depending on the power source.
+An object which has a brake pedal and an accelerator inside the cabin.
+An object which has a parking brake lever or button.
+An object which has a dashboard with various control and warning indicators.

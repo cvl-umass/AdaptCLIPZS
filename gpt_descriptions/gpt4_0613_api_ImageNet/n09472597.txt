@@ -1,0 +1,15 @@
+An object which has a mountainous shape with a crater or vent at the top.
+An object which is surrounded by a landscape of hardened lava, ash, or other volcanic debris.
+An object which has smoke or steam emanating from its peak.
+An object which shows a visible flow of lava down its sides.
+An object which is located in a region known for seismic activity.
+An object which has a symmetrical cone shape, typical of stratovolcanoes.
+An object which is taller than the surrounding landscape and has a distinct peak.
+An object which shows signs of previous eruptions, such as layers of different colored rock or ash.
+An object which is often surrounded by a barren or devastated landscape due to previous eruptions.
+An object which may have a caldera, a large, bowl-shaped depression caused by a major eruption.
+An object which may be surrounded by smaller volcanic features, such as fumaroles, hot springs, or geysers.
+An object which may be located near or under bodies of water, forming volcanic islands or underwater volcanoes.
+An object which may show signs of volcanic activity even when not erupting, such as sulfur deposits or thermal areas.
+An object which may have a shield-like shape, typical of shield volcanoes.
+An object which may be located in a chain or cluster, as volcanoes often occur in groups due to tectonic activity.

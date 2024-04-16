@@ -1,0 +1,17 @@
+An object which has a digital or analog display showing the remaining time.
+An object which has a coin slot or card reader for payment.
+An object which is typically tall and slender, often mounted on a pole.
+An object which is usually found on the sidewalk, next to parking spaces.
+An object which may have a keypad or buttons for inputting payment or time.
+An object which may have a solar panel on top for power.
+An object which may have a sticker or sign indicating parking regulations.
+An object which may have a small printer or slot for dispensing parking tickets.
+An object which may have a flashing light or indicator to show if time has expired.
+An object which may have a lock or keyhole for maintenance access.
+An object which may have a window or clear panel to view the internal mechanisms.
+An object which may have a color scheme that matches local parking regulation signage.
+An object which may have a numerical or alphabetical identifier for the specific parking zone.
+An object which may be single or dual-headed, serving one or two parking spaces respectively.
+An object which may have a handle or crank used to add time in older models.
+An object which may have a QR code or NFC tag for mobile payment options.
+An object which may have a wireless antenna or other communication device for network connectivity.

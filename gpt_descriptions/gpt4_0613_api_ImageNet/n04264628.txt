@@ -1,0 +1,15 @@
+An object which is the longest key on a keyboard.
+An object which is typically located at the bottom row of a keyboard.
+An object which is usually centered and spans across the width of several keys.
+An object which is often pressed with the thumb while typing.
+An object which usually has no symbols or letters on it.
+An object which is often wider than it is tall.
+An object which is typically rectangular in shape.
+An object which is usually flat on the top surface.
+An object which is often made of plastic.
+An object which is usually white or black in color.
+An object which is often used to create spaces between words while typing.
+An object which is typically found on both mechanical and digital keyboards.
+An object which is usually larger than any other single key on a keyboard.
+An object which is often positioned between the 'Alt' keys on a standard keyboard.
+An object which is typically smooth to the touch.

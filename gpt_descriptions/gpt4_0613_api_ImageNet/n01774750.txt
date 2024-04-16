@@ -1,0 +1,14 @@
+An object which has a large, heavy body.
+An object which has eight legs.
+An object which has two body parts: a fused head and thorax, and an abdomen.
+An object which has a pair of pedipalps near the mouth used for sensing and manipulating food.
+An object which has two large fangs that they use to inject venom into their prey.
+An object which has a dense covering of hairs or bristles.
+An object which has eight eyes, arranged in two rows of four.
+An object which has spinnerets at the rear end of the body, used for spinning silk.
+An object which may have a variety of colors, but commonly brown or black.
+An object which may have distinctive patterns on the body and legs.
+An object which has claw tufts, or scopulae, that allow it to climb smooth surfaces.
+An object which may show a bald spot on the abdomen, due to hair flicking as a defense mechanism.
+An object which may have a visible "mustache", a dense cluster of stiff bristles above the fangs.
+An object which may have a visible epigastric furrow, a groove on the underside of the abdomen where the reproductive organs are located.

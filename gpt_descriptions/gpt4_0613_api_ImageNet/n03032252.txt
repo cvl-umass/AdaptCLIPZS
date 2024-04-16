@@ -1,0 +1,20 @@
+An object which has large screens for projecting films.
+An object which contains rows of seats facing towards a screen.
+An object which has a projector room, usually at the back.
+An object which has a ticket booth or counter.
+An object which has a concession stand for snacks and drinks.
+An object which has posters or displays of current or upcoming movies.
+An object which has dimmed or darkened lighting, especially in the viewing area.
+An object which has exit signs and emergency exits.
+An object which has sound systems for amplifying the movie's audio.
+An object which has a lobby or waiting area.
+An object which has restrooms for patrons.
+An object which has a marquee or sign displaying the name of the cinema and current films.
+An object which has curtains or drapes that can cover the screen.
+An object which has aisles for patrons to walk through to their seats.
+An object which has a stage or area in front of the screen for presentations or performances.
+An object which has 3D glasses dispensers for 3D movies.
+An object which has wheelchair accessible seating and facilities.
+An object which has a rating system displayed for the movies being shown.
+An object which has a designated area for lining up or queueing.
+An object which has a cleaning equipment storage, for maintaining the cleanliness of the cinema.

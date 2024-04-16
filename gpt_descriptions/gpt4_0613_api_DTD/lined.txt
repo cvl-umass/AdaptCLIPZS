@@ -1,0 +1,15 @@
+A texture which has a series of parallel lines.
+A texture which exhibits a pattern of repeated straight or curved lines.
+A texture which shows a clear directionality due to the alignment of lines.
+A texture which may have lines of varying thicknesses.
+A texture which may have lines of different colors, creating a contrast.
+A texture which may have lines that are evenly spaced or irregularly spaced.
+A texture which may have lines that are continuous or broken.
+A texture which may have lines that intersect, forming a grid or other geometric patterns.
+A texture which may have lines that are smooth or rough, depending on the material.
+A texture which may have lines that are raised or indented, creating a tactile dimension.
+A texture which may have lines that are straight, wavy, zigzag, or in other forms.
+A texture which may have lines that are glossy or matte, depending on the light reflection.
+A texture which may have lines that create a sense of movement or rhythm.
+A texture which may have lines that are uniform or random in their arrangement.
+A texture which may have lines that are fine or coarse, depending on their width and spacing.

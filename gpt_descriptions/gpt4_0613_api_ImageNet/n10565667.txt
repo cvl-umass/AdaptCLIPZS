@@ -1,0 +1,20 @@
+An object which has a mask covering the eyes and nose.
+An object which is equipped with a mouthpiece connected to a hose.
+An object which carries a tank, typically on the back, containing compressed air or other breathable gas.
+An object which is wearing a suit, often neoprene, to protect against cold water.
+An object which has fins or flippers on the feet for propulsion underwater.
+An object which has a buoyancy control device to adjust buoyancy underwater.
+An object which carries a weight belt to counteract the buoyancy of other diving equipment.
+An object which has a diving watch or a dive computer on the wrist.
+An object which carries a knife or other cutting tool for emergency use.
+An object which has a dive light for seeing in dark or murky waters.
+An object which carries a signaling device, such as a whistle or inflatable surface marker buoy.
+An object which has a regulator to control the pressure of the breathing gas.
+An object which may have a snorkel for breathing at the surface with the face submerged.
+An object which may carry an underwater camera or other scientific equipment.
+An object which may have a dry suit instead of a wet suit for very cold water.
+An object which may have a full face mask instead of a separate mask and mouthpiece.
+An object which may have a rebreather instead of an open-circuit scuba set to recycle exhaled gas.
+An object which may have a dive flag or float to indicate the diver's position to surface vessels.
+An object which may have a slate and pencil for underwater communication.
+An object which may have a compass for navigation underwater.

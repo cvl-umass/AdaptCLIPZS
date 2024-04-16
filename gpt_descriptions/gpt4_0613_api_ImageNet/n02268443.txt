@@ -1,0 +1,17 @@
+An object which has a long, slender body.
+An object which possesses two pairs of strong, transparent wings.
+An object which has wings that are typically held out to the sides when at rest.
+An object which has large, multifaceted eyes, often occupying much of the head.
+An object which has short antennae.
+An object which exhibits an iridescent or metallic coloration on the body.
+An object which has an extended abdomen, often segmented.
+An object which has six legs, each with three joints, which are usually held underneath the body when in flight.
+An object which has a mouth designed for biting, with sharp mandibles.
+An object which may have different color patterns, often including spots or stripes, depending on the species.
+An object which may have a pterostigma, a single, small, pigmented cell on the edge of each wing.
+An object which has a flight pattern that includes hovering and even flying backwards.
+An object which may exhibit sexual dimorphism, with males and females having different appearances.
+An object which may have cerci, a pair of appendages at the end of the abdomen, used in mating and egg-laying.
+An object which may have a 'fused' head and thorax, known as a cephalothorax.
+An object which may have a prehensile ovipositor, a tube-like organ used for laying eggs.
+An object which may have a nymph stage in its life cycle, where it is aquatic and looks significantly different from the adult form.

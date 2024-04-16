@@ -1,0 +1,18 @@
+An object which has a long, pointed beak.
+An object which has a slender body.
+An object which has a bright, often metallic, plumage.
+An object which has short legs.
+An object which has a tail that is either long and graduated or short and rounded.
+An object which has a size ranging from 15 to 30 cm in length.
+An object which has a coloration that varies from glossy green to bronze or golden.
+An object which has a white or buff underparts.
+An object which has a small head compared to its body.
+An object which has a pair of wings that are usually short and rounded.
+An object which has a sharp, straight or slightly curved beak.
+An object which has a plumage that can also be black, brown, or rufous.
+An object which has a beak that is often long, thin, and slightly decurved.
+An object which has a body shape that is similar to that of a woodpecker.
+An object which has a beak that is typically used to catch insects in flight.
+An object which has a habitat that is typically tropical rainforests and woodlands.
+An object which has a behavior of perching in the open and catching insects in flight.
+An object which has a beak that is often colored differently from the body, usually black or dark grey.

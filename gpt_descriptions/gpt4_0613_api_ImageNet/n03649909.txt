@@ -1,0 +1,16 @@
+An object which has a long handle, typically with controls at the top.
+An object which has a large, flat deck at the bottom.
+An object which has a rotating blade underneath the deck.
+An object which has a small motor or engine, often visible on top of the deck.
+An object which has a bag or compartment attached to collect cut grass.
+An object which has wheels, typically four, for easy movement across the lawn.
+An object which has a pull cord for starting the engine.
+An object which has a throttle control to adjust the speed of the blades.
+An object which has a height adjustment lever to control the cutting height of the grass.
+An object which may have a fuel tank if it is a gas-powered model.
+An object which may have a power cord if it is an electric model.
+An object which may have a battery compartment if it is a battery-powered model.
+An object which may have a mulching option, identifiable by an additional side chute or plug.
+An object which may have a self-propulsion feature, identifiable by additional controls on the handle.
+An object which may have a key ignition if it is a riding mower model.
+An object which may have a seat and steering wheel if it is a riding mower model.

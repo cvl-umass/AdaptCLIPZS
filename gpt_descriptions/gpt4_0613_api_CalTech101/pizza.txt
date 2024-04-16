@@ -1,0 +1,18 @@
+An object which has a round, flat base made of dough.
+An object which is covered with a layer of tomato sauce.
+An object which is topped with various ingredients such as cheese, meats, vegetables, and herbs.
+An object which has a golden-brown crust around the edges.
+An object which is often sliced into triangular pieces from a circular whole.
+An object which may have visible melted cheese on top.
+An object which may have toppings arranged in a symmetrical pattern.
+An object which may have a thin or thick base depending on the variety.
+An object which may have a stuffed crust with cheese or other fillings.
+An object which may have a glossy or shiny appearance due to oil or grease.
+An object which may have charred or browned spots if it's been cooked in a wood-fired oven.
+An object which may have a dusting of flour on the bottom.
+An object which may be served on a wooden board or a metal tray.
+An object which may be accompanied by condiments like chili flakes or parmesan cheese.
+An object which may have a rustic, handmade appearance with irregular edges.
+An object which may have a visible layer of herbs or spices sprinkled on top.
+An object which may have a crispy texture visible on the crust or base.
+An object which may have a bubbly appearance on the cheese or crust due to heat.

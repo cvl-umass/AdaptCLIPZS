@@ -1,0 +1,18 @@
+An object which has a branching structure similar to underwater coral.
+An object which displays a variety of colors, including white, yellow, orange, red, and purple.
+An object which has a gelatinous or brittle texture.
+An object which grows in clusters on dead or decaying wood.
+An object which has a fruiting body that is often club-shaped or branched.
+An object which has a smooth surface without any visible gills, pores, or teeth.
+An object which has a spore print that can be white, yellow, or brown.
+An object which may have a mild to slightly unpleasant smell.
+An object which can be found in a variety of habitats, including forests and grasslands.
+An object which is often found during the rainy season or in damp conditions.
+An object which may have a slightly shiny or wet appearance.
+An object which can range in size from a few centimeters to several meters in diameter.
+An object which may have a solid or hollow stem.
+An object which may appear singly or in groups.
+An object which may have a cap that is flat, convex, or concave.
+An object which may have a stem that is central, lateral, or absent.
+An object which may have a flesh that is thin or thick, and white or colored.
+An object which may have a taste that is mild, bitter, or acrid.

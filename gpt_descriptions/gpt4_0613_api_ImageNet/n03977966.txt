@@ -1,0 +1,20 @@
+An object which has a large, boxy shape similar to a van or small bus.
+An object which is often painted in a uniform color, typically black, white, or a combination of both.
+An object which displays the word 'POLICE' or the emblem of a police department prominently on its sides or back.
+An object which has a siren or emergency lights mounted on the top.
+An object which has reinforced windows and doors for added security.
+An object which has a partition between the driver's compartment and the back area.
+An object which has a secure, lockable rear compartment for transporting detainees.
+An object which may have bars or a mesh screen on the windows of the rear compartment.
+An object which may have additional external cameras or other surveillance equipment.
+An object which may have a bumper guard or push bar at the front.
+An object which may have a step or running board at the rear for easy access.
+An object which may have a sliding door on one or both sides.
+An object which may have a spotlight mounted on the driver's side.
+An object which may have a radio antenna or other communication equipment on the roof.
+An object which may have a license plate that identifies it as a government or law enforcement vehicle.
+An object which may have a unique identification number or code displayed on the exterior.
+An object which may have tinted windows for privacy and security.
+An object which may have heavy-duty tires for rugged use.
+An object which may have a reinforced chassis for added durability.
+An object which may have a high roofline to accommodate standing passengers in the rear compartment.

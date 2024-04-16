@@ -1,0 +1,20 @@
+An object which has a thick, slimy skin.
+An object which has a dark greenish or brownish color.
+An object which has a small, rounded fin on its back.
+An object which has a pair of barbels on its upper lip.
+An object which has a heavy, robust body.
+An object which has a small head in proportion to its body.
+An object which has a red or orange eye.
+An object which has a small mouth that does not extend past the eye.
+An object which has a length typically between 40-70 cm.
+An object which has a scale pattern that is unique and can be used for individual identification.
+An object which has a slightly forked tail.
+An object which has a dorsal fin that is set far back on the body.
+An object which has a ventral side that is lighter in color than the dorsal side.
+An object which has pectoral fins that are rounded and large.
+An object which has a maximum weight of around 7-8 kg in wild.
+An object which has a lifespan of up to 20 years.
+An object which has a cylindrical shape from the side view.
+An object which has a flat belly.
+An object which has a convex dorsal profile.
+An object which has a small, terminal mouth with thick lips.

@@ -1,0 +1,28 @@
+An object which has a large, typically cylindrical shape.
+An object which has a front or top-loading door for inserting clothes.
+An object which has a control panel with various settings and buttons.
+An object which has a power cord and typically requires a water connection.
+An object which has a drum inside, visible through a transparent door.
+An object which has a detergent dispenser or a compartment for adding detergent.
+An object which has a brand logo or name typically on the front.
+An object which may have a digital display showing time or cycle settings.
+An object which may have a lint filter or a drain pump.
+An object which may have a warning or instruction label attached.
+An object which may have a spin speed control knob or button.
+An object which may have a temperature control setting.
+An object which may have a delay start function.
+An object which may have a child lock feature.
+An object which may have energy efficiency rating sticker.
+An object which may have a water level indicator or setting.
+An object which may have a rinse or spin cycle setting.
+An object which may have a bulky or delicate wash setting.
+An object which may have a quick wash or speed wash setting.
+An object which may have a noise reduction feature.
+An object which may have a steam or sanitize setting.
+An object which may have a drum cleaning function.
+An object which may have a pause or add item feature.
+An object which may have a end of cycle signal or indicator.
+An object which may have a self-cleaning or maintenance feature.
+An object which may have a pre-wash or extra rinse setting.
+An object which may have a load sensing technology.
+An object which may have a smart or Wi-Fi connectivity feature.

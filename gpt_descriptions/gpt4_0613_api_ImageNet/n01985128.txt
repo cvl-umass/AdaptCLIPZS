@@ -1,0 +1,16 @@
+An object which has a hard, segmented, and elongated body.
+An object which has a pair of large, pincer-like claws at the front.
+An object which has a pair of long, thin antennae.
+An object which has a fan-shaped tail at the end of its body.
+An object which has a total of ten legs, including the two large claws.
+An object which has a pair of stalked eyes that can move independently.
+An object which has a color that ranges from brown to green, depending on the species and environment.
+An object which has a small, pointed rostrum between the eyes.
+An object which has a pair of smaller appendages near the mouth used for feeding.
+An object which has a hard exoskeleton that it sheds and regrows as it grows larger.
+An object which has a body divided into two main parts: the cephalothorax (head and thorax combined) and the abdomen.
+An object which has gills for breathing located under the body near the claws.
+An object which has a size that typically ranges from 2 to 6 inches in length, depending on the species.
+An object which may have a series of small, sharp spines on the sides of its body.
+An object which has a tail that is segmented and can be flexed under the body for rapid backward movement.
+An object which may have a pattern or markings on its body, again depending on the species and environment.

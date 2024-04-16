@@ -1,0 +1,20 @@
+An object which displays numerical information, often related to sports scores.
+An object which may have names of teams or players on it.
+An object which may have sections for different types of scores such as runs, hits, errors in baseball or quarters in football.
+An object which may be digital or analog in nature.
+An object which may have a clock or timer feature.
+An object which may be large and mounted on a wall or stand.
+An object which may be illuminated for visibility in various lighting conditions.
+An object which may have a remote control for changing the displayed information.
+An object which may have sponsor logos or advertisements on it.
+An object which may be found in sports arenas, gyms, or fields.
+An object which may have a protective casing to withstand outdoor conditions.
+An object which may display information in different colors to distinguish between teams or types of information.
+An object which may have a section for displaying messages or announcements.
+An object which may have a section for displaying the current period or inning in a game.
+An object which may have a section for displaying fouls or penalties in a game.
+An object which may have a section for displaying timeouts left in a game.
+An object which may have a section for displaying the home and guest team scores separately.
+An object which may have a section for displaying the shot clock in basketball games.
+An object which may have a section for displaying the player's number who committed a foul in basketball games.
+An object which may have a section for displaying the number of outs in baseball games.

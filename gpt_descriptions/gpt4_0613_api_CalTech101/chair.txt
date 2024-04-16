@@ -1,0 +1,20 @@
+An object which has a flat surface for sitting.
+An object which has a backrest.
+An object which may have one or more legs (usually four).
+An object which may have armrests on either side.
+An object which is designed to support the weight of a sitting person.
+An object which may be made of various materials such as wood, metal, plastic, or upholstered with fabric.
+An object which may come in various sizes, but is typically designed to accommodate one person.
+An object which may have a cushioned seat for added comfort.
+An object which may have a swivel feature, allowing it to rotate.
+An object which may have wheels attached to its legs for mobility.
+An object which may have a height-adjustable feature.
+An object which may have a reclining feature, allowing the backrest to tilt backwards.
+An object which may have a foldable design for easy storage.
+An object which may have a specific design style, such as modern, traditional, rustic, or industrial.
+An object which may be part of a matching set of furniture.
+An object which may have a specific purpose, such as a dining chair, office chair, rocking chair, or lounge chair.
+An object which may have decorative elements, such as carvings, nailhead trim, or tufting.
+An object which may have a protective finish or coating, such as paint, varnish, or lacquer.
+An object which may have a specific color or pattern.
+An object which may have a unique shape or silhouette, such as a wingback, barrel, or egg chair.

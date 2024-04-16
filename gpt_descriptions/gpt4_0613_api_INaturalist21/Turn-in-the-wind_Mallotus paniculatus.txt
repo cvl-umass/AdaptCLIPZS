@@ -1,0 +1,18 @@
+Plant with a height ranging from 5 to 15 meters.
+Plant with a trunk diameter of up to 30 cm.
+Plant with a greyish-brown bark that is smooth or slightly fissured.
+Plant with leaves that are large, alternate, and have a heart-shaped base.
+Plant with leaves that are green on top and whitish or pale green underneath.
+Plant with leaves that have a rough texture due to the presence of small, stiff hairs.
+Plant with a leaf margin that is finely toothed or serrated.
+Plant with flowers that are small, greenish-yellow, and arranged in panicles.
+Plant with fruits that are round, three-lobed capsules, about 1 cm in diameter.
+Plant with fruits that are covered in small, red glands.
+Plant with seeds that are small, black, and embedded in a sticky, red pulp.
+Plant that is commonly found in primary and secondary forests.
+Plant that is often seen growing along rivers and streams.
+Plant that is native to tropical regions of Asia, including India, China, and Southeast Asia.
+Plant that is often used in traditional medicine, indicating its presence in areas with a history of herbal medicine use.
+Plant that is known to grow in well-drained soil, often in areas with a high rainfall.
+Plant that is often found in open areas or at the forest edge, indicating its preference for sunlight.
+Plant with a tendency to turn or twist in the wind, hence its common name "Turn-in-the-wind".

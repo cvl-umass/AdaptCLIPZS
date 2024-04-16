@@ -1,0 +1,15 @@
+An object which has a long, slender body.
+An object which has two pairs of wings, one narrow and tough, the other wide and flexible.
+An object which has large, round eyes on the sides of its head.
+An object which has a pair of long, thin antennae.
+An object which has six legs, with the hind legs being significantly larger and stronger for jumping.
+An object which has a hard exoskeleton.
+An object which has a color that typically ranges from green to brown, helping it blend in with plants.
+An object which has a pair of mandibles for biting and chewing food.
+An object which has a short, unsegmented abdomen ending in a pair of cerci.
+An object which has a thorax that is divided into a prothorax, mesothorax, and metathorax.
+An object which has a pair of tympanal organs, used for the detection of sound.
+An object which has a pair of spiracles, or breathing tubes, along the sides of the body.
+An object which has a pair of ovipositors in females, used for laying eggs.
+An object which has a size that typically ranges from 0.39 to 2.75 inches in length.
+An object which has a life cycle that includes the stages of egg, nymph, and adult.

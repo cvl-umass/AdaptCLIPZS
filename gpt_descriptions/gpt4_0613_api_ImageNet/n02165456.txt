@@ -1,0 +1,18 @@
+An object which has a small, round to oval body shape.
+An object which has a bright red or orange coloration with black spots.
+An object which has a hard, dome-shaped shell that can be lifted to reveal delicate wings underneath.
+An object which has a black head with white patches on either side.
+An object which has six short, black legs.
+An object which has two black, clubbed antennae.
+An object which has a pair of transparent wings hidden under the shell.
+An object which has a line down its back, indicating where the two halves of the shell meet.
+An object which has a small, pointed mouthpart for piercing and sucking.
+An object which may have varying numbers of spots, from zero to more than twenty.
+An object which may exhibit a yellow or even pink coloration, depending on the species.
+An object which may have stripes instead of spots in some species.
+An object which may have a shiny or matte finish to its shell, depending on the species.
+An object which may have a black coloration with red or yellow spots in some species.
+An object which may have a size ranging from 1mm to 10mm, depending on the species.
+An object which may have a foul smell when threatened or crushed, as a defense mechanism.
+An object which may be found on plants, as they are known to feed on aphids and other plant pests.
+An object which may be seen in a group, as some species are known to hibernate in large groups during winter.

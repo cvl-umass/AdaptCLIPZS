@@ -1,0 +1,20 @@
+An object which has a flat top with multiple circular burners.
+An object which has knobs or dials for controlling heat levels.
+An object which may have a digital display for temperature and timer settings.
+An object which has a rectangular shape with a front-facing control panel.
+An object which may have a built-in oven with a glass or metal door.
+An object which may have a vent or hood above it for smoke and heat extraction.
+An object which is typically made of stainless steel, glass, or ceramic materials.
+An object which may have a storage drawer at the bottom.
+An object which may have a griddle in the middle of the burners.
+An object which may have a broiler compartment.
+An object which may have a backguard to protect the wall from heat and splashes.
+An object which may have a power cord or gas line connected to it.
+An object which may have a warming drawer to keep food warm.
+An object which may have a self-cleaning feature for the oven.
+An object which may have a safety lock feature for the oven door.
+An object which may have an indicator light to show when a burner is on.
+An object which may have a convection fan in the oven for even heat distribution.
+An object which may have a removable drip or crumb tray for easy cleaning.
+An object which may have a protective cover or lid for the burners.
+An object which may have a clock or timer function integrated into the control panel.

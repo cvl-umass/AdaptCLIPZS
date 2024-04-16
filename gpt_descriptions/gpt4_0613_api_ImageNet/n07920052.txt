@@ -1,0 +1,15 @@
+An object which is served in a small, typically ceramic, cup.
+An object which has a dark brown, almost black, color.
+An object which has a small amount of light brown foam, known as crema, on top.
+An object which is typically served in a quantity of 30-60 milliliters.
+An object which may have a glossy sheen on the surface due to the oils of the coffee.
+An object which may be served with a small spoon on the side.
+An object which may be served on a small saucer.
+An object which may have a small amount of sugar or a sugar packet served alongside it.
+An object which may be served with a small biscuit or piece of chocolate.
+An object which may be served with a glass of water on the side.
+An object which may appear thicker and more concentrated than regular coffee.
+An object which may have a layered appearance if served with milk or cream.
+An object which may have a small amount of milk foam on top if served as a macchiato.
+An object which may be served in a glass cup if served as a lungo.
+An object which may be served in a larger cup if served as an Americano.

@@ -1,0 +1,25 @@
+An object which has a flat, horizontal surface.
+An object which is typically waist-high, allowing for comfortable use while seated.
+An object which often includes drawers or compartments for storage.
+An object which is commonly made of wood, metal, or a combination of both.
+An object which may have a rectangular, L-shaped, or U-shaped design.
+An object which may have a smooth, polished surface.
+An object which may have holes or ports for electrical cords.
+An object which may have a raised platform for a computer monitor.
+An object which may have a sliding tray for a keyboard.
+An object which may have a built-in or attachable hutch for additional storage.
+An object which may have a protective edge lip to prevent items from falling off.
+An object which may have adjustable height features.
+An object which may have a curved front edge for ergonomic comfort.
+An object which may have a built-in or attachable privacy panel.
+An object which may have a built-in or attachable modesty panel.
+An object which may have a built-in or attachable cable management system.
+An object which may have a built-in or attachable monitor arm.
+An object which may have a built-in or attachable lamp.
+An object which may have a built-in or attachable pencil drawer.
+An object which may have a built-in or attachable file cabinet.
+An object which may have a built-in or attachable CPU holder.
+An object which may have a built-in or attachable footrest.
+An object which may have a built-in or attachable document holder.
+An object which may have a built-in or attachable mouse pad.
+An object which may have a built-in or attachable wrist rest.

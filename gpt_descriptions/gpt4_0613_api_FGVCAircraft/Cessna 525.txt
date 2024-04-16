@@ -1,0 +1,18 @@
+An aircraft with a low-wing monoplane design.
+An aircraft with a T-tail configuration.
+An aircraft with a retractable tricycle landing gear.
+An aircraft with two rear-mounted turbofan engines.
+An aircraft with a pressurized cabin that can accommodate up to eight passengers.
+An aircraft with a length of approximately 42.9 feet (13.1 meters).
+An aircraft with a wingspan of about 43.9 feet (13.4 meters).
+An aircraft with a height of approximately 13.8 feet (4.2 meters).
+An aircraft with a circular cross-section fuselage.
+An aircraft with a swept wing design.
+An aircraft with a cockpit that accommodates two crew members.
+An aircraft with a single door on the left side of the fuselage for passenger entry.
+An aircraft with a small baggage compartment door located on the right side of the fuselage.
+An aircraft with a relatively flat nose and straight-edged engine nacelles.
+An aircraft with a maximum cruising speed of approximately 414 knots.
+An aircraft with a range of about 1,300 nautical miles.
+An aircraft with a service ceiling of approximately 41,000 feet.
+An aircraft with a distinctive 'Cessna' logo on the tail.

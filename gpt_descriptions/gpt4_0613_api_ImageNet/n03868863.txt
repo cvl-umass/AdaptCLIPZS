@@ -1,0 +1,20 @@
+An object which has a clear or translucent bag-like component.
+An object which has a flexible tube attached to it.
+An object which has a strap or harness for securing it to the face.
+An object which has a mouthpiece or mask that covers the nose and mouth.
+An object which may have a reservoir bag attached at the end of the tube.
+An object which may have a valve or vent for exhaled air.
+An object which may have an adjustable strap for fitting around the head.
+An object which may have a metal clip on the mask to ensure a snug fit over the nose.
+An object which is typically made of durable, medical-grade plastic material.
+An object which may have connectors or adaptors for attaching to an oxygen supply.
+An object which may have a non-rebreather mask design, meaning it has additional valves and a reservoir bag.
+An object which may have a simple mask design, meaning it lacks additional valves or a reservoir bag.
+An object which may have a nasal cannula design, meaning it has two prongs that fit into the nostrils.
+An object which may have a color-coded system to indicate the concentration of oxygen delivered.
+An object which may have a humidification bottle or chamber attached to it.
+An object which may have a filter to remove impurities from the oxygen supply.
+An object which may have a pressure gauge or flow meter attached to it.
+An object which may have a safety valve to prevent excessive pressure build-up.
+An object which may have a demand valve for delivering oxygen only when the user inhales.
+An object which may have a peep valve to maintain a certain level of pressure in the lungs.

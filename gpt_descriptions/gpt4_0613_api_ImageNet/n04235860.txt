@@ -1,0 +1,15 @@
+An object which is elongated and cylindrical when rolled up.
+An object which has a zipper running along its side or around its perimeter.
+An object which is made of lightweight, insulating materials.
+An object which may have a hood or a drawstring at the top.
+An object which is often brightly colored or patterned.
+An object which may have straps or a bag for compact storage.
+An object which may have a rectangular or mummy-like shape.
+An object which may have a lining of different material on the inside.
+An object which may have a water-resistant or waterproof exterior.
+An object which may have extra padding or insulation in certain areas.
+An object which may have a foot box at the bottom for added space.
+An object which may have a double zipper system for temperature control.
+An object which may have a draft collar or tube along the zipper to prevent heat loss.
+An object which may have different sizes, typically corresponding to the user's height.
+An object which may have a rating indicating the lowest temperature at which it will keep the average sleeper warm.

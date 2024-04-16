@@ -1,0 +1,18 @@
+An object which has a small, segmented body.
+An object which has a pair of bent antennae.
+An object which has six legs.
+An object which has a hard, protective exoskeleton.
+An object which has a distinct head, thorax, and abdomen.
+An object which has a pair of mandibles near the head.
+An object which may have one or two pairs of wings, depending on its caste within the colony.
+An object which may have a stinger at the end of its abdomen.
+An object which may have a variety of colors, most commonly black, brown, or red.
+An object which may have a size ranging from 0.03 to 2 inches.
+An object which may have visible pincers or jaws.
+An object which may have a noticeable waist, known as a petiole, between the thorax and abdomen.
+An object which may have a glossy, matte, or hairy texture.
+An object which may have visible compound eyes.
+An object which may have a caste-specific physical characteristic, such as larger size and wings for reproductive ants.
+An object which may have a visible trail of similar objects following a path, indicating a foraging trail.
+An object which may be carrying food or materials larger than its body size.
+An object which may be seen in or around an anthill or ant colony.

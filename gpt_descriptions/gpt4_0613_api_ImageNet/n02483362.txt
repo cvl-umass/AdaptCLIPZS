@@ -1,0 +1,20 @@
+An object which has a small, lightweight body, perfect for brachiation.
+An object which has a fur color that varies from black and dark-brown to light-brown, sandy colors.
+An object which has a face that is generally bare, with a small beard and mustache.
+An object which has long arms that are used for swinging from branch to branch.
+An object which has a short, stubby thumb.
+An object which has a deep chest for increased lung capacity.
+An object which has a small, rounded head.
+An object which has a flat, broad nose.
+An object which has a mouth that is capable of a wide range of vocalizations.
+An object which has a long, slender body.
+An object which has a tailless rear end.
+An object which has a pair of large, staring eyes.
+An object which has a white ring of fur around its face.
+An object which has a white patch on its chest.
+An object which has a white hands and feet.
+An object which has a flexible shoulder joint for brachiation.
+An object which has a long, curved fingers for gripping branches.
+An object which has a short, strong legs for leaping and walking.
+An object which has a small, rounded ears.
+An object which has a white or light-colored eyebrows.

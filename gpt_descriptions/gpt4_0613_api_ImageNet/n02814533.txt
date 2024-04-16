@@ -1,0 +1,20 @@
+An object which has a two-box design, with a shared passenger and cargo volume.
+An object which has a rear door that swings upward when opened.
+An object which has a longer body compared to a sedan.
+An object which has a roof that extends towards the rear of the vehicle.
+An object which has a rear seat that can be folded down to create a larger cargo area.
+An object which has a rear window that is almost vertical.
+An object which has a seating capacity for five to eight people.
+An object which has a rear tailgate that opens downwards or sideways.
+An object which has a luggage rack on the roof.
+An object which has a longer wheelbase compared to a sedan.
+An object which has a rear overhang and a rear suspension designed to handle the weight of a loaded cargo area.
+An object which has a flat cargo area behind the rear seats.
+An object which has a rear cargo door that is hinged at the top and opens upwards.
+An object which has a split tailgate, with the lower portion forming a platform for carrying longer objects.
+An object which has a rear cargo area that is fully carpeted and trimmed.
+An object which has a rear cargo area that is accessible from the passenger compartment.
+An object which has a rear cargo area that can be hidden from view by a retractable cover.
+An object which has a rear cargo area that can be extended by folding forward the rear seats.
+An object which has a rear cargo area that can be accessed directly from the outside of the vehicle.
+An object which has a rear cargo area that can be loaded without lifting the cargo high off the ground.

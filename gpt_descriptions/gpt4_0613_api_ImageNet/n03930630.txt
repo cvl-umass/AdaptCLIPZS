@@ -1,0 +1,20 @@
+An object which has a large, open cargo area in the back.
+An object which has a separate cabin for passengers and driver.
+An object which has a body-on-frame construction.
+An object which has a higher ground clearance compared to regular cars.
+An object which has a towing hitch or provision for one at the back.
+An object which has a rugged, heavy-duty appearance.
+An object which has off-road capabilities, often indicated by four-wheel drive systems.
+An object which has larger, more robust tires.
+An object which has a longer wheelbase than a standard car.
+An object which has a front engine and rear-wheel drive or four-wheel drive.
+An object which has a step or ladder to climb into the cargo area.
+An object which has a tailgate at the back that can be opened or removed.
+An object which has a protective frame or roll bar over the cargo area.
+An object which has a larger fuel tank for long-distance travel.
+An object which has a reinforced chassis to handle heavy loads.
+An object which has a spare tire mounted under the cargo area or on the tailgate.
+An object which has a toolbox or storage compartments built into the cargo area.
+An object which has a grille guard or bull bar at the front.
+An object which has a winch or provision for one at the front.
+An object which has a bed liner or bed mat in the cargo area to protect against damage.

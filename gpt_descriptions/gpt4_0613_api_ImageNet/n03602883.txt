@@ -1,0 +1,19 @@
+An object which has a central stick that can be moved in various directions.
+An object which often has one or more buttons on the top or side.
+An object which is typically handheld and used to control video games or other electronic devices.
+An object which may have a base for stability during use.
+An object which may have a trigger button on the back.
+An object which may have a thumbstick or D-pad on the top.
+An object which may have additional buttons or switches for extra functions.
+An object which may be connected to a device via a wire or be wireless.
+An object which may have LED lights to indicate its status or mode.
+An object which may have ergonomic features for comfortable grip.
+An object which may have a USB port for charging or connecting to devices.
+An object which may have a vibration feature for feedback during use.
+An object which may have customizable parts like interchangeable thumbsticks or D-pads.
+An object which may have a glossy or matte finish.
+An object which may come in various colors and designs.
+An object which may have branding or logos on it.
+An object which may have a battery compartment if it's wireless.
+An object which may have a headphone jack for audio output.
+An object which may have a touchpad or motion sensor for additional control options.

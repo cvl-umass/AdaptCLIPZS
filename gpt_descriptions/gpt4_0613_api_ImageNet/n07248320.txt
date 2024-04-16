@@ -1,0 +1,20 @@
+An object which is a removable paper cover.
+An object which is often decorated with artwork and designed to protect the underlying cover from wear.
+An object which typically folds around the exterior of a hardcover book.
+An object which often includes a synopsis of the book, a biography of the author, and quotes from reviews on its inner flaps.
+An object which may contain the book's title, author's name, and publisher's logo on its spine.
+An object which may have a different texture or finish, such as glossy or matte, compared to the actual book cover.
+An object which may have a barcode and price information on its back cover.
+An object which may be larger in size than the actual book, with flaps that fold inside the book cover.
+An object which may have a photograph or illustration on its front cover related to the book's theme or content.
+An object which may have a color scheme or design that matches or complements the book's content or genre.
+An object which may contain critical acclaim or endorsements from other authors or critics.
+An object which may have the author's photograph and brief biography on the back cover.
+An object which may have a protective laminate or coating to prevent damage.
+An object which may have a unique ISBN number printed on it.
+An object which may have the publisher's information and logo printed on it.
+An object which may have a 'blurb' or short summary of the book's content on its back cover.
+An object which may have the book's publication date printed on it.
+An object which may have the book's category or genre indicated on it.
+An object which may have the author's signature or a special edition note if it's a signed or special edition.
+An object which may have a 'parental advisory' or 'age appropriate' label if the book's content is intended for a specific age group.

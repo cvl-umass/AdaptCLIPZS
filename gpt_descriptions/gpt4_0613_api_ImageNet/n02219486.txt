@@ -1,0 +1,16 @@
+An object which has a small, segmented body.
+An object which has a distinct, narrow waist separating the thorax and abdomen.
+An object which has six legs.
+An object which has a pair of bent antennae.
+An object which has a hard, protective exoskeleton.
+An object which may have one or two pairs of wings, but only temporarily if it's a reproductive member of the colony.
+An object which may have a pair of large, strong mandibles.
+An object which may have a stinger at the end of its abdomen.
+An object which may have a variety of colors, most commonly black, brown, red, or yellow.
+An object which may be seen in a group or colony, often following a trail.
+An object which may be seen carrying food or materials larger than its body.
+An object which may be seen near anthills or in soil, wood, or under rocks.
+An object which may be seen in virtually all terrestrial habitats.
+An object which may have a size ranging from 0.03 to 2 inches.
+An object which may have a lifespan ranging from several weeks to several years, depending on the caste.
+An object which may show a caste system, with different physical characteristics for workers, soldiers, and reproductive members.

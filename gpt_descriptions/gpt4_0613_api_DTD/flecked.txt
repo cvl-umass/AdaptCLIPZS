@@ -1,0 +1,10 @@
+A texture which has small patches or dots scattered randomly across the surface.
+A texture which displays a pattern of tiny specks or flakes.
+A texture which shows a mix of different colors or shades in small, distinct spots.
+A texture which has a speckled appearance, similar to a bird's egg.
+A texture which has a non-uniform distribution of small particles or elements.
+A texture which has a granular or particulate appearance due to the presence of small flecks.
+A texture which has a mottled or variegated appearance due to the presence of small, scattered spots or streaks.
+A texture which has a heterogeneous appearance due to the presence of different materials or colors in small, scattered patches.
+A texture which has a rough or irregular surface due to the presence of small, scattered particles or elements.
+A texture which has a speckled or dappled appearance, similar to the skin of certain fruits or the surface of certain stones.

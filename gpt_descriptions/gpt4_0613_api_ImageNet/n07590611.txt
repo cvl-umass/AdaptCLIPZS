@@ -1,0 +1,15 @@
+An object which features a large, round, and often metal pot.
+An object which contains a variety of raw ingredients, such as thinly sliced meat, seafood, vegetables, and tofu.
+An object which has a central pot filled with simmering broth.
+An object which often includes a divider in the middle of the pot, separating two types of broth.
+An object which is typically placed on a portable burner in the center of the table.
+An object which is accompanied by small bowls of dipping sauces.
+An object which may have a visible flame or heating element underneath to keep the broth boiling.
+An object which may have raw ingredients arranged around it or on a separate plate.
+An object which may have chopsticks or other utensils for adding and retrieving ingredients from the broth.
+An object which may show signs of steam rising from the hot broth.
+An object which may have a ladle for distributing the broth.
+An object which may be surrounded by multiple diners, indicating its communal nature.
+An object which may have noodles, dumplings, or rice cakes as part of the raw ingredients.
+An object which may have a variety of textures and colors due to the diverse ingredients.
+An object which may have a clear or cloudy broth, depending on the type of hot pot.

@@ -1,0 +1,24 @@
+Insect with a wingspan ranging from 20 to 22 mm.
+Insect with forewings that are pale brownish-ochreous in color.
+Insect with a dark fuscous basal patch on the forewings.
+Insect with a dark fuscous streak along the costa of the forewings.
+Insect with a dark fuscous terminal line on the forewings.
+Insect with hindwings that are grey, darker posteriorly.
+Insect with a dark fuscous discal spot on the hindwings.
+Insect with a dark fuscous terminal line on the hindwings.
+Insect with a dark fuscous line along the termen of the hindwings.
+Insect with a dark fuscous line along the dorsum of the hindwings.
+Insect with a dark fuscous line along the termen of the forewings.
+Insect with a dark fuscous line along the dorsum of the forewings.
+Insect with a dark fuscous line along the costa of the hindwings.
+Insect with a dark fuscous line along the costa of the forewings.
+Insect with a dark fuscous line along the termen of the forewings.
+Insect with a dark fuscous line along the termen of the hindwings.
+Insect with a dark fuscous line along the dorsum of the forewings.
+Insect with a dark fuscous line along the dorsum of the hindwings.
+Insect with a dark fuscous line along the costa of the forewings.
+Insect with a dark fuscous line along the costa of the hindwings.
+Insect that is native to Australia, indicating its habitat.
+Insect that is part of the family Crambidae, indicating its taxonomic classification.
+Insect that is part of the genus Spectrotrota, indicating its taxonomic classification.
+Insect that is part of the species fimbrialis, indicating its taxonomic classification.

@@ -1,0 +1,20 @@
+An object which has large, fortified walls or towers.
+An object which has a moat surrounding it.
+An object which has a drawbridge or portcullis.
+An object which has a keep or a central tower.
+An object which has crenellations or battlements on the top of the walls.
+An object which has arrow slits or loopholes in the walls.
+An object which has a courtyard or bailey.
+An object which has a chapel or a great hall inside.
+An object which has a dungeon or a prison.
+An object which is built on a hill or a strategic location.
+An object which has a curtain wall surrounding the main building.
+An object which has a gatehouse or a barbican for protection.
+An object which has a series of defensive walls.
+An object which has towers at the corners of the walls.
+An object which has a postern or a secondary gate.
+An object which has a parapet or a protective wall on the roof.
+An object which has a machicolation or a floor opening between the supporting corbels of a battlement.
+An object which has a murder hole or a hole in the ceiling of the gateway.
+An object which has a rampart or a defensive wall of earth or stone.
+An object which has a bastion or a projecting part of a fortification.

@@ -1,0 +1,20 @@
+An object which is a large, long, and typically has multiple decks.
+An object which has a streamlined shape for efficient movement through water.
+An object which has a large smokestack or multiple smokestacks.
+An object which has a series of windows or portholes along the sides.
+An object which has a prominent bow and stern.
+An object which has lifeboats attached to the sides.
+An object which has a helipad or area for a helicopter to land.
+An object which has a radar mast or communication antennas.
+An object which has a large propeller at the rear.
+An object which has a hull that is typically painted in a distinctive color or pattern.
+An object which has a name or logo of a shipping company displayed.
+An object which is surrounded by water, indicating it is a sea-going vessel.
+An object which has facilities like swimming pools, restaurants, or entertainment areas visible on the deck.
+An object which has a bridge or command center from where the ship is steered.
+An object which has a draft line or waterline visible on the hull.
+An object which has a series of cabins or rooms visible from the outside.
+An object which has a large anchor visible at the front.
+An object which has a wake of water behind it, indicating movement.
+An object which has a series of cranes or loading equipment, indicating it's a cargo liner.
+An object which has a series of stabilizers visible on the sides of the hull.

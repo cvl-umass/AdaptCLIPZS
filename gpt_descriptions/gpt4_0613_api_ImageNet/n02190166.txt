@@ -1,0 +1,20 @@
+An object which has a small, segmented body.
+An object which has two wings.
+An object which has large, compound eyes.
+An object which has a pair of short antennae.
+An object which has six legs.
+An object which has a pair of balancing organs called halteres.
+An object which has a mouth designed for sucking or lapping.
+An object which has a hard exoskeleton.
+An object which has a pair of sensory palps near the mouthparts.
+An object which has a pointed or rounded abdomen.
+An object which has a thorax located between the head and the abdomen.
+An object which has a size typically ranging from 1/16 to 1/4 inch in length.
+An object which has a color that can range from black, grey, to metallic blue or green.
+An object which has a life cycle that includes stages of egg, larva, pupa, and adult.
+An object which has bristle-like structures on its body for sensory purposes.
+An object which has a rapid rate of reproduction.
+An object which is often found near decaying matter or food sources.
+An object which has a tendency to rest on walls, ceilings, or other surfaces.
+An object which has a flight pattern that often includes short, erratic movements.
+An object which has a lifespan typically ranging from 15 to 30 days.

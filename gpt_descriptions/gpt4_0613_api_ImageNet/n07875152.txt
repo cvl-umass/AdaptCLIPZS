@@ -1,0 +1,15 @@
+An object which has a round, golden-brown crust on top.
+An object which is typically served in a small, round dish or ramekin.
+An object which may have a flaky or crumbly texture on the surface.
+An object which may have steam rising from it if it's hot.
+An object which may have a small hole or slit in the center of the crust to allow steam to escape.
+An object which, when cut open, reveals a creamy filling with various ingredients like chicken, vegetables, or beef.
+An object which may have a glossy or shiny top crust, indicating it has been brushed with egg or butter.
+An object which may have a lattice or other decorative pattern on the crust.
+An object which may have a slightly irregular shape, indicating it was handmade.
+An object which may have bits of filling or crust on the dish or plate around it.
+An object which may have a slightly sunken center, as the filling underneath the crust can shrink during baking.
+An object which may have a slightly puffed up crust, due to the steam created during baking.
+An object which may have a slightly burnt or darker spots on the crust, indicating it was baked in an oven.
+An object which may have a rustic or homemade appearance.
+An object which may be served with a spoon or fork, indicating it's a type of food.

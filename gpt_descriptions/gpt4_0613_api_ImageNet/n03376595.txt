@@ -1,0 +1,15 @@
+An object which has a seat and a backrest.
+An object which has a structure that allows it to be collapsed into a more compact form.
+An object which has hinges or joints in its construction.
+An object which is typically made of materials like metal, plastic, or wood.
+An object which may have a cushioned seat and backrest for added comfort.
+An object which may have armrests, although this is not always the case.
+An object which is lightweight and portable.
+An object which may have rubber or plastic caps at the end of its legs to prevent slipping.
+An object which may have a handle or a hole in the backrest for easy carrying when folded.
+An object which may come in a variety of colors and designs.
+An object which, when unfolded, provides a person with a place to sit.
+An object which, when folded, can be stored in a small space or hung on a wall.
+An object which may be used both indoors and outdoors.
+An object which may have a locking mechanism to secure it in the open position.
+An object which may have a cross-brace for added stability.

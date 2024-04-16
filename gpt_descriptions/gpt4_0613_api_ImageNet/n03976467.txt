@@ -1,0 +1,20 @@
+An object which has a box-like shape, often rectangular or square.
+An object which has a front lens that can be extended or retracted.
+An object which has a flash attachment, often on the top or side.
+An object which has a viewfinder, usually on the top or side.
+An object which has a large slot on the front or bottom for the instant film to come out.
+An object which has a button or lever for taking pictures, usually on the front or side.
+An object which has a focus control, often a dial or slider.
+An object which has a brand name or logo, typically 'Polaroid', displayed on it.
+An object which has a strap for carrying or holding, usually attached to one or both sides.
+An object which may have a rainbow stripe or other distinctive design elements.
+An object which may have a plastic or metal body.
+An object which may have a manual or automatic exposure control.
+An object which may have a self-timer feature.
+An object which may have a battery compartment, usually on the bottom or back.
+An object which may have a tripod socket, usually on the bottom.
+An object which may have a light meter, often near the lens.
+An object which may have a film speed dial, usually near the lens or on the back.
+An object which may have a distance scale, usually on the lens or near it.
+An object which may have a film counter, usually on the back or side.
+An object which may have a film type indicator, usually on the back or side.

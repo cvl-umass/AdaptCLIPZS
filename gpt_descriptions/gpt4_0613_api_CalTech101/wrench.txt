@@ -1,0 +1,20 @@
+An object which has a long, typically metal handle.
+An object which has a loop or opening at one or both ends.
+An object which has a movable jaw at one end.
+An object which has a fixed, crescent-shaped opening at one end.
+An object which has a box-like, hexagonal or square opening at one end.
+An object which has a ratchet mechanism at one end.
+An object which has a torque setting mechanism.
+An object which has a T-shaped handle.
+An object which has a U-shaped opening at one end.
+An object which has a small wheel or knob for adjusting the size of the opening.
+An object which has a flat, thin, elongated body.
+An object which has a handle that is perpendicular to the head.
+An object which has a double-ended design with different sized openings at each end.
+An object which has a handle that can be extended for additional leverage.
+An object which has a handle with a non-slip grip.
+An object which has a shiny, metallic surface.
+An object which has a surface that is resistant to rust and corrosion.
+An object which has a size marking on the handle.
+An object which has a hole at the end of the handle for hanging.
+An object which has a handle that is curved at one end.

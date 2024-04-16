@@ -1,0 +1,20 @@
+An object which has a rectangular shape with rounded corners.
+An object which is small enough to be held in one hand.
+An object which has multiple small rectangular holes lined up in a row.
+An object which has a metal, wood, or plastic body.
+An object which may have numbers or letters printed above each hole.
+An object which may have a brand name or logo printed on it.
+An object which may have a shiny, metallic surface.
+An object which may have a slide button on the side.
+An object which may have a cover plate attached to the top and bottom.
+An object which may have screws on the top and bottom, holding the cover plates in place.
+An object which may have a curved shape on the ends, designed for comfortable holding.
+An object which may come with a case or box for storage.
+An object which may have a small, protruding tab for adjusting pitch.
+An object which may have a narrow, elongated shape.
+An object which may have a design or pattern engraved on the surface.
+An object which may have a mouthpiece on one side.
+An object which may have a slightly thicker middle section compared to the ends.
+An object which may have a reed plate visible from the side.
+An object which may have a comb-like structure visible when viewed from the side.
+An object which may have a slightly concave shape on the side that is placed against the lips.

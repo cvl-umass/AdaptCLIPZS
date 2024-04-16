@@ -1,0 +1,20 @@
+An object which has camouflage patterns.
+An object which has a specific color scheme, often green, tan, or navy.
+An object which has patches or insignia indicating rank or unit.
+An object which has a specific cut or style, such as a double-breasted jacket or cargo pants.
+An object which has a name tag or identification badge.
+An object which has specific types of pockets, such as large cargo pockets or small pen pockets on the sleeve.
+An object which has a matching hat or helmet.
+An object which has specific types of footwear, such as combat boots.
+An object which has a belt with utility pouches.
+An object which has a specific type of fabric, often durable and weather-resistant.
+An object which has a dress uniform variant, often with medals or ribbons.
+An object which has a specific type of tie or neckwear, such as a cravat or necktie.
+An object which has a specific type of undershirt, often in a coordinating color.
+An object which has a specific type of gloves, often tactical or combat gloves.
+An object which has a specific type of protective gear, such as body armor or knee pads.
+An object which has a specific type of backpack or rucksack.
+An object which has a specific type of outerwear, such as a parka or poncho.
+An object which has a specific type of headgear, such as a beret or patrol cap.
+An object which has a specific type of scarf or neck gaiter, often in a coordinating color or pattern.
+An object which has a specific type of eyewear, often tactical or protective glasses or goggles.

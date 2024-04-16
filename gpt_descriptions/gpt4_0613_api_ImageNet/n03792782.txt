@@ -1,0 +1,18 @@
+An object which has a sturdy frame designed to withstand the stresses of off-road use.
+An object which has wide, knobby tires for increased traction on uneven terrain.
+An object which has a suspension system, either on the front (hardtail) or on both the front and rear (full suspension), to absorb shock from rough terrain.
+An object which has a larger number of gears to allow for efficient pedaling on steep and varied terrain.
+An object which has disc brakes, either mechanical or hydraulic, for effective stopping power in all conditions.
+An object which has a flat or riser handlebar for a more upright riding position, offering better control on technical and downhill sections.
+An object which has a lower gear ratio to allow for effective climbing over steep and rocky trails.
+An object which has a durable and often wider saddle to provide comfort on long rides.
+An object which has pedals designed for secure foot placement, often with spikes for added grip.
+An object which has a dropper seat post, allowing the rider to quickly lower the saddle while riding for better balance during steep descents.
+An object which has reinforced wheel rims to withstand the impacts of off-road riding.
+An object which has a compact frame geometry for maneuverability and responsive handling on trails.
+An object which has protective guards over the chain and gears to prevent damage from debris.
+An object which has a longer wheelbase to provide stability at high speeds and over rough terrain.
+An object which has a high bottom bracket to avoid obstacles on the trail.
+An object which has a slacker head tube angle for stability during descents.
+An object which has a shorter stem to aid in quick and responsive steering.
+An object which has a wider axle spacing (known as Boost) for increased wheel strength and stability.

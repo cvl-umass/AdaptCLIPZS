@@ -1,0 +1,17 @@
+An object which has a long, muscular tail used for balance.
+An object which has large, powerful hind legs adapted for leaping.
+An object which has a small head with large ears.
+An object which has a pouch on its abdomen for carrying its young.
+An object which has a short, thick set body.
+An object which has a fur that varies in color from orange-brown to grey to chocolate brown.
+An object which has a distinctive hopping movement.
+An object which has a long snout-like mouth.
+An object which has two short, but strong forelimbs with sharp claws.
+An object which has a body length ranging from 1 to 1.6 meters, excluding the tail.
+An object which has a height that can reach up to 2 meters when standing upright.
+An object which has a pair of large, round eyes on the sides of its head.
+An object which has a body shape that is unique among animals, with a heavy lower body and a lighter upper body.
+An object which has a skin that is covered in a thick, woolly coat of fur.
+An object which has a pair of nostrils at the end of its snout for an excellent sense of smell.
+An object which has a pair of incisors in the upper jaw for cropping grass.
+An object which has a lifespan typically ranging from 6 to 8 years in the wild.

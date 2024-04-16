@@ -22,7 +22,7 @@ Follow [DATASETS.md](https://github.com/mayug/VDT-Adapter/blob/main/DATASETS.md)
 
 ## Generate attributes from OpenAI GPT4
 
-We provide our generated attributes for all datasets in PLACEHOLDER. You can also reproduce the process by running
+We provide our generated attributes for all datasets in "gpt_descriptions" folder. You can also reproduce the process by running
 ```
 python generate_gpt.py --api_key <your_api_key> --dataset StanfordCars --location --im_dir <path to directory containing images of StanfordCars> --json_file <path to json file of StanfordCars from VDT-Adapter> --gpt_version gpt4_0613_api
 ``` 

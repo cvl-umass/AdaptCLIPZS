@@ -1,0 +1,14 @@
+An object which is spherical in shape.
+An object which has a pattern of hexagons and pentagons.
+An object which is predominantly black and white in color.
+An object which is of a size that can be comfortably held with both hands.
+An object which has a smooth and slightly glossy surface.
+An object which appears to be made of leather or synthetic materials.
+An object which may have visible stitching where the panels meet.
+An object which may have a brand logo or other markings related to sports equipment manufacturers.
+An object which may show signs of wear and tear, such as scuff marks or dirt, especially if it has been used.
+An object which may appear slightly deflated or perfectly round, depending on its current state.
+An object which may have a valve for inflating or deflating it.
+An object which is typically not larger than an adult's head in size.
+An object which is not heavy and can be easily kicked or thrown.
+An object which may be photographed on a grassy field or other sports-related environment.

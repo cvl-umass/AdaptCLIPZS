@@ -1,0 +1,20 @@
+A scene which features rows of seats, typically in a 2-4-2 or 3-3 configuration.
+A scene which includes overhead compartments for storing luggage.
+A scene which shows small, oval-shaped windows on the sides.
+A scene which has foldable trays attached to the back of the seats.
+A scene which includes narrow aisles running along the length of the space.
+A scene which features individual reading lights and air conditioning nozzles above each seat.
+A scene which includes seat belts attached to the seats.
+A scene which shows flight attendant call buttons above each seat.
+A scene which features small bathrooms with sliding doors.
+A scene which includes emergency exit signs and instructions.
+A scene which shows a cockpit door at the front or back of the space.
+A scene which includes drop-down oxygen masks above the seats.
+A scene which features a galley area for food and drink preparation.
+A scene which shows in-flight entertainment screens on the back of or suspended above the seats.
+A scene which includes uniformed flight attendants or pilots.
+A scene which shows passengers sitting and using seat belts.
+A scene which features carpeted flooring and padded walls.
+A scene which includes curtains separating different sections of the space.
+A scene which shows a distinct lack of vertical space, indicating a low ceiling.
+A scene which includes safety instruction cards in seat pockets.

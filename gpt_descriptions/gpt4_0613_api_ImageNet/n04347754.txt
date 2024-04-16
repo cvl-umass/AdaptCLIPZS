@@ -1,0 +1,20 @@
+An object which has a long, cylindrical shape.
+An object which has a conning tower or sail, a raised platform on the top.
+An object which has a propeller at the rear end.
+An object which has horizontal rudders, known as hydroplanes, on the stern and sometimes on the bow.
+An object which has a periscope, a device for observing surroundings, protruding from the top.
+An object which has torpedo tubes, usually located in the bow or stern.
+An object which has a hull, specially designed to withstand high pressure at deep sea levels.
+An object which has a series of small, round windows, known as portholes.
+An object which has a ballast tank, used to control the buoyancy of the vessel.
+An object which has an antenna mast, used for communication and detection.
+An object which has a snorkel mast, used to draw in air while submerged.
+An object which has a streamlined shape for efficient underwater movement.
+An object which has a hatch, a door for entry and exit, usually located on the top.
+An object which has a sonar dome, used for detecting other vessels and obstacles.
+An object which has a nuclear reactor or diesel engines, depending on the type of submarine.
+An object which has a stern planes, used to control the angle of the dive or climb.
+An object which has a rudder, used to steer the vessel.
+An object which has a protective coating to reduce noise and make it less detectable to sonar.
+An object which has a series of vertical launch system cells, if it's a modern military submarine.
+An object which has a flat bottom, allowing it to rest on the sea floor.

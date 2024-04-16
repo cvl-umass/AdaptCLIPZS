@@ -1,0 +1,20 @@
+An object which has a long, flat seating surface.
+An object which has a backrest, typically made of the same material as the seating surface.
+An object which is supported by two or more legs.
+An object which is often made of wood, metal, or a combination of both.
+An object which is designed for outdoor use.
+An object which is often found in public places like parks, bus stops, and gardens.
+An object which can accommodate two or more people sitting side by side.
+An object which may have armrests at each end.
+An object which is typically stationary and not designed to be moved frequently.
+An object which may have a slatted design, allowing rain to pass through.
+An object which may be painted or varnished to withstand weather conditions.
+An object which may have a plaque or engraving, often for commemorative purposes.
+An object which may be bolted to the ground for stability and security.
+An object which may have a curved or straight backrest.
+An object which may have a decorative design, especially in the backrest or armrests.
+An object which may be part of a set, including a matching table or trash bin.
+An object which may have a cushion or padding for added comfort, though this is less common in public spaces.
+An object which may be made of recycled materials, such as plastic or composite lumber.
+An object which may have a canopy or umbrella for shade, though this is less common.
+An object which may be designed to blend in with the surrounding environment, such as a bench made of natural stone or designed to look like a fallen log.

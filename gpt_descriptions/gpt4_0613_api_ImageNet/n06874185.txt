@@ -1,0 +1,20 @@
+An object which has a vertical arrangement of three circular lights.
+An object which displays the colors red, yellow, and green in a specific order.
+An object which is typically mounted on a pole at intersections.
+An object which is often accompanied by a box-like structure at the top or side, housing additional signals or controls.
+An object which may have additional smaller lights or arrows in the same colors for specific lane control.
+An object which is usually found outdoors and is weather-resistant.
+An object which is connected to a power source, as indicated by visible wiring or a nearby electrical box.
+An object which may have a pedestrian signal system attached to it.
+An object which is often seen in urban or suburban settings, particularly at crossroads.
+An object which may have a reflective border or backing to enhance visibility.
+An object which is designed to be visible both day and night.
+An object which may be accompanied by signage indicating its function or providing additional traffic instructions.
+An object which may have a countdown timer for pedestrian crossing.
+An object which may be seen in various sizes but maintains the same basic shape and color scheme.
+An object which may be attached to a horizontal bar overhanging the road.
+An object which may have a solar panel attached, indicating a solar-powered system.
+An object which may have a camera attached to it for traffic monitoring purposes.
+An object which may have a protective cage around it to prevent damage.
+An object which may have a flashing mode for certain traffic conditions.
+An object which may have a button nearby for pedestrians to change the signal.

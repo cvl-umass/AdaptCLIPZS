@@ -1,0 +1,30 @@
+An object which has a sleek, aerodynamic design for high-speed flight.
+An object which is equipped with hardpoints for attaching weapons.
+An object which has a camouflage or matte paint job to reduce visibility.
+An object which has a cockpit for one or two pilots.
+An object which has a tailhook for landing on aircraft carriers.
+An object which has a radar dome or other advanced sensor equipment.
+An object which has jet engines or propellers for propulsion.
+An object which has retractable landing gear.
+An object which has a fuselage designed to withstand high G-forces.
+An object which has a canopy made of reinforced glass or plastic.
+An object which has insignia or markings of a military organization.
+An object which has a refueling probe for in-flight refueling.
+An object which has ejection seats for pilot safety.
+An object which has a tail fin for stability and control.
+An object which has wings with a swept-back, straight, or delta design.
+An object which has flaps and ailerons for maneuverability.
+An object which has a bomb bay or missile launchers.
+An object which has electronic warfare and countermeasure systems.
+An object which has a robust and rugged construction for combat resilience.
+An object which has a high-speed afterburner or thrust vectoring system.
+An object which has a stealth design to reduce radar and infrared signature.
+An object which has a turret or other gun mounting points.
+An object which has a large fuel capacity for long-range missions.
+An object which has a heavy-duty landing gear for rough field operations.
+An object which has a high wing loading for high-speed performance.
+An object which has a low wing loading for maneuverability and short takeoff and landing.
+An object which has a high thrust-to-weight ratio for rapid acceleration and climbing.
+An object which has a low thrust-to-weight ratio for fuel efficiency and endurance.
+An object which has a high aspect ratio wing for efficiency and stability.
+An object which has a low aspect ratio wing for high-speed performance and maneuverability.

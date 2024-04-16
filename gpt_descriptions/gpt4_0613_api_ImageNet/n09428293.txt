@@ -1,0 +1,20 @@
+An object which displays a transition area between land and sea.
+An object which features waves crashing onto a landmass.
+An object which showcases sandy or rocky terrain meeting water.
+An object which includes visible tide lines or tide pools.
+An object which contains marine life such as seashells, crabs, or seaweed on the shore.
+An object which presents a horizon where the sky meets the sea.
+An object which exhibits natural features like cliffs, dunes, or headlands near the water.
+An object which shows human-made structures like piers, lighthouses, or beach huts near the water.
+An object which portrays people engaging in beach activities such as sunbathing, swimming, or surfing.
+An object which reveals footprints or tire tracks in the sand.
+An object which displays boats or ships in the nearby water.
+An object which includes a view of offshore islands.
+An object which features a saltwater body, as opposed to a freshwater lake or river.
+An object which shows the presence of beach vegetation like palm trees or sea oats.
+An object which presents a panoramic view of open water extending to the horizon.
+An object which exhibits a change in the color of the water, typically darker in the deeper sea and lighter near the shore.
+An object which shows the presence of beach amenities like sun loungers, umbrellas, or beach bars.
+An object which includes a view of coastal birds like seagulls or pelicans.
+An object which reveals the presence of coastal erosion or deposition features.
+An object which displays a sunrise or sunset over the water.

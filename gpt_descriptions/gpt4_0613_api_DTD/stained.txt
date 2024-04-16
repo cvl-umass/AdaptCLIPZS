@@ -1,0 +1,15 @@
+A texture which displays irregular color patterns or spots.
+A texture which shows discoloration in certain areas.
+A texture which has areas of darker or lighter shades compared to the rest.
+A texture which exhibits uneven color distribution.
+A texture which has patches of different colors.
+A texture which shows signs of liquid absorption or spillage.
+A texture which has areas that appear to be faded or worn out.
+A texture which has marks or lines that do not follow the general pattern.
+A texture which has spots that appear to be dried or hardened.
+A texture which shows signs of damage or alteration due to external factors.
+A texture which has areas that appear to be discolored due to age or exposure.
+A texture which exhibits signs of chemical reaction such as rust or oxidation.
+A texture which has areas that appear to be soaked or damp.
+A texture which shows signs of heat exposure or burn marks.
+A texture which has areas that appear to be stained by food, ink, paint, or other substances.

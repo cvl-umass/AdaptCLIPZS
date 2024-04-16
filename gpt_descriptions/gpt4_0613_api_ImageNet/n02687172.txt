@@ -1,0 +1,20 @@
+An object which has a long, flat deck for the takeoff and landing of aircraft.
+An object which is equipped with a "ski-jump" ramp at the end of the runway to assist in aircraft takeoff.
+An object which has a large superstructure, or "island", on one side of the deck.
+An object which displays a number of aircraft on its deck.
+An object which has several large elevators on the deck to move aircraft between the flight deck and the hangars below.
+An object which has a series of arresting wires across the deck to catch landing aircraft.
+An object which is significantly larger than other naval vessels in the photo.
+An object which has radar antennas and other communication equipment on the superstructure.
+An object which has a large hull number painted on the deck or superstructure.
+An object which has a series of blast deflectors on the deck to protect the ship and personnel from jet blast during aircraft takeoff.
+An object which has a number of defensive weapons systems, such as missile launchers and close-in weapon systems, visible on the deck or superstructure.
+An object which has a large number of personnel visible on the deck, often wearing color-coded uniforms to indicate their roles.
+An object which has a large, wide beam (width) to accommodate the flight deck and hangar spaces.
+An object which has a bulbous bow, a protruding bulb at the bow (front) of the ship just below the waterline.
+An object which has a number of large, distinctive exhaust stacks.
+An object which has a series of large, sliding doors on the side of the hull for access to the hangar deck.
+An object which has a large displacement, indicated by a deep draft (the portion of the ship's hull that is submerged).
+An object which has a series of life rafts and other safety equipment visible on the deck or superstructure.
+An object which has a number of cranes or other lifting equipment on the deck for moving aircraft and equipment.
+An object which has a series of navigation lights and other lighting equipment visible on the deck or superstructure.

@@ -1,0 +1,20 @@
+A scene which features multiple lanes of traffic moving in the same or opposite directions.
+A scene which includes road signs indicating speed limits, exits, or directions.
+A scene which shows vehicles traveling at high speeds.
+A scene which has a clear separation between lanes, often marked by painted lines.
+A scene which displays large overhead signs or billboards.
+A scene which includes barriers or guardrails along the sides of the road.
+A scene which shows a lack of pedestrian traffic or crosswalks.
+A scene which features long, straight stretches of road or gentle curves.
+A scene which includes bridges, overpasses, or underpasses.
+A scene which shows toll booths or rest areas.
+A scene which features lighting fixtures specifically designed for highways.
+A scene which includes emergency lanes or pull-off areas.
+A scene which shows a lack of intersections or traffic lights.
+A scene which displays a wide, clear view of the horizon.
+A scene which includes mile markers or distance signs.
+A scene which shows vehicles such as trucks, buses, and cars, but rarely bicycles or pedestrians.
+A scene which features a smooth, well-maintained road surface.
+A scene which includes sound barriers, especially in urban or suburban areas.
+A scene which shows a clear division between the highway and the surrounding landscape, such as trees, fields, or buildings.
+A scene which includes ramps or slip roads for entering and exiting the highway.

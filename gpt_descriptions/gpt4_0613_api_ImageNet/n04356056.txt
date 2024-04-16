@@ -1,0 +1,20 @@
+An object which has two dark or tinted lenses.
+An object which has a frame that connects the two lenses.
+An object which has arms that extend towards the back to rest on the ears.
+An object which is designed to be worn over the eyes.
+An object which may have a bridge connecting the two lenses over the nose.
+An object which may have polarized or mirrored lenses.
+An object which may have a logo or brand name on the frame or lens.
+An object which may have a wrap-around design to cover the peripheral vision.
+An object which may have lenses in various shapes such as round, square, or aviator.
+An object which may have frames made of plastic, metal, or a combination of both.
+An object which may have adjustable nose pads.
+An object which may have lenses that are gradient tinted, meaning they are darker at the top and lighter at the bottom.
+An object which may have a protective case or cloth for cleaning.
+An object which may have UV protection stickers or labels.
+An object which may have flexible hinges for comfort and durability.
+An object which may have decorative elements on the frame or arms.
+An object which may have lenses that are prescription or non-prescription.
+An object which may have a sporty design with rubber grips on the arms.
+An object which may have a retro or vintage design.
+An object which may have a modern or futuristic design.

@@ -1,0 +1,15 @@
+Plant with a vibrant purple to burgundy color.
+Plant with broad, flat leaves that are slightly crinkled at the edges.
+Plant with a loose leaf arrangement, unlike the tightly packed leaves of iceberg lettuce.
+Plant with a slightly ruffled or frilled leaf texture.
+Plant with a rosette growth pattern, where leaves emerge from a central point.
+Plant with a relatively short stature, typically not exceeding one foot in height.
+Plant with a slightly glossy leaf surface.
+Plant with a leaf structure that is less crisp and more flexible than green lettuce varieties.
+Plant with a slightly bitter taste compared to other lettuce varieties, if taste is discernible from the photo context.
+Plant that is often found in cooler climates, as lettuce prefers cooler weather.
+Plant that is typically grown in well-drained soil, if soil type is visible in the photo.
+Plant that is often found in home gardens, farms, or greenhouses, if location context is available.
+Plant that is often seen in salads, sandwiches, or as a garnish, if photo context includes food preparation.
+Plant with a relatively short growth cycle, often ready to harvest within 45 to 55 days of planting, if growth stage is discernible from the photo.
+Plant with a small, shallow root system, if roots are visible in the photo.

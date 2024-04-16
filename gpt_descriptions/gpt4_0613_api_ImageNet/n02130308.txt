@@ -1,0 +1,17 @@
+An object which has a slender, lightweight body built for speed.
+An object which has a deep chest and a narrow waist.
+An object which has a small, rounded head set on a long neck.
+An object which has a short snout and black "tear marks" running from the inner corner of the eyes down to the sides of the mouth.
+An object which has a coat that is tawny to creamy white or pale buff and is mostly covered in solid black spots.
+An object which has a long, thin body with long legs.
+An object which has a tail with a bushy white tuft at the end and rings near the end.
+An object which has semi-retractable claws that provide extra grip in its high-speed pursuits.
+An object which has large nostrils for increased oxygen intake during high-speed chases.
+An object which has distinctive black "tear marks" that help protect against the sun's glare and focus the animal's attention on its prey.
+An object which has a unique "floating" stride as its body is completely airborne twice during each stride.
+An object which has a size of approximately 70 to 90 cm at the shoulder.
+An object which has a length, excluding its tail, ranging from 112 to 150 cm.
+An object which has a tail that typically ranges from 60 to 80 cm long.
+An object which has a weight that typically ranges from 21 to 72 kg.
+An object which has a distinctive purring sound, unlike the roar of other big cats.
+An object which has a lifespan typically between 10 to 12 years in the wild.

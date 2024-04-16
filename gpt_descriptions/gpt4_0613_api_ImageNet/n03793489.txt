@@ -1,0 +1,20 @@
+An object which has one or more buttons on the top surface.
+An object which has a scroll wheel located between the buttons.
+An object which has a flat bottom surface.
+An object which has a cord attached to one end, in case of a wired mouse.
+An object which has a USB connector at the end of the cord, in case of a wired mouse.
+An object which has an optical sensor or a small ball on the bottom surface.
+An object which has a shape designed to be held by one hand.
+An object which has a logo or brand name on the top surface.
+An object which may have additional buttons on the side for advanced features.
+An object which may have a compartment for batteries, in case of a wireless mouse.
+An object which may have an on/off switch, in case of a wireless mouse.
+An object which may have a LED light to indicate power or connectivity status.
+An object which may have a Bluetooth or wireless symbol, in case of a wireless mouse.
+An object which is typically smaller than a keyboard.
+An object which may have customizable buttons for specific functions.
+An object which may have a sleek, ergonomic design for comfortable use.
+An object which may have a DPI (dots per inch) switch for sensitivity adjustment.
+An object which may come in a variety of colors and designs.
+An object which may have a glossy or matte finish.
+An object which may have a soft or rubberized grip for comfort.

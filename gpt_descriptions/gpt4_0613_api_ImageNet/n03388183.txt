@@ -1,0 +1,18 @@
+An object which has a nib, typically made of metal, at one end.
+An object which has a cap that can be removed or attached to cover the nib.
+An object which has a barrel, often cylindrical, that serves as a handle.
+An object which has an internal reservoir for storing ink.
+An object which allows ink to flow from the reservoir to the nib through a feed.
+An object which may have a clip attached to the cap for securing to pockets or notebooks.
+An object which can be refilled with ink either by cartridges, a built-in piston, or an eyedropper.
+An object which may have decorative elements or branding on the cap or barrel.
+An object which may come in a variety of materials such as plastic, metal, or even precious materials like gold or silver.
+An object which may have a grip section where fingers are placed when writing.
+An object which may have a transparent section or 'ink window' to view the ink level.
+An object which may have a nib in different sizes and styles, such as fine, medium, or broad.
+An object which may have a screw or snap mechanism to secure the cap to the barrel.
+An object which may have a distinctive shape, often elongated and tapering towards the nib.
+An object which may have a breather hole on the nib for better ink flow and flexibility.
+An object which may have a converter inside to draw ink from a bottle into the pen.
+An object which may have a finned or comb-like structure on the feed to regulate the flow of ink.
+An object which may have a brand or model number inscribed on it.

@@ -1,0 +1,25 @@
+An object which has a small body size, typically around 5 to 6 inches in length.
+An object which has a robust, conical beak.
+An object which has a notched or slightly forked tail.
+An object which has a streaked chest and belly.
+An object which has a reddish coloration on the head, breast, and back if it's a male.
+An object which has a brown or gray coloration if it's a female.
+An object which has a brownish streaked underparts.
+An object which has a square-tipped tail.
+An object which has a longer back toe and claw, adapted for perching.
+An object which has a wingspan of about 8 to 10 inches.
+An object which has a round head.
+An object which has a short, slightly decurved bill.
+An object which has a reddish rump and upper tail coverts.
+An object which has a swift and bouncy flight pattern.
+An object which has a white belly and undertail coverts.
+An object which has a brownish color on the back and wings with heavy streaking.
+An object which has a short and slightly notched tail.
+An object which has a reddish eye color.
+An object which has a blackish forehead.
+An object which has a short, thick bill for eating seeds.
+An object which has a slightly peaked crown.
+An object which has a white or pale eyebrow.
+An object which has a brownish-gray to black streaks on the flanks and belly.
+An object which has a pale gray to whitish throat.
+An object which has a brownish-gray to black streaks on the back and wings.

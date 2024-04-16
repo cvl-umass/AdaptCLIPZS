@@ -1,0 +1,15 @@
+A scene which features a long, flat, and usually straight surface.
+A scene which includes marked lines and numbers on the ground.
+A scene which has large, open spaces with minimal obstructions.
+A scene which displays lighting systems along the sides of the path.
+A scene which shows a control tower in the distance.
+A scene which contains signs with specific aviation symbols or codes.
+A scene which may have airplanes parked or moving on the surface.
+A scene which may show ground vehicles specifically designed for airport use.
+A scene which may include surrounding infrastructure like hangars or terminals.
+A scene which may display windsocks for indicating wind direction and speed.
+A scene which may have a backdrop of an open sky or airport buildings.
+A scene which may show runway threshold markings at the beginning of the runway.
+A scene which may include blast fences or barriers at the end of the runway.
+A scene which may feature runway edge lights for visibility during night or poor weather conditions.
+A scene which may show runway safety areas on either side of the runway.

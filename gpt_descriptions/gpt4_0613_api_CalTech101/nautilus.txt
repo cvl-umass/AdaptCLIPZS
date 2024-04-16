@@ -1,0 +1,19 @@
+An object which has a spiral, multi-chambered shell.
+An object which has a shell that is white on the inside and brown on the outside.
+An object which has a shell with a pearlescent inner layer.
+An object which has a shell that is divided into chambers.
+An object which has a shell that grows larger as it spirals outward.
+An object which has a small, tube-like structure called a siphuncle running through the center of its chambers.
+An object which has tentacles that are without suckers.
+An object which has a simple eye structure that lacks a lens.
+An object which has a hood that covers its body.
+An object which has a radula, a toothed, chitinous ribbon, used to scrape and manipulate food.
+An object which has a soft body that can retract into the shell.
+An object which has a jet-like propulsion system, expelling water to move.
+An object which has a lifespan of 15 to 20 years.
+An object which is found in the deep ocean, usually at depths of 300 to 600 meters.
+An object which is a marine cephalopod.
+An object which is a nocturnal creature.
+An object which is a carnivore, feeding on fish and crustaceans.
+An object which lays eggs, which are then attached to rocks or other hard surfaces.
+An object which is a living fossil, having survived relatively unchanged for millions of years.

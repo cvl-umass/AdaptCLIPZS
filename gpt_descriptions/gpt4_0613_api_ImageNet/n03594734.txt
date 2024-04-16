@@ -1,0 +1,20 @@
+An object which has a blue or indigo color.
+An object which is made from a rugged twill fabric.
+An object which has visible diagonal ribbing on the reverse side of the fabric.
+An object which often features a five-pocket design.
+An object which may have a leather patch on the back waistband.
+An object which may have metal rivets on pockets.
+An object which may have a zipper or button fly.
+An object which may have contrast stitching, often in a golden or yellow color.
+An object which may have faded or distressed areas.
+An object which may have a brand logo on the back pockets or waistband.
+An object which may come in various cuts, such as skinny, straight, bootcut, or flared.
+An object which may have belt loops around the waist.
+An object which may have a yoke over the back hip area.
+An object which may have a seam running down the inside of each leg.
+An object which may have a cuff rolled up at the bottom.
+An object which may have a tag with care instructions inside the waistband.
+An object which may have a serial number or barcode tag inside.
+An object which may have a size tag inside the waistband.
+An object which may have a label indicating the country of manufacture.
+An object which may have a tag indicating the materials used in its construction.

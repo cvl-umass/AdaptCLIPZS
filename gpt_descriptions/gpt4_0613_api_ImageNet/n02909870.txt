@@ -1,0 +1,20 @@
+An object which has a cylindrical shape.
+An object which has a flat bottom.
+An object which has a handle at the top.
+An object which is typically made of metal, plastic, or wood.
+An object which is often used for carrying liquids or small items.
+An object which may have a lid.
+An object which can be of various sizes, from small to large.
+An object which may have a spout for pouring.
+An object which may have graduations or markings indicating volume.
+An object which may be stackable when not in use.
+An object which may have a reinforced rim around the top for added strength.
+An object which may have a grip on the handle for comfortable carrying.
+An object which may be available in various colors.
+An object which may have a slightly wider top than bottom.
+An object which may have a slightly concave or convex bottom.
+An object which may have a bail handle made of wire, plastic, or wood.
+An object which may have a flat side to rest against a wall.
+An object which may have a pouring lip to prevent spilling.
+An object which may have a footed design for stability.
+An object which may have a detachable lid.

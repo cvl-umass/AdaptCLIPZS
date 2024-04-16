@@ -1,0 +1,18 @@
+An object which has a boxy shape, often longer and taller than most cars.
+An object which has sliding doors on one or both sides.
+An object which has three rows of seats, accommodating up to seven or eight passengers.
+An object which has a large, rear hatch door that opens upwards.
+An object which has a short hood and a front-engine layout.
+An object which has a high roofline, providing ample headroom.
+An object which has a flat floor, allowing for easy movement within the cabin.
+An object which has multiple cup holders and storage compartments.
+An object which has rear seats that can be folded down or removed for increased cargo space.
+An object which has a rear-view camera, parking sensors, and other advanced safety features.
+An object which has a built-in entertainment system, often with screens mounted in the back of the headrests.
+An object which has large, wide windows providing good visibility.
+An object which has a comfortable, car-like driving experience despite its size.
+An object which has roof rails for carrying additional cargo.
+An object which has a front-wheel-drive or all-wheel-drive configuration.
+An object which has a fuel-efficient engine, often a four-cylinder or a V6.
+An object which has automatic transmission as a standard feature.
+An object which has a spacious and versatile interior, often with a focus on family-friendly features.

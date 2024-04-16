@@ -1,0 +1,17 @@
+An object which has a circular dial with holes corresponding to numbers from 1 to 0.
+An object which has a handset composed of a mouthpiece and an earpiece connected by a handle.
+An object which has a base that houses the dial and a cradle for the handset.
+An object which has a cord connecting the handset to the base.
+An object which has a finger stop at the end of the dial to prevent over-rotation.
+An object which has a bell or ringer, often visible on the base of the phone.
+An object which has a rotary dial that spins back to its original position after being turned.
+An object which has a dial that is typically located on the front of the base.
+An object which may have a separate cord connecting the base to a wall socket for telephone line.
+An object which may have a brand name or logo, often located on the base or the handset.
+An object which may have a small window on the dial for a number card.
+An object which may have a switch for adjusting the ringer volume.
+An object which may have a body made of plastic or Bakelite, common materials for older models.
+An object which may have a curved, ergonomic design for the handset to fit the contour of the face.
+An object which may have a color that is typically black, but can also be red, blue, white, or other colors depending on the model and era.
+An object which may have a small tray or area on the base for jotting down notes or keeping a small phone book.
+An object which may have a weighty feel due to the mechanical components inside.

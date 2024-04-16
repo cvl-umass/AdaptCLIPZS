@@ -1,0 +1,20 @@
+Animal with a carapace (shell) that is usually yellowish or greenish in color.
+Animal with a carapace that is square or slightly wider than long.
+Animal with a carapace that has five teeth on each side, not including the corner teeth.
+Animal with a carapace that has three lobes between the eyes.
+Animal with claws that are usually purple or blue, but can also be yellow or white.
+Animal with claws that are equal in size and have black tips.
+Animal with legs that are yellow or green with purple or blue bands.
+Animal with a maximum carapace width of about 5 cm (2 inches).
+Animal that is often found in rocky intertidal zones.
+Animal that is often found in tide pools, under rocks, or in crevices.
+Animal that is often found in areas with plenty of algae for it to eat.
+Animal that is often found along the Pacific coast of North America, from Alaska to Baja California.
+Animal that is often found in both saltwater and brackish water environments.
+Animal that is often found in areas with a sandy or muddy bottom.
+Animal that is often found in areas with a moderate to high wave exposure.
+Animal that is often found in areas with a temperature range of 3 to 25 degrees Celsius.
+Animal that is often found in areas with a salinity range of 20 to 35 ppt.
+Animal that is often found in areas with a depth range of 0 to 60 m.
+Animal that is often found in areas with a pH range of 7 to 8.5.
+Animal that is often found in areas with a dissolved oxygen range of 5 to 9 mg/L.

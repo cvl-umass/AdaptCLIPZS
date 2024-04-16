@@ -1,0 +1,20 @@
+An object which has a segmented, elongated body.
+An object which has a hard, shell-like exoskeleton.
+An object which has two sets of antennae.
+An object which has seven pairs of legs.
+An object which has a pair of compound eyes.
+An object which has a pair of pincers or claws at the front.
+An object which has a tail with a fan-like structure.
+An object which has a body that can curl into a ball.
+An object which has a body that is usually grey, brown, or white in color.
+An object which has a body that is typically small, ranging from 1mm to 500mm in size.
+An object which has a body that is bilaterally symmetrical.
+An object which has a body that is flattened from top to bottom.
+An object which has a body that is covered in small, scale-like structures.
+An object which has a body that is often found in marine or freshwater environments.
+An object which has a body that can be terrestrial, living in damp environments.
+An object which has a body that can be parasitic, attaching to fish and other marine animals.
+An object which has a body that can be scavengers, feeding on dead plants and animals.
+An object which has a body that can reproduce both sexually and asexually.
+An object which has a body that undergoes molting as it grows.
+An object which has a body that can live for several years, depending on the species.

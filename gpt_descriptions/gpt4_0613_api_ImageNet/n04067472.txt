@@ -1,0 +1,20 @@
+An object which has a cylindrical shape.
+An object which has a central hole or axis.
+An object which has flanges on both sides.
+An object which is made of plastic, metal, or wood.
+An object which may have a handle or crank on one side.
+An object which may have lines, threads, or wires wound around it.
+An object which may have a locking mechanism to prevent unwinding.
+An object which may have numerical or measurement markings on it.
+An object which may have a slot or opening for the line, thread, or wire to pass through.
+An object which may have a rotating mechanism.
+An object which may be part of a fishing rod, sewing machine, or film projector.
+An object which may have a glossy, matte, or metallic finish.
+An object which may have a brand name or logo printed on it.
+An object which may vary in size from small to large.
+An object which may have a smooth or textured surface.
+An object which may have a single or multiple compartments for winding.
+An object which may have a flat or slightly curved surface on the flanges.
+An object which may have a hollow or solid central axis.
+An object which may have a detachable or fixed handle or crank.
+An object which may have a uniform or varying thickness.

@@ -1,0 +1,15 @@
+An object which has a segmented body divided into three lobes.
+An object which has a hard exoskeleton.
+An object which has a distinct head, or cephalon, often with complex eyes.
+An object which has a thorax composed of multiple, similar segments.
+An object which has a tail, or pygidium, that is often semi-circular in shape.
+An object which has paired appendages under each body segment.
+An object which has a fossilized form, indicating it is an extinct species.
+An object which has a bilaterally symmetrical body plan.
+An object which has a size ranging from a few millimeters to over 60 centimeters.
+An object which has a body that is flatter on the bottom and rounded on the top.
+An object which has a central axial lobe, and two pleural lobes on the sides.
+An object which has antennae extending from the front of the head.
+An object which has a body that is often found curled up, as a defensive posture.
+An object which has a body that is often found in a variety of colors due to mineral replacement during fossilization.
+An object which has a body that is often found in marine sedimentary rocks, indicating a marine lifestyle.

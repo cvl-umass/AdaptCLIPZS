@@ -1,0 +1,20 @@
+An object which has a cap, often umbrella-shaped, at the top.
+An object which has a stem, also known as a stipe, that supports the cap.
+An object which has gills, pores, or teeth under the cap, used for spore dispersal.
+An object which may have a ring, also known as an annulus, around the stem.
+An object which may have a bulbous base or a volva at the bottom of the stem.
+An object which may have a veil covering the gills or pores when young.
+An object which may have a spore print, a deposit of spores, when placed on a surface.
+An object which may vary in color, size, and shape.
+An object which may have a slimy, dry, scaly, or smooth cap surface.
+An object which may have a distinctive smell.
+An object which may bruise or change color when cut or damaged.
+An object which may have a cup-like structure, also known as a universal veil, at the base of the stem in some species.
+An object which may have remnants of the universal veil on the cap, appearing as warts or patches.
+An object which may have a hollow or solid stem.
+An object which may have a straight, curved, or twisted stem.
+An object which may have a flat, convex, concave, or indented cap.
+An object which may have gills that are attached, free, or descending on the stem.
+An object which may have a cap that is striate or non-striate at the margin.
+An object which may have a stem that is central, lateral, or absent.
+An object which may have a cap that is viscid or non-viscid when moist.

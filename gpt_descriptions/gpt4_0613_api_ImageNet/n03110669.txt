@@ -1,0 +1,20 @@
+An object which has a flared bell at the end.
+An object which has three piston valves aligned in a row.
+An object which has a mouthpiece at one end.
+An object which is typically made of brass or other similar metals.
+An object which has a tubing looped to form a straight-sided coil.
+An object which has a conical bore, meaning the tube's diameter increases along the length of the instrument.
+An object which has a compact shape, smaller than many similar instruments.
+An object which has a bright, warm, and mellow tone when played.
+An object which has finger buttons to press to change the pitch.
+An object which has slides that can be moved to adjust the tuning.
+An object which is often played by buzzing the lips into the mouthpiece.
+An object which is commonly used in jazz, brass bands, and classical music.
+An object which may have a lacquer or silver-plate finish.
+An object which may have decorative engravings on the bell or elsewhere.
+An object which may come with a case for storage and transport.
+An object which may be seen in the hands of a musician in a band or orchestra.
+An object which may have a mute, a device inserted into the bell to alter the sound.
+An object which may have a lyre holder for attaching sheet music.
+An object which may have a water key to release moisture build-up.
+An object which may have a leadpipe, the part of the instrument where the mouthpiece is inserted.

@@ -1,0 +1,23 @@
+An object which has a slate-blue body.
+An object which has a maroon-brown neck in adults.
+An object which has a white head and neck in juveniles.
+An object which has a long, pointed, dark bill.
+An object which has a bill that turns blue during the breeding season.
+An object which has long, thin legs that are dark in color.
+An object which has yellow or greenish-yellow eyes.
+An object which has a length of 22 to 29 inches.
+An object which has a wingspan of approximately 40 inches.
+An object which has a long and slender neck.
+An object which has a slight hunch when standing.
+An object which has a white belly and underwing coverts.
+An object which has a dark tip on its bill.
+An object which has a blue-gray back and wings.
+An object which has a white plume extending from the back of its head during breeding season.
+An object which has a slow and deliberate flight with steady wing beats.
+An object which has a direct flight with steady, deep wing beats.
+An object which has a long and pointed blackish or dark grey bill with a grey base.
+An object which has a long, slender, dark neck with a slight kink in it.
+An object which has a small, slender, and compact body.
+An object which has a short tail.
+An object which has a dark flight feathers visible in flight.
+An object which has a white morph, which is entirely white, but with the same body structure.

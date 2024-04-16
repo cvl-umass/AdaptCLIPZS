@@ -1,0 +1,14 @@
+An object which has a hard, dome-shaped shell on its back.
+An object which has a small, pointed head with a beak-like mouth.
+An object which has webbed feet, suitable for both land and water.
+An object which has a tail, usually short and tucked away.
+An object which has a skin with a combination of green, brown, or grey colors.
+An object which has a shell that may have unique patterns or markings.
+An object which has eyes on the sides of its head.
+An object which has a size ranging from small to medium, typically not exceeding 30 cm in length.
+An object which may have distinctive yellow, green, or red stripes on its head and neck.
+An object which has claws on its feet.
+An object which has a plastron (lower shell) that is usually lighter in color than the carapace (upper shell).
+An object which may show sexual dimorphism, with males typically smaller than females and having longer tails.
+An object which has nostrils located at the end of its snout.
+An object which may have a hinge on its plastron, allowing it to close its shell tightly for protection.

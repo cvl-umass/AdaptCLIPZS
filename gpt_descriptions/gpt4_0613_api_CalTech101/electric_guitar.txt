@@ -1,0 +1,16 @@
+An object which has a long, narrow neck with frets.
+An object which has a larger body, often solid but sometimes hollow.
+An object which has six strings running along the neck and body.
+An object which has tuning pegs at the top of the neck.
+An object which has pickups, usually one to three, located on the body beneath the strings.
+An object which has a bridge on the body where the strings are attached.
+An object which has knobs or switches on the body to control volume and tone.
+An object which has an input jack for an amplifier cable.
+An object which may have decorative inlays along the neck.
+An object which may have a unique body shape, such as a cutaway design.
+An object which may have a headstock at the end of the neck with the brand's logo.
+An object which may have a pickguard, a piece of plastic on the body beneath the strings.
+An object which may have a tremolo bar, or "whammy" bar, attached to the bridge.
+An object which may be made of various materials, most commonly wood, but also metal or plastic.
+An object which may be painted or varnished in a variety of colors and finishes.
+An object which may have a strap attached to it for playing while standing.

@@ -1,0 +1,20 @@
+An object which has a small, open, usually four-wheeled vehicle.
+An object which is designed to carry two golfers and their golf clubs around a golf course.
+An object which has a canopy on top to protect the passengers from the sun or rain.
+An object which has a rear area designated for transporting golf clubs.
+An object which has a steering wheel similar to a car's.
+An object which has a flat seating area, usually designed to seat two people side by side.
+An object which has small, low-speed tires.
+An object which may have headlights and taillights for use in low light conditions.
+An object which may have a small windshield in front.
+An object which may have a small electric or gas-powered engine.
+An object which may have a foot pedal for acceleration and braking.
+An object which may have a small dashboard area for storage or holding drinks.
+An object which may have a rear-view mirror for safety.
+An object which may have a horn for signaling.
+An object which may have a handbrake for parking.
+An object which may have a small bumper at the front and back for protection.
+An object which may have a charging port if it is electrically powered.
+An object which may have a small luggage rack at the back for additional storage.
+An object which may have a small step for easy access to the seating area.
+An object which may have a small flagpole for visibility on the golf course.

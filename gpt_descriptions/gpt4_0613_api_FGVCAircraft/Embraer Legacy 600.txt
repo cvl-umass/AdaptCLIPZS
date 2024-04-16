@@ -1,0 +1,19 @@
+An aircraft with a low-wing monoplane design.
+An aircraft with a T-tail configuration.
+An aircraft with two rear-mounted Rolls-Royce AE 3007/A1P turbofan engines.
+An aircraft with a length of approximately 26.33 meters.
+An aircraft with a wingspan of approximately 21.17 meters.
+An aircraft with a height of approximately 6.76 meters.
+An aircraft with a swept wing design.
+An aircraft with a circular cross-section fuselage.
+An aircraft with a winglet on each wing tip.
+An aircraft with a capacity to carry up to 13 passengers in its standard configuration.
+An aircraft with a cockpit designed for two crew members.
+An aircraft with a range of approximately 3,250 nautical miles.
+An aircraft with a maximum cruising speed of approximately 834 km/h.
+An aircraft with a retractable tricycle landing gear.
+An aircraft with a large, spacious cabin, often visible through multiple windows on each side.
+An aircraft with a door located at the front left side of the fuselage.
+An aircraft with a relatively short nose and a slightly bulbous forehead.
+An aircraft with a high-mounted horizontal stabilizer on the tail.
+An aircraft with a small ventral fin at the base of the tail.

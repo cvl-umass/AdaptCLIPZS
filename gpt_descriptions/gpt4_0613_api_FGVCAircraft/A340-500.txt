@@ -1,0 +1,20 @@
+An aircraft with four engines, two under each wing.
+An aircraft with a long, slender fuselage.
+An aircraft with a twin-aisle cabin layout.
+An aircraft with a circular cross-section of the fuselage.
+An aircraft with a wing sweep of about 30 degrees.
+An aircraft with a distinctive hump at the front of the aircraft, which is the cockpit.
+An aircraft with a tailplane that has a slight dihedral angle.
+An aircraft with a large vertical stabilizer and rudder.
+An aircraft with winglets at the end of each wing.
+An aircraft with a four-wheel bogie under each wing and a two-wheel nose gear.
+An aircraft with a length of approximately 68 meters.
+An aircraft with a wingspan of approximately 63.45 meters.
+An aircraft with a height of approximately 17.53 meters.
+An aircraft with a range of approximately 16,000 kilometers.
+An aircraft with a seating capacity of around 375 passengers in a two-class configuration.
+An aircraft with a maximum takeoff weight of approximately 380,000 kilograms.
+An aircraft with Rolls-Royce Trent 553/556 engines.
+An aircraft with a cruising speed of approximately 900 km/h.
+An aircraft with a service ceiling of approximately 41,000 feet.
+An aircraft with a distinctive Airbus nose shape, which is more rounded and bulbous than other manufacturers' aircraft.

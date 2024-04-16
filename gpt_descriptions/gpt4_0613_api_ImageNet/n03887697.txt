@@ -1,0 +1,16 @@
+An object which has a white or light-colored surface.
+An object which appears in a roll form.
+An object which has a perforated pattern, allowing for easy tearing.
+An object which has a textured or quilted surface.
+An object which appears to be thin and lightweight.
+An object which has a soft and absorbent texture.
+An object which may have printed designs or patterns on it.
+An object which is typically found in a kitchen or bathroom setting.
+An object which may be seen in a dispenser or holder.
+An object which may appear in single or multiple layers.
+An object which may have a slightly shiny or glossy surface when viewed under light.
+An object which may be seen in a rectangular shape when unrolled and torn off.
+An object which may have a brand logo or name printed on the packaging.
+An object which may appear in different sizes, from small to large rolls.
+An object which may be seen in a cylindrical shape when in roll form.
+An object which may have a cardboard tube in the center.

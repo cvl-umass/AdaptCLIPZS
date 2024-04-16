@@ -1,0 +1,20 @@
+An object which contains a variety of hand tools such as hammers, screwdrivers, and pliers.
+An object which includes a measuring tape or ruler.
+An object which has a level tool for checking surfaces.
+An object which contains a set of different sized wrenches.
+An object which includes a variety of nails, screws, and other fasteners.
+An object which has a set of drill bits.
+An object which includes a utility knife or a set of chisels.
+An object which contains a set of allen keys or hex keys.
+An object which includes a carpenter's pencil or marker for marking measurements.
+An object which has a set of socket wrenches.
+An object which includes a carpenter's square for measuring right angles.
+An object which contains a set of files or rasps for smoothing surfaces.
+An object which includes a saw or a set of saw blades.
+An object which has a set of safety equipment like gloves and goggles.
+An object which is typically stored in a box or bag with compartments for organization.
+An object which may include a stud finder for locating framing studs behind drywall.
+An object which contains a pry bar or crowbar for removing nails or prying apart materials.
+An object which includes a set of clamps for holding materials together.
+An object which has a set of pliers for gripping, bending, or cutting wires.
+An object which includes a variety of screwdriver bits for different types of screws.

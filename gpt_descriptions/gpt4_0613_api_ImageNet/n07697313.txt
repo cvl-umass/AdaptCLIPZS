@@ -1,0 +1,33 @@
+An object which has a round shape, typically indicative of a bun.
+An object which has a layer of yellow or white substance, indicative of cheese.
+An object which contains a brown, flat, round item, indicative of a beef patty.
+An object which may have green, leafy layers, indicative of lettuce.
+An object which may have thin, red layers, indicative of tomato slices.
+An object which may have thin, white layers, indicative of onion slices.
+An object which may have a layer of a red or brown sauce, indicative of ketchup or barbecue sauce.
+An object which may have a layer of a white, creamy substance, indicative of mayonnaise or aioli.
+An object which may have small, green, round items, indicative of pickles.
+An object which may have a layer of a yellow or brown substance, indicative of mustard.
+An object which may have a layer of a dark brown substance, indicative of a grilled or toasted bun.
+An object which is typically served on a plate, a tray, or wrapped in paper or foil.
+An object which may have visible sesame seeds on its top layer, indicative of a sesame seed bun.
+An object which may have a layer of a white, thin substance, indicative of a slice of raw onion.
+An object which may have a layer of a red, thin substance, indicative of a slice of tomato.
+An object which may have a layer of a green, leafy substance, indicative of lettuce.
+An object which may have a layer of a brown, flat, round substance, indicative of a cooked beef patty.
+An object which may have a layer of a yellow, flat, square substance, indicative of a slice of cheese.
+An object which may have a layer of a green, round, flat substance, indicative of a pickle slice.
+An object which may have a layer of a white, creamy substance, indicative of mayonnaise.
+An object which may have a layer of a red, liquid substance, indicative of ketchup.
+An object which may have a layer of a yellow, liquid substance, indicative of mustard.
+An object which may have a layer of a brown, liquid substance, indicative of barbecue sauce.
+An object which may have a layer of a white, flat, round substance, indicative of a slice of onion.
+An object which may have a layer of a red, flat, round substance, indicative of a slice of tomato.
+An object which may have a layer of a green, leafy substance, indicative of lettuce.
+An object which may have a layer of a brown, flat, round substance, indicative of a cooked beef patty.
+An object which may have a layer of a yellow, flat, square substance, indicative of a slice of cheese.
+An object which may have a layer of a green, round, flat substance, indicative of a pickle slice.
+An object which may have a layer of a white, creamy substance, indicative of mayonnaise.
+An object which may have a layer of a red, liquid substance, indicative of ketchup.
+An object which may have a layer of a yellow, liquid substance, indicative of mustard.
+An object which may have a layer of a brown, liquid substance, indicative of barbecue sauce.

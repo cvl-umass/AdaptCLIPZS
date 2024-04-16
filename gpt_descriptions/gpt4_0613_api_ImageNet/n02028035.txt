@@ -1,0 +1,20 @@
+An object which has a bright orange-red bill.
+An object which has orange-red legs.
+An object which has a white underside.
+An object which has a dark grey-brown back and wings.
+An object which has a white rump and a white triangle on its back when in flight.
+An object which has a medium length, straight bill.
+An object which has a medium size, between 27-29 cm in length.
+An object which has a wingspan of approximately 60-70 cm.
+An object which has a distinctive, piercing alarm call.
+An object which has a slightly upturned bill.
+An object which has a white "eyebrow" above the eye.
+An object which has a dark eye line that extends to the back of the bird's head.
+An object which has a slightly rounded tail.
+An object which has a speckled, mottled pattern on its breast and flanks.
+An object which has a winter plumage that is paler than its summer plumage.
+An object which has a flight pattern that includes rapid wing beats.
+An object which has a breeding habitat that includes marshes, mudflats, and coastal wetlands.
+An object which has a non-breeding habitat that includes estuaries and coastal lagoons.
+An object which has a diet that includes insects, earthworms, mollusks, and crustaceans.
+An object which has a distribution that includes Europe, Asia, and Africa.

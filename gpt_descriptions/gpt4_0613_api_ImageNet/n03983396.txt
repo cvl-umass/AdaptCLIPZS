@@ -1,0 +1,15 @@
+An object which has a cylindrical shape with a narrow neck at the top.
+An object which is typically made of plastic or glass.
+An object which has a screw top or a pull-off cap.
+An object which may have a label around the body displaying a brand name or logo.
+An object which may contain a carbonated liquid visible through the material.
+An object which may have a barcode or nutritional information printed on the label.
+An object which may have a ring or seal under the cap indicating it's unopened.
+An object which may have a curved body towards the top near the neck.
+An object which may have a volume capacity printed on it, typically in fluid ounces or milliliters.
+An object which may be transparent, translucent, or opaque depending on the material and design.
+An object which may have a recycling symbol printed on the bottom or the label.
+An object which may have a specific shape or design unique to a particular brand.
+An object which may have a straw hole or a pull-tab on the cap for easy drinking.
+An object which may have a contoured shape for easy grip.
+An object which may have a date stamp or batch number printed on the label or the bottom.

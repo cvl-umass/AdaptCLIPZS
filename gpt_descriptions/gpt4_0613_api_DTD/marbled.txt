@@ -1,0 +1,15 @@
+A texture which displays a pattern of irregular lines and streaks.
+A texture which has a mix of two or more colors swirled together.
+A texture which resembles the natural veining seen in marble stone.
+A texture which has a smooth and polished surface.
+A texture which shows a contrast between light and dark areas.
+A texture which has a non-uniform, random pattern.
+A texture which may have a glossy or matte finish.
+A texture which can mimic the appearance of natural elements.
+A texture which can have a variety of color combinations.
+A texture which can be both dense and sparse in its pattern distribution.
+A texture which can be found in both natural and man-made materials.
+A texture which can be both visually and physically tactile.
+A texture which can have a three-dimensional appearance.
+A texture which can have a fluid or wavy pattern.
+A texture which can have a fine or coarse granularity.

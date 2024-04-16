@@ -1,0 +1,20 @@
+An object which has a muscular and stocky build.
+An object which has a broad, powerful head.
+An object which has a short, stiff and glossy coat.
+An object which has a deep chest.
+An object which has a wide, strong jaw.
+An object which has round, low-set eyes.
+An object which has ears that are either rose or half pricked.
+An object which has a short tail that tapers to a point.
+An object which has a coat that can be of any color or pattern.
+An object which has a height ranging from 17 to 19 inches at the shoulder for males, and 16 to 18 inches for females.
+An object which has a weight that typically ranges from 40 to 70 pounds.
+An object which has a confident and intelligent expression.
+An object which has a strong neck, which is wide and muscular.
+An object which has a compact, muscular body.
+An object which has a straight back.
+An object which has well-sprung ribs.
+An object which has a strong, springy gait.
+An object which has a lifespan typically ranging from 12 to 16 years.
+An object which has a strong, powerful bite.
+An object which has a strong, athletic build, suitable for various dog sports such as weight pulling, obedience, agility, and flyball.

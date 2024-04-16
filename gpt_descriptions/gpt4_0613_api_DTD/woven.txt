@@ -1,0 +1,10 @@
+A texture which displays a clear pattern of interlacing threads or fibers.
+A texture which shows a crisscross pattern, typically with two sets of threads or fibers at right angles.
+A texture which has a regular, repeating pattern that is consistent throughout the material.
+A texture which may show visible knots or loops where the threads or fibers intersect.
+A texture which may have a raised or bumpy surface due to the weaving process.
+A texture which may show variations in the thickness of the threads or fibers used.
+A texture which may have a distinct directionality, with the threads or fibers running in specific directions.
+A texture which may show signs of wear or fraying along the edges where the weave is exposed.
+A texture which may have a certain level of rigidity or stiffness, depending on the tightness of the weave.
+A texture which may have a certain level of transparency, depending on the thickness and spacing of the threads or fibers.

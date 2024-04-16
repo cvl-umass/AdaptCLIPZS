@@ -1,0 +1,20 @@
+An object which has a green color.
+An object which has a tree-like structure.
+An object which has a thick, edible stalk.
+An object which has a large, dense head of small green buds.
+An object which has a rough, bumpy texture.
+An object which has a branching pattern, similar to fractals.
+An object which has a crown composed of several tightly packed flower heads.
+An object which has a fibrous and hard exterior on the stalk.
+An object which has a slightly bitter taste when raw.
+An object which has a softer texture when cooked.
+An object which has a size typically ranging from 10 to 20 centimeters in length.
+An object which has a round shape at the top, similar to a dome.
+An object which has a lighter green or whitish color on the stalk.
+An object which has a darker green color on the crown.
+An object which has a fresh smell, similar to cabbage.
+An object which has a slightly sweet smell when cooked.
+An object which has a rough texture on the crown due to the tightly packed buds.
+An object which has a smooth texture on the stalk.
+An object which has a slightly granular texture when chewed.
+An object which has a crisp texture when raw.

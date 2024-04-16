@@ -1,0 +1,15 @@
+An object which has a compact, muscular and powerful body.
+An object which has a square build, meaning the length of the body is roughly equal to the height.
+An object which has a short, hard, thick, and close-lying coat.
+An object which has a coat that is typically black, red, blue, or fawn with rust-colored markings on the face, body, and tail.
+An object which has a long, thin tail that is often docked.
+An object which has ears that are often cropped to stand erect, and are otherwise medium-sized and folded.
+An object which has a broad chest and well-defined muscle.
+An object which has a wedge-shaped head with a long muzzle.
+An object which has teeth that meet in a scissors bite.
+An object which has almond-shaped eyes that are typically dark brown in color.
+An object which has a confident and alert expression.
+An object which has a gait that is free, balanced, and vigorous.
+An object which has a size that is typically between 24 to 28 inches in height at the shoulder for males, and 22 to 25 inches for females.
+An object which has a weight that is typically between 70 to 100 pounds for males, and 60 to 90 pounds for females.
+An object which has a lifespan typically between 10 to 13 years.

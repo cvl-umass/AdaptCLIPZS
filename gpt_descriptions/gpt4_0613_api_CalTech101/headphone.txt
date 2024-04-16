@@ -1,0 +1,20 @@
+An object which has two small speakers attached to a band.
+An object which has a wire or cord, often with a jack at the end for connection to audio devices.
+An object which has cushioned pads that cover or go into the ears.
+An object which has a band that can be adjusted to fit different head sizes.
+An object which may have buttons or dials for volume control and track selection.
+An object which may have a built-in microphone, often on a small protruding arm.
+An object which may be wireless, indicating Bluetooth or other wireless connection capabilities.
+An object which may have noise-cancelling features, indicated by additional microphones or specialized design.
+An object which may have branding or logos, often found on the earpieces or band.
+An object which may come in a variety of colors and materials, from plastic to metal, leather to fabric.
+An object which may have swiveling earpieces for comfort and portability.
+An object which may have a USB charging port if it is a wireless model.
+An object which may have LED indicators for power or battery status.
+An object which may have a unique design or shape, such as over-ear, on-ear, or in-ear models.
+An object which may have detachable or replaceable parts, such as ear pads or cables.
+An object which may come with a carrying case or pouch for storage and transport.
+An object which may have a specific left and right earpiece, often marked with 'L' and 'R'.
+An object which may have a flat or round cable, depending on the model and brand.
+An object which may have a 3.5mm or 6.35mm audio jack, or a USB-C or Lightning connector for newer models.
+An object which may have a coiled cable, often found in professional or studio headphones.

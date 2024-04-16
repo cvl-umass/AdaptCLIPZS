@@ -1,0 +1,19 @@
+An object which is typically contained in a bottle or tube.
+An object which often has a pump or flip-top for dispensing.
+An object which is usually depicted as a thick, creamy substance.
+An object which may appear in various colors, but is often white or off-white.
+An object which may have a label indicating its purpose, such as "moisturizing," "hydrating," or "soothing."
+An object which may have a brand name or logo visible on its packaging.
+An object which may have text on its packaging indicating its scent, such as "lavender," "vanilla," or "unscented."
+An object which may have symbols or text indicating it is dermatologically tested or hypoallergenic.
+An object which may have a label indicating its SPF level, if it contains sun protection.
+An object which may have a label indicating it is for specific use, such as "hand lotion," "body lotion," or "face lotion."
+An object which may have a label indicating it is for specific skin types, such as "for dry skin," "for sensitive skin," or "for oily skin."
+An object which may have a label indicating it contains certain ingredients, such as "with aloe vera," "with shea butter," or "with vitamin E."
+An object which may have a label indicating it is vegan, cruelty-free, or organic.
+An object which may have a label indicating it is a part of a specific product line or collection.
+An object which may have a label indicating its size or volume, often in fluid ounces or milliliters.
+An object which may have a label indicating directions for use.
+An object which may have a label indicating warnings or precautions.
+An object which may have a label indicating its country of manufacture.
+An object which may have a label indicating its expiration date.

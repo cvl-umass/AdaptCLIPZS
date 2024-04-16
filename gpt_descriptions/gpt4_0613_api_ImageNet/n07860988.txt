@@ -1,0 +1,17 @@
+An object which appears soft and pliable.
+An object which is typically off-white or light beige in color.
+An object which has a smooth, uniform texture when properly mixed.
+An object which may have visible flecks of ingredients such as yeast or herbs.
+An object which may appear shiny or glossy if it has been coated with oil or egg wash.
+An object which may have a round, ball-like shape when it's ready for baking.
+An object which may have a flattened or rolled out appearance if it's being prepared for certain recipes.
+An object which may have a rough, shaggy texture if it's in the early stages of mixing.
+An object which may have visible air pockets or bubbles if it has been allowed to rise.
+An object which may appear in a variety of sizes, from small individual portions to large batches.
+An object which may be seen on a floured surface or in a mixing bowl during preparation.
+An object which may have a sticky texture if it's a wet dough.
+An object which may have a crumbly texture if it's a shortcrust or pastry dough.
+An object which may have a layered appearance if it's a laminated dough like puff pastry.
+An object which may have a scored or slashed top if it's a loaf of bread dough ready for baking.
+An object which may have a dusting of flour on its surface during the kneading process.
+An object which may be seen in various stages of preparation, from raw ingredients to the final kneaded product.

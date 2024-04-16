@@ -1,0 +1,30 @@
+A car with a two-tone color scheme, typically with the front end in one color and the rear in another.
+A car with a horseshoe-shaped front grille.
+A car with a center spine running from the front to the rear.
+A car with a flat, wide, and low profile.
+A car with a quad-turbocharged 8.0-liter W16 engine.
+A car with a top speed of 253 mph.
+A car with a 7-speed DSG sequential transmission.
+A car with a total of 10 radiators for cooling.
+A car with a retractable rear wing for aerodynamics.
+A car with a two-door coupe body style.
+A car with a full-time all-wheel drive.
+A car with a fuel economy of 8 city / 14 highway mpg.
+A car with a large diffuser and centrally mounted exhaust pipes at the rear.
+A car with a Bugatti emblem on the front grille.
+A car with a curved windshield and roofline.
+A car with a luxurious interior featuring leather upholstery and aluminum accents.
+A car with a digital instrument cluster.
+A car with a center console that houses controls for the climate and audio system.
+A car with a unique key for activating the top speed mode.
+A car with a fuel tank capacity of 26.4 gallons.
+A car with a curb weight of 4162 lbs.
+A car with a length of 175.7 inches, a width of 78.7 inches, and a height of 47.4 inches.
+A car with a wheelbase of 106.7 inches.
+A car with a ground clearance of 4.9 inches in handling mode.
+A car with a 0-60 mph acceleration time of 2.5 seconds.
+A car with a carbon fiber body structure.
+A car with a luggage compartment in the front.
+A car with a power-to-weight ratio of 529 hp per tonne.
+A car with a maximum power output of 1001 hp at 6000 rpm.
+A car with a maximum torque of 922 lb-ft at 2200-5500 rpm.

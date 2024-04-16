@@ -1,0 +1,10 @@
+An action which involves a single player standing with a soccer ball at a marked spot.
+An action which shows a goalkeeper standing in front of a soccer goal, ready to block the ball.
+An action which depicts a player about to kick a stationary ball.
+An action which takes place within a clearly marked penalty area on a soccer field.
+An action which shows other players standing outside the penalty box, observing.
+An action which shows a referee observing the player with the ball and the goalkeeper.
+An action which shows a player in a poised position, ready to kick the ball.
+An action which shows a goalkeeper in a ready stance, often with arms outstretched.
+An action which shows a crowd or team members in the background, watching intently.
+An action which often shows a sense of tension or anticipation.

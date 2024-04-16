@@ -1,0 +1,20 @@
+An object which has large, industrial-sized sawing machines.
+An object which contains stacks of cut and uncut logs.
+An object which has conveyor belts or rollers for moving logs.
+An object which has a large, open-air workspace, often with a roof but no walls.
+An object which has piles of sawdust or wood chips.
+An object which has large cranes or other machinery for moving logs.
+An object which has a log deck, where logs are sorted and prepared for sawing.
+An object which has a green chain, a long conveyor where lumber is sorted by size and type.
+An object which has a kiln or other drying equipment for reducing the moisture content in the wood.
+An object which has a loading dock for trucks or rail cars to transport the finished lumber.
+An object which has a head saw, band saw, or circular saw for cutting logs into boards.
+An object which has a planer mill, where boards are smoothed and finished.
+An object which has a debarker, a machine that removes bark from logs.
+An object which has a resaw, a machine that cuts boards into thinner pieces.
+An object which has a dust collection system, to remove sawdust and wood chips from the air.
+An object which has a chipper, a machine that turns waste wood into chips for recycling.
+An object which has a sorting line, where boards are sorted by size, grade, and species.
+An object which has a sticker machine, which places small pieces of wood between layers of boards to allow for air circulation during drying.
+An object which has a trimmer, a machine that trims boards to their final length.
+An object which has a forklift or other machinery for moving stacks of lumber.

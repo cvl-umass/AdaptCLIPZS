@@ -1,0 +1,20 @@
+An object which has a long, cylindrical tube.
+An object which has a flared opening at one end, known as the muzzle.
+An object which has a closed, rounded end, known as the breech.
+An object which is typically made of metal, such as iron or steel.
+An object which may have wheels attached to its base for mobility.
+An object which may have a fuse hole or touch hole for igniting the propellant.
+An object which may have a carriage or mount, used to support and maneuver the tube.
+An object which may have a trunnion, a pair of protrusions used to mount and pivot the cannon.
+An object which may have a cascabel, a knob-like protrusion at the breech end.
+An object which may have reinforcing bands or rings around the tube.
+An object which may have decorative elements or inscriptions, often indicating the manufacturer, date of manufacture, or owner.
+An object which may have a vent, a small hole used to ignite the main charge.
+An object which may have a sight, a device used to aim the cannon.
+An object which may have a ramrod, a tool used to load the cannon.
+An object which may have a large size and weight, indicating its use for warfare or defense.
+An object which may have a linstock, a stick with a slow-burning cord, used to ignite the cannon.
+An object which may have a ladle, a tool used to load the propellant into the cannon.
+An object which may have a worm, a tool used to remove unspent charges or debris from the cannon.
+An object which may have a sponge, a tool used to extinguish any remaining embers before reloading the cannon.
+An object which may have a cap square, a metal piece used to secure the cannon to its carriage.

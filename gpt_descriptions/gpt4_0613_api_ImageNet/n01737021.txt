@@ -1,0 +1,15 @@
+An object which has a long, slender body.
+An object which has a head that is not distinctly separate from the neck.
+An object which has round pupils.
+An object which has scales that are keeled, or ridged, down the center.
+An object which has a belly that is usually pale or white.
+An object which has a dorsal color that varies from brown to gray or olive green.
+An object which may have dark crossbands or blotches along the body.
+An object which has a tail that tapers to a point.
+An object which has a flat underside, aiding in swimming.
+An object which may have a dorsal pattern that fades or disappears with age.
+An object which has a forked tongue.
+An object which may show a defensive behavior of flattening its body and head to appear larger.
+An object which is typically found in or near freshwater environments.
+An object which may exhibit a behavior of submerging itself in water when threatened.
+An object which has nostrils located high on the snout, allowing for breathing while mostly submerged in water.

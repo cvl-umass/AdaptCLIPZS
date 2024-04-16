@@ -1,0 +1,18 @@
+An object which has a muscular and sleek body structure.
+An object which has a coat that is short and glossy.
+An object which has a coat that is mottled blue or black and white, giving a blue appearance.
+An object which has black spots on its back, ears and sides.
+An object which has tan markings above the eyes, on the cheeks, chest and below the tail.
+An object which has a head that is broad and slightly domed.
+An object which has a square muzzle that is as long as the head.
+An object which has ears that are thin and tapered, hanging low.
+An object which has eyes that are dark brown, large and set wide apart.
+An object which has a tail that is set slightly below the backline, tapering to a point.
+An object which has a strong neck, transitioning smoothly into the shoulders.
+An object which has a deep chest that reaches down to the elbows.
+An object which has a straight back, sloping slightly from the withers to the hips.
+An object which has legs that are straight and well-boned.
+An object which has compact, well-padded feet.
+An object which has a confident and alert expression.
+An object which has a height ranging from 21 to 27 inches at the shoulder.
+An object which has a weight ranging from 45 to 80 pounds.

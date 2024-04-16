@@ -1,0 +1,15 @@
+An object which has a long, slender body shape.
+An object which has large, bulging eyes.
+An object which has six legs with the front pair being shorter than the others.
+An object which has a hard, shiny exoskeleton.
+An object which has a pair of antennae that are shorter than its body.
+An object which has a coloration that ranges from metallic green to blue, or sometimes a combination of both.
+An object which has a pair of large, sickle-shaped mandibles.
+An object which has a size ranging from 0.5 to 1.5 inches in length.
+An object which has a pair of elytra (hardened front wings) that often have white or yellow markings.
+An object which has a thorax that is narrower than its abdomen.
+An object which has a pair of hind wings that are folded beneath the elytra when not in use.
+An object which has a fast and agile movement, often seen running or flying.
+An object which has a segmented abdomen visible when viewed from the underside.
+An object which has a pair of cerci at the end of the abdomen, visible when viewed from the top.
+An object which has a habitat typically in sandy or other well-drained soils.

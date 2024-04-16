@@ -1,0 +1,20 @@
+An object which has a handle typically made of wood, plastic, or metal.
+An object which has bristles or filaments attached to one end of the handle.
+An object which has a metal ferrule that connects the handle to the bristles.
+An object which comes in various sizes, from very small to large.
+An object which may have bristles made from different materials such as synthetic, hog, or sable.
+An object which may have bristles that are flat, round, or pointed.
+An object which may have paint residue on the bristles or handle.
+An object which may have a long or short handle depending on its type.
+An object which may have a handle that is straight or slightly curved.
+An object which may have a handle that is smooth or textured.
+An object which may have a handle that is painted or unpainted.
+An object which may have a handle that is cylindrical or slightly tapered.
+An object which may have bristles that are tightly packed or loosely arranged.
+An object which may have bristles that are uniform or varying in length.
+An object which may have a handle with a hole at the end for hanging.
+An object which may have a brand name or size number printed on the handle.
+An object which may have a handle that is flat on one side to prevent rolling.
+An object which may have a ferrule that is silver, gold, or copper in color.
+An object which may have a ferrule that is shiny or matte in finish.
+An object which may have a ferrule that is crimped or smooth.

@@ -1,0 +1,20 @@
+An object which has a large, robust body with a broad chest.
+An object which has a broad, short head with a prominent brow ridge.
+An object which has small eyes and ears relative to its head size.
+An object which has a flat nose with large nostrils.
+An object which has long, muscular arms that are longer than its legs.
+An object which has a dark, dense, and coarse fur covering most of its body.
+An object which has a bare face, hands, feet, and chest.
+An object which has a large, protruding belly due to its herbivorous diet.
+An object which has a low, sloping back.
+An object which has a silver or grey patch of fur on its back if it's a mature male.
+An object which has large, strong hands with opposable thumbs.
+An object which has short, stocky legs used for walking on all fours.
+An object which has a short, stubby tail.
+An object which has a distinctive sagittal crest on the top of its head if it's a mature male.
+An object which has a unique set of fingerprints, similar to humans.
+An object which has a generally peaceful and social behavior, often seen in groups.
+An object which has a tendency to beat its chest when threatened or to show dominance.
+An object which has a diet primarily consisting of leaves, shoots, and stems.
+An object which has a lifespan typically ranging from 35 to 40 years in the wild.
+An object which has a size typically ranging from 4 to 6 feet in height when standing on two feet.

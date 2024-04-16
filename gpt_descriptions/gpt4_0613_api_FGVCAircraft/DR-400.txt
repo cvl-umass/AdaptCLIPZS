@@ -1,0 +1,20 @@
+An aircraft with a low-wing monoplane design.
+An aircraft with a tricycle landing gear.
+An aircraft with a distinctive cranked wing design.
+An aircraft with a large, clear canopy that extends over the top of the fuselage.
+An aircraft with a single propeller at the front.
+An aircraft with a fuselage that is largely constructed of wood.
+An aircraft with a T-tail configuration.
+An aircraft with a four-seat cabin.
+An aircraft with ailerons that are located at the wing tips.
+An aircraft with a wing that has a significant dihedral angle on the outer panels.
+An aircraft with a rear window behind the rear seats.
+An aircraft with a relatively long nose.
+An aircraft with a rectangular-shaped vertical stabilizer.
+An aircraft with a horizontal stabilizer located at the top of the vertical stabilizer.
+An aircraft with a single engine located in the nose.
+An aircraft with a relatively wide cabin for its size.
+An aircraft with a high visibility cockpit due to its large canopy.
+An aircraft with a relatively short landing gear.
+An aircraft with a wing that has a constant chord and no sweep.
+An aircraft with a propeller that is typically two-bladed.

@@ -1,0 +1,20 @@
+An object which displays time in a digital format.
+An object which has a screen or display panel.
+An object which may have buttons or switches for setting time or alarm.
+An object which may have a backlight or illumination for visibility in the dark.
+An object which may display additional information such as date, temperature, or humidity.
+An object which may have a rectangular or square shape.
+An object which may be powered by electricity or batteries.
+An object which may have an alarm function, often indicated by a small bell or alarm icon.
+An object which may have a snooze button.
+An object which may have AM/PM indicators for 12-hour format clocks.
+An object which may have a radio or music player function.
+An object which may have a sleep timer or countdown function.
+An object which may have a casing made of plastic, metal, or wood.
+An object which may have a stand or a hole at the back for wall mounting.
+An object which may have a cord for power supply.
+An object which may have a digital display that can be either LCD or LED.
+An object which may have a display color that is often red, green, blue, or white.
+An object which may have a brightness control feature.
+An object which may have a 12-hour or 24-hour display format.
+An object which may have a seconds display in addition to hours and minutes.

@@ -1,0 +1,18 @@
+An object which has a large, box-like shape, often much deeper than it is wide or tall.
+An object which has a glass screen on the front, often with a slightly curved surface.
+An object which has a power button, volume control, and channel buttons on the front or side.
+An object which has a variety of ports on the back, including coaxial, composite, and sometimes VGA or HDMI.
+An object which has a thick, heavy power cord coming out of the back.
+An object which has a label on the back with information about the manufacturer, model number, and technical specifications.
+An object which has a high-voltage warning label on the back or bottom.
+An object which has a stand or base on the bottom to support its weight.
+An object which has ventilation slots on the back or sides to dissipilate heat.
+An object which has a matte or semi-gloss finish, often in black, grey, or beige.
+An object which has a noticeable screen flicker when photographed or filmed.
+An object which has a magnetic distortion effect when a magnet is brought near the screen.
+An object which has a static electricity effect when touched after being powered on for a while.
+An object which has a slight humming or buzzing noise when powered on.
+An object which has a warm surface after being powered on for a while.
+An object which has a noticeable weight, due to the heavy glass tube and electronic components inside.
+An object which has a slight glow in the dark when powered off, due to the phosphors on the screen.
+An object which has a slight smell of ozone when powered on, due to the high-voltage electronics inside.

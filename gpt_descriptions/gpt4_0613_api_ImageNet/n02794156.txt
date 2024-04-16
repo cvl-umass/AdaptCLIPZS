@@ -1,0 +1,15 @@
+An object which has a dial with numbers representing atmospheric pressure.
+An object which may have a needle pointing to the current atmospheric pressure.
+An object which may be mounted on a wooden or metal base for stability.
+An object which may have a glass front to protect the dial and needle.
+An object which may have markings for 'Stormy', 'Rain', 'Change', 'Fair', 'Very Dry' on the dial.
+An object which may have a small adjustable pointer to track changes in pressure.
+An object which may be cylindrical, rectangular, or round in shape.
+An object which may have a small screw or knob on the back or bottom for calibration.
+An object which may be paired with a thermometer or hygrometer in a weather station.
+An object which may have a brass, silver, or black finish.
+An object which may have a brand name or logo on the front or back.
+An object which may have a hook or hole on the back for wall mounting.
+An object which may have a small opening or vent to allow air pressure inside.
+An object which may have a vintage or antique appearance, especially if it's an older model.
+An object which may have a digital display if it's a modern version.

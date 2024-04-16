@@ -1,0 +1,20 @@
+An object which has a bright yellow head.
+An object which has a dark, almost black body.
+An object which has a yellow tail.
+An object which has a small, oval-shaped body.
+An object which has a large, protruding mouth.
+An object which has a continuous dorsal fin.
+An object which has a yellow pectoral fin.
+An object which has a yellow anal fin.
+An object which has a yellow ventral fin.
+An object which has a yellow stripe running from the mouth to the eye.
+An object which has a size typically ranging from 8 to 14 inches in length.
+An object which has a slightly compressed body shape.
+An object which has small, round eyes.
+An object which has a thin, black line running along the edge of its dorsal and anal fins.
+An object which has a black spot on the upper rear portion of the body, near the base of the dorsal fin.
+An object which has a yellow stripe running along the base of the dorsal fin.
+An object which has a yellow stripe running along the base of the anal fin.
+An object which has a yellow stripe running along the base of the tail fin.
+An object which has a yellow stripe running along the base of the pectoral fin.
+An object which has a yellow stripe running along the base of the ventral fin.

@@ -1,0 +1,20 @@
+An object which has a long neck with frets.
+An object which has a circular body, often covered with a skin or plastic membrane.
+An object which has four to six strings stretched over its body.
+An object which has tuning pegs at the end of the neck.
+An object which has a bridge that supports the strings on the body.
+An object which has a tailpiece at the end of the body to anchor the strings.
+An object which often features ornate designs or inlays on the neck and body.
+An object which may have a resonator attached to the back of the body to amplify sound.
+An object which has a distinctive twangy sound when the strings are plucked.
+An object which is often associated with folk, country, and bluegrass music.
+An object which is typically played by strumming or picking the strings with fingers or a plectrum.
+An object which may have a metal or wooden rim around the body.
+An object which may have fret markers on the neck for guidance while playing.
+An object which may have a truss rod inside the neck to adjust its curvature.
+An object which may have a scoop, or a section where frets are removed for playing certain styles of music.
+An object which may have a capo, a device used on the neck to change the pitch of the strings.
+An object which may have a sliding fifth string capo for changing the pitch of the fifth string.
+An object which may have a coordinator rod inside the body to adjust the tension of the head.
+An object which may have a tone ring, a metal piece that sits on top of the rim to affect the instrument's tone.
+An object which may have a pickguard, a piece of material on the body to protect its surface from being scratched by picks.

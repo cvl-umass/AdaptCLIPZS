@@ -1,0 +1,20 @@
+An object which displays a variety of colorful, individually wrapped items.
+An object which contains shelves filled with jars of different shapes and sizes, each filled with various sweets.
+An object which has a counter or display case showcasing a variety of chocolates, candies, or pastries.
+An object which features signage or labels indicating different types of sweets or their prices.
+An object which has a cash register or point of sale system, indicating a commercial establishment.
+An object which includes candy-making equipment such as chocolate tempering machines, candy molds, or taffy pullers.
+An object which displays a variety of lollipops, candy bars, or gummy candies.
+An object which has a bright, colorful interior design often associated with sweets or candy.
+An object which includes a display of seasonal or holiday-themed confections.
+An object which features a variety of packaging materials, such as candy boxes, bags, or ribbons.
+An object which includes a display of sugar-free or specialty diet confections.
+An object which has a display of novelty candies, such as oversized lollipops or candy necklaces.
+An object which includes a display of international or imported sweets.
+An object which features a variety of bulk bins filled with different types of loose candy.
+An object which includes a display of gourmet chocolates or truffles.
+An object which has a display of baked goods, such as cookies or cupcakes, often found in a confectionery store.
+An object which includes a display of ice cream or other frozen treats.
+An object which features a variety of candy-themed merchandise, such as candy-themed toys or clothing.
+An object which includes a display of candy-making supplies or kits for home use.
+An object which has a display of gift baskets or pre-packaged gift sets of sweets.

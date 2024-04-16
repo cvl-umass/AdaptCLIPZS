@@ -1,0 +1,15 @@
+A scene which features rows of desks or tables facing in one direction.
+A scene which includes a podium or lectern at the front of the room.
+A scene which displays a large screen or blackboard at the front of the room.
+A scene which shows a speaker or lecturer standing at the front, possibly with a microphone.
+A scene which contains a projector or other audio-visual equipment.
+A scene which has a seating arrangement that is tiered or sloped, allowing a clear view of the front from all seats.
+A scene which includes students or attendees with notebooks, laptops, or other learning materials.
+A scene which features educational posters, diagrams, or charts on the walls.
+A scene which shows a room with fluorescent lighting and a formal, academic atmosphere.
+A scene which includes a whiteboard or flip chart with markers.
+A scene which displays a room with large windows, often found in educational institutions.
+A scene which shows a room with a high ceiling, typical of lecture halls.
+A scene which includes a clock on the wall, a common feature in classrooms and lecture halls.
+A scene which features a room with a long, narrow layout, typical of lecture rooms.
+A scene which shows a room with exit signs and fire safety equipment, as required in public buildings.

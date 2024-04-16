@@ -1,0 +1,15 @@
+A satellite image which shows a patchwork of different colors, indicating different crops or stages of growth.
+A satellite image which displays a regular, geometric pattern, suggesting human-made agricultural fields.
+A satellite image which reveals large, flat areas with little variation in color or texture, indicating a lack of natural features like mountains or forests.
+A satellite image which shows areas of bright green, indicating healthy, growing crops.
+A satellite image which displays areas of brown or yellow, suggesting harvested or fallow fields.
+A satellite image which reveals a lack of urban structures such as buildings or roads.
+A satellite image which shows a network of small, straight lines, indicating irrigation systems or access roads.
+A satellite image which displays a change in color or texture over time, suggesting seasonal crop rotation.
+A satellite image which reveals areas of water bodies or wetlands nearby, which could be used for irrigation.
+A satellite image which shows a lack of dense, dark green areas, indicating a lack of forested regions.
+A satellite image which displays a lack of high-altitude features like mountains or hills.
+A satellite image which reveals a lack of sandy or light-colored areas, indicating a lack of desert regions.
+A satellite image which shows a lack of snow or ice, indicating it's not a polar region.
+A satellite image which displays a lack of dark blue, open spaces, indicating it's not an ocean or large body of water.
+A satellite image which reveals a lack of densely packed, gray or brown areas, indicating a lack of urban or built-up regions.

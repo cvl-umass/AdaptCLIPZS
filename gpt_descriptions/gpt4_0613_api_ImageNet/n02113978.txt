@@ -1,0 +1,20 @@
+An object which has a strong, sturdy, and lean body structure.
+An object which has a hairless, smooth, and tough skin.
+An object which has a skin color that can range from black, gray, slate, red, liver, or bronze.
+An object which may have a short tuft of hair on the head and tail.
+An object which has almond-shaped, expressive eyes that can be black, brown, or even blue.
+An object which has large, bat-like ears that stand erect.
+An object which has a long neck that is slightly arched.
+An object which has a rectangular body, being slightly longer than it is tall.
+An object which has a muscular, flat back.
+An object which has a tail that is set low and usually carried in a curve.
+An object which has a gait that is smooth, elegant, and effortless.
+An object which has a moderate size, typically weighing between 10 to 50 pounds.
+An object which has a wedge-shaped head that is broad and strong.
+An object which has a muzzle that is slightly longer than the skull and tapers to its end.
+An object which has teeth that meet in a scissors bite.
+An object which has a personality that is known to be intelligent, affectionate, and good with children.
+An object which has a lifespan typically between 13 to 15 years.
+An object which has a body temperature that is typically higher than other dog breeds.
+An object which has a skin that is prone to sunburn.
+An object which has a skin that may be spotted or blotched.

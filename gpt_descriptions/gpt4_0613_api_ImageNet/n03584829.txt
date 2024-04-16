@@ -1,0 +1,15 @@
+An object which has a flat, triangular surface.
+An object which has a handle on top for easy grip.
+An object which has a dial or buttons to control temperature.
+An object which has a cord attached, usually at the back.
+An object which has a shiny, metallic base.
+An object which may have steam holes on the flat surface.
+An object which may have a water reservoir for steam ironing.
+An object which may have a light indicator to show when it's heated.
+An object which is typically heavy to provide pressure for ironing.
+An object which may have a non-stick coating on its base.
+An object which may have a pointed tip to reach into corners of clothes.
+An object which may have a safety stand to rest the iron when not in use.
+An object which may have a spray nozzle for dampening clothes.
+An object which may have a self-cleaning system.
+An object which may have an auto-shutoff feature for safety.

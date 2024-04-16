@@ -1,0 +1,15 @@
+An object which has a small, oval body shape.
+An object which has a flat body before feeding and becomes balloon-like after feeding.
+An object which has eight legs, indicating it is an adult.
+An object which has six legs, indicating it is in its larval stage.
+An object which has a hard, protective shield on its back, indicating it is a hard tick.
+An object which lacks a hard shield and appears leathery, indicating it is a soft tick.
+An object which has a distinct head region.
+An object which has a mouthpart that is visible when viewed from above.
+An object which has a color that varies from brown to reddish-brown or black.
+An object which has a size that varies from 1mm to 1cm depending on its species and feeding status.
+An object which may have white or yellowish markings on its back, indicating it is a certain species of tick.
+An object which has a hypostome (part of the mouth) that is visible and appears as a central protrusion.
+An object which may appear engorged and significantly larger if it has recently fed.
+An object which has two body segments, unlike spiders that have three.
+An object which does not have antennae.

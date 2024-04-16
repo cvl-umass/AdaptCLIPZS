@@ -1,0 +1,20 @@
+An object which has a wide front ski for steering.
+An object which has a long, wide track at the back for propulsion.
+An object which has a seat designed for one or two people.
+An object which has handlebars for steering and control.
+An object which has a small windshield to protect the rider from wind and snow.
+An object which has a powerful engine located under the seat.
+An object which has a fuel tank located in front of the rider.
+An object which has a compact, aerodynamic design for efficient movement through snow.
+An object which has a headlight at the front for visibility in low light conditions.
+An object which has a rear cargo rack or tow hitch for carrying gear or towing a sled.
+An object which has a suspension system to absorb bumps and jumps.
+An object which has a brake lever on the handlebars for stopping.
+An object which has footrests for the rider and passenger.
+An object which has a throttle control on the handlebars for speed adjustment.
+An object which has a robust body to withstand harsh winter conditions.
+An object which has a bright color scheme for visibility in the snow.
+An object which has a muffler and exhaust system at the rear.
+An object which has a protective cover over the engine and other mechanical parts.
+An object which has a digital or analog instrument panel for speed, fuel, and other indicators.
+An object which has a pull start or electric start mechanism.

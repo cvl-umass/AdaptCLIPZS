@@ -1,0 +1,15 @@
+An object which has a flat plate or dial.
+An object which has a gnomon, a part that sticks up to cast a shadow on the dial.
+An object which has hour lines, marked on the dial to indicate the time of day.
+An object which is usually positioned in a sunny location to accurately tell time.
+An object which may have a compass or directional markers to ensure proper alignment with the sun.
+An object which may be made of stone, metal, or other durable materials.
+An object which may have Roman or Arabic numerals to indicate the hours.
+An object which may be horizontal, vertical, or inclined depending on its design.
+An object which may have additional lines to indicate the solstices and equinoxes.
+An object which may have ornamental designs or inscriptions.
+An object which may be portable or permanently installed in a specific location.
+An object which may have a circular, rectangular, or other geometric shape.
+An object which may have a nodus, a feature on the gnomon that casts a shadow to indicate the sun's declination.
+An object which may have a style, the edge of the gnomon that casts the shadow.
+An object which may have a polar style, a gnomon that is parallel to the Earth's axis of rotation.

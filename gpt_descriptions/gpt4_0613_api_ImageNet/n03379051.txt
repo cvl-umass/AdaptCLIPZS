@@ -1,0 +1,20 @@
+An object which has a hard, protective outer shell.
+An object which has a face mask attached to the front.
+An object which has a chin strap for securing it to the head.
+An object which has padding on the inside for comfort and safety.
+An object which has ventilation holes at the top or sides.
+An object which is typically oval or round in shape.
+An object which may have a logo or team colors displayed on the exterior.
+An object which has a design that covers the back and sides of the head.
+An object which may have a visor or eye shield attached to the face mask.
+An object which may have additional padding or protective elements around the jaw and neck area.
+An object which may have a specific brand or model number visible.
+An object which may have a mouth guard attached to the face mask.
+An object which is larger than a typical hat or cap.
+An object which may have a unique pattern or design specific to a team or player.
+An object which may have a radio or communication device built in for professional games.
+An object which may have a name or number sticker on the back, representing a player.
+An object which is designed to withstand high impact collisions.
+An object which may have a clear, plastic covering over the ear holes to protect the ears but allow sound through.
+An object which may have a rear bumper at the back of the helmet for additional protection.
+An object which may have a nose bumper at the front of the helmet for additional protection.

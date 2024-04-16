@@ -1,0 +1,20 @@
+An object which is a large, elongated vessel with a flat deck.
+An object which has multiple stacks of rectangular units, known as containers, on its deck.
+An object which has a bridge structure located towards the stern, or back end, of the vessel.
+An object which has a large, powerful propulsion system visible at the rear.
+An object which displays a draft marking on the hull, indicating the maximum depth the vessel can safely navigate.
+An object which has cranes or other loading equipment on or near the deck.
+An object which has a bulbous bow, a protruding bulb at the bow (or front) just below the waterline.
+An object which has a large, vertical exhaust stack, often located near the bridge.
+An object which has a hull that is typically painted in a distinctive color, often red below the waterline and black or blue above.
+An object which may display the name of the shipping company on the side of the hull or on the containers.
+An object which may have lifeboats attached to the sides of the bridge structure.
+An object which may have a helipad, a landing area for helicopters, usually located at the stern of the vessel.
+An object which may have radar masts and communication antennas on the bridge structure.
+An object which may have a large, flat bow, designed to withstand the forces of the sea.
+An object which may have a series of numbers or letters on the side of the hull, indicating the ship's identification code.
+An object which may have a series of bollards and fairleads, used for mooring, visible along the sides of the vessel.
+An object which may have a propeller and rudder visible if photographed from the rear and below the waterline.
+An object which may have a series of hatches on the deck, providing access to the holds below.
+An object which may have a series of ladders or stairs on the side of the hull, used for boarding the vessel from a smaller boat or from a dock.
+An object which may have a series of lights and reflectors, used for navigation and identification, visible on the bridge structure and along the sides of the vessel.

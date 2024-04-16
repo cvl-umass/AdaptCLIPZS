@@ -1,0 +1,15 @@
+An object which has a large, powerful, muscular body.
+An object which has a tricolor coat, predominantly black with rust and white markings.
+An object which has a broad, flat head with a slight stop.
+An object which has medium-sized, almond-shaped eyes that are dark brown.
+An object which has triangular, medium-sized ears that are gently rounded at the tip and set high on the head.
+An object which has a thick double coat with a dense outer layer and a softer undercoat.
+An object which has a bushy tail that is carried low when relaxed.
+An object which has a strong, straight back.
+An object which has a chest that is deep and broad.
+An object which has a height at the shoulder between 23.5 to 28.5 inches for males and 22 to 27 inches for females.
+An object which has a weight between 85 to 140 pounds for males and 75 to 110 pounds for females.
+An object which has a confident and gentle expression.
+An object which has a strong, muscular neck.
+An object which has compact, round feet with well-arched toes.
+An object which has a powerful, smooth gait.

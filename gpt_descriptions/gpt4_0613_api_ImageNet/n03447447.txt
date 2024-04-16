@@ -1,0 +1,17 @@
+An object which has a long, narrow, flat-bottomed shape.
+An object which is traditionally black in color.
+An object which is typically made of wood.
+An object which has a high pointed prow.
+An object which has a seating area with a canopy for passengers.
+An object which is propelled by a single oar at the stern.
+An object which has a curved handle at the stern for the gondolier to hold.
+An object which has ornate decorations, often including a pair of seahorses.
+An object which is typically found in water bodies, especially canals.
+An object which is associated with romantic rides, especially in Venice, Italy.
+An object which has a 'ferro' or iron piece at the prow, which serves as a counterweight.
+An object which has a 'risso' or comb-like piece at the top of the ferro.
+An object which has a 'forcola' or special kind of oarlock for the gondolier to row.
+An object which has a 'remo' or single oar for propulsion.
+An object which can accommodate up to six passengers.
+An object which is often seen with a gondolier standing at the stern, steering and propelling the boat.
+An object which is traditionally handcrafted by skilled artisans known as 'squero'.

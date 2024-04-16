@@ -1,0 +1,20 @@
+An object which has a delicate, green or brown slender body.
+An object which possesses two pairs of large, transparent wings that have a lace-like pattern.
+An object which has wings that are held roof-like over the body when at rest.
+An object which has long, threadlike antennae.
+An object which has bright, golden eyes.
+An object which has a length ranging from 0.2 to 0.6 inches.
+An object which has a mouthpart adapted for chewing.
+An object which has a pair of large, compound eyes.
+An object which has a pair of short, hair-like appendages on the tip of the abdomen.
+An object which has a pair of long, thin legs.
+An object which has a pair of cerci at the end of their abdomen.
+An object which has a thorax that is longer than its wide.
+An object which has a segmented abdomen.
+An object which has a pair of short palps near the mouth.
+An object which has a pair of small, simple eyes (ocelli) on the top of the head.
+An object which has a pair of wings that are larger at the tip than at the base.
+An object which has a pair of wings that are covered with a network of tiny veins.
+An object which has a pair of wings that are folded in a tent-like fashion when at rest.
+An object which has a pair of wings that are clear or lightly colored.
+An object which has a pair of wings that are covered with tiny hairs.

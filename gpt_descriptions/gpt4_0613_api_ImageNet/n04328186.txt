@@ -1,0 +1,18 @@
+An object which has a circular or oval shape.
+An object which has one or more buttons on the top or side.
+An object which has a digital or analog display.
+An object which has numbers and possibly minute, second, and hour hands if it's analog.
+An object which may have a small window displaying milliseconds, seconds, minutes, and hours.
+An object which may have a split button to record lap times.
+An object which may have a lanyard or strap attached for easy carrying.
+An object which may have a reset button to bring all the readings back to zero.
+An object which may have a start/stop button to begin or halt timing.
+An object which may have a rugged or water-resistant design for use in various environments.
+An object which may have a backlight for visibility in low light conditions.
+An object which may have a battery compartment on the back or side.
+An object which may have a manufacturer's logo or brand name on the front or back.
+An object which may have a beep or alarm function to signal the end of a timed period.
+An object which may have a small size for portability and ease of use.
+An object which may have a sleek, modern design or a more traditional, vintage look.
+An object which may have a color scheme typically black, silver, or grey, but can come in a variety of colors.
+An object which may have a glass or plastic cover protecting the display.

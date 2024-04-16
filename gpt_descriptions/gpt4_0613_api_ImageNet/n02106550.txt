@@ -1,0 +1,17 @@
+An object which has a robust and powerful body.
+An object which has a broad head with a rounded forehead.
+An object which has medium-sized, almond-shaped, dark brown eyes.
+An object which has triangular ears that are carried forward.
+An object which has a wide and deep chest.
+An object which has a tail that is usually docked short.
+An object which has a dense, straight, and coarse outer coat.
+An object which has an undercoat on the neck and thighs.
+An object which has a coat that is primarily black with clearly defined rust to mahogany markings.
+An object which has markings over the eyes, on the cheeks, each side of the chest, on all four legs, and beneath the tail.
+An object which has a large nose that is always black.
+An object which has a scissors bite, where the upper incisors closely overlap the lower incisors.
+An object which has compact, well-arched toes and thick pads on the feet.
+An object which has a natural trotting gait.
+An object which has a calm, confident, and courageous demeanor with a self-assured aloofness.
+An object which has a height ranging from 22 to 27 inches at the shoulder.
+An object which has a weight ranging from 80 to 135 pounds.

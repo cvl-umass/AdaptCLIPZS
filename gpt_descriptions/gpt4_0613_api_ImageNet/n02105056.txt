@@ -1,0 +1,16 @@
+An object which has a solid black coat.
+An object which has a long, thick double coat.
+An object which has a mane of hair around the neck, especially prominent in males.
+An object which has a tail that is bushy and strong, reaching at least to the hock.
+An object which has a square build in terms of body proportion.
+An object which has a size that is medium to large, with males standing 24-26 inches and females 22-24 inches at the shoulder.
+An object which has a slightly elongated, but not pointed, muzzle.
+An object which has almond-shaped eyes that are brown or darker.
+An object which has ears that are triangular and erect.
+An object which has a confident, intelligent, and watchful expression.
+An object which has a body that is muscular and agile.
+An object which has a gait that is smooth and easy, seemingly effortless.
+An object which has a temperament that is observant and active, showing a strong protective instinct.
+An object which has a lifespan typically ranging from 10 to 12 years.
+An object which has a high level of energy and requires regular exercise.
+An object which has a tendency to be reserved with strangers but affectionate with those it knows.

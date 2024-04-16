@@ -1,0 +1,20 @@
+Mammal with a dark blue to grey coat.
+Mammal with a white throat and chest.
+Mammal with a distinctive white "beard" around its face.
+Mammal with a long tail, often held upright.
+Mammal with a hairless, blackish face.
+Mammal with small ears that are often hidden in its fur.
+Mammal with a body length of approximately 50 to 65 cm, excluding the tail.
+Mammal with a tail length of approximately 60 to 75 cm.
+Mammal with a weight ranging from 4 to 8 kg.
+Mammal with a diet primarily consisting of fruits and leaves, indicating a forest habitat.
+Mammal that is often found in groups, indicating a social structure.
+Mammal that is native to the eastern and southern parts of Africa.
+Mammal that is often found in high-altitude forests, indicating a specific habitat preference.
+Mammal with a lifespan of approximately 20 years in the wild.
+Mammal with a gestation period of about five months, indicating a primate.
+Mammal with offspring that are nursed for about one year, indicating a primate.
+Mammal that is diurnal, active during the day and sleeping at night.
+Mammal that is arboreal, spending most of its time in trees.
+Mammal with a low-pitched, croaking call, indicating a specific vocalization.
+Mammal that is often silent and discreet, indicating a specific behavior.

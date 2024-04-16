@@ -1,0 +1,10 @@
+A texture which displays a layered appearance.
+A texture which shows clear horizontal lines or bands.
+A texture which has different materials or colors in each layer.
+A texture which has varying thickness in its layers.
+A texture which has a pattern that repeats in a regular or irregular manner.
+A texture which shows a clear distinction between each layer.
+A texture which may have different textures within each layer.
+A texture which may show signs of erosion or weathering, indicating different periods of deposition.
+A texture which may have layers that are not perfectly horizontal, indicating some form of disturbance or movement.
+A texture which may have fossil or mineral inclusions that differ between layers.

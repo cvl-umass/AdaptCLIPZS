@@ -1,0 +1,15 @@
+A scene which features a long, narrow path with walls on either side.
+A scene which includes multiple doors or openings along the sides.
+A scene which has a vanishing point in the center, creating a perspective effect.
+A scene which contains artificial lighting fixtures, such as overhead lights or wall sconces, evenly spaced along the length.
+A scene which displays a uniform color or pattern on the walls and floor, indicating an indoor setting.
+A scene which shows a series of identical or similar elements repeated at regular intervals, such as doors, windows, or columns.
+A scene which lacks natural elements like trees, grass, or sky, suggesting an indoor environment.
+A scene which may include signs or numbers on the doors or walls, indicating room numbers or directions.
+A scene which may have a tiled, carpeted, or polished floor, typical of indoor corridors.
+A scene which may show a long, straight path with no or few turns or curves.
+A scene which may contain fire extinguishers, exit signs, or other safety equipment commonly found in corridors.
+A scene which may feature a row of lockers or coat hooks, especially in a school or workplace setting.
+A scene which may include stairways or elevators at the end or along the sides, indicating different levels in a building.
+A scene which may show a reflection on the floor or walls, indicating a clean and polished surface typical of corridors.
+A scene which may have handrails or support bars along the walls, especially in hospital or care facility corridors.

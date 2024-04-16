@@ -1,0 +1,20 @@
+An object which has a yellow, black, or checkered color scheme.
+An object which displays a lighted sign on the roof indicating its availability.
+An object which has a meter device to calculate fare based on distance traveled.
+An object which has a partition between the driver's seat and the passenger's area.
+An object which has a sign or logo of a taxi company on its sides or roof.
+An object which has a license plate specifically designated for taxis.
+An object which has a radio or computer dispatch system inside.
+An object which has a capacity to seat four to five passengers excluding the driver.
+An object which has a credit card machine or mobile payment system installed.
+An object which has a GPS navigation system installed.
+An object which has a two-way radio communication system.
+An object which has a sticker or sign indicating the fare rates.
+An object which has a panic button for emergencies.
+An object which has a sign indicating it is wheelchair accessible, if applicable.
+An object which has a rear-view mirror with security camera, in some cases.
+An object which has a sign indicating it is a smoke-free environment.
+An object which has a sign indicating the maximum number of passengers allowed.
+An object which has a sign indicating the driver's identification and license number.
+An object which has a sign indicating the taxi's unique identification number.
+An object which has a sign indicating the taxi's registration and inspection stickers.

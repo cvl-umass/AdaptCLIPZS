@@ -1,0 +1,20 @@
+An object which has a boxy, rugged exterior design.
+An object which features a seven-slot front grille.
+An object which has round headlights.
+An object which has a high ground clearance.
+An object which has large, off-road tires.
+An object which has a spare tire mounted on the rear.
+An object which has a fold-down windshield.
+An object which has removable doors and roof.
+An object which has a tow hitch or hooks at the back.
+An object which has a four-wheel drive system.
+An object which has a short wheelbase for improved off-road capabilities.
+An object which has a robust and sturdy frame.
+An object which has a logo with the word 'Jeep' on it.
+An object which has a wide track and short overhangs for better stability.
+An object which has a skid plate under the body to protect the undercarriage.
+An object which has a high seating position for better visibility.
+An object which has a large fuel tank for long distance travel.
+An object which has a rear-view camera for better visibility.
+An object which has a Uconnect infotainment system.
+An object which has a Trail Rated badge, indicating its off-road capabilities.

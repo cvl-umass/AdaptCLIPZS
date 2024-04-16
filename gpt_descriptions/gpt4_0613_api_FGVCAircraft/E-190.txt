@@ -1,0 +1,20 @@
+An aircraft with a length of approximately 36.24 meters.
+An aircraft with a wingspan of about 28.72 meters.
+An aircraft with a height of roughly 10.57 meters.
+An aircraft with two underwing-mounted engines.
+An aircraft with a T-tail configuration.
+An aircraft with a narrow-body fuselage.
+An aircraft with a twin-aisle cabin layout.
+An aircraft with a seating capacity of around 100 passengers in a two-class configuration.
+An aircraft with a cockpit window layout of four panes per side, with the lower two significantly larger than the upper two.
+An aircraft with a relatively low nose gear compared to the main landing gear.
+An aircraft with a slightly swept-back wing design.
+An aircraft with a circular cross-section of the fuselage.
+An aircraft with a single-aisle cabin layout.
+An aircraft with a relatively short distance between the trailing edge of the wing and the tail.
+An aircraft with a high-wing design, where the wings are mounted on top of the fuselage.
+An aircraft with a small winglet at the tip of each wing.
+An aircraft with a relatively large distance between the two engines.
+An aircraft with a relatively small diameter of the engines compared to the fuselage.
+An aircraft with a relatively large distance between the ground and the bottom of the fuselage.
+An aircraft with a relatively short distance between the nose and the cockpit windows.

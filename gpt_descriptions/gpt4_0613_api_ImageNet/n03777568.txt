@@ -1,0 +1,20 @@
+An object which has a tall and narrow radiator grille.
+An object which features a crank start mechanism at the front.
+An object which has large, thin, spoked wheels.
+An object which has a flat, vertical windshield.
+An object which has a simple, open cab without any side windows.
+An object which has a long, straight hood covering the engine.
+An object which has a boxy rear section for cargo or passengers.
+An object which has a single, centrally mounted headlight.
+An object which has a steering wheel on the left side.
+An object which has a simple, unadorned dashboard with minimal controls.
+An object which has a canvas top that can be folded down.
+An object which has a solid axle front and rear suspension.
+An object which has a black or dark-colored paint job.
+An object which has a running board along the sides.
+An object which has a simple, straight exhaust pipe.
+An object which has a manual transmission with three pedals.
+An object which has a lever for hand throttle control.
+An object which has a simple, bench-style seat.
+An object which has a fuel tank located under the front seat.
+An object which has a rear-view mirror mounted on top of the windshield.

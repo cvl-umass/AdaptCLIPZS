@@ -1,0 +1,15 @@
+An object which has a rectangular or square shape, often with rounded corners.
+An object which has a metal casing, usually silver or black.
+An object which has a series of small, circular holes, often on the bottom or side.
+An object which has a label with technical information such as capacity, brand, and model number.
+An object which has a set of connectors, often SATA or IDE, on one end.
+An object which has a series of screws on the casing, used to secure the internal components.
+An object which is relatively heavy for its size, due to the metal casing and internal components.
+An object which has a size that is typically 2.5" or 3.5" for consumer devices.
+An object which may have a warranty seal or sticker on the casing.
+An object which may have a barcode or QR code on the label.
+An object which may have a jumper block, used to configure the drive.
+An object which may have a small, circular indentation, which is the spindle that the platters rotate around.
+An object which may have a green or blue circuit board on the bottom, which is the drive's controller.
+An object which may have a small, rectangular window, through which the internal components can be seen.
+An object which may have a small, rectangular foam pad, which is used to absorb shocks and protect the drive.

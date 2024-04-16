@@ -1,0 +1,15 @@
+An aircraft with a high-wing configuration.
+An aircraft with twin turboprop engines mounted on the wings.
+An aircraft with a short, stubby fuselage.
+An aircraft with a T-tail, where the horizontal stabilizer is mounted on top of the vertical stabilizer.
+An aircraft with a tricycle landing gear.
+An aircraft with a rear-loading ramp door.
+An aircraft with a cockpit that has a wrap-around windshield for improved visibility.
+An aircraft with a capacity to seat 19 passengers.
+An aircraft with the ability to take off and land on short runways.
+An aircraft with the capability to operate from unprepared surfaces like grass or gravel.
+An aircraft with a distinctive nose-down attitude when on the ground.
+An aircraft with large, rectangular windows along the length of the fuselage.
+An aircraft with a relatively slow cruising speed compared to similar-sized aircraft.
+An aircraft with a high level of noise in the cabin due to the proximity of the engines to the cabin.
+An aircraft with a reputation for reliability and versatility, often used in remote areas.

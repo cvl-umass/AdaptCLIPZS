@@ -1,0 +1,20 @@
+An object which has a tall, vertical structure with a digital or analog display at the top.
+An object which has a hose and nozzle attached to it, typically used for dispensing liquids.
+An object which has a keypad or buttons for selecting fuel type and initiating the fuel dispensing process.
+An object which has a slot for inserting credit or debit cards for payment.
+An object which has a clear glass or plastic section showing the amount of fuel being dispensed and its cost.
+An object which has a company logo or brand name, typically of a fuel company, displayed on it.
+An object which is typically found outdoors, often under a roofed structure at a fuel station.
+An object which has safety instructions and warnings displayed on it.
+An object which has a metal body, often painted in bright colors.
+An object which may have a separate, smaller display for advertising or promotional messages.
+An object which may have a small printer or receipt dispenser attached to it.
+An object which may have a light at the top, allowing it to be used in the dark.
+An object which may have a separate section for dispensing diesel, often marked with a different color.
+An object which may have a grounding cable to prevent static electricity build-up.
+An object which may have a vapor recovery system to prevent fuel vapors from escaping into the atmosphere.
+An object which may have a separate pump for dispensing other types of fuel, such as kerosene or propane.
+An object which may have a handle or lever for manually stopping the fuel flow.
+An object which may have a small window or display showing the last transaction or amount of fuel dispensed.
+An object which may have a barcode or QR code for mobile payments or loyalty programs.
+An object which may have a small shelf or holder for placing fuel caps while refueling.

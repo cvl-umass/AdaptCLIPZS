@@ -1,0 +1,25 @@
+An object which has a distinctive orange, black, and white pattern on its wings.
+An object which has a wingspan ranging from 3.5 to 4 inches.
+An object which has black veins outlining the cells of the wings.
+An object which has a black body with white spots.
+An object which has three pairs of legs.
+An object which has two pairs of wings.
+An object which has a pair of antennae.
+An object which has a pair of compound eyes.
+An object which has a small, tubular mouth for sipping nectar.
+An object which has white spots on the outer edge of the lower half of its wings.
+An object which has a pair of club-shaped feelers on the head.
+An object which has a black line across the middle of its hind wings.
+An object which has a black line along the edge of its wings.
+An object which has a black dot in each cell on the hind wings.
+An object which has a black dot near the tip of its forewings.
+An object which has a black dot near the center of its forewings.
+An object which has a black dot near the base of its forewings.
+An object which has a black dot near the base of its hind wings.
+An object which has a black dot near the center of its hind wings.
+An object which has a black dot near the tip of its hind wings.
+An object which has a black dot in each cell on the forewings.
+An object which has a black line across the middle of its forewings.
+An object which has a black line along the edge of its hind wings.
+An object which has white spots on the outer edge of the upper half of its wings.
+An object which has a black body with three pairs of white-spotted legs.

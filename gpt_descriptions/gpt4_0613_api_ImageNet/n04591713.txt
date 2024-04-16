@@ -1,0 +1,20 @@
+An object which has a cylindrical shape with a narrow neck at the top.
+An object which is typically made of glass.
+An object which may have a label on the front, often containing information about the wine.
+An object which may have a cork or screw cap at the top.
+An object which may contain a liquid, often visible if the glass is clear.
+An object which may have a foil or plastic wrap covering the top part of the bottle.
+An object which may have a punt (indentation) at the bottom.
+An object which may come in various colors, with green and clear being the most common for wine bottles.
+An object which may have specific markings or embossing on the glass.
+An object which may have a certain volume, typically between 375 ml to 1.5 liters for wine bottles.
+An object which may have a vintage year displayed on the label.
+An object which may have a barcode or QR code on the label.
+An object which may have a specific brand name on the label.
+An object which may have a geographical indication or appellation on the label.
+An object which may have a description of the wine's flavor profile on the label.
+An object which may have a health warning or alcohol content information on the label.
+An object which may have a tax or import stamp on the bottle or label.
+An object which may have a unique bottle shape, such as a Burgundy or Bordeaux style bottle.
+An object which may have a wine variety or grape type mentioned on the label.
+An object which may have a winemaker's or vineyard's name on the label.

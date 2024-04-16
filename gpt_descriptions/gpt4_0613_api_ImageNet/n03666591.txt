@@ -1,0 +1,20 @@
+An object which has a small, rectangular or cylindrical shape.
+An object which has a metal or plastic exterior.
+An object which has a small wheel or button on one side.
+An object which has a small opening or nozzle at one end.
+An object which may have a visible fuel reservoir, often transparent.
+An object which may have a hinged or sliding cover over the ignition area.
+An object which may have a brand logo or name printed on it.
+An object which may have a safety lock or switch.
+An object which may have a refillable port at the bottom.
+An object which may have a flame adjustment wheel or switch.
+An object which may have a decorative or personalized design on the exterior.
+An object which may have a keychain or lanyard attachment point.
+An object which may have a windproof feature, visible as a wire mesh or similar structure over the flame area.
+An object which may have a visible wick, in the case of certain types of lighters.
+An object which may have a piezoelectric ignition system, identifiable by a button instead of a wheel for ignition.
+An object which may have a butane level window, allowing the user to see the remaining fuel.
+An object which may have a cigar punch tool attached, in the case of some specialty lighters.
+An object which may have a torch flame, visible as a blue, pointed flame in photos where the lighter is ignited.
+An object which may have a soft flame, visible as a traditional yellow-orange flame in photos where the lighter is ignited.
+An object which may have a dual flame or multiple jets, in the case of some high-end or specialty lighters.

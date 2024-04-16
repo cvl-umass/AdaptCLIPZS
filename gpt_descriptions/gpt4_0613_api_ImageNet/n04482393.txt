@@ -1,0 +1,20 @@
+An object which has three wheels, typically one at the front and two at the back.
+An object which has a seat for the rider, often with a backrest.
+An object which has handlebars for steering.
+An object which has pedals for propulsion, usually connected to the front wheel.
+An object which may have a low center of gravity to increase stability.
+An object which may have a cargo basket or platform, typically located over the rear wheels.
+An object which may have a chain drive to the rear wheels for added power.
+An object which may have a protective canopy or roof.
+An object which may have a step-through design for easy mounting and dismounting.
+An object which may have a bell or horn for signaling.
+An object which may have lights for visibility in low light conditions.
+An object which may have a brake system, often on the rear wheels.
+An object which may have a child-sized version, often used as a toy or learning tool.
+An object which may have a larger, adult-sized version, often used for transportation or exercise.
+An object which may have a motorized version, often used by seniors or people with mobility issues.
+An object which may have a recumbent version, where the rider sits in a laid-back position.
+An object which may have a tandem version, designed for two riders.
+An object which may have a folding version for easy storage and transport.
+An object which may have a racing version, designed for speed and performance.
+An object which may have a touring version, designed for long distance travel and comfort.

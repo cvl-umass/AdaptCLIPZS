@@ -1,0 +1,14 @@
+An object which has a large, hollow, wooden body.
+An object which has a curved outline, similar to an hourglass shape.
+An object which has a long, thin, wooden neck extending from the body.
+An object which has four strings running from the top of the neck to the bottom of the body.
+An object which has a scroll, or a decorative curved piece, at the top of the neck.
+An object which has a tailpiece and tail gut at the bottom, used to anchor the strings.
+An object which has two f-shaped sound holes on either side of the strings on the body.
+An object which has a bridge, a wooden piece that supports the strings, located on the body between the sound holes.
+An object which has tuning pegs at the top of the neck, used to adjust the pitch of the strings.
+An object which has an endpin at the bottom, allowing it to rest on the floor when played.
+An object which is typically played with a bow, a long, thin, wooden stick with horsehair stretched between its ends.
+An object which is larger than a violin or viola, but smaller than a double bass.
+An object which is typically held between the player's legs when played.
+An object which has a fingerboard, a flat, smooth surface on the neck where the player presses down the strings to change the pitch.

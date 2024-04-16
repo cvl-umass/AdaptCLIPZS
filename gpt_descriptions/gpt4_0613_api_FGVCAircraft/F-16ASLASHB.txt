@@ -1,0 +1,20 @@
+An aircraft with a single-engine, multirole, supersonic design.
+An aircraft with a frameless bubble canopy for superior visibility.
+An aircraft with a side-mounted control stick to ease control while maneuvering.
+An aircraft with a reclined seat to reduce the effect of g-forces on the pilot.
+An aircraft with a single tail fin and stabilizers.
+An aircraft with a nose that is slightly pointed downwards.
+An aircraft with a blended wing body design.
+An aircraft with an air intake on the body's underside, just below the cockpit.
+An aircraft with a relatively small and lightweight design for a fighter jet.
+An aircraft with a thin, swept-back wing design.
+An aircraft with a trapezoidal wing shape.
+An aircraft with a pair of horizontal stabilizers near the tail.
+An aircraft with a single afterburning turbofan engine.
+An aircraft with a radar dome located in the nose.
+An aircraft with two underwing hardpoints for carrying additional fuel tanks or missiles.
+An aircraft with a landing gear that retracts into the body.
+An aircraft with a high-mounted exhaust nozzle at the rear.
+An aircraft with a relatively small radar cross-section for a fighter jet.
+An aircraft with a fly-by-wire control system.
+An aircraft with a M61 Vulcan cannon mounted internally on the left side of the fuselage.

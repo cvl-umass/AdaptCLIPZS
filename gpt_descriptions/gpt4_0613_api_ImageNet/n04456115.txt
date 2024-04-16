@@ -1,0 +1,20 @@
+An object which has a cylindrical or slightly tapered shape.
+An object which has a bulb or LED light at one end.
+An object which has a power button or switch, usually located on the side or at the end.
+An object which may have a textured or rubberized grip for holding.
+An object which may have a wrist strap attached to one end.
+An object which may have a reflector around the light source to focus the light.
+An object which may have a lens at the front to further focus the light.
+An object which may have a compartment for batteries, usually accessible by unscrewing a part of it.
+An object which may come in various sizes, from small pocket-sized to larger, heavy-duty versions.
+An object which may have different modes of operation, like high beam, low beam, or flashing.
+An object which may be made of plastic, metal, or a combination of both.
+An object which may have a brand name or logo printed or embossed on it.
+An object which may have a clip for attaching to a belt or pocket.
+An object which may be waterproof or water-resistant, indicated by a rubber seal or gasket.
+An object which may have a colored or clear plastic cover over the light source.
+An object which may have a flat base allowing it to stand upright.
+An object which may have a zoom function, allowing the beam of light to be focused or spread out.
+An object which may have a rechargeable battery, indicated by a charging port.
+An object which may have a solar panel for charging.
+An object which may have a USB port for charging or for using the torch as a power bank.

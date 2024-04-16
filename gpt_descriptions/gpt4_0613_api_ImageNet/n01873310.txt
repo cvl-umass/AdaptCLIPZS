@@ -1,0 +1,15 @@
+An object which has a bill that resembles a duck's bill.
+An object which has a body covered in dense, brown fur.
+An object which has webbed feet, suitable for swimming.
+An object which has a flat tail, similar to a beaver's tail.
+An object which has a unique feature of males possessing a venomous spur on their hind limbs.
+An object which has small eyes and ears that can close while underwater.
+An object which has nostrils located on the top of its snout, allowing it to breathe while the rest of the body is submerged.
+An object which has a body shape that is streamlined and elongated, suitable for aquatic environments.
+An object which has a size typically ranging from 30 to 60 cm in length.
+An object which has a characteristic of laying eggs, despite being a mammal.
+An object which has a unique feature of using electroreception to hunt its prey.
+An object which has a gait on land that is best described as a waddle or a bounding gallop.
+An object which has a feature of being native to eastern Australia and Tasmania.
+An object which has a unique feature of females having mammary glands but no nipples, secreting milk through patches of skin.
+An object which has a feature of being semi-aquatic, spending time both on land and in water.

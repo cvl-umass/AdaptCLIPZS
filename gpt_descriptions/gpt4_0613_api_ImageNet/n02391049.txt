@@ -1,0 +1,15 @@
+An object which has a body covered in black and white stripes.
+An object which has a horse-like body structure.
+An object which has a long, thin tail with a tuft of hair at the end.
+An object which has a large, rounded head with a broad, black nose.
+An object which has ears that are large and rounded at the top.
+An object which has eyes on the sides of its head, providing a wide field of view.
+An object which has a mane that runs from the base of the head to the shoulders, and is also striped.
+An object which has a muscular, barrel-shaped body.
+An object which has long, slender legs ending in a single hoof.
+An object which has a distinctive pattern where the stripes on the body meet at the midline of the belly.
+An object which has a mouth with flat, grinding teeth in the back and incisors in the front.
+An object which has a black or dark muzzle.
+An object which has a size that is generally between 1.2-1.5 meters at shoulder height.
+An object which has a body length that generally ranges from 2-2.6 meters.
+An object which has a distinctive gait, where it moves the two legs on one side of the body before the legs on the other side.

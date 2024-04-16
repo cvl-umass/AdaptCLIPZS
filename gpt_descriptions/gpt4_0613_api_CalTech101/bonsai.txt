@@ -1,0 +1,20 @@
+An object which is a small tree or shrub that is grown in a container.
+An object which has a well-pruned and shaped appearance, often resembling a mature tree in miniature.
+An object which has a thick trunk that tapers towards the top.
+An object which has a visible root structure above the soil, known as 'nebari'.
+An object which has branches that are wired to create a specific shape or style.
+An object which has leaves that are proportionally smaller than those of a full-sized tree of the same species.
+An object which is often displayed on a stand or in a shallow, ornamental pot.
+An object which may have moss or small rocks at the base of the tree, mimicking a natural landscape.
+An object which may be styled in a variety of ways, including upright, slanting, cascade, semi-cascade, literati, group planting, or windswept.
+An object which may show signs of 'jin' or 'shari', which are techniques used to simulate age and natural wear.
+An object which may be a deciduous, coniferous, or tropical species, but is kept small through careful pruning and training.
+An object which may have exposed roots, or roots that wrap around rocks or driftwood.
+An object which may have a trunk that twists or winds in a certain direction.
+An object which may have a bark texture that is rough or smooth, depending on the species and age of the tree.
+An object which may have a foliage color that changes with the seasons, if it is a deciduous species.
+An object which may have flowers or fruit, depending on the species.
+An object which may have a moss-covered soil surface.
+An object which may have a soil surface that is covered with small pebbles or gravel.
+An object which may have a trunk that is hollowed or carved in places to simulate age and natural damage.
+An object which may have a trunk that is split or has multiple trunks, depending on the style.

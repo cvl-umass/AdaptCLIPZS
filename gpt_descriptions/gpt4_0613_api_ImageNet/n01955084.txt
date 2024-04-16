@@ -1,0 +1,15 @@
+An object which has a flat, oval shape.
+An object which has a shell composed of eight overlapping plates.
+An object which has a girdle surrounding the plates that can be covered in spines, scales, or hairs.
+An object which has a soft underbody that is often concealed.
+An object which has a color that can range from dull to bright, often blending in with its surroundings.
+An object which has a shell that is often encrusted with algae or other marine organisms.
+An object which has a head that is not clearly distinguishable from the rest of the body.
+An object which has no eyes, but sensory tentacles around the mouth.
+An object which has a foot used for locomotion, similar to a snail.
+An object which has a radula, a specialized feeding organ.
+An object which is typically found in marine environments, often attached to rocks or other hard surfaces.
+An object which can curl up into a ball when threatened.
+An object which has a size that can range from tiny to large, up to 13 inches in length.
+An object which has a shell that can repair itself if damaged.
+An object which has a lifespan that can range from a few years to several decades.

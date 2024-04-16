@@ -1,0 +1,20 @@
+An object which has a slender, pointed bill with serrated edges.
+An object which has a crest on the back of its head that can be raised or lowered.
+An object which has a white collar separating the head from the chest.
+An object which has a rusty-red breast.
+An object which has a dark green head and neck in males.
+An object which has a grey body with a white wing patch.
+An object which has a white belly.
+An object which has red eyes.
+An object which has a long, thin body shape.
+An object which has a female with a greyish body, a reddish-brown head and neck, and a white chin.
+An object which has a male with black back and white underparts.
+An object which has a juvenile similar to the female but duller.
+An object which has a male with a black hooked tip on the upper mandible.
+An object which has a female with a dark cap that extends below the eye.
+An object which has a male with a white wing patch visible in flight.
+An object which has a female with a white wing patch visible in flight.
+An object which has a male with a black tail.
+An object which has a female with a grey tail.
+An object which has a male with red-orange feet.
+An object which has a female with red-orange feet.

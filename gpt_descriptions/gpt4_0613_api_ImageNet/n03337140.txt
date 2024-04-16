@@ -1,0 +1,20 @@
+An object which has multiple drawers stacked vertically or horizontally.
+An object which has a lock system, usually on the top drawer.
+An object which has a label holder on the front of each drawer.
+An object which is typically made of metal, wood, or plastic.
+An object which has a rectangular or square shape.
+An object which has handles or knobs on each drawer for pulling.
+An object which is usually larger and taller than typical household drawers.
+An object which has rails inside the drawers for hanging folders.
+An object which may have wheels at the bottom for easy movement.
+An object which may have a safety mechanism to prevent more than one drawer being opened at a time.
+An object which may have dividers inside the drawers for better organization.
+An object which is typically found in office environments.
+An object which may have a flat top surface that can be used for placing other items.
+An object which may come in different colors, but commonly in black, grey, or beige for office use.
+An object which may have a keyhole for securing the contents.
+An object which may have a recessed area on the front of the drawers for pulling without a handle.
+An object which may have a small stand or base elevating it from the floor.
+An object which may have a company or brand name on the front or side.
+An object which may have a smooth or textured finish.
+An object which may have a specific drawer size to accommodate legal or letter size documents.

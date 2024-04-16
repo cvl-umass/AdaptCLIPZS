@@ -1,0 +1,12 @@
+A texture which appears to have been spread or dragged across a surface.
+A texture which lacks a clear, defined pattern or structure.
+A texture which exhibits irregularity and randomness in its pattern.
+A texture which may show a gradient of color or tone, as if mixed or blended.
+A texture which may have areas of varying thickness or density.
+A texture which may show streaks or lines, indicating a direction of movement.
+A texture which may have a rough or uneven surface due to the smearing process.
+A texture which may show signs of layering or overlapping.
+A texture which may have areas of transparency or translucency, depending on the material smeared.
+A texture which may show signs of pooling or accumulation in certain areas.
+A texture which may have a glossy or shiny appearance if a wet or viscous material was smeared.
+A texture which may show signs of drying or hardening, if the smeared material has begun to set or cure.

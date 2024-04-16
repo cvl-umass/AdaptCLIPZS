@@ -1,0 +1,20 @@
+An object which has a bright yellow body.
+An object which has a black and white striped head.
+An object which has a red face.
+An object which has a black tail with white spots.
+An object which has a long, pointed beak.
+An object which has a small size, typically around 12-13 cm in length.
+An object which has a wingspan of approximately 21-25 cm.
+An object which has black wings with broad yellow bars.
+An object which has a slightly forked tail.
+An object which has a white rump.
+An object which has a light, bouncing flight pattern.
+An object which has a distinctive, twittering song.
+An object which has a black crown and nape.
+An object which has a white vent and undertail coverts.
+An object which has a short, notched tail.
+An object which has a slender, pointed bill.
+An object which has a white patch on the inner wing, visible in flight.
+An object which has a white patch on the outer wing, visible when perched.
+An object which has a black bib.
+An object which has a white belly and undertail.

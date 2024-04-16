@@ -1,0 +1,16 @@
+An object which has a large body and a heavy, hunched appearance.
+An object which has a bald or sparsely feathered head.
+An object which has a long, broad wingspan.
+An object which has a hooked, sharp beak for tearing meat.
+An object which has a neck that is often bare and can be retracted in flight.
+An object which has dark or brownish feathers on its body.
+An object which has a white or light-colored ruff around its neck.
+An object which has strong, powerful feet with sharp talons.
+An object which has a tail that is usually short and square.
+An object which is often seen soaring in the sky or perched on tree branches or cliffs.
+An object which is often seen in a hunched posture when on the ground.
+An object which has eyes that are usually dark in color.
+An object which may have a distinctive wattle or pouch on the neck in some species.
+An object which may have a featherless face that can range in color from pink, red, orange to black, depending on the species.
+An object which may have a body length ranging from 25 to 41 inches, depending on the species.
+An object which may have a wingspan ranging from 5 to 9 feet, depending on the species.

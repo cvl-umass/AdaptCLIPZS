@@ -1,0 +1,15 @@
+A food with a square or circular shape.
+A food with a sealed edge around the perimeter.
+A food with a smooth or ridged texture on the surface.
+A food with a size typically ranging from one to two inches in diameter.
+A food that appears to be stuffed, often visible at the edges where the pasta is sealed.
+A food that is typically served with a sauce, often tomato-based or cream-based.
+A food that may have visible herbs or spices on top.
+A food that may be served in a soup or broth.
+A food that may be fried or boiled, with a slightly glossy or matte finish.
+A food that may have a slightly yellow or off-white color, depending on the type of pasta used.
+A food that may have a green, red, or orange hue if the pasta is flavored with spinach, beet, or tomato.
+A food that may have a browned or crispy surface if it is baked or fried.
+A food that may be served alongside other Italian dishes, such as spaghetti or lasagna.
+A food that may be garnished with grated cheese, such as Parmesan.
+A food that may have a meat, cheese, or vegetable filling, visible if the ravioli is cut open.

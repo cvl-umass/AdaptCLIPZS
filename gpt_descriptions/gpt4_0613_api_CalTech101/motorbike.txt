@@ -1,0 +1,25 @@
+An object which has two wheels, one in the front and one in the back.
+An object which has a seat positioned above the engine.
+An object which has handlebars for steering.
+An object which has a headlight at the front.
+An object which has a tail light at the back.
+An object which has a fuel tank located just behind the front wheel.
+An object which has a chain or belt connecting the engine to the rear wheel.
+An object which has foot pegs for the rider to rest their feet.
+An object which has a small dashboard with speedometer and other gauges.
+An object which has a kickstand to keep it upright when parked.
+An object which has a license plate holder at the back.
+An object which has a clutch and brake lever on the handlebars.
+An object which has a gear shift lever near the left foot peg.
+An object which has a rearview mirror on both sides of the handlebars.
+An object which has a muffler or exhaust pipe usually on the right side.
+An object which has a front and rear suspension system.
+An object which has a front and rear brake system.
+An object which has a throttle on the right handlebar.
+An object which has a horn usually located near the left handlebar.
+An object which may have saddlebags or storage compartments on the sides or back.
+An object which may have a windshield in the front.
+An object which may have a passenger seat behind the rider's seat.
+An object which may have passenger foot pegs behind the rider's foot pegs.
+An object which may have a sissy bar or backrest for the passenger.
+An object which may have unique decals or paintwork for personalization.

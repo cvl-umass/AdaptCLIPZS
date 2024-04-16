@@ -1,0 +1,20 @@
+An object which has two cylindrical or conical tubes side by side.
+An object which has a pair of glass lenses at the end of each tube.
+An object which has a central focusing wheel between the two tubes.
+An object which has eyepieces at the opposite end of the lenses.
+An object which may have a neck strap attached to it.
+An object which may have a rubber or plastic coating for grip and protection.
+An object which may have adjustable eyepieces to accommodate different eye distances.
+An object which may have a diopter adjustment for individual eye focusing.
+An object which may have numbers indicating magnification power and lens diameter.
+An object which may be compact or large in size depending on its use.
+An object which may have a tripod mount for stability.
+An object which may have lens caps to protect the lenses when not in use.
+An object which may have a carrying case for storage and transport.
+An object which may have a prism visible inside the tubes.
+An object which may have a hinge in the middle allowing the two tubes to fold closer together or further apart.
+An object which may have a range finder reticle visible in the view.
+An object which may have a compass or other navigational aids built into it.
+An object which may have a waterproof or fog-proof design.
+An object which may have a rubber eyecup around the eyepiece for comfort.
+An object which may have a zoom control for variable magnification.

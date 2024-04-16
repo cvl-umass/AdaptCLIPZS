@@ -1,0 +1,20 @@
+An object which has a cross-shaped mark on its abdomen.
+An object which has a body length of up to 20mm for females and 9mm for males.
+An object which has a body color that can range from yellow to dark grey.
+An object which has a round abdomen and a small cephalothorax.
+An object which has eight legs, each with multiple segments.
+An object which has two rows of four eyes each.
+An object which has a pair of pedipalps near the mouth used for manipulating food.
+An object which has spinnerets at the end of the abdomen for producing silk.
+An object which is often found in gardens, woodlands, and meadows.
+An object which is typically seen in the orb-weaver spider web, which is a circular grid with spokes radiating out of the center.
+An object which is most active during the daytime, indicating diurnal behavior.
+An object which is often seen in the late summer and early autumn, which is their mating season.
+An object which has a zigzag pattern of silk, known as a stabilimentum, in its web.
+An object which has a body covered in tiny hairs.
+An object which has a pair of chelicerae, or fangs, that it uses to inject venom into its prey.
+An object which has a hard exoskeleton that it must shed in order to grow.
+An object which has a lifespan of approximately one year.
+An object which is known to eat its own web each day and spin a new one.
+An object which is known to play dead when threatened.
+An object which is known to vibrate rapidly in its web when disturbed.

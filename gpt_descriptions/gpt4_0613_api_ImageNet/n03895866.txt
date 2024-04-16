@@ -1,0 +1,20 @@
+An object which has a streamlined shape for efficient travel at high speeds.
+An object which has multiple windows arranged in a linear pattern along its sides.
+An object which has doors on its sides for entry and exit of passengers.
+An object which has a coupling system at both ends for connection with other similar objects.
+An object which has a seating arrangement inside visible through the windows.
+An object which has a luggage storage area, either above the seating area or in a separate compartment.
+An object which has a distinct undercarriage with wheels designed for travel on railway tracks.
+An object which may have symbols or numbers on its exterior indicating its route or destination.
+An object which may have a toilet facility visible through a separate window or door.
+An object which may have a dining or snack bar area visible through a separate window or door.
+An object which may have sleeping compartments visible through the windows in case of long-distance travel coaches.
+An object which may have different color schemes or logos indicating its affiliation to a specific railway company.
+An object which may have emergency exit signs or instructions visible on its exterior.
+An object which may have a separate compartment for the conductor or ticket inspector.
+An object which may have exterior lighting for visibility during night-time travel.
+An object which may have air conditioning units or vents visible on its roof.
+An object which may have a pantograph or other electrical equipment on its roof if it's an electric coach.
+An object which may have a destination board or digital display on its exterior.
+An object which may have steps or a platform at its doors for easy access.
+An object which may have handrails or grab handles near its doors for passenger safety.

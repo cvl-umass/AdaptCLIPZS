@@ -1,0 +1,20 @@
+An aircraft with a twin-engine, delta wing design.
+An aircraft with canards, small forward wings, located in front of the main wings.
+An aircraft with a twin tail fin configuration.
+An aircraft with a bubble canopy for increased visibility.
+An aircraft with a sharp nose cone, indicative of its radar system.
+An aircraft with a trapezoidal wing shape.
+An aircraft with two rectangular air intakes on either side of the fuselage.
+An aircraft with a noticeable cockpit hump, giving it a distinctive profile.
+An aircraft with a relatively short and wide fuselage.
+An aircraft with a single pilot seat in most variants.
+An aircraft with a high-mounted wing design.
+An aircraft with a noticeable lack of external weapons pylons, as it carries its weapons internally.
+An aircraft with a flat underside, with no protruding parts.
+An aircraft with a sleek, streamlined design for high-speed performance.
+An aircraft with a noticeable lack of wingtip devices like winglets or raked wingtips.
+An aircraft with a relatively large vertical stabilizer compared to its overall size.
+An aircraft with a semi-recessed wheel design when the landing gear is deployed.
+An aircraft with a noticeable exhaust nozzle at the rear for each of its two engines.
+An aircraft with a high thrust-to-weight ratio, indicated by its large engines relative to its size.
+An aircraft with a distinctive 'cranked delta' wing design, where the wings have a noticeable kink partway along their span.

@@ -1,0 +1,15 @@
+An object which has three separate hulls, one main hull and two smaller outrigger hulls.
+An object which has a wide beam, providing stability and reducing the likelihood of capsizing.
+An object which has a central hull that is typically larger and longer than the two outer hulls.
+An object which has two lateral floats, or amas, that provide stability.
+An object which has a netting or trampoline-like structure connecting the main hull to the outrigger hulls.
+An object which has a mast and sails for propulsion.
+An object which has a cockpit or deck situated on the main hull for navigation and control.
+An object which may have hydrofoils to lift the hulls out of the water to increase speed.
+An object which may have a rudder and daggerboard or centerboard for steering and stability.
+An object which is designed for high-speed sailing and can be used for both racing and cruising.
+An object which may have cabins for accommodation in the main hull.
+An object which may have a motor for auxiliary power.
+An object which is typically longer than it is wide due to the configuration of the hulls.
+An object which may have a sleek, aerodynamic design to reduce drag and increase speed.
+An object which may have a variety of rigging setups, including sloop, cutter, or ketch rigs.

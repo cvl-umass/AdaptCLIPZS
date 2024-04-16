@@ -1,0 +1,24 @@
+An object which has a thick, all-white coat that's resistant to dirt.
+An object which has a double layer coat, with a dense, wooly undercoat and a longer, harsher outer coat.
+An object which has a wedge-shaped head with a broad, slightly rounded skull.
+An object which has almond-shaped, deep-set, dark brown eyes.
+An object which has a strong, muscular body.
+An object which has a plumed tail that curls over the back.
+An object which has a black or brown nose.
+An object which has medium-sized, triangular ears that stand erect.
+An object which has a friendly and gentle expression.
+An object which has a strong, straight back.
+An object which has a height ranging from 19 to 23.5 inches at the shoulder for females, and 21 to 23.5 inches for males.
+An object which has a weight ranging from 35 to 50 pounds for females, and 45 to 65 pounds for males.
+An object which has a compact, muscular frame.
+An object which has a broad, deep chest.
+An object which has a strong, muscular neck.
+An object which has a well-feathered ruff around the neck and shoulders, more pronounced in males.
+An object which has a moderate amount of bone, in proportion to size.
+An object which has a scissors bite, where the upper teeth closely overlap the lower teeth.
+An object which has a well-sprung ribcage.
+An object which has a moderate tuck-up.
+An object which has a well-developed thigh with low hocks.
+An object which has a well-balanced, symmetrical appearance.
+An object which has a friendly and adaptable temperament.
+An object which has a strong, effortless gait.

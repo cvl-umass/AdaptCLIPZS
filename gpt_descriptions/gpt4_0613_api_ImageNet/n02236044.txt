@@ -1,0 +1,17 @@
+An object which has a triangular head with large compound eyes on each side.
+An object which has a long, slender body with a distinct separation between the thorax and abdomen.
+An object which has two large, grasping forelimbs held in a "praying" position.
+An object which has a flexible neck that allows the head to rotate 180 degrees.
+An object which has wings that are typically folded on its back when at rest.
+An object which has a pair of antennae on its head.
+An object which has a long, segmented abdomen.
+An object which has six legs, with the front two being larger and adapted for catching prey.
+An object which has a mouth designed for biting and chewing.
+An object which has a coloration that can range from green to brown, often camouflaging with its environment.
+An object which may have a spiked or smooth thorax, depending on the species.
+An object which may have a size ranging from 1 to 6 inches, depending on the species.
+An object which may exhibit sexual dimorphism, with females typically being larger than males.
+An object which may have wings that are shorter than its body, especially in females.
+An object which may have a "pseudo-pupa", or a non-feeding stage between the larval and adult stages.
+An object which may have a lifespan of about a year, from egg to adult.
+An object which may lay eggs in a frothy mass, known as an ootheca, attached to a plant stem or leaf.

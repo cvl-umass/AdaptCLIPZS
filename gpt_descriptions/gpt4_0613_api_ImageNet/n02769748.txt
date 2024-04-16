@@ -1,0 +1,20 @@
+An object which has one or two shoulder straps.
+An object which is designed to be carried on one's back.
+An object which has a main compartment for storing items.
+An object which may have additional smaller compartments or pockets.
+An object which may have zippers, buckles, or drawstrings as closure mechanisms.
+An object which is typically made of durable materials like nylon, leather, or canvas.
+An object which may have padding on the back and shoulder straps for comfort.
+An object which may have a handle on the top for carrying or hanging.
+An object which may have adjustable straps to fit different body sizes.
+An object which may have a rigid frame for support, but can also be frameless.
+An object which may have a waist or chest strap for additional support.
+An object which may come in various sizes, shapes, and colors.
+An object which may have reflective strips for visibility.
+An object which may have specific compartments for laptops or hydration bladders.
+An object which may have external loops or straps for attaching additional gear.
+An object which may be waterproof or water-resistant.
+An object which may have a logo or brand name visible.
+An object which may have a sleek design for urban use or a rugged design for outdoor use.
+An object which may have a rain cover for protection against weather.
+An object which may have ventilation features to prevent sweating.

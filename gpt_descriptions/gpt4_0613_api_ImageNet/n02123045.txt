@@ -1,0 +1,20 @@
+An object which has a distinctive 'M' shaped marking on the forehead.
+An object which has stripes, dots, lines, or swirling patterns on the body.
+An object which has thin lines running from the corners of the eyes.
+An object which has dark lines running from the outer corners of the eyes down the sides of the cheeks.
+An object which has a light-colored "eyeliner" marking around the eyes.
+An object which has stripes running down its back to its tail.
+An object which has a ringed tail with dark bands.
+An object which has stripes on its legs.
+An object which has a coat that comes in different colors such as brown, grey, cream, or orange.
+An object which has a belly that is usually of a lighter color than the rest of the body.
+An object which has a coat pattern that can be classified into four types: mackerel, classic, ticked, and spotted.
+An object which has a coat that is often multicolored or patched.
+An object which has a muscular and robust body.
+An object which has a round or oval-shaped head.
+An object which has almond-shaped eyes that can be of any color.
+An object which has a medium to large size.
+An object which has a long tail relative to its body size.
+An object which has a coat that is short to medium in length.
+An object which has a coat that is dense and plush.
+An object which has a broad chest and a strong, sturdy body.

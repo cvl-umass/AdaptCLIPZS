@@ -1,0 +1,20 @@
+An aircraft with a low-wing monoplane design.
+An aircraft with a T-tail configuration.
+An aircraft with two rear-mounted engines.
+An aircraft with a swept wing design.
+An aircraft with a circular cross-section fuselage.
+An aircraft with a length of approximately 15-21 meters, depending on the variant.
+An aircraft with a wingspan of approximately 14-16 meters, depending on the variant.
+An aircraft with a distinctive nose shape, being pointed and slightly drooped.
+An aircraft with a cockpit that has a large, four-piece windshield.
+An aircraft with a capacity for 2 crew members and typically 8-14 passengers, depending on the variant.
+An aircraft with a retractable tricycle landing gear.
+An aircraft with a high cruising speed, typically around 800 km/h.
+An aircraft with a range of approximately 3,000 kilometers, depending on the variant.
+An aircraft with a service ceiling of around 12,500 meters.
+An aircraft with a relatively short and wide body compared to its length.
+An aircraft with a small wing area relative to its size.
+An aircraft with a relatively large tailplane compared to its size.
+An aircraft with a distinctive engine nacelle design, being long and slim.
+An aircraft with a relatively high aspect ratio, indicating long, narrow wings.
+An aircraft with a relatively high wing loading, indicating a strong structure.

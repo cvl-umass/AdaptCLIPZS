@@ -1,0 +1,15 @@
+A satellite image which shows a dominant green color, indicating the presence of chlorophyll in plants.
+A satellite image which displays a uniform texture, suggesting a consistent type of vegetation.
+A satellite image which lacks the presence of large, solid structures such as buildings or roads.
+A satellite image which shows a lack of shadows, indicating the absence of tall structures like trees or buildings.
+A satellite image which exhibits a lack of water bodies, as herbaceous vegetation typically doesn't grow in water.
+A satellite image which shows a lack of significant color variation, suggesting a single type of vegetation.
+A satellite image which lacks the presence of bright white spots, indicating the absence of snow or ice.
+A satellite image which shows a lack of dark patches, suggesting the absence of bare soil or rock formations.
+A satellite image which lacks the presence of linear patterns, indicating the absence of man-made structures or roads.
+A satellite image which shows a lack of brown patches, suggesting the absence of dead or dying vegetation.
+A satellite image which lacks the presence of blue or grey patches, indicating the absence of urban areas or concrete structures.
+A satellite image which shows a lack of sharp edges or straight lines, suggesting the absence of agricultural fields or man-made structures.
+A satellite image which lacks the presence of irregular or scattered patches, indicating the absence of mixed vegetation or forested areas.
+A satellite image which shows a lack of bright red or orange patches, suggesting the absence of areas affected by fire or drought.
+A satellite image which lacks the presence of circular patterns, indicating the absence of irrigated agricultural fields.

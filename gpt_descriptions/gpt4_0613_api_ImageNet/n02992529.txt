@@ -1,0 +1,25 @@
+An object which has a rectangular shape with rounded corners.
+An object which has a screen that takes up a large portion of one side.
+An object which has small holes or slots, typically at the bottom, for speakers.
+An object which has a small, circular indentation or button at the bottom of the screen.
+An object which has a small protrusion or lens on the back, indicating a camera.
+An object which has volume buttons on the side.
+An object which has a power button on the top or side.
+An object which has a slot for inserting a SIM card.
+An object which has a port for charging, typically at the bottom.
+An object which may have a logo or brand name on the back.
+An object which may have a headphone jack, typically at the top or bottom.
+An object which may have a fingerprint scanner on the back or integrated into the screen.
+An object which may have a front-facing camera, typically at the top of the screen.
+An object which may have a flash next to the rear camera.
+An object which may have a protective case around it.
+An object which may have a touch-sensitive screen.
+An object which may display a variety of apps on the screen.
+An object which may have a glass, metal, or plastic body.
+An object which may have a slot for a microSD card.
+An object which may have a mute switch on the side.
+An object which may have a virtual or physical home button.
+An object which may have a notch or cutout at the top of the screen for the front-facing camera and speaker.
+An object which may have a variety of colors and finishes.
+An object which may have a back made of glass, allowing for wireless charging.
+An object which may have multiple lenses on the rear camera for different types of photography.

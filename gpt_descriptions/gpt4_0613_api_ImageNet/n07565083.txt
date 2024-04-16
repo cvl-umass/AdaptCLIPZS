@@ -1,0 +1,25 @@
+An object which displays a list of food or drink items.
+An object which often includes prices next to each item.
+An object which may have the name of a restaurant or cafe at the top.
+An object which may be divided into sections such as 'starters', 'mains', 'desserts'.
+An object which may include descriptions of each item, including ingredients or preparation methods.
+An object which may have images of some or all of the items listed.
+An object which may include dietary information, such as vegetarian, vegan, or gluten-free labels.
+An object which may include a section for specials or seasonal items.
+An object which may be laminated or presented in a folder for durability.
+An object which may include the restaurant's logo or branding.
+An object which may include a section for beverages, including alcoholic and non-alcoholic options.
+An object which may include a section for children's meals.
+An object which may be presented in multiple languages.
+An object which may include a section for side dishes or extras.
+An object which may include a section for set meals or meal deals.
+An object which may include a section for takeaway or delivery options.
+An object which may include a section for breakfast, lunch, or dinner options.
+An object which may include a section for desserts or sweet treats.
+An object which may include a section for hot beverages like coffee or tea.
+An object which may include a section for cold beverages like soft drinks or milkshakes.
+An object which may include a section for appetizers or small plates.
+An object which may include a section for daily specials or chef's recommendations.
+An object which may include a section for allergen information.
+An object which may include a section for customer favorites or best sellers.
+An object which may include a section for house specials or signature dishes.

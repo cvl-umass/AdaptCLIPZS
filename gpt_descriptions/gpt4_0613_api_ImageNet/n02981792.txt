@@ -1,0 +1,20 @@
+An object which has two parallel hulls of equal size.
+An object which has a deck or trampoline-like structure connecting the two hulls.
+An object which has a mast and sails for propulsion.
+An object which is designed to operate on water.
+An object which may have a cabin for passengers or crew.
+An object which may have a rudder and tiller for steering at the rear of the hulls.
+An object which is typically wider than a traditional monohull boat.
+An object which may have outboard engines for additional propulsion.
+An object which may have netting on the front part between the two hulls.
+An object which may have a cockpit in the middle of the two hulls for navigation.
+An object which may have a boom attached to the mast to control the main sail.
+An object which may have a bowsprit at the front of the hulls for attaching a jib or spinnaker sail.
+An object which may have a keel or daggerboards to prevent sideways drift and improve stability.
+An object which may have a trapeze system allowing crew members to lean out over the water to balance the boat.
+An object which may have a variety of rigging lines for controlling the sails.
+An object which may have a wheel or tiller at the stern for steering.
+An object which may have a variety of safety equipment such as life jackets, flares, and fire extinguishers.
+An object which may have navigation lights and other electronics for night sailing or poor visibility conditions.
+An object which may have storage compartments for gear and supplies.
+An object which may have a motor mount at the stern for an outboard motor.
