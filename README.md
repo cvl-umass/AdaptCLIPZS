@@ -18,7 +18,12 @@ conda env create -f environment.yml
 conda activate adaptclipzs
 ```
 
-Follow [DATASETS.md](https://github.com/mayug/VDT-Adapter/blob/main/DATASETS.md) of VDT-Adapter to download datasets and json files. Further download [iNaturalist21](https://github.com/visipedia/inat_comp/tree/master/2021) and [NABirds](https://dl.allaboutbirds.org/nabirds).
+Follow [DATASETS.md](https://github.com/mayug/VDT-Adapter/blob/main/DATASETS.md) of VDT-Adapter to download datasets and json files. Further download [iNaturalist21](https://github.com/visipedia/inat_comp/tree/master/2021), [NABirds](https://dl.allaboutbirds.org/nabirds) and [CUB](https://www.vision.caltech.edu/datasets/cub_200_2011/).
+Extract all images of CUB into a single folder by running:
+```
+cd <path to cub data>/images/ 
+for folder in *; do; mv $folder/* ../images_extracted/.; done
+```
 
 ## Generate attributes from OpenAI GPT
 
@@ -51,10 +56,30 @@ The fewshot argument indicates whether you want use 16 images per class for trai
 Following command performs evaluation for CLIPFT+A setup
 
 ```
-python test_AdaptZS.py --dataset StanfordCars --im_dir <path to directory containing images of StanfordCars> --json_file <path to json file of StanfordCars from VDT-Adapter> --fewshot --arch ViT-B/16 --ckpt_dir <path to folder containing fine-tuning checkpoints> --text_dir ./gpt4_0613_api_StanfordCars --arch ViT-B/16 --vanillaCLIP False --attributes True
+python test_AdaptZS.py --dataset StanfordCars --im_dir <path to directory containing images of StanfordCars> --json_file <path to json file of StanfordCars from VDT-Adapter> --fewshot --arch ViT-B/16 --ckpt_path <path to fine-tuned checkpoints> --text_dir ./gpt4_0613_api_StanfordCars --arch ViT-B/16 --attributes
 ```
 
-For testing vanilla CLIP set vanillaCLIP argument to True and for testing without GPT attributes set attributes to False. For natural domains also provide path to location attributes in text_dir_loc argument. 
+For testing vanilla CLIP add --vanillaCLIP argument and for testing without GPT attributes omit --attributes. For natural domains also provide path to location attributes in text_dir_loc argument. 
+
+## Pre-trained Checkpoints
+
+We provide pre-trained checkpoints for iNaturist21, NABirds and CUB datasets for both ViT-B/16 and ViT-B/32 architectures, which can be downloaded [here](https://drive.google.com/drive/folders/1EGtnjHZSEUe-BY-v9r_5Zecbadv4E7vk?usp=share_link).
+
+You can run the following command with pre-trained checkpoints to reproduce performance testing on CUB dataset.
+
+```
+python test_AdaptZS.py --im_dir <path to CUB extracted images> --ckpt_path ./INaturalist21_b16.pth --text_dir ./gpt_descriptions/gpt4_0613_api_CUB/ --text_dir_loc ./gpt_descriptions/gpt4_0613_api_CUB_location/ --arch ViT-B/16 --attributes
+```
+ You can modify the --ckpt_path with any of the other checkpoints making sure you provide the corresponding architecture in --arch. Following table shows the accuracies for the various checkpoints.
+ 
+ Model | Accuracy
+ --- | ---
+ INaturalist21_b32.pth | 54.54
+ INaturalist21_b16.pth | 56.76
+ NABirds_b32.pth | 55.46
+ NABirds_b16.pth | 56.59
+ CUB_b32.pth | 54.23
+ CUB_b16.pth | 56.01
 
 
 ## Citation

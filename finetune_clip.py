@@ -34,6 +34,22 @@ torch.cuda.manual_seed_all(seed)
 BATCH_SIZE = 1024
 EPOCH = 15
 
+CUSTOM_TEMPLATES = {
+    'OxfordIIITPets': 'a photo of a {}, a type of pet',
+    'Flowers102': 'a photo of a {}, a type of flower',
+    'FGVCAircraft': 'a photo of a {}, a type of aircraft',
+    'DTD': '{} texture',
+    'EuroSAT': 'a centered satellite photo of {}',
+    'StanfordCars': 'a photo of a {}',
+    'Food101': 'a photo of {}, a type of food',
+    'Sun397': 'a photo of a {}',
+    'CalTech101': 'a photo of a {}',
+    'UCF101': 'a photo of a person doing {}',
+    'ImageNet': 'a photo of a {}',
+    'CUB': 'a photo of a {} bird',
+}
+
+
 
 def ft_clip(opt):
     save_dir = opt.save_dir
@@ -103,7 +119,7 @@ def ft_clip(opt):
             im = preprocess(im)
             with open(os.path.join(self.text_dir,self.lbl_list[index]+'.txt')) as f:
                 texts_class = f.readlines()
-            texts_class = ["a photo of a " + self.lbl_list[index].replace("_", " ").lower() + " " + line.rstrip('\n').split(" ")[2:] for line in texts_class if line.strip()]
+            texts_class = [CUSTOM_TEMPLATES[opt.dataset].format(self.lbl_list[index].replace("_", " ")) + " " + ' '.join(line.rstrip('\n').split(" ")[2:]) for line in texts_class if line.strip()]
             text_i = texts_class[np.random.randint(0,len(texts_class))]
             return im, torch.from_numpy(class_id), text_i
 
@@ -179,7 +195,7 @@ if __name__ == '__main__':
     parser.add_argument('--proj_lr', type=float, help="proj lr", default=1e-7)  
     parser.add_argument('--proj_wd', type=float, help="proj wd", default=1e-2)  
     parser.add_argument('--tau', type=float, help="temperature", default=2.0)  
-    parser.add_argument('--fewshot', type=bool, help="whether to train using 16 samples or full train set", default=True)
-    parser.add_argument('--arch', type=bool, help="vit architecture", default="ViT-B/32", choices=["ViT-B/16", "ViT-B/32"])
+    parser.add_argument('--fewshot', action='store_true', help="whether to train using 16 samples or full train set")
+    parser.add_argument('--arch', type=str, help="vit architecture", default="ViT-B/32", choices=["ViT-B/16", "ViT-B/32"])
     opt = parser.parse_args()
     ft_clip(opt)
