@@ -37,7 +37,7 @@ cub_taxonomy_data = cub_taxonomy_data.drop_duplicates(subset='cub_id')
 nabirds_taxonomy_data = pd.read_csv("./assets/nabirds_taxonomy_2022.csv")
 nabirds_taxonomy_data = nabirds_taxonomy_data.drop_duplicates(subset='nabirds_id')
 
-BATCH_SIZE = 1024
+BATCH_SIZE = 512
 EPOCH = 15
 
 
@@ -199,11 +199,11 @@ if __name__ == '__main__':
     parser.add_argument('--save_dir', type=str, help="checkpoint saving path", default="./ft_clip")  
     parser.add_argument('--text_dir_viz', type=str, help="where generated visual gpt descriptions are saved", default="./gpt4_0613_api_CUB_viz")
     parser.add_argument('--text_dir_loc', type=str, help="where generated location gpt descriptions are saved", default="./gpt4_0613_api_CUB_loc")    
-    parser.add_argument('--main_lr', type=float, help="main lr", default=5e-7)  
-    parser.add_argument('--main_wd', type=float, help="main wd", default=1e-2) 
-    parser.add_argument('--proj_lr', type=float, help="proj lr", default=1e-7)  
-    parser.add_argument('--proj_wd', type=float, help="proj wd", default=1e-2)  
-    parser.add_argument('--tau', type=float, help="temperature", default=2.0)  
+    parser.add_argument('--main_lr', type=float, help="main lr", default=1e-7)  
+    parser.add_argument('--main_wd', type=float, help="main wd", default=1e-1) 
+    parser.add_argument('--proj_lr', type=float, help="proj lr", default=6e-7)  
+    parser.add_argument('--proj_wd', type=float, help="proj wd", default=1e-1)  
+    parser.add_argument('--tau', type=float, help="temperature", default=1.3)  
     parser.add_argument('--fewshot', action='store_true', help="whether to train using 16 samples or full train set")
     parser.add_argument('--arch', type=str, help="vit architecture", default="ViT-B/32", choices=["ViT-B/16", "ViT-B/32"])
     opt = parser.parse_args()

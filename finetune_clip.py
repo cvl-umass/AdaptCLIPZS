@@ -31,7 +31,7 @@ torch.cuda.manual_seed(seed)
 torch.cuda.manual_seed_all(seed)
 
 
-BATCH_SIZE = 1024
+BATCH_SIZE = 512
 EPOCH = 15
 
 CUSTOM_TEMPLATES = {
@@ -132,6 +132,7 @@ def ft_clip(opt):
         {'params': [model.text_projection, model.visual.proj], 'lr': opt.proj_lr, 'weight_decay' : opt.proj_wd},
         {'params': temperature, 'lr': 1e-2, 'weight_decay' : 1e-6},
     ], betas=(0.9,0.98),eps=1e-6) 
+    
     scheduler = CosineAnnealingWarmRestarts(optimizer, T_0=10, T_mult=2)
 
     for epoch in range(EPOCH):
@@ -188,9 +189,9 @@ if __name__ == '__main__':
     parser.add_argument('--json_file', type=str, required=True, help="dataset split json") 
     parser.add_argument('--save_dir', type=str, help="checkpoint saving path", default="./ft_clip")  
     parser.add_argument('--text_dir', type=str, help="where generated gpt descriptions are saved", default="./gpt4_0613_api_StanfordCars")  
-    parser.add_argument('--main_lr', type=float, help="main lr", default=5e-7)  
+    parser.add_argument('--main_lr', type=float, help="main lr", default=1e-7)  
     parser.add_argument('--main_wd', type=float, help="main wd", default=1e-2) 
-    parser.add_argument('--proj_lr', type=float, help="proj lr", default=1e-7)  
+    parser.add_argument('--proj_lr', type=float, help="proj lr", default=5e-7)  
     parser.add_argument('--proj_wd', type=float, help="proj wd", default=1e-2)  
     parser.add_argument('--tau', type=float, help="temperature", default=2.0)  
     parser.add_argument('--fewshot', action='store_true', help="whether to train using 16 samples or full train set")

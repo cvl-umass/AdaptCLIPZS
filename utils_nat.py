@@ -206,6 +206,7 @@ class CUBImageLabelDataset(Dataset):
         texts_class.append("a photo of a " + str(self.all_classes[class_id[0]]) + " bird, with family name " + str(get_family(class_id[0]+1, self.taxonomy_data)))
         texts_class.append("a photo of a " + str(self.all_classes[class_id[0]]) + " bird, of the order " + str(get_order(class_id[0]+1, self.taxonomy_data)))
         text_i = texts_class[np.random.randint(0,len(texts_class))]
+        # print(self.img_path_list[index], text_i)
         return im, torch.from_numpy(class_id), text_i
     
 class FlowersImageLabelDataset(Dataset):
