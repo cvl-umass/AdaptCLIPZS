@@ -52,16 +52,6 @@ def ft_clip(opt):
     model, preprocess = clip.load(opt.arch,device=device,jit=False) #Must set jit=False for training
 
     im_dir = opt.im_dir
-
-    class_range_train = np.arange(0,math.ceil(len(all_classes) / 2))
-    all_classes = all_classes[0:math.ceil(len(all_classes) / 2)]
-
-    transform_train = transforms.Compose([
-                    transforms.RandomResizedCrop(224),
-                    transforms.RandomHorizontalFlip(),
-                    transforms.ColorJitter(
-                        brightness=0.4, contrast=0.4, saturation=0.4, hue=0),
-                ])
     
     if opt.dataset == "CUB":
         with open('./assets/class_names_cub.txt') as f:
@@ -140,6 +130,8 @@ def ft_clip(opt):
             desc_path_viz = opt.text_dir_viz,
             desc_path_loc = opt.text_dir_loc,
             )
+        
+    all_classes = all_classes[0:math.ceil(len(all_classes) / 2)]
 
     train_dataloader = DataLoader(dataset,batch_size = BATCH_SIZE, shuffle=False, num_workers=8, pin_memory=False) #Define your own dataloader
     temperature = nn.Parameter(torch.tensor(opt.tau))
@@ -209,8 +201,8 @@ if __name__ == '__main__':
     parser.add_argument('--text_dir_loc', type=str, help="where generated location gpt descriptions are saved", default="./gpt4_0613_api_CUB_loc")    
     parser.add_argument('--main_lr', type=float, help="main lr", default=5e-7)  
     parser.add_argument('--main_wd', type=float, help="main wd", default=1e-2) 
-    parser.add_argument('--main_lr', type=float, help="proj lr", default=1e-7)  
-    parser.add_argument('--main_wd', type=float, help="proj wd", default=1e-2)  
+    parser.add_argument('--proj_lr', type=float, help="proj lr", default=1e-7)  
+    parser.add_argument('--proj_wd', type=float, help="proj wd", default=1e-2)  
     parser.add_argument('--tau', type=float, help="temperature", default=2.0)  
     parser.add_argument('--fewshot', action='store_true', help="whether to train using 16 samples or full train set")
     parser.add_argument('--arch', type=str, help="vit architecture", default="ViT-B/32", choices=["ViT-B/16", "ViT-B/32"])

@@ -71,8 +71,6 @@ def ft_clip(opt):
             all_classes.append(ob.classname)
             labels.append(ob.label)
 
-
-    class_range_train = np.arange(0,math.ceil(len(all_classes) / 2))
     all_classes = all_classes[0:math.ceil(len(all_classes) / 2)]
 
     transform_train = transforms.Compose([
