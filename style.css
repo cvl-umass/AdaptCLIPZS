@@ -15,11 +15,12 @@ img {
 }
 
 .image-container {
-    width: 40%; /* Adjust width as needed */
+    width: 20%; /* Adjust this value to change the size of the container */
     margin: 0 auto 10px; /* Centering and spacing */
     overflow: hidden; /* Ensures no part of the image spills out */
     position: relative; /* For positioning the pseudo-element */
-    padding-top: 50%; /* Equal to width for a 1:1 aspect ratio */
+    padding-top: 50%; /* Adjust this value to change the aspect ratio of the container */
+    background: #FFF; /* Optional: sets a background color for empty areas */
 }
 
 #displayedImage {
@@ -28,7 +29,7 @@ img {
     left: 0;
     width: 100%;
     height: 100%;
-    object-fit: cover; /* Ensures the image covers the area without distorting */
+    object-fit: contain; /* Resizes the image to fit within the frame without cropping */
 }
 
 #className {
