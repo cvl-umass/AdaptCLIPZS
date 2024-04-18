@@ -1,10 +1,36 @@
+/* Content area styling */
 #content {
-	    text-align: center;
-	        margin-top: 20px;
-	}
+    text-align: center;
+    margin-top: 40px;
+}
 
-	img {
-		    max-width: 100%;
-		        height: auto;
-		}
+/* Styling for images */
+img {
+    max-width: 100%;
+    height: auto;
+}
 
+/* Styling for the text display */
+#displayText {
+    font-size: 24px; /* Larger font size for readability */
+    margin-top: 20px; /* Space between the image and the text */
+    color: #333; /* Dark grey color for text */
+}
+
+/* Styling for the button */
+button {
+    font-size: 18px; /* Larger font size for the button text */
+    padding: 15px 30px; /* Padding for a larger button */
+    background-color: #007BFF; /* A nice blue shade */
+    color: white; /* White text color */
+    border: none; /* No border */
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer; /* Cursor changes to pointer to indicate interactivity */
+    margin-top: 20px; /* Space above the button */
+    transition: background-color 0.3s; /* Smooth transition for hover effect */
+}
+
+/* Hover effect for the button */
+button:hover {
+    background-color: #0056b3; /* A darker blue when hovered */
+}
