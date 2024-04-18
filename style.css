@@ -15,11 +15,11 @@ img {
 }
 
 .image-container {
-    width: 90%; /* Adjust width as needed */
+    width: 40%; /* Adjust width as needed */
     margin: 0 auto 10px; /* Centering and spacing */
     overflow: hidden; /* Ensures no part of the image spills out */
     position: relative; /* For positioning the pseudo-element */
-    padding-top: 90%; /* Equal to width for a 1:1 aspect ratio */
+    padding-top: 50%; /* Equal to width for a 1:1 aspect ratio */
 }
 
 #displayedImage {
