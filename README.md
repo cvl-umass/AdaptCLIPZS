@@ -8,9 +8,9 @@ This is the code-base for the 14 dataset benchmark for zero-shot classification 
 
 CVPR'24
 
-<p align="center">
-<a href="https://arxiv.org/abs/2401.02460">[arXiv]</a> |
-<a href="https://cvl-umass.github.io/AdaptCLIPZS/">[Visualize the data]</a>
+<p align="center" style="font-size:20px; font-weight:bold;">
+<a href="https://arxiv.org/abs/2401.02460" style="text-decoration:none; color:blue;">[arXiv]</a> |
+<a href="https://cvl-umass.github.io/AdaptCLIPZS/" style="text-decoration:none; color:blue;">[Visualize the data]</a>
 </p>
 
 
@@ -67,7 +67,7 @@ For testing vanilla CLIP add --vanillaCLIP argument and for testing without GPT 
 
 ## Pre-trained Checkpoints
 
-We provide pre-trained checkpoints for iNaturalist21, NABirds and CUB datasets for both ViT-B/16 and ViT-B/32 architectures, which can be downloaded [here](https://drive.google.com/drive/folders/1EGtnjHZSEUe-BY-v9r_5Zecbadv4E7vk?usp=share_link).
+We provide pre-trained checkpoints for iNaturist21, NABirds and CUB datasets for both ViT-B/16 and ViT-B/32 architectures, which can be downloaded [here](https://drive.google.com/drive/folders/1EGtnjHZSEUe-BY-v9r_5Zecbadv4E7vk?usp=share_link).
 
 You can run the following command with pre-trained checkpoints to reproduce performance testing on CUB dataset.
 
