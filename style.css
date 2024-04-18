@@ -16,10 +16,10 @@ img {
 
 .image-container {
     width: 20%; /* Adjust this value to change the size of the container */
-    margin: 0 auto 10px; /* Centering and spacing */
+    margin: 0 auto 0px; /* Centering and spacing */
     overflow: hidden; /* Ensures no part of the image spills out */
     position: relative; /* For positioning the pseudo-element */
-    padding-top: 50%; /* Adjust this value to change the aspect ratio of the container */
+    padding-top: 10%; /* Adjust this value to change the aspect ratio of the container */
     background: #FFF; /* Optional: sets a background color for empty areas */
 }
 
@@ -35,7 +35,7 @@ img {
 #className {
     font-size: 28px; /* Larger font size for class name */
     font-weight: bold; /* Bold text for emphasis */
-    margin-top: 10px; /* Space above the class name */
+    margin-top: 5px; /* Space above the class name */
 }
 
 #displayText {
