@@ -1,14 +1,14 @@
 # AdaptCLIPZS
 
-This the code-base for the 14 dataset benchmark for zero-shot classification proposed in
+This is the code-base for the 14 dataset benchmark for zero-shot classification proposed in
 
-#### Improved Zero-Shot Classification by Adapting VLMs with Text Descriptions
+### Improved Zero-Shot Classification by Adapting VLMs with Text Descriptions
 
 [Oindrila Saha](http://oindrilasaha.github.io), [Grant Van Horn](https://gvh.codes), [Subhransu Maji](http://people.cs.umass.edu/~smaji/) 
 
 CVPR'24
 
-[[arXiv]](https://arxiv.org/abs/2401.02460)
+[[arXiv]](https://arxiv.org/abs/2401.02460) | [[Visualize](https://cvl-umass.github.io/AdaptCLIPZS/) the data]
 
 ## Preparation
 
