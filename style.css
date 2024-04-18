@@ -1,42 +1,42 @@
-/* Container for the button */
 #button-container {
     text-align: center;
-    margin-top: 10px; /* Adjust as needed for spacing */
-    margin-bottom: 20px; /* Space between the button and the content */
+    margin-top: 10px;
+    margin-bottom: 20px;
 }
 
-/* Content area styling */
 #content {
     text-align: center;
     margin-top: 20px;
 }
 
-/* Styling for images */
 img {
     max-width: 100%;
     height: auto;
 }
 
-/* Styling for the text display */
+#className {
+    font-size: 28px; /* Larger font size for class name */
+    font-weight: bold; /* Bold text for emphasis */
+    margin-top: 10px; /* Space above the class name */
+}
+
 #displayText {
     font-size: 24px; /* Larger font size for readability */
-    margin-top: 20px; /* Space between the image and the text */
+    margin-top: 10px; /* Space between the class name and text */
     color: #333; /* Dark grey color for text */
 }
 
-/* Styling for the button */
 button {
-    font-size: 18px; /* Larger font size for the button text */
-    padding: 15px 30px; /* Padding for a larger button */
-    background-color: #007BFF; /* A nice blue shade */
-    color: white; /* White text color */
-    border: none; /* No border */
-    border-radius: 5px; /* Rounded corners */
-    cursor: pointer; /* Cursor changes to pointer to indicate interactivity */
-    transition: background-color 0.3s; /* Smooth transition for hover effect */
+    font-size: 18px;
+    padding: 15px 30px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
 }
 
-/* Hover effect for the button */
 button:hover {
-    background-color: #0056b3; /* A darker blue when hovered */
+    background-color: #0056b3;
 }

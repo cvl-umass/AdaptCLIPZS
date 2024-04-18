@@ -1,4 +1,5 @@
 const imageElement = document.getElementById('displayedImage');
+const classNameElement = document.getElementById('className');
 const textElement = document.getElementById('displayText');
 
 const data = [
@@ -99,7 +100,12 @@ function loadRandomData() {
     const selectedItem = data[randomIndex];
 
     fetch(selectedItem.imagePath)
-        .then(response => imageElement.src = response.url);
+        .then(response => {
+            imageElement.src = response.url;
+            // Set the class name by removing the path and file extension
+            const name = selectedItem.className; // Assuming the className attribute is the clean name
+            classNameElement.textContent = name;
+        });
 
     fetch(selectedItem.textPath)
         .then(response => response.text())
