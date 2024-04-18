@@ -14,6 +14,23 @@ img {
     height: auto;
 }
 
+.image-container {
+    width: 90%; /* Adjust width as needed */
+    margin: 0 auto 10px; /* Centering and spacing */
+    overflow: hidden; /* Ensures no part of the image spills out */
+    position: relative; /* For positioning the pseudo-element */
+    padding-top: 90%; /* Equal to width for a 1:1 aspect ratio */
+}
+
+#displayedImage {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Ensures the image covers the area without distorting */
+}
+
 #className {
     font-size: 28px; /* Larger font size for class name */
     font-weight: bold; /* Bold text for emphasis */
