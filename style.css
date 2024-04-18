@@ -1,7 +1,14 @@
+/* Container for the button */
+#button-container {
+    text-align: center;
+    margin-top: 10px; /* Adjust as needed for spacing */
+    margin-bottom: 20px; /* Space between the button and the content */
+}
+
 /* Content area styling */
 #content {
     text-align: center;
-    margin-top: 40px;
+    margin-top: 20px;
 }
 
 /* Styling for images */
@@ -26,7 +33,6 @@ button {
     border: none; /* No border */
     border-radius: 5px; /* Rounded corners */
     cursor: pointer; /* Cursor changes to pointer to indicate interactivity */
-    margin-top: 20px; /* Space above the button */
     transition: background-color 0.3s; /* Smooth transition for hover effect */
 }
 
