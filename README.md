@@ -8,7 +8,11 @@ This is the code-base for the 14 dataset benchmark for zero-shot classification 
 
 CVPR'24
 
-[[arXiv]](https://arxiv.org/abs/2401.02460) | [[Visualize the data]](https://cvl-umass.github.io/AdaptCLIPZS/)
+<p align="center">
+<a href="https://arxiv.org/abs/2401.02460">[arXiv]</a> |
+<a href="https://cvl-umass.github.io/AdaptCLIPZS/">[Visualize the data]</a>
+</p>
+
 
 ## Preparation
 
