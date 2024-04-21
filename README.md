@@ -31,7 +31,7 @@ cd <path to cub data>/images/
 for folder in *; do; mv $folder/* ../images_extracted/.; done
 ```
 
-## Generate attributes from OpenAI GPT
+## Generate attributes from OpenAI GPT (optional)
 
 We provide our generated attributes for all datasets in "gpt_descriptions" folder. The folder contains folders for every dataset named in the format `<gpt_version>_<Dataset Name>`. Each of the dataset folder contains text files for each class named after the classname. You can also reproduce the process by running
 ```
