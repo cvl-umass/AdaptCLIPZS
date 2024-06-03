@@ -89,7 +89,7 @@ python test_AdaptZS.py --im_dir <path to CUB extracted images> --ckpt_path ./INa
 
 
 ## Citation
-If you use this code for your research, please cite the following paper.
+If you find our work useful, please consider citing:
 
 ```
 @article{saha2024improved,
