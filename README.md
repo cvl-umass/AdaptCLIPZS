@@ -11,7 +11,8 @@ CVPR'24
 <h3 align="center">
   <a href="https://arxiv.org/abs/2401.02460">[arXiv]</a> | 
   <a href="https://cvl-umass.github.io/AdaptCLIPZS/">[Visualize the data]</a> |
-    <a href="https://github.com/cvl-umass/AdaptCLIPZS/tree/main">[Project Page]</a>
+    <a href="https://github.com/cvl-umass/AdaptCLIPZS/tree/main">[Project Page]</a> |
+  <a href="https://github.com/cvl-umass/AdaptCLIPZS/blob/main/%E2%80%8EVisionGPT_poster.png">[Poster]</a>
 </h3>
 
 
