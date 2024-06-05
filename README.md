@@ -16,6 +16,7 @@ CVPR'24
   <a href="https://www.youtube.com/watch?v=H-I0SFuRGxU">[Video]</a>
 </h3>
 
+![visiongptmethod](https://github.com/cvl-umass/AdaptCLIPZS/assets/20623465/7bdb90f6-8aaf-4091-991e-70302530e9da)
 
 
 ## Preparation
