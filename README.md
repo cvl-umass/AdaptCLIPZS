@@ -97,8 +97,8 @@ If you find our work useful, please consider citing:
 ```
 @article{saha2024improved,
   title={Improved Zero-Shot Classification by Adapting VLMs with Text Descriptions},
-  author={Saha, Oindrila and Horn, Grant Van and Maji, Subhransu},
-  booktitle = {IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  author={Saha, Oindrila and Van Horn, Grant and Maji, Subhransu},
+  journal={arXiv preprint arXiv:2401.02460},
   year={2024}
 }
 ```
