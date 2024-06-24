@@ -68,7 +68,7 @@ def ft_clip(opt):
             taxonomy_data = cub_taxonomy_data,
             )
     elif opt.dataset == "Flowers102":
-        with open('./assets/cat_to_name.json', 'r') as f:
+        with open('./assets/cat_to_name_flowers.json', 'r') as f:
             all_classes = json.load(f)
         dataset = FlowersImageLabelDataset(
             mode='train',
@@ -80,7 +80,7 @@ def ft_clip(opt):
             class_range_train = np.arange(0,math.ceil(102 / 2)),
             )
     elif opt.dataset == "INaturalist21":
-        with open(os.path.join(os.path.dirname(os.path.normpath(im_dir)), 'categories.json'), 'r') as f:
+        with open(os.path.join(im_dir, 'categories.json'), 'r') as f:
             inat_data = json.load(f)
         with open("./assets/inat_ids.txt", "r") as f:
             inat_data_id_subset = f.readlines()
@@ -127,11 +127,12 @@ def ft_clip(opt):
             im_dir = im_dir,
             preprocess = preprocess,
             species_ids = species_ids,
+            taxonomy_data = nabirds_taxonomy_data,
             desc_path_viz = opt.text_dir_viz,
             desc_path_loc = opt.text_dir_loc,
             )
         
-    all_classes = all_classes[0:math.ceil(len(all_classes) / 2)]
+    # all_classes = all_classes[0:math.ceil(len(all_classes) / 2)]
 
     train_dataloader = DataLoader(dataset,batch_size = BATCH_SIZE, shuffle=False, num_workers=8, pin_memory=False) #Define your own dataloader
     temperature = nn.Parameter(torch.tensor(opt.tau))

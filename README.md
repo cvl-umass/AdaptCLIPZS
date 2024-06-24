@@ -49,12 +49,12 @@ This will save the attributes in a folders named `<gpt_version>_<dataset>` insid
 
 For non-natural domains run
 ```
-python finetune_clip.py --dataset StanfordCars --im_dir <path to directory containing images of StanfordCars> --json_file <path to json file of StanfordCars from VDT-Adapter> --fewshot --arch ViT-B/16 --save_dir ./ft_clip_cars --text_dir ./gpt4_0613_api_StanfordCars
+python finetune_clip.py --dataset StanfordCars --im_dir <path to directory containing StanfordCars> --json_file <path to json file of StanfordCars from VDT-Adapter> --fewshot --arch ViT-B/16 --save_dir ./ft_clip_cars --text_dir ./gpt4_0613_api_StanfordCars
 ```
 
 For natural domains i.e. CUB, iNaturalist, Flowers102 and NABirds run
 ```
-python finetune_clip.py --dataset CUB --im_dir <path to directory containing images of CUB> --fewshot --arch ViT-B/16 --save_dir ./ft_clip_cub --text_dir_viz ./gpt4_0613_api_CUB --text_dir_loc ./gpt4_0613_api_CUB_location
+python finetune_clip_nat.py --dataset CUB --im_dir <path to directory containing CUB> --fewshot --arch ViT-B/16 --save_dir ./ft_clip_cub --text_dir_viz ./gpt4_0613_api_CUB --text_dir_loc ./gpt4_0613_api_CUB_location
 ```
 
 The fewshot argument indicates whether you want use 16 images per class for training or the whole dataset. You can also specify hyperparmeters including `main_lr, main_wd, proj_lr, proj_wd, tau`.

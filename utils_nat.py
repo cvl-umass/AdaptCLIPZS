@@ -27,7 +27,10 @@ def get_scientific_name(cub_id, cub_taxonomy_data):
     """
     Return the scientific_name for a given cub_id from the cub_taxonomy_data dataframe.
     """
-    row = cub_taxonomy_data[cub_taxonomy_data['cub_id'] == cub_id]
+    try:
+        row = cub_taxonomy_data[cub_taxonomy_data['cub_id'] == cub_id]
+    except:
+        row = cub_taxonomy_data[cub_taxonomy_data['nabirds_id'] == cub_id]
     if not row.empty:
         return row['scientific_name'].values[0]
     else:
@@ -37,7 +40,10 @@ def get_family(cub_id, cub_taxonomy_data):
     """
     Return the family for a given cub_id from the cub_taxonomy_data dataframe.
     """
-    row = cub_taxonomy_data[cub_taxonomy_data['cub_id'] == cub_id]
+    try:
+        row = cub_taxonomy_data[cub_taxonomy_data['cub_id'] == cub_id]
+    except:
+        row = cub_taxonomy_data[cub_taxonomy_data['nabirds_id'] == cub_id]
     if not row.empty:
         return row['family'].values[0]
     else:
@@ -47,7 +53,10 @@ def get_order(cub_id, cub_taxonomy_data):
     """
     Return the order for a given cub_id from the cub_taxonomy_data dataframe.
     """
-    row = cub_taxonomy_data[cub_taxonomy_data['cub_id'] == cub_id]
+    try:
+        row = cub_taxonomy_data[cub_taxonomy_data['cub_id'] == cub_id]
+    except:
+        row = cub_taxonomy_data[cub_taxonomy_data['nabirds_id'] == cub_id]
     if not row.empty:
         return row['order'].values[0]
     else:
@@ -57,7 +66,10 @@ def get_genus(cub_id, cub_taxonomy_data):
     """
     Return the genus for a given cub_id from the cub_taxonomy_data dataframe.
     """
-    row = cub_taxonomy_data[cub_taxonomy_data['cub_id'] == cub_id]
+    try:
+        row = cub_taxonomy_data[cub_taxonomy_data['cub_id'] == cub_id]
+    except:
+        row = cub_taxonomy_data[cub_taxonomy_data['nabirds_id'] == cub_id]
     if not row.empty:
         return row['genus'].values[0]
     else:
@@ -94,7 +106,7 @@ class INatImageLabelDataset(Dataset):
                 continue
             # if data_i['supercategory'] == 'Birds':
             #     continue
-            files_folder = glob.glob(os.path.join(im_dir,data_i['image_dir_name'])+"/*")
+            files_folder = glob.glob(os.path.join(im_dir,"train",data_i['image_dir_name'])+"/*")
             self.img_path_list.extend(files_folder)
             self.lbl_list.extend([data_i['id']]*len(files_folder))
         self.img_size = img_size
@@ -122,7 +134,7 @@ class INatImageLabelDataset(Dataset):
         fa1 = inat_dict["family"]
         organism1_sv = organism1.replace('/','SLASH')
         organism1_sv = organism1_sv + "_" + sn1
-        with open((self.desc_path_viz, organism1_sv+'.txt')) as f:
+        with open(os.path.join(self.desc_path_viz, organism1_sv+'.txt')) as f:
             texts_class = f.readlines()
         texts_class = [text for text in texts_class if 'scientific name' not in text.lower()]
 
@@ -185,7 +197,7 @@ class CUBImageLabelDataset(Dataset):
         return len(self.img_path_list)
 
     def __getitem__(self, index):
-        im_path = os.path.join(self.im_dir, self.img_path_list[index])
+        im_path = os.path.join(self.im_dir, "images_extracted" ,self.img_path_list[index])
         im = Image.open(im_path).convert('RGB')
         if self.mode == 'train':
             im = transform_train(im)

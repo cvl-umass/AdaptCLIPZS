@@ -115,7 +115,7 @@ def ft_clip(opt):
             if self.mode == 'train':
                 im = transform_train(im)
             im = preprocess(im)
-            with open(os.path.join(self.text_dir,self.lbl_list[index]+'.txt')) as f:
+            with open(os.path.join(self.text_dir,self.lbl_list[index].replace("/","SLASH")+'.txt')) as f:
                 texts_class = f.readlines()
             texts_class = [CUSTOM_TEMPLATES[opt.dataset].format(self.lbl_list[index].replace("_", " ")) + " " + ' '.join(line.rstrip('\n').split(" ")[2:]) for line in texts_class if line.strip()]
             text_i = texts_class[np.random.randint(0,len(texts_class))]
