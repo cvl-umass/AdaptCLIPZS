@@ -95,10 +95,11 @@ python test_AdaptZS.py --im_dir <path to CUB extracted images> --ckpt_path ./INa
 If you find our work useful, please consider citing:
 
 ```
-@article{saha2024improved,
+@inproceedings{saha2024improved,
   title={Improved Zero-Shot Classification by Adapting VLMs with Text Descriptions},
   author={Saha, Oindrila and Van Horn, Grant and Maji, Subhransu},
-  journal={arXiv preprint arXiv:2401.02460},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={17542--17552},
   year={2024}
 }
 ```
