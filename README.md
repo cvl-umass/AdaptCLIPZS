@@ -27,7 +27,7 @@ conda env create -f environment.yml
 conda activate adaptclipzs
 ```
 
-Follow [DATASETS.md](https://github.com/mayug/VDT-Adapter/blob/main/DATASETS.md) of VDT-Adapter to download datasets and json files. Further download [iNaturalist21](https://github.com/visipedia/inat_comp/tree/master/2021), [NABirds](https://dl.allaboutbirds.org/nabirds) and [CUB](https://www.vision.caltech.edu/datasets/cub_200_2011/).
+Follow [DATASETS.md](https://github.com/mayug/VDT-Adapter/blob/main/DATASETS.md) of VDT-Adapter to download datasets and json files. Further download [iNaturalist21](https://github.com/visipedia/inat_comp/tree/master/2021), [NABirds](https://dl.allaboutbirds.org/nabirds), [CUB](https://www.vision.caltech.edu/datasets/cub_200_2011/) and [Flowers102](https://www.kaggle.com/datasets/nunenuh/pytorch-challange-flower-dataset) from these specified links.
 Extract all images of CUB into a single folder by running:
 ```
 cd <path to cub data>/images/ 
