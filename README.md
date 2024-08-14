@@ -65,7 +65,7 @@ The fewshot argument indicates whether you want use 16 images per class for trai
 Following command performs evaluation for CLIPFT+A setup
 
 ```
-python test_AdaptZS.py --dataset StanfordCars --im_dir <path to directory containing images of StanfordCars> --json_file <path to json file of StanfordCars from VDT-Adapter> --arch ViT-B/16 --ckpt_path <path to fine-tuned checkpoints> --text_dir ./gpt4_0613_api_StanfordCars --attributes
+python test_AdaptZS.py --dataset StanfordCars --im_dir <path to directory containing StanfordCars> --json_file <path to json file of StanfordCars from VDT-Adapter> --arch ViT-B/16 --ckpt_path <path to fine-tuned checkpoints> --text_dir ./gpt4_0613_api_StanfordCars --attributes
 ```
 
 For testing vanilla CLIP add --vanillaCLIP argument and for testing without GPT attributes omit --attributes. For natural domains also provide path to location attributes in text_dir_loc argument. 
@@ -77,7 +77,7 @@ We provide pre-trained checkpoints for iNaturist21, NABirds and CUB datasets for
 You can run the following command with pre-trained checkpoints to reproduce performance testing on CUB dataset.
 
 ```
-python test_AdaptZS.py --im_dir <path to CUB extracted images> --ckpt_path ./INaturalist21_b16.pth --text_dir ./gpt_descriptions/gpt4_0613_api_CUB/ --text_dir_loc ./gpt_descriptions/gpt4_0613_api_CUB_location/ --arch ViT-B/16 --attributes
+python test_AdaptZS.py --im_dir <path to directory containing CUB> --ckpt_path ./INaturalist21_b16.pth --text_dir ./gpt_descriptions/gpt4_0613_api_CUB/ --text_dir_loc ./gpt_descriptions/gpt4_0613_api_CUB_location/ --arch ViT-B/16 --attributes
 ```
  You can modify the --ckpt_path with any of the other checkpoints making sure you provide the corresponding architecture in --arch. Following table shows the accuracies for the various checkpoints.
  
