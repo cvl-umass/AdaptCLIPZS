@@ -65,7 +65,7 @@ The fewshot argument indicates whether you want use 16 images per class for trai
 Following command performs evaluation for CLIPFT+A setup
 
 ```
-python test_AdaptZS.py --dataset StanfordCars --im_dir <path to directory containing images of StanfordCars> --json_file <path to json file of StanfordCars from VDT-Adapter> --fewshot --arch ViT-B/16 --ckpt_path <path to fine-tuned checkpoints> --text_dir ./gpt4_0613_api_StanfordCars --arch ViT-B/16 --attributes
+python test_AdaptZS.py --dataset StanfordCars --im_dir <path to directory containing images of StanfordCars> --json_file <path to json file of StanfordCars from VDT-Adapter> --arch ViT-B/16 --ckpt_path <path to fine-tuned checkpoints> --text_dir ./gpt4_0613_api_StanfordCars --attributes
 ```
 
 For testing vanilla CLIP add --vanillaCLIP argument and for testing without GPT attributes omit --attributes. For natural domains also provide path to location attributes in text_dir_loc argument. 
