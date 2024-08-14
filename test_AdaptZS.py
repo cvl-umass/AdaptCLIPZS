@@ -46,6 +46,13 @@ def test(opt):
         all_classes = all_classes[100:]
         cub_taxonomy_data = pd.read_csv("./assets/cub_taxonomy_2022.csv")
         cub_taxonomy_data = cub_taxonomy_data.drop_duplicates(subset='cub_id')
+    elif opt.dataset == "Flowers102":
+        with open(os.path.join(im_dir,'cat_to_name.json'), 'r') as f:
+            classes = json.load(f)
+        all_classes = [
+            v for k, v in sorted(classes.items(), key=lambda x: int(x[0]))
+            if int(k) > math.ceil(102/ 2)
+        ]
     else:
         train, val, test = read_split(opt.json_file, im_dir)
         all_classes = []
@@ -132,7 +139,7 @@ def test(opt):
         dataset_val = CUBImageLabelDatasetTest(mode='val', im_dir=im_dir, class_range_test=class_range_test)
     elif opt.dataset == "Flowers102":
         class_range_test = np.arange(math.ceil(102/ 2), 102)
-        dataset_val = FlowersImageLabelDatasetTest(mode='test', im_dir=im_dir, class_range_test=class_range_test)
+        dataset_val = FlowersImageLabelDatasetTest(mode='val', im_dir=im_dir, class_range_test=class_range_test)
     else:
         dataset_val = ImageLabelDataset(mode='val', classes_sublist=None)
     
