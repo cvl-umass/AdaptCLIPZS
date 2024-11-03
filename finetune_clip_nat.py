@@ -37,7 +37,7 @@ cub_taxonomy_data = cub_taxonomy_data.drop_duplicates(subset='cub_id')
 nabirds_taxonomy_data = pd.read_csv("./assets/nabirds_taxonomy_2022.csv")
 nabirds_taxonomy_data = nabirds_taxonomy_data.drop_duplicates(subset='nabirds_id')
 
-BATCH_SIZE = 512
+BATCH_SIZE = 128
 EPOCH = 15
 
 
@@ -206,6 +206,6 @@ if __name__ == '__main__':
     parser.add_argument('--proj_wd', type=float, help="proj wd", default=1e-1)  
     parser.add_argument('--tau', type=float, help="temperature", default=1.3)  
     parser.add_argument('--fewshot', action='store_true', help="whether to train using 16 samples or full train set")
-    parser.add_argument('--arch', type=str, help="vit architecture", default="ViT-B/32", choices=["ViT-B/16", "ViT-B/32"])
+    parser.add_argument('--arch', type=str, help="vit architecture", default="ViT-B/32", choices=["ViT-B/16", "ViT-B/32", "ViT-L/14"])
     opt = parser.parse_args()
     ft_clip(opt)

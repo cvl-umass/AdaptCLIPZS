@@ -33,7 +33,7 @@ CUSTOM_TEMPLATES = {
     'CalTech101': 'a photo of a {}',
     'UCF101': 'a photo of a person doing {}',
     'ImageNet': 'a photo of a {}',
-    'CUB': 'a photo of a {} bird',
+    'CUB': 'a photo of a {} bird.',
 }
 
 
@@ -196,7 +196,7 @@ if __name__ == '__main__':
     parser.add_argument('--ckpt_path', type=str, help="checkpoint path", default="./ft_clip/model_9.pth")  
     parser.add_argument('--text_dir', type=str, help="where generated gpt descriptions are saved", default="./gpt4_0613_api_CUB")  
     parser.add_argument('--text_dir_loc', type=str, help="where generated gpt descriptions of location are saved", default="")
-    parser.add_argument('--arch', type=str, help="vit architecture", default="ViT-B/32", choices=["ViT-B/16", "ViT-B/32"])
+    parser.add_argument('--arch', type=str, help="vit architecture", default="ViT-B/32", choices=["ViT-B/16", "ViT-B/32", "ViT-L/14"])
     parser.add_argument('--vanillaCLIP', action='store_true', help="if testing vanilla CLIP")
     parser.add_argument('--attributes', action='store_true', help="if testing with LLM attributes")
     opt = parser.parse_args()
