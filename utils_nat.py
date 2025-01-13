@@ -175,7 +175,7 @@ class CUBImageLabelDataset(Dataset):
     ):
         datfile = torchfile.load('./assets/train.dat')
         self.class_range = class_range_train
-        with open('/work/osaha_umass_edu/CUB_full/cub_classes.json', 'r') as f:
+        with open('./assets/cub_classes.json', 'r') as f:
             self.class_list = json.load(f)
         self.img_path_list = []
         for name, _ in datfile.items():

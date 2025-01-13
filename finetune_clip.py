@@ -23,6 +23,7 @@ import math
 from torch.optim.lr_scheduler import CosineAnnealingWarmRestarts
 import random
 from vdt_utils import read_split, read_json
+from utils_data import AircraftTrainDataset, ImageNetTrainDataset
 
 seed = 2103
 random.seed(seed)
@@ -31,7 +32,7 @@ torch.cuda.manual_seed(seed)
 torch.cuda.manual_seed_all(seed)
 
 
-BATCH_SIZE = 128
+BATCH_SIZE = 256
 EPOCH = 15
 
 CUSTOM_TEMPLATES = {
@@ -63,66 +64,92 @@ def ft_clip(opt):
     model, preprocess = clip.load(opt.arch,device=device,jit=False) #Must set jit=False for training
 
     im_dir = opt.im_dir
-    train, val, test = read_split(opt.json_file, im_dir)
-    all_classes = []
-    labels = []
-    for ob in test:
-        if ob.classname not in all_classes:
-            all_classes.append(ob.classname)
-            labels.append(ob.label)
+    if opt.json_file :
+        train, val, test = read_split(opt.json_file, im_dir)
+        all_classes = []
+        labels = []
+        for ob in test:
+            if ob.classname not in all_classes:
+                all_classes.append(ob.classname)
+                labels.append(ob.label)
 
-    all_classes = all_classes[0:math.ceil(len(all_classes) / 2)]
+        all_classes = all_classes[0:math.ceil(len(all_classes) / 2)]
 
-    transform_train = transforms.Compose([
-                    transforms.RandomResizedCrop(224),
-                    transforms.RandomHorizontalFlip(),
-                    transforms.ColorJitter(
-                        brightness=0.4, contrast=0.4, saturation=0.4, hue=0),
-                ])
+        transform_train = transforms.Compose([
+                        transforms.RandomResizedCrop(224),
+                        transforms.RandomHorizontalFlip(),
+                        transforms.ColorJitter(
+                            brightness=0.4, contrast=0.4, saturation=0.4, hue=0),
+                    ])
 
-    class ImageLabelDataset(Dataset):
-        def __init__(
-                self,
-                mode,
-                text_dir,
-                img_size=(224, 224),
-                classes_sublist=None
-        ):
-            self.img_path_list = []
-            self.lbl_list = []
-            for ob in train:
-                if ob.classname in all_classes:
-                    count = self.lbl_list.count(ob.classname)
-                    if not opt.fewshot:
-                        self.img_path_list.append(ob.impath)
-                        self.lbl_list.append(ob.classname)
-                    else:
-                        if count < 16:
+        class ImageLabelDataset(Dataset):
+            def __init__(
+                    self,
+                    mode,
+                    text_dir,
+                    img_size=(224, 224),
+                    classes_sublist=None
+            ):
+                self.img_path_list = []
+                self.lbl_list = []
+                for ob in train:
+                    if ob.classname in all_classes:
+                        count = self.lbl_list.count(ob.classname)
+                        if not opt.fewshot:
                             self.img_path_list.append(ob.impath)
                             self.lbl_list.append(ob.classname)
-            self.classes_sublist = classes_sublist
-            self.img_size = img_size
-            self.mode = mode
-            self.text_dir = text_dir
+                        else:
+                            if count < 16:
+                                self.img_path_list.append(ob.impath)
+                                self.lbl_list.append(ob.classname)
+                self.classes_sublist = classes_sublist
+                self.img_size = img_size
+                self.mode = mode
+                self.text_dir = text_dir
 
-        def __len__(self):
-            return len(self.img_path_list)
+            def __len__(self):
+                return len(self.img_path_list)
 
-        def __getitem__(self, index):
-            im_path = os.path.join(self.img_path_list[index])
-            im = Image.open(im_path).convert('RGB')
-            class_id = np.asarray([all_classes.index(self.lbl_list[index])])
-            if self.mode == 'train':
-                im = transform_train(im)
-            im = preprocess(im)
-            with open(os.path.join(self.text_dir,self.lbl_list[index].replace("/","SLASH")+'.txt')) as f:
-                texts_class = f.readlines()
-            texts_class = [CUSTOM_TEMPLATES[opt.dataset].format(self.lbl_list[index].replace("_", " ")) + " " + ' '.join(line.rstrip('\n').split(" ")[2:]) for line in texts_class if line.strip()]
-            text_i = texts_class[np.random.randint(0,len(texts_class))]
-            return im, torch.from_numpy(class_id), text_i
+            def __getitem__(self, index):
+                im_path = os.path.join(self.img_path_list[index])
+                im = Image.open(im_path).convert('RGB')
+                class_id = np.asarray([all_classes.index(self.lbl_list[index])])
+                if self.mode == 'train':
+                    im = transform_train(im)
+                im = preprocess(im)
+                with open(os.path.join(self.text_dir,self.lbl_list[index].replace("/","SLASH")+'.txt')) as f:
+                    texts_class = f.readlines()
+                texts_class = [CUSTOM_TEMPLATES[opt.dataset].format(self.lbl_list[index].replace("_", " ")) + " " + ' '.join(line.rstrip('\n').split(" ")[2:]) for line in texts_class if line.strip()]
+                text_i = texts_class[np.random.randint(0,len(texts_class))]
+                return im, torch.from_numpy(class_id), text_i
 
-    dataset = ImageLabelDataset(mode='train', text_dir=opt.text_dir)
-    train_dataloader = DataLoader(dataset,batch_size = BATCH_SIZE, shuffle=False, num_workers=8, pin_memory=False) #Define your own dataloader
+        dataset = ImageLabelDataset(mode='train', text_dir=opt.text_dir)
+    elif opt.dataset == "FGVCAircraft":
+        with open(os.path.join(opt.im_dir,'fgvc-aircraft-2013b/data/variants.txt')) as f:
+            all_classes = f.readlines()
+        all_classes = [line.rstrip('\n') for line in all_classes]
+        class_range_train = np.arange(0,50)
+        dataset = AircraftTrainDataset(class_range_train = class_range_train,
+                                        all_classes = all_classes,
+                                        data_dir=opt.im_dir,
+                                        desc_path=opt.text_dir,
+                                        fewshot = opt.fewshot,
+                                        preprocess=preprocess)
+    elif opt.dataset == "ImageNet":
+        class_range_train = np.arange(0,math.ceil(1000 / 2))
+        with open(os.path.join(opt.im_dir,'LOC_synset_mapping.txt'), 'r') as f:
+            all_classes = f.readlines()
+        all_classes_ids = [line.rstrip('\n').split(' ', 1)[0]  for line in all_classes]
+        all_classes_names = [line.rstrip('\n').split(' ', 1)[1]  for line in all_classes]
+        dataset = ImageNetTrainDataset(class_range_train = class_range_train,
+                                        all_classes_ids = all_classes_ids,
+                                        all_classes_names = all_classes_names,
+                                        data_dir=opt.im_dir,
+                                        desc_path=opt.text_dir,
+                                        fewshot = opt.fewshot,
+                                        preprocess=preprocess)
+
+    train_dataloader = DataLoader(dataset,batch_size = BATCH_SIZE, shuffle=False, num_workers=8, pin_memory=False) 
     temperature = nn.Parameter(torch.tensor(opt.tau))
 
     main_parameters = [param for name, param in model.named_parameters() if "proj" not in name and "text_projection" not in name]
@@ -186,7 +213,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--dataset', type=str, default='StanfordCars', choices=['StanfordCars', 'FGVCAircraft', 'Food101', 'ImageNet', 'EuroSAT', 'DTD', 'Sun397', 'UCF101', 'CalTech101', 'OxfordIIITPets'])
     parser.add_argument('--im_dir', type=str, required=True, help="dataset image directory")
-    parser.add_argument('--json_file', type=str, required=True, help="dataset split json") 
+    parser.add_argument('--json_file', type=str, default=None, required=False, help="dataset split json") 
     parser.add_argument('--save_dir', type=str, help="checkpoint saving path", default="./ft_clip")  
     parser.add_argument('--text_dir', type=str, help="where generated gpt descriptions are saved", default="./gpt4_0613_api_StanfordCars")  
     parser.add_argument('--main_lr', type=float, help="main lr", default=1e-7)  

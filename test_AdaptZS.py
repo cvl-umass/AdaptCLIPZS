@@ -20,6 +20,7 @@ import math
 from vdt_utils import read_split, read_json
 from utils_nat import *
 import pandas as pd
+from utils_data import ImageNetTestDataset, AircraftTestDataset
 
 CUSTOM_TEMPLATES = {
     'OxfordIIITPets': 'a photo of a {}, a type of pet',
@@ -53,6 +54,18 @@ def test(opt):
             v for k, v in sorted(classes.items(), key=lambda x: int(x[0]))
             if int(k) > math.ceil(102/ 2)
         ]
+    elif opt.dataset == "FGVCAircraft":
+        with open(os.path.join(opt.im_dir,'fgvc-aircraft-2013b/data/variants.txt')) as f:
+            all_classes = f.readlines()
+        all_classes = [line.rstrip('\n') for line in all_classes]
+        all_classes = all_classes[50:]
+    elif opt.dataset == "ImageNet":
+        with open(os.path.join(opt.im_dir,'LOC_synset_mapping.txt'), 'r') as f:
+            all_classes = f.readlines()
+        all_classes_ids = [line.rstrip('\n').split(' ', 1)[0]  for line in all_classes]
+        all_classes = [line.rstrip('\n').split(' ', 1)[1]  for line in all_classes]
+        all_classes_ids = all_classes_ids[math.ceil(1000/ 2):]
+        all_classes = all_classes[math.ceil(1000/ 2):]
     else:
         train, val, test = read_split(opt.json_file, im_dir)
         all_classes = []
@@ -140,6 +153,12 @@ def test(opt):
     elif opt.dataset == "Flowers102":
         class_range_test = np.arange(math.ceil(102/ 2), 102)
         dataset_val = FlowersImageLabelDatasetTest(mode='val', im_dir=im_dir, class_range_test=class_range_test)
+    elif opt.dataset == "ImageNet":
+        class_range_test = np.arange(math.ceil(1000/ 2), 1000)
+        dataset_val = ImageNetTestDataset(all_classes_ids, im_dir)
+    elif opt.dataset == "FGVCAircraft":
+        class_range_test = np.arange(50, 100)
+        dataset_val = AircraftTestDataset(all_classes, im_dir)
     else:
         dataset_val = ImageLabelDataset(mode='val', classes_sublist=None)
     
@@ -149,8 +168,12 @@ def test(opt):
     texts_dict = {}
     for i, class_i in enumerate(all_classes):
         if opt.attributes:
-            with open(os.path.join(opt.text_dir,class_i+".txt")) as f:
-                texts_class = f.readlines()
+            if opt.dataset == "ImageNet":
+                with open(os.path.join(opt.text_dir, all_classes_ids[i]+".txt")) as f:
+                    texts_class = f.readlines()
+            else:
+                with open(os.path.join(opt.text_dir,class_i.replace('/','SLASH')+".txt")) as f:
+                    texts_class = f.readlines()
             texts_class = [CUSTOM_TEMPLATES[opt.dataset].format(str(class_i).replace("_", " ")) + " " + ' '.join(line.rstrip('\n').split(" ")[2:]) for line in texts_class if line.strip()]
             texts.extend(texts_class)
             texts_dict[str(class_i).replace("_", " ")] = texts_class
@@ -168,6 +191,7 @@ def test(opt):
                 texts_dict[str(class_i)].append("a photo of a " + str(class_i) + " bird, with scientific name " + str(get_scientific_name(i+100+1, cub_taxonomy_data)))
                 texts_dict[str(class_i)].append("a photo of a " + str(class_i) + " bird, with family name " + str(get_family(i+100+1, cub_taxonomy_data)))
                 texts_dict[str(class_i)].append("a photo of a " + str(class_i) + " bird, of the order " + str(get_order(i+100+1, cub_taxonomy_data)))
+
         else:
             texts_class = CUSTOM_TEMPLATES[opt.dataset].format(str(class_i).replace("_", " ")) + "."
             texts.append(texts_class)
