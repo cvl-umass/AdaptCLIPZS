@@ -70,6 +70,8 @@ python test_AdaptZS.py --dataset StanfordCars --im_dir <path to directory contai
 
 For testing vanilla CLIP add --vanillaCLIP argument and for testing without GPT attributes omit --attributes. For natural domains also provide path to location attributes in text_dir_loc argument. 
 
+Note: For CUB, Flowers, NABirds, INat, and ImageNet im_dir has to be set as the path to the dataset folder, while for the rest it should be set as the directory containing the dataset folder.
+
 ## Pre-trained Checkpoints
 
 We provide pre-trained checkpoints for iNaturist21, NABirds and CUB datasets for both ViT-B/16 and ViT-B/32 architectures, which can be downloaded [here](https://drive.google.com/drive/folders/1EGtnjHZSEUe-BY-v9r_5Zecbadv4E7vk?usp=share_link).
