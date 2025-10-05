@@ -19,6 +19,11 @@ CVPR'24
 ![visiongptmethod](https://github.com/cvl-umass/AdaptCLIPZS/assets/20623465/7bdb90f6-8aaf-4091-991e-70302530e9da)
 
 
+### New
+
+Also check out [GTA-CLIP](https://github.com/cvl-umass/GTA-CLIP) accepted to ICCV'25
+
+
 ## Preparation
 
 Create a conda environment with the specifications
